@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-02T00:56:27.018Z",
+  "generatedAt": "2026-10-02T02:53:54.424Z",
   "jobs": [
+    {
+      "id": "cb917aea-688d-4d62-907c-282219111adb",
+      "title": "Major Identity Account Manager",
+      "company": "Paloaltonetworks",
+      "place": "Remote from Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Berlin-Germany/Major-Identity-Account-Manager_JR-021325-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paloaltonetworksorwd5orpanwexternalcareers/major-identity-account-manager-paloaltonetworks-e0cbe8?utm_source=reddit",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "notable": 3
+    },
     {
       "id": "7801eb3b-2257-4926-bf4d-5177d1ac2fdc",
       "title": "Intern, Strategy & Innovation",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000152844759--bosch-r-d-internship-data-engineering-intern",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/bosch-randd-internship-data-engineering-intern-bosch-group-51f255?utm_source=reddit",
       "postedAt": "2026-10-01T06:37:31.273Z",
-      "notable": 3
-    },
-    {
-      "id": "0ce6e2b5-3c29-49c8-a4cc-bc512b592458",
-      "title": "Coordinator Quality Control - tMart",
-      "company": "Delivery Hero",
-      "place": "Amman, Jordan",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000152839135",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/coordinator-quality-control-tmart-delivery-hero-fbabb1?utm_source=reddit",
-      "postedAt": "2026-10-01T06:32:08.312Z",
       "notable": 3
     }
   ],
