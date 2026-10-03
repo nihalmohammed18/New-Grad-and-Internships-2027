@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-03T17:21:20.537Z",
+  "generatedAt": "2026-10-03T19:22:17.433Z",
   "jobs": [
+    {
+      "id": "f08ce1d4-96a3-49d4-a436-11749005a1c1",
+      "title": "Strategic Partnership Operations Associate",
+      "company": "The Lockwood Group, LLC",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/lockwood/jobs/5256362007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lockwood/strategic-partnership-operations-associate-the-lockwood-group-llc-8d5206?utm_source=reddit",
+      "postedAt": "2026-10-03T15:58:34.000Z",
+      "notable": 1
+    },
     {
       "id": "d29e17d2-fb68-4b7e-9676-30d8a16cd6f6",
       "title": "Quality Assurance Associate II",
@@ -19,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/quality-assurance-associate-ii-cesiumastro-b18eb5?utm_source=reddit",
       "postedAt": "2026-10-03T14:41:58.928Z",
       "notable": 3
+    },
+    {
+      "id": "4aaccf4a-67b2-40ff-b8cc-9bdfcaf7af5e",
+      "title": "Systems Test Engineer, IBCS-M",
+      "company": "Anduril Industries",
+      "place": "Costa Mesa, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$112.0K-$149.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5255079007?gh_jid=5255079007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/systems-test-engineer-ibcs-m-anduril-industries-5af077?utm_source=reddit",
+      "postedAt": "2026-10-03T13:20:21.000Z",
+      "notable": 5
     },
     {
       "id": "093f9303-2ee6-4e88-a8b4-d82f6bfe65f5",
@@ -1174,7 +1212,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StandardBankGroup/744000153324789-data-analyst",
+      "applyUrl": "https://jobs.smartrecruiters.com/StandardBankGroup/744000153324789",
       "firstJobbyUrl": "https://firstjobby.com/companies/standardbankgroup/data-analyst-standard-bank-group-60cf5f?utm_source=reddit",
       "postedAt": "2026-10-03T08:11:16.915Z",
       "notable": 1
@@ -1519,7 +1557,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/thinkacademyus/jobs/8012139003",
       "firstJobbyUrl": "https://firstjobby.com/companies/thinkacademyus/regional-marketing-specialist-mandarin-required-think-academy-us-064fd6?utm_source=reddit",
       "postedAt": "2026-10-03T00:34:12.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "3bfdafc1-c7f7-43e6-8e90-cc2521115633",
@@ -2261,6 +2299,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/freelance-brand-designer-mindrift-2fcec3?utm_source=reddit",
       "postedAt": "2026-10-03T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "a80ced6b-c234-4789-8d0d-3040b1d1e878",
+      "title": "UMS Business Systems Analyst",
+      "company": "Charlottenc",
+      "place": "Charlotte, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$87.0K-$96.7K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/Charlotte-Mecklenburg-Government-Center/UMS-Business-Systems-Analyst_JR104646",
+      "firstJobbyUrl": "https://firstjobby.com/companies/charlottencorwd12orcitgov/ums-business-systems-analyst-charlottenc-1c4025?utm_source=reddit",
+      "postedAt": "2026-10-03T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a3033a8c-c431-48c4-a012-f85b98c940c5",
@@ -3986,7 +4043,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EVERSANA1/744000153278839-operations-coordinator-agency",
+      "applyUrl": "https://jobs.smartrecruiters.com/EVERSANA1/744000153278839",
       "firstJobbyUrl": "https://firstjobby.com/companies/eversana1/operations-coordinator-agency-eversana-1248d5?utm_source=reddit",
       "postedAt": "2026-10-02T22:28:27.332Z",
       "notable": 1
@@ -4366,7 +4423,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RodeoFX/744000153276599-3d-ai-generalist-6-months-contract",
+      "applyUrl": "https://jobs.smartrecruiters.com/RodeoFX/744000153276599",
       "firstJobbyUrl": "https://firstjobby.com/companies/rodeofx/3d-ai-generalist-6-months-contract-rodeo-fx-094277?utm_source=reddit",
       "postedAt": "2026-10-02T21:59:03.597Z",
       "notable": 1
@@ -4385,7 +4442,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RodeoFX/744000153276245-generative-ai-artist",
+      "applyUrl": "https://jobs.smartrecruiters.com/RodeoFX/744000153276245",
       "firstJobbyUrl": "https://firstjobby.com/companies/rodeofx/generative-ai-artist-rodeo-fx-2d3db3?utm_source=reddit",
       "postedAt": "2026-10-02T21:58:49.471Z",
       "notable": 1
@@ -4727,7 +4784,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/GroupeHelios/3743990015875390-operateur-en-traitement-des-eaux-mobile",
+      "applyUrl": "https://jobs.smartrecruiters.com/GroupeHelios/3743990015875390",
       "firstJobbyUrl": "https://firstjobby.com/companies/groupehelios/operateur-en-traitement-des-eaux-mobile-groupe-helios-43ea62?utm_source=reddit",
       "postedAt": "2026-10-02T21:14:31.018Z",
       "notable": 0
@@ -7292,7 +7349,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Videotron/744000153246084-prepose-e-service-a-la-clientele",
+      "applyUrl": "https://jobs.smartrecruiters.com/Videotron/744000153246084",
       "firstJobbyUrl": "https://firstjobby.com/companies/videotron/preposee-service-a-la-clientele-videotron-71ed6d?utm_source=reddit",
       "postedAt": "2026-10-02T17:45:41.408Z",
       "notable": 1
@@ -7368,7 +7425,7 @@
       "pay": "$18-$26/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000153245389-graphic-designer-presentations-hybrid-2-days-onsite-",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000153245389",
       "firstJobbyUrl": "https://firstjobby.com/companies/rrdonnelley/graphic-designer-presentations-hybrid-2-days-onsite-rr-donnelley-d5f317?utm_source=reddit",
       "postedAt": "2026-10-02T17:38:22.861Z",
       "notable": 2
@@ -7862,7 +7919,7 @@
       "pay": "$17-$23/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000153241119-roll-tender-offset-web-press-",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000153241119",
       "firstJobbyUrl": "https://firstjobby.com/companies/rrdonnelley/roll-tender-offset-web-press-rr-donnelley-4dde74?utm_source=reddit",
       "postedAt": "2026-10-02T17:09:33.147Z",
       "notable": 2
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/project-coordinator-scientific-operations-eurofins-1e54df?utm_source=reddit",
       "postedAt": "2026-10-02T15:54:27.949Z",
       "notable": 3
-    },
-    {
-      "id": "698db42e-0706-4483-a6dd-9db76da2eec8",
-      "title": "Outside Sales Account Manager - Industrial Component Service and Repair",
-      "company": "Sunsrce",
-      "place": "Portland, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/sunsrce/bc1cf1c9-f4c0-4bff-b7c2-bba8fbd701c8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sunsrce/outside-sales-account-manager-industrial-component-service-and-repair-sunsrce-9a2bc5?utm_source=reddit",
-      "postedAt": "2026-10-02T15:48:14.572Z",
-      "notable": 3
-    },
-    {
-      "id": "28da4407-98f0-4f75-bbbe-9c1b87c02d51",
-      "title": "EMT2-VM_EclipsePlugin_Developer",
-      "company": "Bosch Group",
-      "place": "Bangalore, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000153224614",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/emt2-vmeclipseplugindeveloper-bosch-group-8456f0?utm_source=reddit",
-      "postedAt": "2026-10-02T15:47:44.972Z",
-      "notable": 3
-    },
-    {
-      "id": "92c502fa-b89e-4852-87d3-f07fad158eb4",
-      "title": "Paid Social Analyst",
-      "company": "AbelsonTaylor Group",
-      "place": "Chicago, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$90.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/abelsontaylor/jobs/4718684006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abelsontaylor/paid-social-analyst-abelsontaylor-group-cb0e6d?utm_source=reddit",
-      "postedAt": "2026-10-02T15:46:30.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
