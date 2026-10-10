@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-10T01:30:57.272Z",
+  "generatedAt": "2026-10-10T03:31:46.044Z",
   "jobs": [
+    {
+      "id": "c4268e93-05ab-42ed-b514-91f84623f053",
+      "title": "Sales Executive eHearings",
+      "company": "Epiq",
+      "place": "Melbourne, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/AUS-Melbourne-Level-4-190-Queen-Street/Sales-Executive-eHearings_R0035177-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/epiqsystemsorwd503orepiqcareers/sales-executive-ehearings-epiq-3a40c7?utm_source=reddit",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "notable": 0
+    },
     {
       "id": "1a9d4b79-afbe-4c9b-b0cc-fefee2cd76e6",
       "title": "Mid Salesforce Developer",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/alten/744000154619374",
       "firstJobbyUrl": "https://firstjobby.com/companies/alten/devops-alten-b25ce3?utm_source=reddit",
       "postedAt": "2026-10-09T08:41:06.097Z",
-      "notable": 3
-    },
-    {
-      "id": "ee573271-ee13-4dc6-a44b-8a11dd09e025",
-      "title": "Graduate Engineer - Mechanical (Site Supervision)",
-      "company": "AECOM",
-      "place": "Abu Dhabi, United Arab Emirates",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000154617135",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/graduate-engineer-mechanical-site-supervision-aecom-35e3b5?utm_source=reddit",
-      "postedAt": "2026-10-09T08:37:06.199Z",
       "notable": 3
     }
   ],
