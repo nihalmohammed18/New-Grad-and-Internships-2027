@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:44:28.714Z",
+  "generatedAt": "2026-10-10T17:45:57.565Z",
   "jobs": [
     {
       "id": "212b301b-83e8-4b20-b6f2-120eb5473fce",
@@ -37,7 +37,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8271565",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/social-content-creator-deptr-25aed2?utm_source=reddit",
       "postedAt": "2026-10-10T11:46:45.000Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "872c318d-68da-48e6-afcf-69c727d5f587",
@@ -56,7 +56,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8271556",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/junior-social-content-creator-deptr-45f038?utm_source=reddit",
       "postedAt": "2026-10-10T11:32:23.000Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "745e4736-621a-4517-8f77-1e666f1c1645",
@@ -908,7 +908,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/External/job/SGP---Singapore/Master-Data-Analyst_R92563",
+      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/SGP---Singapore/Master-Data-Analyst_R92563",
       "firstJobbyUrl": "https://firstjobby.com/companies/smithnepheworwd5orexternal/master-data-administrator-smithnephew-a5a635?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 2
@@ -946,7 +946,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/External/job/SGP---Singapore/Case-Bookings-Specialist_R92561",
+      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/SGP---Singapore/Case-Bookings-Specialist_R92561",
       "firstJobbyUrl": "https://firstjobby.com/companies/smithnepheworwd5orexternal/case-bookings-coordinator-smithnephew-14f6c1?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 2
@@ -984,7 +984,7 @@
       "pay": "$63.0K-$90.0K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Chicago-IL/Rating-Analyst---Local-Governments-Midwest_331859-2",
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Chicago-IL/Rating-Analyst---Local-Governments-Midwest_331859-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/rating-analyst-local-governments-midwest-kensho-1bc2d1?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 4
@@ -1003,7 +1003,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Associate-Customer-Service-Representative-Everyday-Banking_R-581014",
+      "applyUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/IRVING-TX/Associate-Customer-Service-Representative-Everyday-Banking_R-581014",
       "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/associate-customer-service-representative-everyday-banking-wells-fargo-331f72?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 3
@@ -1062,6 +1062,25 @@
       "season": null,
       "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Shanghai-Shanghai-China/UX-design-Intern_R79531",
       "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/ux-design-intern-medtronic-d2f6e9?utm_source=reddit",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c4c211e1-1c7f-48e6-84cd-c753fdd6d227",
+      "title": "Customer Experience Associate",
+      "company": "TD",
+      "place": "Etobicoke, Canada",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Etobicoke-Ontario/Customer-Experience-Associate_R_1505625-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-td-aa41d5?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 2
     },
@@ -1231,7 +1250,7 @@
       "pay": "$18-$22/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ROANOKE-VA/Associate-Customer-Service-Representative-Everyday-Banking_R-581024",
+      "applyUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/ROANOKE-VA/Associate-Customer-Service-Representative-Everyday-Banking_R-581024",
       "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/associate-customer-service-representative-everyday-banking-wells-fargo-7e8f99?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 5
@@ -1269,7 +1288,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Associate-Customer-Service-Representative-Everyday-Banking_R-581022",
+      "applyUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/CHARLOTTE-NC/Associate-Customer-Service-Representative-Everyday-Banking_R-581022",
       "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/associate-customer-service-representative-everyday-banking-wells-fargo-d28371?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 3
@@ -1347,6 +1366,25 @@
       "season": null,
       "applyUrl": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Shanghai-IBP-China/Marketing-Associate_R22520",
       "firstJobbyUrl": "https://firstjobby.com/companies/ifforwd5oriffcareers/marketing-associate-iff-39ad55?utm_source=reddit",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "4283bbee-ac73-4c33-9604-3e46a0b05331",
+      "title": "Tax Associate - Real Estate PortCo or Developers",
+      "company": "RSM",
+      "place": "Kolkata, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Kolkata/Tax-Senior-Associate---Real-Estate-PortCo-or-Developers_JR120551",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rsmorwd1orrsmcareers/tax-associate-real-estate-portco-or-developers-rsm-f487c2?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 2
     },
@@ -1535,7 +1573,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Buenos-Aires-AR/Collections-Analyst_332043-1",
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Buenos-Aires-AR/Collections-Analyst_332043-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/collections-analyst-kensho-b4df4a?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 2
@@ -2317,7 +2355,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000154785499",
       "firstJobbyUrl": "https://firstjobby.com/companies/gdmsi/technical-infrastructure-analyst-junior-general-dynamics-missions-system-interna-3317b6?utm_source=reddit",
       "postedAt": "2026-10-09T21:45:35.215Z",
-      "notable": 2
+      "notable": 4
     },
     {
       "id": "077ebdb0-4902-41a5-993c-fabefa10e41c",
@@ -2660,6 +2698,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/outside-commercial-sales-representative-must-have-integrated-security-systems-ex-d78faf?utm_source=reddit",
       "postedAt": "2026-10-09T21:03:39.000Z",
       "notable": 3
+    },
+    {
+      "id": "590dbc99-9b8d-4d2a-8113-97780f6a34aa",
+      "title": "Full-Time Operations & Compliance Coordinator",
+      "company": "LIGHTFEATHER IO LLC",
+      "place": "Arlington, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$40.0K-$45.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449389008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lightfeatheriollc/full-time-operations-and-compliance-coordinator-lightfeather-io-llc-d015c6?utm_source=reddit",
+      "postedAt": "2026-10-09T21:02:30.000Z",
+      "notable": 2
     },
     {
       "id": "53ba32e6-3823-459b-8183-8b99553f9739",
@@ -3438,7 +3495,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/forward%20financing/63d355e6-58b8-4239-bfe0-9dbb1b11516e",
       "firstJobbyUrl": "https://firstjobby.com/companies/forward-financing/qa-engineer-forward-financing-e1fe4b?utm_source=reddit",
       "postedAt": "2026-10-09T19:53:29.162Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "7a9a0cff-6aa5-4365-a91e-e04181e6a855",
@@ -4274,7 +4331,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/loenbro/jobs/4444132009",
       "firstJobbyUrl": "https://firstjobby.com/companies/loenbro/rental-equipment-and-fleet-coordinator-loenbro-a5aede?utm_source=reddit",
       "postedAt": "2026-10-09T18:29:32.000Z",
-      "notable": 2
+      "notable": 4
     },
     {
       "id": "0d0f123b-e9fd-40dd-a956-ca93ca46b8ac",
@@ -4388,7 +4445,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/loenbro/jobs/4443982009",
       "firstJobbyUrl": "https://firstjobby.com/companies/loenbro/onboarding-coordinator-loenbro-7534e6?utm_source=reddit",
       "postedAt": "2026-10-09T18:14:09.000Z",
-      "notable": 2
+      "notable": 4
     },
     {
       "id": "157ca71f-5d1f-4631-b848-277a5e91e5b6",
@@ -4711,7 +4768,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000154755004",
       "firstJobbyUrl": "https://firstjobby.com/companies/gdmsi/junior-mechanical-engineering-developer-design-12-month-term-general-dynamics-mi-047a60?utm_source=reddit",
       "postedAt": "2026-10-09T17:42:10.502Z",
-      "notable": 2
+      "notable": 4
     },
     {
       "id": "1d080837-3e9c-4015-9f37-fc202bbbf828",
@@ -7485,7 +7542,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8267357",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/ai-designer-and-creative-technologist-deptr-2048db?utm_source=reddit",
       "postedAt": "2026-10-09T14:48:04.000Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "3cf13214-5cc8-4bb7-9103-3afefc5cdd40",
@@ -8302,7 +8359,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Artelia/744000154693179",
       "firstJobbyUrl": "https://firstjobby.com/companies/artelia/stage-de-fin-detudes-ingenieure-ingenieur-genie-civil-gestion-de-patrimoine-dinf-d090b8?utm_source=reddit",
       "postedAt": "2026-10-09T14:10:27.396Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "e14f2dd3-8c8b-4f7a-9163-19c1c97fbe79",
@@ -8378,7 +8435,7 @@
       "applyUrl": "https://jobs.lever.co/lifestance/0fe7167a-3d8f-4a17-a341-3201f8c9cdf8",
       "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/testing-psychologist-phd-psyd-outpatient-lifestance-health-2065b8?utm_source=reddit",
       "postedAt": "2026-10-09T14:08:04.838Z",
-      "notable": 3
+      "notable": 5
     },
     {
       "id": "f86a027d-25a7-42bb-80cf-f9aab0a51a26",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/strersecokgaastrergruppe/sales-support-glasfaser-wmd-stroer-se-and-co-kgaa-stroer-gruppe-def301?utm_source=reddit",
       "postedAt": "2026-10-09T13:34:38.465Z",
       "notable": 3
-    },
-    {
-      "id": "54928531-e61e-49ea-924e-9991fe1184f6",
-      "title": "Home-Based Client Services Representative",
-      "company": "AO Garcia Agency",
-      "place": "Remote",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/aogarciaagency/ecc90ef7-3b03-477a-b1d9-f4ba366b04e2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aogarciaagency/home-based-client-services-representative-ao-garcia-agency-3839f7?utm_source=reddit",
-      "postedAt": "2026-10-09T13:34:27.766Z",
-      "notable": 2
-    },
-    {
-      "id": "67594ca6-f298-424e-b2a3-6daf6224e463",
-      "title": "Remote Client Success Representative",
-      "company": "AO Garcia Agency",
-      "place": "Remote",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/aogarciaagency/60ed5f24-42b6-4c78-b08b-ba54ac83c66f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aogarciaagency/remote-client-success-representative-ao-garcia-agency-ca8bf6?utm_source=reddit",
-      "postedAt": "2026-10-09T13:34:20.803Z",
-      "notable": 2
-    },
-    {
-      "id": "7f065bfe-cfc4-40ab-a43c-8e5eda37d9b8",
-      "title": "Coverage Support Representative - Remote",
-      "company": "AO Garcia Agency",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/aogarciaagency/b1aa67a7-a49f-4e04-8b60-aee579354e30",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aogarciaagency/coverage-support-representative-remote-ao-garcia-agency-50679f?utm_source=reddit",
-      "postedAt": "2026-10-09T13:34:11.355Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
