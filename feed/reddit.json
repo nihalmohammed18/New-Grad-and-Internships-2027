@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:53:08.966Z",
+  "generatedAt": "2026-10-11T07:53:57.803Z",
   "jobs": [
     {
       "id": "d1cf4ba5-d28e-4b08-a960-d965d5687032",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dominos/data-scientist-dominos-909346?utm_source=reddit",
       "postedAt": "2026-10-11T01:11:04.990Z",
       "notable": 1
+    },
+    {
+      "id": "f607f44e-70ee-43ae-ba3c-1a614960c2c0",
+      "title": "Health Services Research Analyst - ON SITE",
+      "company": "Vanderbilt Health",
+      "place": "Nashville, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Health-Services-Research-Analyst---ON-SITE_R-69221",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/health-services-research-analyst-on-site-vanderbilt-health-e5dc53?utm_source=reddit",
+      "postedAt": "2026-10-11T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "ba3551e4-d85e-451e-a356-c9d655d35c66",
@@ -2181,7 +2200,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://vantagedc.wd1.myworkdayjobs.com/Vantage/job/Frankfurt-Germany/XMLNAME-2nd-Line-IT-Support-Specialist_R25066",
+      "applyUrl": "https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Frankfurt-Germany/XMLNAME-2nd-Line-IT-Support-Specialist_R25066",
       "firstJobbyUrl": "https://firstjobby.com/companies/vantagedcorwd1orvantage/2nd-line-it-support-specialist-vantage-c3e8ed?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 0
@@ -2314,7 +2333,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://vantagedc.wd1.myworkdayjobs.com/Vantage/job/Berlin-Germany/XMLNAME-2nd-Line-IT-Support-Specialist_R25069",
+      "applyUrl": "https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Berlin-Germany/XMLNAME-2nd-Line-IT-Support-Specialist_R25069",
       "firstJobbyUrl": "https://firstjobby.com/companies/vantagedcorwd1orvantage/2nd-line-it-support-specialist-vantage-6a0616?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 0
@@ -2793,6 +2812,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/rocheorwd3orroche-ext/early-in-career-development-programme-procurement-2027-roche-e55c3c?utm_source=reddit",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "798d182a-b8a0-4d30-9f68-aeb9e5450293",
+      "title": "Analyst Operations",
+      "company": "Global Payments",
+      "place": "Mexico",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/CUAJIMALPA--MEXICO/Analyst-Operations_R0075822",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tsysorwd1ortsys/analyst-operations-global-payments-124bae?utm_source=reddit",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "71fbf47b-5d64-4b14-b241-29ebeda848ee",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000154706119",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/copernicus-data-processing-operations-engineer-mwd-26171-sopra-steria-3fe480?utm_source=reddit",
       "postedAt": "2026-10-09T14:54:22.324Z",
-      "notable": 3
-    },
-    {
-      "id": "49cc1da3-c762-432c-960f-960456900270",
-      "title": "Online Data Analyst Kosovo",
-      "company": "Jobs for Humanity",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/JobsForHumanity/744000154705728",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobsforhumanity/online-data-analyst-kosovo-jobs-for-humanity-09d4c2?utm_source=reddit",
-      "postedAt": "2026-10-09T14:53:09.484Z",
-      "notable": 3
-    },
-    {
-      "id": "e0ada62b-65fe-46ab-aa77-13fed0865016",
-      "title": "Associate, Talent Operations",
-      "company": "Checkout.com",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/checkout.com/2d6dbdba-52e1-4c88-a403-b854df0465b8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/checkoutcom/associate-talent-operations-checkoutcom-e6d0b1?utm_source=reddit",
-      "postedAt": "2026-10-09T14:52:55.739Z",
       "notable": 3
     }
   ],
