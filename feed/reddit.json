@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:47:23.364Z",
+  "generatedAt": "2026-10-17T11:49:23.893Z",
   "jobs": [
     {
       "id": "82175757-80a0-4145-b1b4-73ddeb632065",
@@ -515,6 +515,25 @@
       "notable": 4
     },
     {
+      "id": "f297aebe-5d1a-405c-89b3-add3e80a3403",
+      "title": "Analyst, Order Management",
+      "company": "Kensho",
+      "place": "Noida, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Noida-Uttarpradesh/Analyst--Order-Management_332058-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/analyst-order-management-kensho-d3e35a?utm_source=reddit",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "d710fb42-2a43-41d6-8739-2dea86acce81",
       "title": "Customer Engineer",
       "company": "Applied Materials",
@@ -570,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tehora/technicien-specialise-en-soutien-dinfrastructures-materielles-tehora-5c9b06?utm_source=reddit",
       "postedAt": "2026-10-17T00:00:00.000Z",
       "notable": 1
+    },
+    {
+      "id": "92f66492-3a7c-4e85-b297-39a7e80252f7",
+      "title": "Real Time Scheduling Analyst",
+      "company": "Shell",
+      "place": "San Diego, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$86.0K-$128.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/California---San-Diego---Trading-Office/Real-Time-Scheduling-Analyst_R213148",
+      "firstJobbyUrl": "https://firstjobby.com/companies/shellorwd3orshellcareers/real-time-scheduling-analyst-shell-d7d7ac?utm_source=reddit",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "922009c5-59d4-4fa3-936e-b55a577ecc77",
@@ -798,6 +836,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orgditemplref/sourcing-and-procurement-analyst-gdit-48815d?utm_source=reddit",
       "postedAt": "2026-10-17T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "01e65ebe-3ff3-4947-a729-8c7e6e8000d2",
+      "title": "Analyst - Clean Technologies & Supply Chains",
+      "company": "Kensho",
+      "place": "London, United Kingdom",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Analyst---Clean-Technologies---Supply-Chains_332146-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/analyst-clean-technologies-and-supply-chains-kensho-2951eb?utm_source=reddit",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "3fe11705-357f-4901-b9cb-4e776c130fd4",
@@ -5433,7 +5490,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/langchain/8807d9b6-64ef-4254-b2e0-ec712fd9ff77",
       "firstJobbyUrl": "https://firstjobby.com/companies/langchain/sales-development-representative-london-emea-langchain-11f782?utm_source=reddit",
       "postedAt": "2026-10-16T16:24:00.547Z",
-      "notable": 3
+      "notable": 5
     },
     {
       "id": "8e3fdf03-c17f-4389-b77e-0fed795bf49a",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/redbull/business-analyst-on-premise-red-bull-6e9749?utm_source=reddit",
       "postedAt": "2026-10-16T13:09:04.879Z",
       "notable": 3
-    },
-    {
-      "id": "3a4eb98d-e894-4be1-b4c8-24062230d1cb",
-      "title": "Junior Social Media Manager",
-      "company": "WeLearn",
-      "place": "Remote",
-      "category": "Marketing",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/welearn/jobs/5004572101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/welearn/junior-social-media-manager-welearn-1f426b?utm_source=reddit",
-      "postedAt": "2026-10-16T13:08:26.000Z",
-      "notable": 3
-    },
-    {
-      "id": "1c076e26-0d0a-4bd8-93bb-a5f5a69cf128",
-      "title": "Software Engineer - AI (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Lisboa, Portugal",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000155993379",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/software-engineer-ai-fmdiv-bosch-group-64e569?utm_source=reddit",
-      "postedAt": "2026-10-16T13:08:11.670Z",
-      "notable": 3
-    },
-    {
-      "id": "9194afc5-973e-4568-990b-a9cadf81b82e",
-      "title": "Real-World Data Associate",
-      "company": "myTomorrows",
-      "place": "Amsterdam, Netherlands",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/mytomorrows/aad67d1a-0742-48e8-943a-1f7a550fec73",
-      "firstJobbyUrl": "https://firstjobby.com/companies/mytomorrows/real-world-data-associate-mytomorrows-699e9e?utm_source=reddit",
-      "postedAt": "2026-10-16T13:06:17.473Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
