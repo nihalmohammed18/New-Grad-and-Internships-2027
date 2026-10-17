@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-17T17:55:03.292Z",
+  "generatedAt": "2026-10-17T19:56:34.386Z",
   "jobs": [
+    {
+      "id": "cfb4cf1b-33ef-4d55-a3ef-9b59aa2605b3",
+      "title": "Software Engineer Java/Kafka — Price Hub",
+      "company": "Decathlon Digital FR",
+      "place": "Nantes, France",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/5009434101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/decathlontechnology/software-engineer-javakafka-price-hub-decathlon-digital-fr-4253da?utm_source=reddit",
+      "postedAt": "2026-10-17T17:40:44.000Z",
+      "notable": 3
+    },
     {
       "id": "62a9768d-86a2-4684-9d02-73f9052281f4",
       "title": "Project Coordinator",
@@ -133,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/officer-graphics-automation-avery-dennison-4a0e74?utm_source=reddit",
       "postedAt": "2026-10-17T10:26:15.152Z",
       "notable": 3
+    },
+    {
+      "id": "74937a23-4cbc-4d1f-8294-8fd726b42e68",
+      "title": "Sports Data Collector (Football) - Maringá, Paraná, Brazil",
+      "company": "Genius Sports Statistician Network",
+      "place": "Maringá, Brazil",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€52/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/geniussportssn/jobs/8036569003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-football-maringa-parana-brazil-genius-sports-statistician--c496de?utm_source=reddit",
+      "postedAt": "2026-10-17T10:21:25.000Z",
+      "notable": 5
     },
     {
       "id": "82175757-80a0-4145-b1b4-73ddeb632065",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-football-paramaribo-suriname-genius-sports-statistician-ne-29da85?utm_source=reddit",
       "postedAt": "2026-10-16T13:33:20.000Z",
       "notable": 5
-    },
-    {
-      "id": "c1fdca21-550d-475b-b20a-c1ee7d83b43f",
-      "title": "Creative Fashion Designer",
-      "company": "Myrtle Management Consultants",
-      "place": "Lagos, Nigeria",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MyrtleManagementConsultants/744000155999155",
-      "firstJobbyUrl": "https://firstjobby.com/companies/myrtlemanagementconsultants/creative-fashion-designer-myrtle-management-consultants-ce0506?utm_source=reddit",
-      "postedAt": "2026-10-16T13:31:40.915Z",
-      "notable": 1
-    },
-    {
-      "id": "9adbdfb2-af12-4aa0-b04a-5367b1a5476a",
-      "title": "Junior Data Analyst (AI & Automation)",
-      "company": "RTB House",
-      "place": "Poland",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/rtbhouse/jobs/5008696101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rtbhouse/junior-data-analyst-ai-and-automation-rtb-house-7e6eaa?utm_source=reddit",
-      "postedAt": "2026-10-16T13:31:37.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
