@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-17T15:53:19.861Z",
+  "generatedAt": "2026-10-17T17:55:03.292Z",
   "jobs": [
+    {
+      "id": "62a9768d-86a2-4684-9d02-73f9052281f4",
+      "title": "Project Coordinator",
+      "company": "Syndigo",
+      "place": "Remote from United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://syndigo.com/open-positions/?gh_jid=6212692004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/syndigo/project-coordinator-syndigo-1a3183?utm_source=reddit",
+      "postedAt": "2026-10-17T13:30:43.000Z",
+      "notable": 3
+    },
     {
       "id": "2b52b1a3-15ed-4b05-9403-8cb9f37a4f8e",
       "title": "Account Executive - High Velocity & SMB",
@@ -7051,6 +7070,25 @@
       "notable": 3
     },
     {
+      "id": "753e92f3-2727-4f59-b19e-bb37e0234b49",
+      "title": "SECURITY ANALYST (M/F/D) - Mandatory: German C1 (min.)",
+      "company": "ADVENS",
+      "place": "Remote from Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/ADVENS/744000156027609-security-analyst-m-f-d-mandatory-german-c1-min-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/advens/security-analyst-mfd-mandatory-german-c1-min-advens-cbff36?utm_source=reddit",
+      "postedAt": "2026-10-16T15:06:18.764Z",
+      "notable": 0
+    },
+    {
       "id": "f8bfc514-4f0a-42c7-b387-b6852bee5729",
       "title": "Sports Data Collector (Football) - Pato Branco, Paraná, Brazil",
       "company": "Genius Sports Statistician Network",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/rtbhouse/junior-data-analyst-ai-and-automation-rtb-house-7e6eaa?utm_source=reddit",
       "postedAt": "2026-10-16T13:31:37.000Z",
       "notable": 3
-    },
-    {
-      "id": "3543d016-7af6-4c96-91a0-650e74aaeacd",
-      "title": "Raw Materials Lab Analyst",
-      "company": "Eurofins",
-      "place": "Malvern, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000156000539",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/raw-materials-lab-analyst-eurofins-372cc5?utm_source=reddit",
-      "postedAt": "2026-10-16T13:30:57.555Z",
-      "notable": 4
-    },
-    {
-      "id": "ef63b0ae-a48f-44ce-8877-d0a0c02be7f6",
-      "title": "Amazon External Marketing Specialist",
-      "company": "unybrands",
-      "place": "Remote from United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unybrands/jobs/6226544004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unybrands/amazon-external-marketing-specialist-unybrands-e13825?utm_source=reddit",
-      "postedAt": "2026-10-16T13:29:08.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
