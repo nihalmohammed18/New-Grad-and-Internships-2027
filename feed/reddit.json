@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:28:34.569Z",
+  "generatedAt": "2026-10-20T01:39:48.652Z",
   "jobs": [
     {
       "id": "c67b0a22-c33e-493a-ab29-ad2119244c5c",
@@ -4505,6 +4505,25 @@
       "notable": 5
     },
     {
+      "id": "d033ecae-5bcc-460f-8647-d9c2729c8ec2",
+      "title": "Business Development Representative",
+      "company": "Appspace",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/appspace/jobs/6228311004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/appspace/business-development-representative-appspace-03bd51?utm_source=reddit",
+      "postedAt": "2026-10-19T16:45:24.000Z",
+      "notable": 0
+    },
+    {
       "id": "53871379-06c5-436d-b99f-d63ea3da5a3f",
       "title": "Software Engineer, Mobile",
       "company": "Mantle",
@@ -5339,6 +5358,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/carvana/quality-assurance-coordinator-chicago-carvana-a4298e?utm_source=reddit",
       "postedAt": "2026-10-19T15:56:27.000Z",
       "notable": 4
+    },
+    {
+      "id": "0844b53a-a2f8-4e17-98d9-1d67522674f8",
+      "title": "Sales Development Representative",
+      "company": "Apadmi",
+      "place": "Amsterdam, Netherlands",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/apadmi/jobs/5010238101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/apadmi/sales-development-representative-apadmi-4052f4?utm_source=reddit",
+      "postedAt": "2026-10-19T15:56:06.000Z",
+      "notable": 0
     },
     {
       "id": "9ad84b96-ee4f-4f3d-9e73-6370460956c3",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/stage-consultante-gouvernance-cybersecurite-toulouse-sopra-steria-c2dae3?utm_source=reddit",
       "postedAt": "2026-10-19T12:48:11.239Z",
       "notable": 3
-    },
-    {
-      "id": "5a9093c2-aeb9-4bc0-aabf-3f1bf7c352ca",
-      "title": "Commercial(e) Sédentaire Automobile BtoB  H/F",
-      "company": "AUTO1 Group",
-      "place": "France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Auto1/744000156312139",
-      "firstJobbyUrl": "https://firstjobby.com/companies/auto1/commerciale-sedentaire-automobile-btob-hf-auto1-group-e22054?utm_source=reddit",
-      "postedAt": "2026-10-19T12:48:03.316Z",
-      "notable": 3
-    },
-    {
-      "id": "5f6d5f0d-a6b8-4a2f-949a-d097019adc6f",
-      "title": "SEO & GEO Expert",
-      "company": "Wix",
-      "place": "Tel Aviv, Israel",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000156311634-seo-geo-expert",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/seo-and-geo-expert-wix-eec601?utm_source=reddit",
-      "postedAt": "2026-10-19T12:46:24.674Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
