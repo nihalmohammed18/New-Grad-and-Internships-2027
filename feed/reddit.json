@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:30:15.793Z",
+  "generatedAt": "2026-10-20T19:37:50.272Z",
   "jobs": [
     {
       "id": "9519d4a7-e821-4147-83dd-46209a0eb6e4",
@@ -132,6 +132,25 @@
       "applyUrl": "https://boards.greenhouse.io/drivewealth/jobs/8039368003?gh_jid=8039368003",
       "firstJobbyUrl": "https://firstjobby.com/companies/drivewealth/ai-consulting-associate-program-ai-cap-brokerage-intern-summer-2027-drivewealth-2c90bd?utm_source=reddit",
       "postedAt": "2026-10-20T18:41:59.000Z",
+      "notable": 3
+    },
+    {
+      "id": "137a9fd7-4639-49a0-8c95-721cebb940f7",
+      "title": "Backend Engineer, Forward Deployed",
+      "company": "Foxglove",
+      "place": "South Korea",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "KPW 123.5M-KPW 156.2M/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/foxglove/6c8047fb-a6dc-4f47-8e6f-1addd1d519e0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/foxglove-ashby/backend-engineer-forward-deployed-foxglove-b893a9?utm_source=reddit",
+      "postedAt": "2026-10-20T18:35:52.249Z",
       "notable": 3
     },
     {
@@ -1197,6 +1216,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geotab/vehicle-systems-engineering-geotab-b22ec0?utm_source=reddit",
       "postedAt": "2026-10-20T15:59:27.000Z",
       "notable": 4
+    },
+    {
+      "id": "c1cd6780-3cbc-4e3e-9a16-adf29eecbc9c",
+      "title": "Internship - Engineering",
+      "company": "Service Wire",
+      "place": "Phoenix, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Spring 2027",
+      "applyUrl": "https://jobs.lever.co/servicewire/9655fefb-dedf-46e1-a040-092982d4a138",
+      "firstJobbyUrl": "https://firstjobby.com/companies/servicewire/internship-engineering-service-wire-c4bff6?utm_source=reddit",
+      "postedAt": "2026-10-20T15:58:02.793Z",
+      "notable": 1
     },
     {
       "id": "0365b3c3-6632-40ec-b625-aeca0619bcb2",
@@ -2907,6 +2945,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/biaenergy/customer-success-executive-bia-energy-sas-83e802?utm_source=reddit",
       "postedAt": "2026-10-20T14:02:27.708Z",
       "notable": 1
+    },
+    {
+      "id": "5888d0f6-873a-4d4c-ace6-9f9e0b64fd94",
+      "title": "Client Success Manager (Account Manager Experience)",
+      "company": "Rebar",
+      "place": "New York City, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K-$110.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/rebar/9208b38e-0348-4e37-8b47-8a2d86fdce78",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rebar/client-success-manager-account-manager-experience-rebar-4b6a70?utm_source=reddit",
+      "postedAt": "2026-10-20T14:00:33.463Z",
+      "notable": 3
     },
     {
       "id": "4dc8d273-bacb-49b7-99f1-a07635e60751",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tencentorwd1ortencentcareers/generative-ai-research-intern-lightspeed-studios-e53f1c?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "f60c3b9a-39f1-4328-a740-53ef0d977601",
-      "title": "Wholesale Assurance Technical Support Officer",
-      "company": "Aussie Broadband",
-      "place": "Australia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://aussiebroadband.wd3.myworkdayjobs.com/External/job/Wholesale-Assurance-Technical-Support-Officer_JR102858-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aussiebroadbandorwd3orexternal/wholesale-assurance-technical-support-officer-aussie-broadband-1ed217?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "f44b4c13-1464-49b9-9e9c-3d4f82baa46f",
-      "title": "Cloud Native Engineer",
-      "company": "Prometeia",
-      "place": "Italy",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://prometeia.wd3.myworkdayjobs.com/Prometeia_External_Career_Portal/job/Milano---Brera/Cloud-Native-Engineer_JR100007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/prometeiaorwd3orprometeiaexternalcareerportal/cloud-native-engineer-prometeia-c52da2?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 0
-    },
-    {
-      "id": "f417e34c-5967-466d-aba5-6d7f4781d57f",
-      "title": "Sales Support Executive- 12 Months FTC",
-      "company": "Bauer Media Outdoor",
-      "place": "Birmingham, United Kingdom",
-      "category": "Sales",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£28.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/28A06A4365",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bauermediaoutdoor/sales-support-executive-12-months-ftc-bauer-media-outdoor-8111e9?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
