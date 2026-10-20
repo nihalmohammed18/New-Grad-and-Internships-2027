@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:44:26.313Z",
+  "generatedAt": "2026-10-20T20:08:14.698Z",
   "jobs": [
     {
       "id": "9519d4a7-e821-4147-83dd-46209a0eb6e4",
@@ -9293,6 +9293,25 @@
       "notable": 5
     },
     {
+      "id": "fd8d490f-6a46-44c7-9b8f-e3036d5203b4",
+      "title": "Roche Next-Generation Sequencing (NGS) & Agentic AI Engineering Support Internship",
+      "company": "Roche",
+      "place": "Cape Town, South Africa",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rocheorwd3orroche-ext/roche-next-generation-sequencing-ngs-and-agentic-ai-engineering-support-internsh-1113c2?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "fd33fa87-92f7-42b3-8257-e795f8b98313",
       "title": "Research Associate - Iron Ore",
       "company": "Wood Mackenzie",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://ebnhc.wd1.myworkdayjobs.com/EBNHC/job/East-Boston/Coordinator-Patient-Access_R0007598",
       "firstJobbyUrl": "https://firstjobby.com/companies/ebnhcorwd1orebnhc/coordinator-patient-access-ebnhc-13b67b?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "f6a3e038-4ba3-4e3d-aefb-5973b1f9d2b1",
-      "title": "Propulsion Engineer",
-      "company": "Tsc",
-      "place": "Washington, United States",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$90.0K-$147.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Propulsion-Engineer_JR2855",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tscorwd12ortsc-careers/propulsion-engineer-tsc-1ac2b5?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 4
     }
