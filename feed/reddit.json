@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-20T22:03:14.891Z",
+  "generatedAt": "2026-10-20T22:52:47.278Z",
   "jobs": [
+    {
+      "id": "dc98216b-8142-49b9-a276-857f7ee27372",
+      "title": "Risk & Compliance Analyst APAC - Global Law Firm (based in Singapore)",
+      "company": "Clyde & Co",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://clydeco.wd103.myworkdayjobs.com/clydecocareers/job/Singapore/Risk---Compliance-Analyst-APAC---Global-Law-Firm--based-in-Singapore-_JR2702",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clydecoorwd103orclydecocareers/risk-and-compliance-analyst-apac-global-law-firm-based-in-singapore-clyde-and-co-b982ad?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 3
+    },
     {
       "id": "54341953-f07e-4743-9b83-eeeeb59b4438",
       "title": "Customer Service Specialist, Tier 2",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-assistant-ii-non-lab-harvard-university-0876fc?utm_source=reddit",
       "postedAt": "2026-10-20T08:53:28.292Z",
       "notable": 4
-    },
-    {
-      "id": "c50797c9-be02-4aaa-9104-630bf1a623f3",
-      "title": "Research Analyst",
-      "company": "NielsenIQ",
-      "place": "Mumbai, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000156500320-research-analyst",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/research-analyst-nielseniq-4ea130?utm_source=reddit",
-      "postedAt": "2026-10-20T08:53:08.205Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
