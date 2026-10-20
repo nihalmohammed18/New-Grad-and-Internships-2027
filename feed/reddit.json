@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:06:51.469Z",
+  "generatedAt": "2026-10-20T17:10:55.464Z",
   "jobs": [
     {
       "id": "11c12c6e-884c-4e3f-aa1e-a6b25d34ff05",
@@ -8229,6 +8229,25 @@
       "notable": 3
     },
     {
+      "id": "7138f208-a2a1-4122-8a1f-2730673d321c",
+      "title": "Operations Support Technician - 401K",
+      "company": "Sentry",
+      "place": "Stevens Point, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Stevens-Point-WI/Operations-Support-Technician---401K_JR-143060",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sentryinsuranceorwd1orsentrycareers/operations-support-technician-401k-sentry-bdd3d3?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "70d68c07-6a41-4dc7-8633-f4a21fdeec3f",
       "title": "Engineering Drafter/Designer II",
       "company": "Entegris",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/foodics/sales-executive-foodics-846627?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "307c17da-da46-49e7-b87a-c01c3a0515a3",
-      "title": "Mechanical Engineer",
-      "company": "Hitachi",
-      "place": "Ludvika, Sweden",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Engineer_R0137380",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/mechanical-engineer-hitachi-081cb6?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
