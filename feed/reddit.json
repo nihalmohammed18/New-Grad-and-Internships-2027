@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:29:31.252Z",
+  "generatedAt": "2026-10-20T16:30:48.720Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -5379,6 +5379,25 @@
       "notable": 2
     },
     {
+      "id": "f69addd0-261d-46fb-8088-d364360d74ef",
+      "title": "Generative AI Research Intern",
+      "company": "LIGHTSPEED STUDIOS",
+      "place": "London, United Kingdom",
+      "category": "Research",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tencentorwd1ortencentcareers/generative-ai-research-intern-lightspeed-studios-e53f1c?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f60c3b9a-39f1-4328-a740-53ef0d977601",
       "title": "Wholesale Assurance Technical Support Officer",
       "company": "Aussie Broadband",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/service-sales-and-tendering-specialist-hitachi-5f8fc3?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "192bf7b5-800c-4a77-9793-d3b586f20a40",
-      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-      "company": "Mindrift",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$69/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/FCC9CE06BB",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/freelance-mechanical-cfd-engineer-ai-trainer-mindrift-76c95a?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
