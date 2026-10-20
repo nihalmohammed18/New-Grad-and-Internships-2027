@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:28:14.103Z",
+  "generatedAt": "2026-10-20T15:29:56.896Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -7545,6 +7545,25 @@
       "notable": 2
     },
     {
+      "id": "755cd9bd-524e-49ec-9968-3f9b0824bad3",
+      "title": "AI Native Fullstack Engineer (Vision One XDR Workbench)",
+      "company": "TrendAI",
+      "place": "Taipei, Taiwan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Native-Fullstack-Engineer--Vision-One-XDR-Workbench-_R0010333-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/trendmicroorwd3orexternal/ai-native-fullstack-engineer-vision-one-xdr-workbench-trendai-7f48d9?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "7450ef5f-7d13-4764-babe-acfaff4e5937",
       "title": "Customer Service Representative - Contact Centre - Cards",
       "company": "Westpac",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/factsetorwd108orfactsetcareers/associate-product-specialist-factset-0e0aab?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "03c69f2d-87b6-4007-8efa-a6795404e4aa",
-      "title": "Business Sales Account Manager",
-      "company": "Verizon",
-      "place": "Dayton, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$48.0K-$84.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Dayton-Ohio/Business-Sales-Account-Manager_R-1102615",
-      "firstJobbyUrl": "https://firstjobby.com/companies/verizonorwd12orverizon-careers/business-sales-account-manager-verizon-767e59?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
