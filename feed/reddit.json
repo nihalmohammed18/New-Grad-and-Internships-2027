@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-20T20:26:55.860Z",
+  "generatedAt": "2026-10-20T20:31:31.090Z",
   "jobs": [
+    {
+      "id": "870d99ca-8e1d-4b3b-9292-0fdcbc8f6afc",
+      "title": "Business Development Representative (Higher Education - Public Sector)",
+      "company": "Canva",
+      "place": "Austin, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001506251-business-development-representative-higher-education-public-sector-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/business-development-representative-higher-education-public-sector-canva-0b83c9?utm_source=reddit",
+      "postedAt": "2026-10-20T20:08:29.517Z",
+      "notable": 2
+    },
     {
       "id": "9519d4a7-e821-4147-83dd-46209a0eb6e4",
       "title": "Budget Analyst",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Software-Engineering---Development--Vice-President_R-798888",
       "firstJobbyUrl": "https://firstjobby.com/companies/statestreetorwd1orglobal/production-and-devops-support-engineer-state-street-investment-management-0e2ab4?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "f76f30c6-69ec-41df-82e7-dea928b1c036",
-      "title": "Customer Experience Associate",
-      "company": "TD Bank",
-      "place": "Edmonton, Canada",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Customer-Experience-Associate_R_1511233-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-td-bank-d1ce05?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
     }
