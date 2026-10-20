@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:08:22.577Z",
+  "generatedAt": "2026-10-20T16:10:07.878Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -9141,6 +9141,25 @@
       "notable": 5
     },
     {
+      "id": "254752e7-b7b2-4594-a1e8-1091bdb131d8",
+      "title": "FIeld Service Engineer",
+      "company": "Symbotic",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$69.0K-$101.2K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/FIeld-Service-Engineer_R8288",
+      "firstJobbyUrl": "https://firstjobby.com/companies/symboticorwd504orsymbotic/field-service-engineer-symbotic-899ade?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "248f113a-a4c4-4707-b020-8fc34961df8c",
       "title": "Vertriebsmitarbeiter Innendienst / B2B Sales (m/w/d)",
       "company": "Copart",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/240BE27C13",
       "firstJobbyUrl": "https://firstjobby.com/companies/mlabs/product-designer-mlabs-89aa80?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "1122e359-f640-4fd0-8f25-41c08dee8c8e",
-      "title": "DDP Customer Support Technician",
-      "company": "Applied Materials",
-      "place": "CheongJu, KO",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/CheongJuKOR/DDP-Customer-Support-Technician_R2631186",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/ddp-customer-support-technician-applied-materials-2b93f8?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 3
     }
