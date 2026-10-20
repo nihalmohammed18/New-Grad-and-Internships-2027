@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:08:14.698Z",
+  "generatedAt": "2026-10-20T20:26:55.860Z",
   "jobs": [
     {
       "id": "9519d4a7-e821-4147-83dd-46209a0eb6e4",
@@ -9331,6 +9331,25 @@
       "notable": 2
     },
     {
+      "id": "fca08cf2-f32b-4992-887d-b3d6af439f65",
+      "title": "Inventory Control Clerk I - Quality Assurance",
+      "company": "O'Reilly Auto Parts",
+      "place": "Kansas City, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Distribution-Center-Kansas-City-MO/Inventory-Control-Clerk-I---Quality-Assurance_R207784",
+      "firstJobbyUrl": "https://firstjobby.com/companies/oreillyautoorwd1ororeilly/inventory-control-clerk-i-quality-assurance-oreilly-auto-parts-4d62dc?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "fc12cb0e-0461-4edc-860a-9986d54eb203",
       "title": "Compensation Analyst",
       "company": "Ryan Companies",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-td-bank-d1ce05?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "f73563c5-dd37-49a2-a283-bec731e96b00",
-      "title": "Coordinator Patient Access",
-      "company": "Ebnhc",
-      "place": "East Boston, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$29/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://ebnhc.wd1.myworkdayjobs.com/EBNHC/job/East-Boston/Coordinator-Patient-Access_R0007598",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ebnhcorwd1orebnhc/coordinator-patient-access-ebnhc-13b67b?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
