@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:57:22.108Z",
+  "generatedAt": "2026-10-20T17:01:21.553Z",
   "jobs": [
     {
       "id": "11c12c6e-884c-4e3f-aa1e-a6b25d34ff05",
@@ -7507,6 +7507,25 @@
       "notable": 2
     },
     {
+      "id": "978811ce-a4ce-44e4-b0e1-ec327986798b",
+      "title": "Mechanical Engineer I",
+      "company": "Sierra Space",
+      "place": "Louisville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$77.2K-$106.2K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26426-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sierraspaceorwd1orsierraspaceexternalcareersite/mechanical-engineer-i-sierra-space-d9f658?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "9692b7fb-a128-4f58-8beb-dcf5b7702e4e",
       "title": "Mid-Market Account Executive - Banking",
       "company": "Calabrio",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/stage-2027-services-marketing-transformation-digitale-fh-airbus-988b14?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "2bb7bd5a-16ca-4ad4-9a8f-e083fac22fb5",
-      "title": "Analyst",
-      "company": "Milwaukee Tool",
-      "place": "Grenada, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Grenada-MS/Analyst_R78874",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ttiorwd1ormilwaukee/analyst-milwaukee-tool-f2c843?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
