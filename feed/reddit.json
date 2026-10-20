@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:25:04.547Z",
+  "generatedAt": "2026-10-20T14:29:09.666Z",
   "jobs": [
     {
       "id": "05695762-237b-493b-a0f8-4e709de5705e",
@@ -4695,6 +4695,25 @@
       "notable": 2
     },
     {
+      "id": "d32243fa-e0f8-4852-9de8-c4444d3e93c8",
+      "title": "Sales Analyst - Target Beauty & Wellness Team",
+      "company": "Unilever",
+      "place": "Minneapolis, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$71.4K-$107.2K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Minneapolis---Nicollet-Mall/Sales-Analyst---Target-Beauty---Wellness-Team_R-1189247",
+      "firstJobbyUrl": "https://firstjobby.com/companies/unileverorwd3orunileverexperiencedprofessionals/sales-analyst-target-beauty-and-wellness-team-unilever-63b13e?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "d16ea174-2a9f-41db-90c5-f780ae266912",
       "title": "NPI & Field Quality Engineer",
       "company": "Electrolux",
@@ -6097,6 +6116,25 @@
       "season": null,
       "applyUrl": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Kulim-Kedah-Malaysia/Engineering-Drafter-Designer-II_REQ-15381",
       "firstJobbyUrl": "https://firstjobby.com/companies/entegrisorwd1orentegriscareers/engineering-drafterdesigner-ii-entegris-a0c2f0?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "70982fbc-b982-4db5-ac68-187840d0c005",
+      "title": "Innovations (SUIT) Engineer",
+      "company": "Unilever",
+      "place": "Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Cavite-Philippines/Innovations--SUIT--Engineer_R-1189647",
+      "firstJobbyUrl": "https://firstjobby.com/companies/unileverorwd3orunileverexperiencedprofessionals/innovations-suit-engineer-unilever-ad0a4d?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/braze/intern-software-engineering-braze-bca7ff?utm_source=reddit",
       "postedAt": "2026-10-19T20:55:44.000Z",
       "notable": 5
-    },
-    {
-      "id": "3d076d27-e2d8-4303-8a6e-f4adfe374943",
-      "title": "Customer Service Representative – Utility Billing",
-      "company": "Getfivestar",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$14/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/getfivestar/fd2d9149-257b-4352-82af-6c8a92d6893a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/customer-service-representative-utility-billing-getfivestar-303bda?utm_source=reddit",
-      "postedAt": "2026-10-19T20:55:10.446Z",
-      "notable": 5
-    },
-    {
-      "id": "d6a23832-a8ae-4dfb-b571-4a9fc406cd89",
-      "title": "Software Engineer – Legacy Modernization & Full Stack",
-      "company": "CodeRoad",
-      "place": "Remote from United States",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/coderoad/jobs/4458046009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coderoad/software-engineer-legacy-modernization-and-full-stack-coderoad-b9dc0f?utm_source=reddit",
-      "postedAt": "2026-10-19T20:55:05.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
