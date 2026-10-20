@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:39:48.652Z",
+  "generatedAt": "2026-10-20T01:55:04.507Z",
   "jobs": [
     {
       "id": "c67b0a22-c33e-493a-ab29-ad2119244c5c",
@@ -3441,6 +3441,25 @@
       "notable": 5
     },
     {
+      "id": "e38911e3-0480-4448-ab8b-190241918b48",
+      "title": "Junior Business Intelligence Data Engineer",
+      "company": "BGBx",
+      "place": "Remote from Pakistan",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "PKR 5.0M-PKR 7.0M/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/bgbx/jobs/8301117",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bgbx/junior-business-intelligence-data-engineer-bgbx-76dbd2?utm_source=reddit",
+      "postedAt": "2026-10-19T17:40:05.000Z",
+      "notable": 3
+    },
+    {
       "id": "1d4422b8-4a21-4b80-8efe-0dd1aa97bebb",
       "title": "Account Executive, SME & Growth (Pacific Time Zone)",
       "company": "Airwallex",
@@ -4484,6 +4503,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/heron-power/intern-firmware-engineering-heron-power-f937e7?utm_source=reddit",
       "postedAt": "2026-10-19T16:53:57.014Z",
       "notable": 3
+    },
+    {
+      "id": "89856756-05b6-4afb-8f0f-9b18a8f96f13",
+      "title": "AI Evaluation Engineer (Data Scientist)",
+      "company": "i.AI",
+      "place": "London, United Kingdom",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£45.7K-£63.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/iai/jobs/5010267101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/iai/ai-evaluation-engineer-data-scientist-iai-cfc135?utm_source=reddit",
+      "postedAt": "2026-10-19T16:51:01.000Z",
+      "notable": 2
     },
     {
       "id": "51990768-a281-440a-9146-98904a57636b",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Auto1/744000156309625",
       "firstJobbyUrl": "https://firstjobby.com/companies/auto1/back-office-operations-specialist-french-auto1-group-cdeac0?utm_source=reddit",
       "postedAt": "2026-10-19T12:50:01.785Z",
-      "notable": 3
-    },
-    {
-      "id": "70d3bd53-f8bb-41fb-8ae9-794f97f95256",
-      "title": "Stage - Consultant(e) - Prevent_Risk - Cybersécurité - Toulouse",
-      "company": "Sopra Steria",
-      "place": "Colomiers, France",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000156312388-stage-consultant-e-prevent-risk-cybersecurite-toulouse",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/stage-consultante-preventrisk-cybersecurite-toulouse-sopra-steria-8ca615?utm_source=reddit",
-      "postedAt": "2026-10-19T12:48:59.391Z",
-      "notable": 3
-    },
-    {
-      "id": "3b8ac16c-0732-4d2d-a115-ce6e105d6b8e",
-      "title": "Stage - Consultant(e) - Gouvernance - Cybersécurité - Toulouse",
-      "company": "Sopra Steria",
-      "place": "Colomiers, France",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000156311939-stage-consultant-e-gouvernance-cybersecurite-toulouse",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/stage-consultante-gouvernance-cybersecurite-toulouse-sopra-steria-c2dae3?utm_source=reddit",
-      "postedAt": "2026-10-19T12:48:11.239Z",
       "notable": 3
     }
   ],
