@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:37:50.272Z",
+  "generatedAt": "2026-10-20T19:44:26.313Z",
   "jobs": [
     {
       "id": "9519d4a7-e821-4147-83dd-46209a0eb6e4",
@@ -9350,6 +9350,25 @@
       "notable": 5
     },
     {
+      "id": "fbe1b5b9-1afe-4507-b451-b9498f9976c5",
+      "title": "Plant Vehicle Engineering Intern, Electrical Systems & Harness Support",
+      "company": "Slate",
+      "place": "Warsaw, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "January 2027",
+      "applyUrl": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Intern--Electrical-Systems---Harness-Support_JR101531",
+      "firstJobbyUrl": "https://firstjobby.com/companies/recarorwd108orslatecareers/plant-vehicle-engineering-intern-electrical-systems-and-harness-support-slate-bf302e?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "fa6b7cbd-c2dd-4a55-a2f4-6302315c59d9",
       "title": "Security Cooperation Planner",
       "company": "Booz Allen",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tscorwd12ortsc-careers/propulsion-engineer-tsc-1ac2b5?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "f69addd0-261d-46fb-8088-d364360d74ef",
-      "title": "Generative AI Research Intern",
-      "company": "LIGHTSPEED STUDIOS",
-      "place": "London, United Kingdom",
-      "category": "Research",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tencentorwd1ortencentcareers/generative-ai-research-intern-lightspeed-studios-e53f1c?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
