@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:41:21.015Z",
+  "generatedAt": "2026-10-20T15:51:31.005Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -7374,6 +7374,25 @@
       "notable": 2
     },
     {
+      "id": "8dbe6c37-b865-4fae-b056-04336f502366",
+      "title": "Operations Specialist",
+      "company": "Elavon",
+      "place": "Warsaw, Poland",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Operations-Specialist_2026-0025133",
+      "firstJobbyUrl": "https://firstjobby.com/companies/usbankorwd1orusbankcareers/operations-specialist-elavon-8218cd?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "8d846fe7-c8c4-4386-a73c-c5ffb7e9f0ec",
       "title": "Customer Service Specialist",
       "company": "Abbott",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/PH---Pasay-Philippines---Manila/Configuration-Analyst--Arabic--Russian--French-_REF089630W",
       "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisa/configuration-analyst-arabic-russian-french-visa-e34141?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "0af0114a-e388-4ce7-a6ed-89385b1b7dd1",
-      "title": "【府中市】Sales Account Manager（担当製品：在宅医療向けの呼吸関連製品）",
-      "company": "Philips",
-      "place": "Fuchu, Japan",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Tokyo/XMLNAME---Sales-Account-Manager---_591087",
-      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/sales-account-manager-philips-acb61c?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
     }
