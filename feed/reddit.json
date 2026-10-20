@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:10:07.878Z",
+  "generatedAt": "2026-10-20T16:17:40.383Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -7887,6 +7887,25 @@
       "notable": 2
     },
     {
+      "id": "6b057641-0d24-4e90-8bcc-28e75507706f",
+      "title": "Partnership office analyst intern",
+      "company": "Syneos Health",
+      "place": "Barcelona, Spain",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/ESP-Barcelona/Partnership-office-analyst-intern_25111096",
+      "firstJobbyUrl": "https://firstjobby.com/companies/syneoshealthorwd12orsyneoshealthexternalsite/partnership-office-analyst-intern-syneos-health-bd7733?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "679d5a0a-c6e7-44b9-b2c4-998f274b58c0",
       "title": "CRM_CIED_Technical Sales Representative_Suzhou",
       "company": "Medtronic",
@@ -9198,6 +9217,25 @@
       "notable": 2
     },
     {
+      "id": "23e88957-86d0-4724-8c4c-d8ca51d7b7f4",
+      "title": "Student Coordinator",
+      "company": "Texas A&M AgriLife Research",
+      "place": "College Station, United States",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$15/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Student-Coordinator_R-097971-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tamusorwd1oragriliferesearchexternal/student-coordinator-texas-aandm-agrilife-research-bb5c72?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "2073e56b-3a19-42b7-917c-a943e5d04f23",
       "title": "Quality Conformance Engineer-Airframe",
       "company": "Airbus",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/account-solution-engineer-singapore-smb-market-salesforce-681416?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "11b6987a-f24e-4b02-b6e0-5c2b900e5f90",
-      "title": "Project Coordinator",
-      "company": "ReWorks Solutions",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/D5825BD5DF",
-      "firstJobbyUrl": "https://firstjobby.com/companies/reworkssolutions/project-coordinator-reworks-solutions-2cc960?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "1186ff72-6ecd-47d7-b5fb-db5a9c41989f",
-      "title": "Product Designer",
-      "company": "MLabs",
-      "place": "Remote from United States",
-      "category": "Design",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/240BE27C13",
-      "firstJobbyUrl": "https://firstjobby.com/companies/mlabs/product-designer-mlabs-89aa80?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
