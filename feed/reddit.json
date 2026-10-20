@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:32:42.713Z",
+  "generatedAt": "2026-10-20T13:34:53.394Z",
   "jobs": [
     {
       "id": "05695762-237b-493b-a0f8-4e709de5705e",
@@ -5493,6 +5493,25 @@
       "notable": 2
     },
     {
+      "id": "99022f0a-26f0-4b4b-a8ac-305b794a2262",
+      "title": "Critical Mineral Analyst",
+      "company": "WRI Indonesia",
+      "place": "Jakarta, Indonesia",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://wri.wd501.myworkdayjobs.com/WRI/job/Jakarta-Indonesia/Critical-Mineral-Analyst_2026-JR100522",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wriorwd501orwri/critical-mineral-analyst-wri-indonesia-95f6c9?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 1
+    },
+    {
       "id": "960a355d-5845-43c9-acb5-1cf75019181e",
       "title": "Markets Operations - Validations Process",
       "company": "Ocbc",
@@ -6897,6 +6916,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/first-mile/supply-chain-assistant-first-mile-4d6977?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "1571e5dd-512a-4d04-b1c5-b87d5b225885",
+      "title": "Sales Development Account Manager (Italy, Germany, Spain or Poland)",
+      "company": "Worldwide Clinical Trials",
+      "place": "Remote from Italy, Germany, Spain, Poland",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://worldwide.wd1.myworkdayjobs.com/External/job/Virtual-Italy/Sales-Development-Account-Manager--Italy--Germany--Spain-or-Poland-_JR103206",
+      "firstJobbyUrl": "https://firstjobby.com/companies/worldwideorwd1orexternal/sales-development-account-manager-italy-germany-spain-or-poland-worldwide-clinic-4cbe4b?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "140de370-c3ad-4a19-be09-9902859cb307",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/applied-compute/compute-analyst-applied-compute-2fcdfd?utm_source=reddit",
       "postedAt": "2026-10-19T20:30:33.514Z",
       "notable": 4
-    },
-    {
-      "id": "dae508cc-3c15-4cc0-887e-18414853f6d8",
-      "title": "Data Center Operations System Engineer (Salt Lake City)",
-      "company": "Lambda",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$89.0K-$119.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/lambda/a46d9486-4d9f-47cd-acb5-1a6ee2cac6f4",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lambda-ashby/data-center-operations-system-engineer-salt-lake-city-lambda-d618ea?utm_source=reddit",
-      "postedAt": "2026-10-19T20:27:49.234Z",
-      "notable": 3
-    },
-    {
-      "id": "7a13d133-1bf3-4641-8366-c3afd7336333",
-      "title": "Software Development Engineer II (Remote @ Colombia)",
-      "company": "OfferUp",
-      "place": "Remote from United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/offerup/jobs/8301852",
-      "firstJobbyUrl": "https://firstjobby.com/companies/offerup/software-development-engineer-ii-remote-colombia-offerup-7556bd?utm_source=reddit",
-      "postedAt": "2026-10-19T20:25:15.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
