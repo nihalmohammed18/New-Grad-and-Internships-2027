@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:26:57.919Z",
+  "generatedAt": "2026-10-20T18:28:25.217Z",
   "jobs": [
     {
       "id": "1edc5b87-af09-4029-b64d-46a1b95c607b",
@@ -2793,6 +2793,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/montu-uk/prescriptions-coordinator-montu-uk-e8fce8?utm_source=reddit",
       "postedAt": "2026-10-20T12:46:13.905Z",
       "notable": 5
+    },
+    {
+      "id": "432f2066-b4bd-4fbe-b4df-32762177f381",
+      "title": "Solutions Consultant, Commercial, Italy",
+      "company": "Notion",
+      "place": "Dublin, Ireland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/notion/f7da3ea4-12ce-4bb3-95c1-e852336d608e",
+      "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/solutions-consultant-commercial-italy-notion-f5279b?utm_source=reddit",
+      "postedAt": "2026-10-20T12:45:19.175Z",
+      "notable": 3
     },
     {
       "id": "5742b305-fcf9-46e2-83f9-5f54f94519c6",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/victaulicorwd1orvictauliccareers/data-centre-oem-specialist-victaulic-3b53d7?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "c5bd097b-4be1-4e9b-9b5e-80d0f43eb581",
-      "title": "Junior Procurement Specialist",
-      "company": "Public Group",
-      "place": "Kifisia, Greece",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/DDE296A425",
-      "firstJobbyUrl": "https://firstjobby.com/companies/publicgroup/junior-procurement-specialist-public-group-e404b9?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
