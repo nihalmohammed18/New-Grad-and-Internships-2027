@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:30:48.720Z",
+  "generatedAt": "2026-10-20T16:35:51.698Z",
   "jobs": [
     {
       "id": "84def719-fdd5-4ad6-a0c4-32b75f39b3e9",
@@ -9217,6 +9217,25 @@
       "notable": 4
     },
     {
+      "id": "291d9a27-b92a-4a2d-8f56-7fbd44b84c5c",
+      "title": "Data Analyst",
+      "company": "Springer Nature",
+      "place": "Pune, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers/job/Pune/Data-Analyst_JR107194-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/springernatureorwd3orspringernaturecareers/data-analyst-springer-nature-5fb583?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "288ff1c9-20ec-4c8b-91a1-a468d0600238",
       "title": "Platform Hardware Design Engineer",
       "company": "Intel",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Suzhou-China/Assistant-Engineer_JR118697",
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/assistant-engineer-copeland-50bb9d?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "1a3b04e5-5fdd-407f-b9f9-b69eecdd5870",
-      "title": "Service Sales & Tendering Specialist",
-      "company": "Hitachi",
-      "place": "Brisbane, Australia",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Brisbane-Queensland-Australia/Service-Sales---Tendering-Specialist_R0147823",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/service-sales-and-tendering-specialist-hitachi-5f8fc3?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 2
     }
