@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:01:17.534Z",
+  "generatedAt": "2026-10-20T14:04:12.288Z",
   "jobs": [
     {
       "id": "05695762-237b-493b-a0f8-4e709de5705e",
@@ -4809,6 +4809,25 @@
       "notable": 2
     },
     {
+      "id": "cf532bf6-0e84-42a3-a6d9-fe202569fe94",
+      "title": "AI Engineer",
+      "company": "Valeo",
+      "place": "France",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valeoorwd3orvaleojobs/ai-engineer-valeo-d14f5d?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "ce759096-82be-4b4d-8958-fe7595d1e4b9",
       "title": "Trade and Logistics Specialist",
       "company": "ABB",
@@ -5550,6 +5569,25 @@
       "notable": 2
     },
     {
+      "id": "99576002-d581-441f-9b8f-ff374134fb0c",
+      "title": "Process Control & Simulation Engineer",
+      "company": "Valmet",
+      "place": "Brazil",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/External/job/Sorocaba/Process-Control---Simulation-Engineer_R60473",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valmetorwd103orexternal/process-control-and-simulation-engineer-valmet-fc9357?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "99022f0a-26f0-4b4b-a8ac-305b794a2262",
       "title": "Critical Mineral Analyst",
       "company": "WRI Indonesia",
@@ -5890,6 +5928,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/freelance-mechanical-cfd-engineer-ai-trainer-mindrift-f9ec4b?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "76a521c6-d417-42af-abc9-3d2b752eb216",
+      "title": "Staż w Dziale Testów i Walidacji (K/M/N)",
+      "company": "Valeo",
+      "place": "Czechowice-Dziedzice, Poland",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Czechowice/Sta-w-Dziale-Testw-i-Walidacji--K-M-N-_REQ2026081887",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valeoorwd3orvaleojobs/staz-w-dziale-testow-i-walidacji-kmn-valeo-7cbd88?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "75c39ab8-0553-4b92-9f17-9736a1ae34e6",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fourhands/sales-project-management-intern-four-hands-24d028?utm_source=reddit",
       "postedAt": "2026-10-19T20:41:28.000Z",
       "notable": 1
-    },
-    {
-      "id": "37141ca5-1ed9-46c9-af64-a2ec5a7d68dc",
-      "title": "Ticket Inventory Coordinator",
-      "company": "AEG Worldwide",
-      "place": "El Segundo, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$21-$26/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/aegworldwide/jobs/8895696002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aegworldwide/ticket-inventory-coordinator-aeg-worldwide-c2197a?utm_source=reddit",
-      "postedAt": "2026-10-19T20:39:50.000Z",
-      "notable": 5
-    },
-    {
-      "id": "c8096168-611c-44ce-88db-58d5b2384b26",
-      "title": "Junior Software Developer",
-      "company": "Accenture Federal Services",
-      "place": "St. Louis, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "us_person",
-      "pay": "$65.9K-$126.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006?gh_jid=4723148006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/junior-software-developer-accenture-federal-services-83a203?utm_source=reddit",
-      "postedAt": "2026-10-19T20:39:34.000Z",
-      "notable": 5
-    },
-    {
-      "id": "e66eb148-3b01-4800-a00e-f835997d25c6",
-      "title": "Sales Engineer",
-      "company": "Distro",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K-$78.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/distro/b3de6b61-6a81-49b7-9c00-679777cf0c82",
-      "firstJobbyUrl": "https://firstjobby.com/companies/distro/sales-engineer-distro-29ee90?utm_source=reddit",
-      "postedAt": "2026-10-19T20:39:26.024Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
