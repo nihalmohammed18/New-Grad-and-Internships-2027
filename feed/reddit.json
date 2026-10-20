@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-20T13:12:32.253Z",
+  "generatedAt": "2026-10-20T13:21:22.717Z",
   "jobs": [
+    {
+      "id": "05695762-237b-493b-a0f8-4e709de5705e",
+      "title": "Sales Development Representative  (m/f/d)",
+      "company": "Wellhub",
+      "place": "Munich, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/gympass/jobs/8902382002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gympass/sales-development-representative-mfd-wellhub-e8f438?utm_source=reddit",
+      "postedAt": "2026-10-20T13:03:56.000Z",
+      "notable": 3
+    },
     {
       "id": "b77c0865-1c2a-46c2-ae4c-379729818243",
       "title": "Middle Manual QA Engineer (Mobile)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pearceservices/advanced-solar-field-service-technician-operations-and-maintenance-pearce-servic-f1e369?utm_source=reddit",
       "postedAt": "2026-10-19T20:23:31.000Z",
       "notable": 3
-    },
-    {
-      "id": "7cc8b9dc-319b-4f1f-9c65-a89f33463117",
-      "title": "Logistics Specialist II, First Shift",
-      "company": "Relativity Space",
-      "place": "Long Beach, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$23-$35/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8890146002?gh_jid=8890146002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/relativity/logistics-specialist-ii-first-shift-relativity-space-5d9852?utm_source=reddit",
-      "postedAt": "2026-10-19T20:23:03.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
