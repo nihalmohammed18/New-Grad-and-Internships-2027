@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:51:33.952Z",
+  "generatedAt": "2026-10-20T18:55:13.897Z",
   "jobs": [
     {
       "id": "2e0d7b81-59a5-47c3-b296-4c86281eaa4e",
@@ -740,6 +740,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/rehire/3d0aaf64-f2fb-4123-b9bb-5c0d418226c7",
       "firstJobbyUrl": "https://firstjobby.com/companies/rehire/business-operations-and-automations-jr-analyst-rehire-fb7fb4?utm_source=reddit",
       "postedAt": "2026-10-20T16:17:49.127Z",
+      "notable": 3
+    },
+    {
+      "id": "3b23393f-fa6c-4e30-93c9-39742c7740d1",
+      "title": "Product Design Intern - Summer 2027",
+      "company": "Patreon",
+      "place": "New York, United States",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$47/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849",
+      "firstJobbyUrl": "https://firstjobby.com/companies/patreon-ashby/product-design-intern-summer-2027-patreon-458620?utm_source=reddit",
+      "postedAt": "2026-10-20T16:13:24.994Z",
       "notable": 3
     },
     {
@@ -2032,6 +2051,25 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/welearn/jobs/5011215101",
       "firstJobbyUrl": "https://firstjobby.com/companies/welearn/junior-account-manager-welearn-8e9fc7?utm_source=reddit",
       "postedAt": "2026-10-20T14:17:55.000Z",
+      "notable": 3
+    },
+    {
+      "id": "d40dd3e5-c5e7-43be-a9f6-9f01547790ff",
+      "title": "Software Engineer, iOS",
+      "company": "Mirage",
+      "place": "United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$175.0K-$275.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/mirage/ea041e05-bd6b-481c-9cd2-21e31460255b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mirage/software-engineer-ios-mirage-69fd79?utm_source=reddit",
+      "postedAt": "2026-10-20T14:16:09.873Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/masters-thesis-model-based-orchestration-of-automation-logic-in-a-network-centri-91eb9d?utm_source=reddit",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "de72a172-403d-4fda-90d0-c6802c68a106",
-      "title": "Spec-in Sales Representative, Industrial Adhesives and Tapes Division",
-      "company": "3M",
-      "place": "Remote from South Korea",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://3m.wd1.myworkdayjobs.com/Search/job/KR-BUSAN-Remote/Spec-in-Sales-Representative--Industrial-Adhesives-and-Tapes-Division_R01172218-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/spec-in-sales-representative-industrial-adhesives-and-tapes-division-3m-a867bc?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "dde0e936-8c6b-4034-93de-8487cdbebe15",
-      "title": "Technical Sales Representative (Northern)",
-      "company": "MSD",
-      "place": "Bangkok, Thailand",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/THA---Bangkok---Bangkok-Tha-Central-World/Technical-Sales-Representative--Northern-_R420312-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/msdorwd5orsearchjobs/technical-sales-representative-northern-msd-6d7e9d?utm_source=reddit",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
