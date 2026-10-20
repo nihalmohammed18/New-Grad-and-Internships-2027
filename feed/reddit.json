@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:21:22.717Z",
+  "generatedAt": "2026-10-20T13:32:42.713Z",
   "jobs": [
     {
       "id": "05695762-237b-493b-a0f8-4e709de5705e",
@@ -895,6 +895,25 @@
       "notable": 5
     },
     {
+      "id": "61a832f0-7c01-4e45-a5f8-ed7de58e52a0",
+      "title": "Securities Operations Intern (f/m/d)",
+      "company": "Upvest",
+      "place": "France",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/upvest/aab1da57-e73c-4989-b0d1-f70d24b09813",
+      "firstJobbyUrl": "https://firstjobby.com/companies/upvest/securities-operations-intern-fmd-upvest-f0af7e?utm_source=reddit",
+      "postedAt": "2026-10-20T09:52:25.592Z",
+      "notable": 1
+    },
+    {
       "id": "0e34218d-f517-4cd3-98f4-314e79ab104a",
       "title": "HubSpot Implementation Specialist",
       "company": "Jobgether",
@@ -912,6 +931,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/hubspot-implementation-specialist-jobgether-9e6593?utm_source=reddit",
       "postedAt": "2026-10-20T09:51:45.090Z",
       "notable": 3
+    },
+    {
+      "id": "ca096e50-95ed-4fc7-8181-85019870fecb",
+      "title": "Sales Development Representative with English",
+      "company": "Cision",
+      "place": "Copenhagen, Denmark",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/cision/jobs/5010330101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cision/sales-development-representative-with-english-cision-437775?utm_source=reddit",
+      "postedAt": "2026-10-20T09:50:44.000Z",
+      "notable": 2
     },
     {
       "id": "194b20e3-a9f6-4526-ade2-343e6760b248",
@@ -5645,6 +5683,25 @@
       "notable": 3
     },
     {
+      "id": "821f3a57-18cd-40b6-87d8-ab90f67b0589",
+      "title": "Junior Fullstack Developer 2.0 (PHP + React + Cursor/Windsurf)",
+      "company": "Telemedi",
+      "place": "Warsaw, Poland",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/CEFA010401",
+      "firstJobbyUrl": "https://firstjobby.com/companies/telemedi/junior-fullstack-developer-20-php-react-cursorwindsurf-telemedi-ce9031?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 1
+    },
+    {
       "id": "817b3a88-4815-4531-8598-d0d3baf05aec",
       "title": "Marketing Intern (Malaysia)",
       "company": "Love, Bonito",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/offerup/software-development-engineer-ii-remote-colombia-offerup-7556bd?utm_source=reddit",
       "postedAt": "2026-10-19T20:25:15.000Z",
       "notable": 1
-    },
-    {
-      "id": "68974f01-4b02-40c4-8d55-634269a42cdd",
-      "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
-      "company": "Waymo",
-      "place": "Mountain View, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
-      "firstJobbyUrl": "https://firstjobby.com/companies/waymo/2027-summer-intern-phd-machine-learning-simulation-and-closed-loop-training-waym-0a68c2?utm_source=reddit",
-      "postedAt": "2026-10-19T20:24:47.000Z",
-      "notable": 5
-    },
-    {
-      "id": "b19b0ab3-846f-4627-b3ca-2d87840a6605",
-      "title": "Operations Engineer",
-      "company": "Amca",
-      "place": "El Segundo, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$100.0K-$160.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/amca/jobs/4456377009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amca/operations-engineer-amca-2c2071?utm_source=reddit",
-      "postedAt": "2026-10-19T20:24:29.000Z",
-      "notable": 5
-    },
-    {
-      "id": "ac16b05a-1c34-4061-832c-ffc2cfb49dc2",
-      "title": "Advanced Solar Field Service Technician (Operations and Maintenance)",
-      "company": "Pearce Services",
-      "place": "San Jose, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$35/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/pearceservices/jobs/5455963008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pearceservices/advanced-solar-field-service-technician-operations-and-maintenance-pearce-servic-f1e369?utm_source=reddit",
-      "postedAt": "2026-10-19T20:23:31.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
