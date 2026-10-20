@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:50:37.244Z",
+  "generatedAt": "2026-10-20T14:01:17.534Z",
   "jobs": [
     {
       "id": "05695762-237b-493b-a0f8-4e709de5705e",
@@ -4847,6 +4847,25 @@
       "notable": 5
     },
     {
+      "id": "cbf190fb-15a0-4ae1-bbca-440d550abcb0",
+      "title": "Support Engineer",
+      "company": "Bluehost",
+      "place": "Cebu, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://web.wd1.myworkdayjobs.com/ExternalCareerSite/job/Cebu-Philippines/Support-Engineer_R15313",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weborwd1orexternalcareersite/support-engineer-bluehost-eb98f5?utm_source=reddit",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "cb04d44d-3005-4cff-a765-d212c29284da",
       "title": "Software Engineer - Applied AI / Product Engineering",
       "company": "MLabs",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/distro/sales-engineer-distro-29ee90?utm_source=reddit",
       "postedAt": "2026-10-19T20:39:26.024Z",
       "notable": 5
-    },
-    {
-      "id": "2f35caed-731f-455d-8d2d-7066f0e03eb5",
-      "title": "Business Operations Analyst Intern",
-      "company": "Four Hands",
-      "place": "Austin, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/fourhands/jobs/4458217009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fourhands/business-operations-analyst-intern-four-hands-fa472f?utm_source=reddit",
-      "postedAt": "2026-10-19T20:37:44.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
