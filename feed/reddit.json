@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:54:02.786Z",
+  "generatedAt": "2026-10-21T14:58:21.972Z",
   "jobs": [
     {
       "id": "c752bc6f-f7e1-4227-b83b-fe79ac45f10d",
@@ -7583,6 +7583,25 @@
       "notable": 2
     },
     {
+      "id": "c3aeeddb-9869-4a4a-9c06-6b699320d6c5",
+      "title": "FX Business developer",
+      "company": "Corpay",
+      "place": "Barcelona, Spain",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€35.0K-€42.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://corpay.wd103.myworkdayjobs.com/Ext_001/job/Madrid-Genova---Cross-Border/FX-Business-developer_R10028",
+      "firstJobbyUrl": "https://firstjobby.com/companies/corpayorwd103orext001/fx-business-developer-corpay-f70dc4?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "c0bc8f88-4f46-46e6-8ec6-6c813408ac5a",
       "title": "Security Service Technician",
       "company": "Johnson Controls",
@@ -7997,6 +8016,25 @@
       "season": null,
       "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/PAK---Sindh---Karachi/Service-Engineer---Chinese-Speaker_R00309120",
       "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/service-engineer-chinese-speaker-ecolab-f5060d?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "8723f4e8-3705-4644-98ec-81570d93c8dd",
+      "title": "Research Engineer - MR Image Analysis",
+      "company": "Cleveland Clinic",
+      "place": "Cleveland, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Senior-Research-Engineer---MR-Image-Analysis_348854-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ccforwd1orclevelandcliniccareers/research-engineer-mr-image-analysis-cleveland-clinic-dbd528?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/pricing-analyst-weekday-ai-64fe12?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "11e200a5-7452-43c7-a840-9e92e647a646",
-      "title": "Analyst I, Falcon Complete GovCloud (Hybrid, St. Louis)",
-      "company": "CrowdStrike",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85.0K-$120.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete-GovCloud--Hybrid--St-Louis-_R30476",
-      "firstJobbyUrl": "https://firstjobby.com/companies/crowdstrikeorwd5orcrowdstrikecareers/analyst-i-falcon-complete-govcloud-hybrid-st-louis-crowdstrike-bebf90?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "119d9439-0efe-4a42-95a2-fb9feb75a4c1",
-      "title": "Part-Time Athletics Media & Communications Support Staff",
-      "company": "American",
-      "place": "Washington, United States",
-      "category": "Marketing",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25/hr",
-      "minYears": 1,
-      "season": "August through March",
-      "applyUrl": "https://american.wd1.myworkdayjobs.com/AU/job/Main-Campus-Washington-DC/Part-Time-Athletics-Media---Communications-Support-Staff_R5098",
-      "firstJobbyUrl": "https://firstjobby.com/companies/americanorwd1orau/part-time-athletics-media-and-communications-support-staff-american-51f8a3?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
