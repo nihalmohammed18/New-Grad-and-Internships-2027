@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:15:41.611Z",
+  "generatedAt": "2026-10-21T17:17:56.498Z",
   "jobs": [
     {
       "id": "83277d0e-8c43-43ef-8a4d-924ac30f57a4",
@@ -9407,6 +9407,25 @@
       "notable": 4
     },
     {
+      "id": "ed047116-d3bc-4f39-a7ef-391ddf642e57",
+      "title": "Associate Solution Developer",
+      "company": "Acxiom",
+      "place": "United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR014610",
+      "firstJobbyUrl": "https://firstjobby.com/companies/acxiomllcorwd5oracxiomusa/associate-solution-developer-acxiom-e3088c?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "ebf27598-82ad-408d-8bec-5f84bfe18ee8",
       "title": "Full Time - Sales Associate - Building Materials - Closing",
       "company": "Lowe's",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/social-media-content-executive-weekday-ai-6b628e?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e7db6725-a40f-4630-a9c0-473560c19f0b",
-      "title": "Item Master Engineer",
-      "company": "GE Vernova",
-      "place": "Hungary",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Budapest/Item-Master-Engineer_R5056326",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/item-master-engineer-ge-vernova-ca3073?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
