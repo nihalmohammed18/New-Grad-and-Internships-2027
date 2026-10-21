@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:48:36.037Z",
+  "generatedAt": "2026-10-21T07:00:17.170Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/qualdoc/assistant-operations-manager-railroad-qualdoc-cbb387?utm_source=reddit",
       "postedAt": "2026-10-21T04:05:09.630Z",
       "notable": 5
+    },
+    {
+      "id": "cff980db-7dc2-4e40-868b-2009cc7b7eb5",
+      "title": "Software Development Engineer",
+      "company": "Storable ",
+      "place": "Bellevue, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/storable/software-development-engineer-storable-8640ae?utm_source=reddit",
+      "postedAt": "2026-10-21T03:32:10.000Z",
+      "notable": 1
     },
     {
       "id": "4071fe72-8adc-45b2-96fb-ef2f93658bc1",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/fsh/e6588d03-d7a3-41be-90c1-eb5523f1426d",
       "firstJobbyUrl": "https://firstjobby.com/companies/fsh/engineer-security-fsh-technologies-bc2d17?utm_source=reddit",
       "postedAt": "2026-10-20T15:43:39.590Z",
-      "notable": 3
-    },
-    {
-      "id": "00e4d1db-c8da-4478-86bb-09d5c737d521",
-      "title": "Technicien préleveur à Rosny Sous Bois (H/F)",
-      "company": "Eurofins",
-      "place": "Rosny-sous-Bois, France",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000156599625-technicien-preleveur-a-rosny-sous-bois-h-f-",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/technicien-preleveur-a-rosny-sous-bois-hf-eurofins-44c53f?utm_source=reddit",
-      "postedAt": "2026-10-20T15:42:44.924Z",
       "notable": 3
     }
   ],
