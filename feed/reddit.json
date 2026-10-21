@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:57:52.050Z",
+  "generatedAt": "2026-10-21T21:07:30.395Z",
   "jobs": [
     {
       "id": "5e0cb900-c80a-4f82-b2db-6e891de5f0d8",
@@ -228,6 +228,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/onetrust/ai-systems-engineer-onetrust-14c8a4?utm_source=reddit",
       "postedAt": "2026-10-21T19:06:45.000Z",
       "notable": 5
+    },
+    {
+      "id": "3ab3a86d-3e65-4c89-bd1e-4d705eddc74c",
+      "title": "Network & Systems Technician",
+      "company": "CCS",
+      "place": "Hauppauge, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4448437009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/customcomputerspecialists/network-and-systems-technician-custom-computer-specialists-6facb5?utm_source=reddit",
+      "postedAt": "2026-10-21T19:02:17.000Z",
+      "notable": 3
     },
     {
       "id": "2b171118-7daf-4cd2-a5c0-6364a03b3daf",
@@ -1291,6 +1310,25 @@
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8304121",
       "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/rental-coordinator-equipmentshare-115983?utm_source=reddit",
       "postedAt": "2026-10-21T17:08:01.000Z",
+      "notable": 3
+    },
+    {
+      "id": "7ad491d2-a486-4bb9-8dff-68ce3aa558bb",
+      "title": "Supply Chain Analyst",
+      "company": "CookUnity",
+      "place": "Lima, Peru",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://careers.cookunity.com/open-roles?gh_jid=8039990003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cookunity/supply-chain-analyst-cookunity-2cf994?utm_source=reddit",
+      "postedAt": "2026-10-21T17:07:44.000Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ajax/junior-international-operational-procurement-specialist-test-equipment-and-compo-86740c?utm_source=reddit",
       "postedAt": "2026-10-21T08:26:37.055Z",
       "notable": 3
-    },
-    {
-      "id": "8afa7054-dda1-4dfb-90f6-c39c801b949e",
-      "title": "Compliance Analyst",
-      "company": "Jane Street",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/janestreet/compliance-analyst-jane-street-aa804c?utm_source=reddit",
-      "postedAt": "2026-10-21T08:25:58.000Z",
-      "notable": 3
-    },
-    {
-      "id": "849a5896-5b2b-41ab-835f-bf25d52f41a8",
-      "title": "Snowflake Data Engineer",
-      "company": "Jobgether",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$46-$56/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/8f48f18e-d293-4616-a7c3-15018c77544b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/snowflake-data-engineer-jobgether-bd0ff7?utm_source=reddit",
-      "postedAt": "2026-10-21T08:25:48.862Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
