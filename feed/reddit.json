@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-21T14:58:21.972Z",
+  "generatedAt": "2026-10-21T15:04:24.798Z",
   "jobs": [
+    {
+      "id": "002d4d6d-5e79-4691-ab0b-fe7e233f846a",
+      "title": "Telecommunications Network Engineer ** Active Top Secret Security Clearance Required**",
+      "company": "CompTech Computer Technologies",
+      "place": "Fort Belvoir, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$90.0K-$100.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/comptechcomputertechnologies/jobs/5459648008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/comptechcomputertechnologies/telecommunications-network-engineer-active-top-secret-security-clearance-require-aef731?utm_source=reddit",
+      "postedAt": "2026-10-21T14:55:29.000Z",
+      "notable": 3
+    },
     {
       "id": "c752bc6f-f7e1-4227-b83b-fe79ac45f10d",
       "title": "Mortgage Analyst",
@@ -95,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pathrobotics/sales-development-representative-path-robotics-f40464?utm_source=reddit",
       "postedAt": "2026-10-21T12:55:08.000Z",
       "notable": 2
+    },
+    {
+      "id": "ecd2cf1d-8bea-4006-af17-be4adca44732",
+      "title": "Associate Systems Engineer",
+      "company": "CCS",
+      "place": "Hauppauge, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$60.0K-$70.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4452111009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/customcomputerspecialists/associate-systems-engineer-custom-computer-specialists-0721b3?utm_source=reddit",
+      "postedAt": "2026-10-21T12:44:09.000Z",
+      "notable": 5
     },
     {
       "id": "8d9c8619-df39-4df3-88dd-cf07ac3e6e85",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cmegrouporwd1orcmecareers/post-trade-client-services-and-risk-analyst-cmegroup-e26374?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "1297098c-3cad-49bf-bbc7-00256446f308",
-      "title": "Quality Engineer II",
-      "company": "Medtronic",
-      "place": "Kulim, Malaysia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Kulim-Kedah-Malaysia/Quality-Engineer-II_R78978-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/quality-engineer-ii-medtronic-7bf1a7?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "1264f0c7-6695-4b03-952b-6ddbe40e6b0d",
-      "title": "Pricing Analyst",
-      "company": "Weekday AI",
-      "place": "Mumbai, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/0583522DAF",
-      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/pricing-analyst-weekday-ai-64fe12?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
