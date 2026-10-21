@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:45:53.144Z",
+  "generatedAt": "2026-10-21T08:01:23.404Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -1385,6 +1385,25 @@
       "season": null,
       "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Global-Service-Desk---Centralized-Access-Control-Analyst_JR-0024785-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/global-service-desk-centralized-access-control-analyst-theapexgroup-1aa302?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0b48b77b-6ac8-4365-91bf-c8967fdb187d",
+      "title": "Security Systems  Administrator (Tier 3)",
+      "company": "Cushman & Wakefield",
+      "place": "Malaysia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---MYS---Johor---Kulai---Jalan-Pekeliling-Tanjung-27-Kawasan-Perindustrian-Indahpura/Security-Systems--Administrator--Tier-3-_R341129",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cworwd1orexternal/security-systems-administrator-tier-3-cushman-and-wakefield-db0d80?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/getyourguide/junior-account-executive-getyourguide-b0e190?utm_source=reddit",
       "postedAt": "2026-10-20T15:59:31.000Z",
       "notable": 1
-    },
-    {
-      "id": "41b1e4d3-2ddb-449f-9f63-0e9efbb1e8b3",
-      "title": "Vehicle Systems Engineering",
-      "company": "Geotab",
-      "place": "Waterloo, Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$85.5K-CA$105.6K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/geotab/jobs/5446132008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/geotab/vehicle-systems-engineering-geotab-b22ec0?utm_source=reddit",
-      "postedAt": "2026-10-20T15:59:27.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
