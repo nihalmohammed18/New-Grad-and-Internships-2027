@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:03:15.903Z",
+  "generatedAt": "2026-10-21T23:10:50.308Z",
   "jobs": [
     {
       "id": "b71b6584-dc35-4d8c-92ca-5d7d08f441ae",
@@ -1465,6 +1465,25 @@
       "notable": 4
     },
     {
+      "id": "a004da67-3ffb-41b3-a7d0-55c3c4f100e3",
+      "title": "Construction & Commissioning Quality Engineer",
+      "company": "Mariana Minerals",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/marianaminerals/425306c5-d092-4cab-9bc9-a6d565b55169",
+      "firstJobbyUrl": "https://firstjobby.com/companies/marianaminerals/construction-and-commissioning-quality-engineer-mariana-minerals-9f6bcf?utm_source=reddit",
+      "postedAt": "2026-10-21T17:52:25.296Z",
+      "notable": 1
+    },
+    {
       "id": "74a03b59-7198-4db5-9a8e-3efc4147acc9",
       "title": "Forward Deployed Engineer I",
       "company": "Ascent Developer Solutions",
@@ -2071,6 +2090,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/swarmaero-ashby/manufacturing-engineer-swarm-aero-88952a?utm_source=reddit",
       "postedAt": "2026-10-21T17:17:10.109Z",
       "notable": 5
+    },
+    {
+      "id": "3cf71f67-4b49-42f5-b703-86ef0a6eaf7e",
+      "title": "Sales Coordinator",
+      "company": "Kasa",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$28-$30/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/kasa/jobs/8037963003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kasa/sales-coordinator-kasa-27bd0a?utm_source=reddit",
+      "postedAt": "2026-10-21T17:16:55.000Z",
+      "notable": 3
     },
     {
       "id": "5ca2b231-c997-4644-a615-f43882208db4",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/b28a647e-9427-4683-9444-9656c0967eb7",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/sales-development-representative-rentals-jobgether-3a02ec?utm_source=reddit",
       "postedAt": "2026-10-21T09:42:25.216Z",
-      "notable": 3
-    },
-    {
-      "id": "43bb52d5-1928-428b-b29f-31130640f9d0",
-      "title": "Customer Service Representative - English Speakers - Grads",
-      "company": "Sutherland",
-      "place": "Cairo, Egypt",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "EGP 290.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sutherland/744000156757049",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sutherland/customer-service-representative-english-speakers-grads-sutherland-faa4f1?utm_source=reddit",
-      "postedAt": "2026-10-21T09:42:12.695Z",
-      "notable": 4
-    },
-    {
-      "id": "f3c92955-de87-4d94-a664-c42aa978187b",
-      "title": "Visual Designer (m/f/x)",
-      "company": "Scalable GmbH",
-      "place": "München, Germany",
-      "category": "Design",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000156756681",
-      "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/visual-designer-mfx-scalable-gmbh-bd09ff?utm_source=reddit",
-      "postedAt": "2026-10-21T09:41:35.410Z",
       "notable": 3
     }
   ],
