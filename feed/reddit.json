@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:33:04.457Z",
+  "generatedAt": "2026-10-21T08:43:39.598Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -1499,6 +1499,25 @@
       "season": null,
       "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete-GovCloud--Hybrid--St-Louis-_R30476",
       "firstJobbyUrl": "https://firstjobby.com/companies/crowdstrikeorwd5orcrowdstrikecareers/analyst-i-falcon-complete-govcloud-hybrid-st-louis-crowdstrike-bebf90?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
+    },
+    {
+      "id": "119d9439-0efe-4a42-95a2-fb9feb75a4c1",
+      "title": "Part-Time Athletics Media & Communications Support Staff",
+      "company": "American",
+      "place": "Washington, United States",
+      "category": "Marketing",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$25/hr",
+      "minYears": 1,
+      "season": "August through March",
+      "applyUrl": "https://american.wd1.myworkdayjobs.com/AU/job/Main-Campus-Washington-DC/Part-Time-Athletics-Media---Communications-Support-Staff_R5098",
+      "firstJobbyUrl": "https://firstjobby.com/companies/americanorwd1orau/part-time-athletics-media-and-communications-support-staff-american-51f8a3?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 4
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://coreweave.com/careers/job?4722834006&board=coreweave&gh_jid=4722834006",
       "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-sandusky-oh-coreweave-fe160d?utm_source=reddit",
       "postedAt": "2026-10-20T16:09:20.000Z",
-      "notable": 5
-    },
-    {
-      "id": "f6136222-39e9-471b-9b35-dfb8dd554538",
-      "title": "Data Center Technician - Volo, IL",
-      "company": "CoreWeave",
-      "place": "Volo, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$65.0K-$85.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://coreweave.com/careers/job?4722830006&board=coreweave&gh_jid=4722830006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-volo-il-coreweave-996594?utm_source=reddit",
-      "postedAt": "2026-10-20T16:08:51.000Z",
       "notable": 5
     }
   ],
