@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:25:28.632Z",
+  "generatedAt": "2026-10-21T17:34:47.354Z",
   "jobs": [
     {
       "id": "83277d0e-8c43-43ef-8a4d-924ac30f57a4",
@@ -9198,6 +9198,25 @@
       "notable": 2
     },
     {
+      "id": "fb8ccb43-97e0-4cea-961a-5141b082a13e",
+      "title": "Primary Flight Control Designer (f/m)",
+      "company": "Airbus",
+      "place": "Toulouse, France",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Primary-Flight-Control-System-Designer--f-h-_JR10446989",
+      "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/primary-flight-control-designer-fm-airbus-3d819c?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "fa3b2941-e9bf-4784-989e-9edbe4b983d6",
       "title": "Leader, Sales - Splunk - Defense - Advanced Mission",
       "company": "Cisco",
@@ -9270,6 +9289,25 @@
       "season": null,
       "applyUrl": "https://adventhealth.wd12.myworkdayjobs.com/AH_External_Career_Site/job/ADVENTHEALTH-DURAND/FT-RN-Trauma-Quality-Coordinator_R-0409623",
       "firstJobbyUrl": "https://firstjobby.com/companies/adventhealthorwd12orahexternalcareersite/ft-rn-trauma-quality-coordinator-adventhealth-157c8e?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f8a32954-b4f9-4e42-93c5-ea3546bd9c6f",
+      "title": "Customer Service Admin, Career",
+      "company": "Agilent",
+      "place": "Manesar, India",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/India-Manesar/Customer-Service-Admin--Career_4040242",
+      "firstJobbyUrl": "https://firstjobby.com/companies/agilentorwd5oragilentcareers/customer-service-admin-career-agilent-01fd67?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Tulsa-OK-Midtown-1580/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02682419",
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-closing-lowes-ee6361?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "ebad28e2-78aa-4b7b-91d5-56f23ba59e76",
-      "title": "Pre-sales Consultant, PXM",
-      "company": "Centricsoftware",
-      "place": "Vietnam",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://centricsoftware.wd501.myworkdayjobs.com/Centric/job/Ho-Chi-Minh-Vietnam/Pre-sales-Consultant--PXM_JR418",
-      "firstJobbyUrl": "https://firstjobby.com/companies/centricsoftwareorwd501orcentric/pre-sales-consultant-pxm-centricsoftware-834865?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "eafd9dee-16d4-4523-828a-133dce1e04ff",
-      "title": "FSP_Clnical Research Associate (Sponsor: GSK) ─ with Sign-on Bonus",
-      "company": "Thermo Fisher Scientific",
-      "place": "Remote",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Korea-Republic-of/FSP-Clnical-Research-Associate--Sponsor--GSK----with-Sign-on-Bonus_R-01372301",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/fspclnical-research-associate-sponsor-gsk-with-sign-on-bonus-thermo-fisher-scien-3cc515?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     }
