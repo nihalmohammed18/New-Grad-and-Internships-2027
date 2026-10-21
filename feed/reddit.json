@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:16:38.321Z",
+  "generatedAt": "2026-10-21T05:32:49.026Z",
   "jobs": [
     {
       "id": "83d8b5da-714c-47e1-971d-7760c35d4438",
@@ -380,6 +380,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/banyansoftware/marketing-manger-point-and-ciick-solutions-banyan-software-2eda32?utm_source=reddit",
       "postedAt": "2026-10-21T00:07:16.000Z",
       "notable": 2
+    },
+    {
+      "id": "a2a19c55-acc8-457b-b0a5-22e98720f257",
+      "title": "Sales Development Representative - Summer 2027 Graduates (Boston)",
+      "company": "Datadog",
+      "place": "Boston, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$50.0K/yr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316",
+      "firstJobbyUrl": "https://firstjobby.com/companies/datadog/sales-development-representative-summer-2027-graduates-boston-datadog-8368af?utm_source=reddit",
+      "postedAt": "2026-10-21T00:03:02.000Z",
+      "notable": 5
     },
     {
       "id": "fed85186-4d0a-4c48-9b7c-0e663f14f453",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/field-service-engineer-veolia-environnement-sa-ea957a?utm_source=reddit",
       "postedAt": "2026-10-20T15:19:22.540Z",
       "notable": 6
-    },
-    {
-      "id": "5a74b674-d351-4972-ac44-607f0e2de769",
-      "title": "Strategic Markets Account Executive, SMB - Santa Rosa, CA",
-      "company": "Toast",
-      "place": "Santa Rosa, United States",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$148.0K-$237.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8303522",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toast/strategic-markets-account-executive-smb-santa-rosa-ca-toast-88d4e9?utm_source=reddit",
-      "postedAt": "2026-10-20T15:19:05.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
