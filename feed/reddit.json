@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:25:06.789Z",
+  "generatedAt": "2026-10-21T14:31:29.989Z",
   "jobs": [
     {
       "id": "bc50809c-2edc-4433-a95b-d7001e39ee0d",
@@ -8248,6 +8248,25 @@
       "notable": 5
     },
     {
+      "id": "6ea23a8c-d946-431d-8c2f-9f3191d06f21",
+      "title": "Master Data Analyst",
+      "company": "Embecta",
+      "place": "Madrid, Spain",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://embecta.wd1.myworkdayjobs.com/embectacareers/job/ESP-Madrid/Master-Data-Analyst_R21-00608363",
+      "firstJobbyUrl": "https://firstjobby.com/companies/embectaorwd1orembectacareers/master-data-analyst-embecta-f99574?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "6e7c91a7-3196-4b63-ae3e-9594ffa58430",
       "title": "Data Center Customer Operations II",
       "company": "Equinix",
@@ -9388,6 +9407,25 @@
       "notable": 2
     },
     {
+      "id": "0df76af2-24ee-42a4-aed2-b58d4f286eed",
+      "title": "LTSS Service Coordinator - Clinician",
+      "company": "Elevance Health",
+      "place": "Miami, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-MIAMI-11430-NW-20TH-ST-STE-200--300/LTSS-Service-Coordinator---Clinician_JR210628",
+      "firstJobbyUrl": "https://firstjobby.com/companies/elevancehealthorwd1orant/ltss-service-coordinator-clinician-elevance-health-d28732?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "0d018c14-21da-429a-9748-6eb602905426",
       "title": "Sales Enablement Data & Automation Specialist",
       "company": "MSD",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Sales-Representative-Maternity-Leave-Cover_R79575-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/sales-representative-maternity-leave-cover-medtronic-46fc01?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "09457b2e-0058-4a74-940d-fdcb0f834453",
-      "title": "IT Helpdesk Engineer",
-      "company": "Civica",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/0089F5DEAE",
-      "firstJobbyUrl": "https://firstjobby.com/companies/civica-uk-ltd-1/it-helpdesk-engineer-civica-d80add?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "0913da2d-3ab2-4678-a0bc-41aea2180551",
-      "title": "Sales Specialist Operating Room Essentials – Surgical Innovations (h/f/d)",
-      "company": "Medtronic",
-      "place": "Bern, Switzerland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CHF 98.8K-CHF 148.2K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bern-Canton-de-Berne-Switzerland/Sales-Specialist-Operating-Room-Essentials---Surgical-Innovations--h-f-d-_R65064-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/sales-specialist-operating-room-essentials-surgical-innovations-hfd-medtronic-e0253c?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 4
     }
