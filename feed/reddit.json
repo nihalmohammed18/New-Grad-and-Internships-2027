@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:59:54.474Z",
+  "generatedAt": "2026-10-21T01:06:24.274Z",
   "jobs": [
     {
       "id": "582e1e6c-bebc-47cc-98c0-837f1e39da14",
@@ -513,6 +513,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toast/business-development-representative-international-can-toast-a4dbd2?utm_source=reddit",
       "postedAt": "2026-10-20T21:31:33.000Z",
       "notable": 5
+    },
+    {
+      "id": "a0abcc7b-5b65-4f9a-86a8-c66ac2420ed4",
+      "title": "Operations Supervisor, Customer Service",
+      "company": "Kafene",
+      "place": "Remote from Guatemala",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$2.3K/mo",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/kafene/62487051-a3e8-4f0b-af80-ada5c9f4dc65",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kafene-ashby/operations-supervisor-customer-service-kafene-596911?utm_source=reddit",
+      "postedAt": "2026-10-20T21:31:02.564Z",
+      "notable": 3
     },
     {
       "id": "20dca322-5b04-41c7-a86c-a8adfce034e0",
@@ -2090,6 +2109,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-technician-gas-chromatography-eurofins-environment-testing-lancaster--d0a1d1?utm_source=reddit",
       "postedAt": "2026-10-20T19:22:08.311Z",
       "notable": 6
+    },
+    {
+      "id": "7efc9a22-c011-4518-badb-4a94d1c1e1a5",
+      "title": "Commercial Operations Associate",
+      "company": "CleanSpark",
+      "place": "Remote from United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$95.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/cleanspark/2938204e-58f8-44d8-923d-961190eca7b0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cleanspark/commercial-operations-associate-cleanspark-d09ae2?utm_source=reddit",
+      "postedAt": "2026-10-20T19:20:28.920Z",
+      "notable": 3
     },
     {
       "id": "68e79fd4-6ae5-483e-8515-ad6db0f5ffcd",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/medical-billing-customer-service-representative-getfivestar-c6b9f5?utm_source=reddit",
       "postedAt": "2026-10-20T13:22:32.540Z",
       "notable": 5
-    },
-    {
-      "id": "7d886eb0-eeb4-440e-a701-6880c4e4d4cb",
-      "title": "Medical Billing Customer Service Representative",
-      "company": "Getfivestar",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$14/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/getfivestar/0b85b041-d04b-4757-aa50-972418ba9622",
-      "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/medical-billing-customer-service-representative-getfivestar-9e0ae4?utm_source=reddit",
-      "postedAt": "2026-10-20T13:21:55.980Z",
-      "notable": 5
-    },
-    {
-      "id": "1a3ecf00-ad2e-4b6e-8be8-875b92c5c5fd",
-      "title": "Website Coordinator",
-      "company": "Speechmatics",
-      "place": "Belgrade, Serbia",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/5007737101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/speechmatics/website-coordinator-speechmatics-9522f3?utm_source=reddit",
-      "postedAt": "2026-10-20T13:21:16.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
