@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:37:30.334Z",
+  "generatedAt": "2026-10-21T14:47:11.146Z",
   "jobs": [
     {
       "id": "bc50809c-2edc-4433-a95b-d7001e39ee0d",
@@ -9141,6 +9141,25 @@
       "notable": 2
     },
     {
+      "id": "26953f0b-7e38-4330-92a2-32b4e8f455ee",
+      "title": "Machine Learning Engineer - Agentic AI & Reinforcement Learning",
+      "company": "Cgg",
+      "place": "Crawley, United Kingdom",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer---Agentic-AI---Reinforcement-Learning_JR101451-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cggorwd103orviridiencareers/machine-learning-engineer-agentic-ai-and-reinforcement-learning-cgg-5e7b9e?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "23b57a57-e346-4e93-a4de-496a3c3d2ddd",
       "title": "Scrum Master Technical Operations (m/w/d)",
       "company": "Holman",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cworwd1orexternal/security-systems-administrator-tier-3-cushman-and-wakefield-db0d80?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "0aa3b2e7-bdca-43b6-8ba4-e6208036219f",
-      "title": "Jr. Digital Marketing Specialist",
-      "company": "Octal Philippines Inc.",
-      "place": "Makati City, Philippines",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/185A50A79E",
-      "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/jr-digital-marketing-specialist-octal-philippines-inc-88c25f?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
