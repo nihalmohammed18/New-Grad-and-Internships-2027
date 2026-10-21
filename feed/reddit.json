@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:06:05.419Z",
+  "generatedAt": "2026-10-21T02:13:53.299Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -56,6 +56,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/banyansoftware/jobs/5268984007",
       "firstJobbyUrl": "https://firstjobby.com/companies/banyansoftware/marketing-manger-point-and-ciick-solutions-banyan-software-2eda32?utm_source=reddit",
       "postedAt": "2026-10-21T00:07:16.000Z",
+      "notable": 2
+    },
+    {
+      "id": "fdc244d7-b380-429b-9e18-bfa358aac6e4",
+      "title": "Workplace Coordinator",
+      "company": "JLL",
+      "place": "Chandigarh, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chandigarh/Workplace-Coordinator_REQ534597",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/workplace-coordinator-jll-d70cfd?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
     {
@@ -133,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/systems-engineer-monitoring-and-reporting-kyndryl-e92dec?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "18fab0c1-4031-46a2-85a3-b66fade18bfb",
+      "title": "Services Coordinator",
+      "company": "JLL",
+      "place": "Muntinlupa, Philippines",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Muntinlupa-Philippines/Services-Coordinator_REQ543003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/services-coordinator-jll-396800?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f9d45418-99c8-4e1e-a556-e4e36314c986",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/EDF-UK/744000156566249-geotechnical-engineer",
       "firstJobbyUrl": "https://firstjobby.com/companies/edf-uk/geotechnical-engineer-edf-uk-135f8a?utm_source=reddit",
       "postedAt": "2026-10-20T13:48:14.849Z",
-      "notable": 3
-    },
-    {
-      "id": "6bf038ac-6d85-4e8b-9f38-3c8ad5ec6572",
-      "title": "Compliance Coordinator",
-      "company": "The Pharmacy Hub",
-      "place": "Miami Gardens, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$66.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thepharmacyhub/jobs/5458223008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thepharmacyhub/compliance-coordinator-the-pharmacy-hub-0eff09?utm_source=reddit",
-      "postedAt": "2026-10-20T13:45:32.000Z",
-      "notable": 3
-    },
-    {
-      "id": "ec00a166-95ef-492c-8d5c-9d5973740820",
-      "title": "Business Development Representative (Armis)",
-      "company": "ServiceNow",
-      "place": "Amsterdam, Netherlands",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000156563295-business-development-representative-armis-",
-      "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/business-development-representative-armis-servicenow-8650b8?utm_source=reddit",
-      "postedAt": "2026-10-20T13:44:56.891Z",
       "notable": 3
     }
   ],
