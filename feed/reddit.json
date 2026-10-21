@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:46:52.896Z",
+  "generatedAt": "2026-10-21T11:49:15.196Z",
   "jobs": [
     {
       "id": "f418538b-e5f7-4fd5-99f8-80492592e5c3",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/opswat/rust-engineer-opswat-2adc40?utm_source=reddit",
       "postedAt": "2026-10-21T10:36:01.000Z",
       "notable": 2
+    },
+    {
+      "id": "c73e2e9c-8192-48b4-bd6d-d514d9d3a5ba",
+      "title": "Inside Sales Representative | Portuguese Market (Based in Barcelona)",
+      "company": "Tripadvisor",
+      "place": "Barcelona, Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/tripadvisor/jobs/8305456",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tripadvisor/inside-sales-representative-or-portuguese-market-based-in-barcelona-tripadvisor-c8e82c?utm_source=reddit",
+      "postedAt": "2026-10-21T09:50:33.000Z",
+      "notable": 3
     },
     {
       "id": "0cf0a8ac-0e21-4db3-8d92-2cd63a9c9dc8",
@@ -285,6 +304,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/janestreet/compliance-analyst-jane-street-aa804c?utm_source=reddit",
       "postedAt": "2026-10-21T08:25:58.000Z",
       "notable": 3
+    },
+    {
+      "id": "d129329d-5a9e-48ea-941b-ad08a743428f",
+      "title": "Software Engineer Product Infra: Core Services",
+      "company": "Rubrik Job Board",
+      "place": "Bangalore, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rubrik/software-engineer-product-infra-core-services-rubrik-job-board-dee3ad?utm_source=reddit",
+      "postedAt": "2026-10-21T08:20:32.000Z",
+      "notable": 2
     },
     {
       "id": "38b95a3b-8213-462c-8b33-ff64bca59c75",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nbcuniversal3/coordinator-sports-marketing-nbcuniversal-77ff34?utm_source=reddit",
       "postedAt": "2026-10-20T17:59:05.034Z",
       "notable": 5
-    },
-    {
-      "id": "be50f317-1f95-40d6-a5b8-a76c5e2f7382",
-      "title": "Key Account Manager - Associate - MMB Core - Guntur",
-      "company": "Paytm Payments",
-      "place": "Guntur, India",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/paytmpayments/8b5c320c-f93a-469a-a34e-f7a3e050d026",
-      "firstJobbyUrl": "https://firstjobby.com/companies/paytmpayments/key-account-manager-associate-mmb-core-guntur-paytm-payments-28d45e?utm_source=reddit",
-      "postedAt": "2026-10-20T17:58:20.079Z",
-      "notable": 2
-    },
-    {
-      "id": "98b622af-28d6-4e34-add3-600df9035d1b",
-      "title": "Business Development SME",
-      "company": "SIXT",
-      "place": "Fort Lauderdale, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000156626392",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/business-development-sme-sixt-6f8bef?utm_source=reddit",
-      "postedAt": "2026-10-20T17:58:05.871Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
