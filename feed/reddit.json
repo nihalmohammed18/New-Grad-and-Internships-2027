@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:22:08.147Z",
+  "generatedAt": "2026-10-21T09:25:25.050Z",
   "jobs": [
     {
       "id": "5ab18a5c-bf41-4bf1-af54-b4ac06721517",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/betsson/player-management-backend-software-engineer-betsson-group-cc86da?utm_source=reddit",
       "postedAt": "2026-10-21T08:58:29.000Z",
       "notable": 1
+    },
+    {
+      "id": "2e14ee49-cccd-4c31-9c95-8e8a3d8e1377",
+      "title": "Analyst I, Merchant Product Support",
+      "company": "Checkout.com",
+      "place": "Shanghai, China",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/checkout.com/b4f24e31-7eeb-4fa4-99c4-18623fc18d6f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/checkoutcom/analyst-i-merchant-product-support-checkoutcom-14aae7?utm_source=reddit",
+      "postedAt": "2026-10-21T08:30:50.356Z",
+      "notable": 3
     },
     {
       "id": "8afa7054-dda1-4dfb-90f6-c39c801b949e",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/financialtechnologypartners/research-analyst-companies-and-transactions-financial-technology-partners-f7a98e?utm_source=reddit",
       "postedAt": "2026-10-20T16:19:51.000Z",
       "notable": 1
-    },
-    {
-      "id": "1ed190f3-727a-4290-8ccc-819612b18064",
-      "title": "Security Engineer, ML Infrastructure",
-      "company": "Higgsfieldai",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$200.0K-$300.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/higgsfieldai/2241905f-597c-425e-859b-bdf1d1e55559",
-      "firstJobbyUrl": "https://firstjobby.com/companies/higgsfieldai/security-engineer-ml-infrastructure-higgsfieldai-ab6da2?utm_source=reddit",
-      "postedAt": "2026-10-20T16:19:38.333Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
