@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:00:17.170Z",
+  "generatedAt": "2026-10-21T07:04:53.091Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -228,6 +228,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/junior-fullstack-software-engineer-delivery-hero-6ff0e9?utm_source=reddit",
       "postedAt": "2026-10-21T03:25:36.226Z",
       "notable": 3
+    },
+    {
+      "id": "57761abd-666b-4eae-9ea2-b84129f551b6",
+      "title": "Build Engineer I/II - Space",
+      "company": "Antares",
+      "place": "Torrance, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$90.0K-$185.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/antares/f3a4b06e-3d83-4c2b-9091-9a0cb9025d7f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/antares/build-engineer-iii-space-antares-bb1a21?utm_source=reddit",
+      "postedAt": "2026-10-21T03:21:53.091Z",
+      "notable": 5
     },
     {
       "id": "b310d81b-6ca5-4c51-8f93-cb8c1de71de2",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5458478008",
       "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/showroomcounter-parts-sales-dh-pace-65adc6?utm_source=reddit",
       "postedAt": "2026-10-20T15:45:17.000Z",
-      "notable": 3
-    },
-    {
-      "id": "0d1944fe-a75c-4d00-a5e4-719c4b68c382",
-      "title": "Engineer - Security",
-      "company": "FSH Technologies",
-      "place": "Philadelphia, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$175.0K-$250.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/fsh/e6588d03-d7a3-41be-90c1-eb5523f1426d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fsh/engineer-security-fsh-technologies-bc2d17?utm_source=reddit",
-      "postedAt": "2026-10-20T15:43:39.590Z",
       "notable": 3
     }
   ],
