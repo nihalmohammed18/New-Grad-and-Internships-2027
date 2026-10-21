@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:16:01.231Z",
+  "generatedAt": "2026-10-21T07:21:24.642Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -967,6 +967,25 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/6C54B76466",
       "firstJobbyUrl": "https://firstjobby.com/companies/cxg/project-coordinator-intern-luxury-cxg-a45f2b?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 1
+    },
+    {
+      "id": "aa526a05-ee33-4374-9c4c-d7894083ad32",
+      "title": "Customer Service Agent",
+      "company": "Datamark, Inc.",
+      "place": "Chennai, India",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/341B0F40FB",
+      "firstJobbyUrl": "https://firstjobby.com/companies/datamark-inc/customer-service-agent-datamark-inc-3d965a?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 1
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5458247008",
       "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/department-coordinator-dh-pace-66d46a?utm_source=reddit",
       "postedAt": "2026-10-20T15:55:31.000Z",
-      "notable": 3
-    },
-    {
-      "id": "91e82330-a5e8-4a75-94bf-0b43e619cdd7",
-      "title": "Channel Account Manager (Fluent in French) (Remote in France)",
-      "company": "KnowBe4",
-      "place": "Remote from France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8902930002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/knowbe4/channel-account-manager-fluent-in-french-remote-in-france-knowbe4-65e1cf?utm_source=reddit",
-      "postedAt": "2026-10-20T15:55:15.000Z",
       "notable": 3
     }
   ],
