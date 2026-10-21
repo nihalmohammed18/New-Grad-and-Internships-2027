@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:03:42.180Z",
+  "generatedAt": "2026-10-21T22:08:16.518Z",
   "jobs": [
     {
       "id": "ee27ba4e-4e67-4134-975c-8d4ad44d6d72",
@@ -2814,6 +2814,25 @@
       "notable": 2
     },
     {
+      "id": "ed397098-2f11-4f0f-9d47-ab5cf96e63bd",
+      "title": "Content Creator",
+      "company": "Envato 2",
+      "place": "Australia",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/envato-2/d0ca3677-a1cd-42cd-a6f8-829450e4f22f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/envato-2/content-creator-envato-2-c19e43?utm_source=reddit",
+      "postedAt": "2026-10-21T16:42:06.302Z",
+      "notable": 1
+    },
+    {
       "id": "1e19171e-87c8-4cfb-ba00-f0c4bdbe76f3",
       "title": "Software Engineer II - Production Automation",
       "company": "Rocket Lab",
@@ -3191,6 +3210,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/grow-therapy/838b2c36-f8a3-4abd-b435-6c8904138155",
       "firstJobbyUrl": "https://firstjobby.com/companies/grow-therapy/specialist-ii-release-of-information-operations-grow-therapy-cacebd?utm_source=reddit",
       "postedAt": "2026-10-21T16:16:47.783Z",
+      "notable": 3
+    },
+    {
+      "id": "5a7adc58-986f-4ee3-92d2-e34642a42261",
+      "title": "Advertising Account Manager",
+      "company": "Fizz",
+      "place": "New York, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70.0K-$100.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/fizz/4c4ba199-c694-4409-aa2e-5d1d18ca9a5d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fizz-ashby/advertising-account-manager-fizz-222eab?utm_source=reddit",
+      "postedAt": "2026-10-21T16:16:00.965Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/theadaptavistgroup/strategic-account-manager-the-adaptavist-group-844bf3?utm_source=reddit",
       "postedAt": "2026-10-21T09:41:25.725Z",
       "notable": 1
-    },
-    {
-      "id": "cf317ee3-b092-46e4-acde-aca5083a1f5e",
-      "title": "Requirements Engineering Consultant (all genders) Schwerpunkt IT-Prozessautomatisierung",
-      "company": "Deloitte",
-      "place": "Vienna, Austria",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteAT/744000156755441",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deloitteat/requirements-engineering-consultant-all-genders-schwerpunkt-it-prozessautomatisi-8e6b63?utm_source=reddit",
-      "postedAt": "2026-10-21T09:40:05.134Z",
-      "notable": 3
-    },
-    {
-      "id": "f0cfec75-abb7-44c9-bcb7-7a3d33f11a8a",
-      "title": "French Bilingual: Content Processing Specialist (Customer Service/Content Moderation)",
-      "company": "BrickBrands",
-      "place": "Remote",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BrickBrands/744000156756260",
-      "firstJobbyUrl": "https://firstjobby.com/companies/brickbrands/french-bilingual-content-processing-specialist-customer-servicecontent-moderatio-ee6a6b?utm_source=reddit",
-      "postedAt": "2026-10-21T09:39:47.131Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
