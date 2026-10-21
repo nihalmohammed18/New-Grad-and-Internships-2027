@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:32:30.041Z",
+  "generatedAt": "2026-10-21T02:36:38.470Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -361,6 +361,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/arrowheadpharmacareers/associate-engineer-i-validation-arrowhead-pharmaceuticals-489b6e?utm_source=reddit",
       "postedAt": "2026-10-20T23:17:22.000Z",
       "notable": 5
+    },
+    {
+      "id": "7c46c373-c4b9-487f-ac61-fdbd48a56474",
+      "title": "Technical Delivery Engineer",
+      "company": "Artisight",
+      "place": "Indianapolis, United States",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://artisight.com/positions/?gh_jid=4437348009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/artisight/technical-delivery-engineer-artisight-d04f33?utm_source=reddit",
+      "postedAt": "2026-10-20T23:16:30.000Z",
+      "notable": 1
     },
     {
       "id": "5cf8bb23-d762-4405-b103-83cf0e25be60",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/translation-project-coordinator-atlanta-transperfect-a2ab8f?utm_source=reddit",
       "postedAt": "2026-10-20T13:50:29.000Z",
       "notable": 2
-    },
-    {
-      "id": "50239c6d-3b97-426a-aa9a-bf45b8a6ee02",
-      "title": "Business Development Representative - German or Polish speaking",
-      "company": "Checkout.com",
-      "place": "Barcelona, Spain",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/checkout.com/a2c93e18-85f6-41a8-9115-a5aa43646f92",
-      "firstJobbyUrl": "https://firstjobby.com/companies/checkoutcom/business-development-representative-german-or-polish-speaking-checkoutcom-28939d?utm_source=reddit",
-      "postedAt": "2026-10-20T13:49:50.380Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
