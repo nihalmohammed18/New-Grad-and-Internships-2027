@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:32:49.026Z",
+  "generatedAt": "2026-10-21T05:38:53.093Z",
   "jobs": [
     {
       "id": "83d8b5da-714c-47e1-971d-7760c35d4438",
@@ -684,6 +684,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/services-coordinator-jll-396800?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1122a2f5-937c-458f-affd-5343e5bbb01a",
+      "title": "Account Executive",
+      "company": "OpenTable",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/opentable/jobs/8887427002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/opentable/account-executive-opentable-48cdd7?utm_source=reddit",
+      "postedAt": "2026-10-20T23:47:20.000Z",
+      "notable": 3
     },
     {
       "id": "f9d45418-99c8-4e1e-a556-e4e36314c986",
@@ -7277,25 +7296,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dlhcorporation/public-health-analyst-job-1500-dlh-b85092?utm_source=reddit",
       "postedAt": "2026-10-20T17:20:12.000Z",
       "notable": 1
-    },
-    {
-      "id": "9ccf07e7-0a11-4968-9f2c-487f9c61d495",
-      "title": "Assistant Field Coordinator (Hourly)",
-      "company": "Holder Construction",
-      "place": "Richmond, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/holderconstruction/jobs/4433560009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/holderconstruction/assistant-field-coordinator-hourly-holder-construction-5dfb3d?utm_source=reddit",
-      "postedAt": "2026-10-20T17:19:30.000Z",
-      "notable": 4
     },
     {
       "id": "b255b4de-1c4d-4c69-82b5-a06c9227525b",
