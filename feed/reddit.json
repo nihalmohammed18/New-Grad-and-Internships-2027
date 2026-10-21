@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:41:14.752Z",
+  "generatedAt": "2026-10-21T01:50:18.632Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clydecoorwd103orclydecocareers/risk-and-compliance-analyst-apac-global-law-firm-based-in-singapore-clyde-and-co-b982ad?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "80e2f937-a688-487e-880d-0e538404bc93",
+      "title": "AI Solutions Engineer",
+      "company": "KION Group",
+      "place": "Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Belrose-NSW-Australia/AI-Solutions-Engineer_JR-0097884-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/ai-solutions-engineer-kion-group-6b8c61?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f9d45418-99c8-4e1e-a556-e4e36314c986",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lastpass/software-engineer-net-lastpass-97c5cd?utm_source=reddit",
       "postedAt": "2026-10-20T13:42:31.000Z",
       "notable": 1
-    },
-    {
-      "id": "4fb1c215-9b2f-4362-a010-443ead0b04d3",
-      "title": "Industrial Account Manager",
-      "company": "REXEL",
-      "place": "Ireland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000156564020-industrial-account-manager",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/industrial-account-manager-rexel-f5d20c?utm_source=reddit",
-      "postedAt": "2026-10-20T13:42:10.411Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
