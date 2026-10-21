@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:50:18.632Z",
+  "generatedAt": "2026-10-21T02:06:05.419Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -95,6 +95,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/ai-solutions-engineer-kion-group-6b8c61?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7a357660-3ba8-4da1-8499-f12b89872115",
+      "title": "2nd Level Application Support / Windows System Administrator",
+      "company": "Kyndryl",
+      "place": "Vienna, Austria",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€74.2K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Vienna-Spaces-Francis-ATVIFRAN/XMLNAME-2nd-Level-Application-Support---Windows-System-Administrator_R-68687",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/2nd-level-application-support-windows-system-administrator-kyndryl-e36305?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
+    },
+    {
+      "id": "6b67f23d-0fed-4a48-a951-5db4939842c7",
+      "title": "Systems Engineer Monitoring & Reporting",
+      "company": "Kyndryl",
+      "place": "Vienna, Austria",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€81.8K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Vienna-Spaces-Francis-ATVIFRAN/Systems-Engineer-Monitoring---Reporting_R-68614",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/systems-engineer-monitoring-and-reporting-kyndryl-e92dec?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "f9d45418-99c8-4e1e-a556-e4e36314c986",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/business-development-representative-armis-servicenow-8650b8?utm_source=reddit",
       "postedAt": "2026-10-20T13:44:56.891Z",
       "notable": 3
-    },
-    {
-      "id": "aa943db4-f7c5-480c-9380-59318d51f94f",
-      "title": "Desktop Support Analyst II (Manufacturing Technology Support)",
-      "company": "DYOPATH",
-      "place": "Monterrey, Mexico",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "MX$24.0K/mo",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dyopath/jobs/4723306006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dyopath/desktop-support-analyst-ii-manufacturing-technology-support-dyopath-476568?utm_source=reddit",
-      "postedAt": "2026-10-20T13:42:53.000Z",
-      "notable": 5
-    },
-    {
-      "id": "c27074c5-205b-4013-8502-e89cd78372ba",
-      "title": "Software Engineer (.NET)",
-      "company": "LastPass",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/lastpass/jobs/4744514005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lastpass/software-engineer-net-lastpass-97c5cd?utm_source=reddit",
-      "postedAt": "2026-10-20T13:42:31.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
