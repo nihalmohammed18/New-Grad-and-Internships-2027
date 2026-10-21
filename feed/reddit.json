@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:11:22.276Z",
+  "generatedAt": "2026-10-21T07:16:01.231Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -266,6 +266,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/antares/build-engineer-iii-space-antares-bb1a21?utm_source=reddit",
       "postedAt": "2026-10-21T03:21:53.091Z",
       "notable": 5
+    },
+    {
+      "id": "e17bb100-ca8b-4538-a08e-cad145eda694",
+      "title": "Software Engineer – Open Position (Robotics / Backend, C++)",
+      "company": "Mujininc",
+      "place": "Tokyo, Japan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/mujininc/df168846-9eed-47e6-bdd5-29f26d0f7ac0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mujininc/software-engineer-open-position-robotics-backend-c-mujininc-4d9f77?utm_source=reddit",
+      "postedAt": "2026-10-21T03:21:04.211Z",
+      "notable": 2
     },
     {
       "id": "b310d81b-6ca5-4c51-8f93-cb8c1de71de2",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/knowbe4/channel-account-manager-fluent-in-french-remote-in-france-knowbe4-65e1cf?utm_source=reddit",
       "postedAt": "2026-10-20T15:55:15.000Z",
       "notable": 3
-    },
-    {
-      "id": "96a9cebc-3821-41a0-9559-602c85fc8849",
-      "title": "KIP Spring 2027 - Executive/Research Assistant  - Marijuana Policy Project Foundation",
-      "company": "Stand Together",
-      "place": "Remote from United States",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$7.5K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/standtogether/53d080ce-612d-4fd2-8d1d-eb501b341724",
-      "firstJobbyUrl": "https://firstjobby.com/companies/standtogether/kip-spring-2027-executiveresearch-assistant-marijuana-policy-project-foundation--5618ee?utm_source=reddit",
-      "postedAt": "2026-10-20T15:53:08.371Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
