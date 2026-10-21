@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:36:11.863Z",
+  "generatedAt": "2026-10-21T07:40:43.590Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -1009,6 +1009,25 @@
       "notable": 1
     },
     {
+      "id": "a10d6557-0a21-4318-9220-394f62178ce4",
+      "title": "End User Technology Engineer",
+      "company": "Theapexgroup",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/End-User-Technology-Engineer_JR-0025171-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/end-user-technology-engineer-theapexgroup-584015?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "993d8d24-bc91-4cca-a689-54a8e55acccb",
       "title": "Automotive Procurement Specialist (Mandarin-speaking)",
       "company": "Two95 International Inc.",
@@ -1328,6 +1347,25 @@
       "season": null,
       "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Muntinlupa-Philippines/Services-Coordinator_REQ543003",
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/services-coordinator-jll-396800?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "1061e834-d9d9-4223-9b56-7783c92b7587",
+      "title": "Global Service Desk - Centralized Access Control Analyst",
+      "company": "Theapexgroup",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Global-Service-Desk---Centralized-Access-Control-Analyst_JR-0024785-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/global-service-desk-centralized-access-control-analyst-theapexgroup-1aa302?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/program-management-analyst-nnsa-ost-accenture-federal-services-2c4956?utm_source=reddit",
       "postedAt": "2026-10-20T15:58:54.000Z",
       "notable": 5
-    },
-    {
-      "id": "c1cd6780-3cbc-4e3e-9a16-adf29eecbc9c",
-      "title": "Internship - Engineering",
-      "company": "Service Wire",
-      "place": "Phoenix, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://jobs.lever.co/servicewire/9655fefb-dedf-46e1-a040-092982d4a138",
-      "firstJobbyUrl": "https://firstjobby.com/companies/servicewire/internship-engineering-service-wire-c4bff6?utm_source=reddit",
-      "postedAt": "2026-10-20T15:58:02.793Z",
-      "notable": 1
-    },
-    {
-      "id": "b345c951-979f-4299-bc49-5a67198e1dc5",
-      "title": "Applied Scientist - Research Engineer (Formal Methods), EMEA",
-      "company": "Mistral AI",
-      "place": "Paris, France",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d722e1e1-dcc6-489b-a3b5-ecc6813ca374",
-      "firstJobbyUrl": "https://firstjobby.com/companies/mistralai/applied-scientist-research-engineer-formal-methods-emea-mistral-ai-ab9a50?utm_source=reddit",
-      "postedAt": "2026-10-20T15:56:56.576Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
