@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:56:04.902Z",
+  "generatedAt": "2026-10-21T05:16:38.321Z",
   "jobs": [
     {
       "id": "83d8b5da-714c-47e1-971d-7760c35d4438",
@@ -606,6 +606,25 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/C1D88988F1",
       "firstJobbyUrl": "https://firstjobby.com/companies/fuku/it-executive-fuku-204cbb?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "49818da8-53dc-4d46-a5e6-d241c61ae9ec",
+      "title": "Assistant Key Account Manager, Vaccines",
+      "company": "GSK",
+      "place": "Hong Kong",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Hong-Kong---Field-Worker/Assistant-Key-Account-Manager_445829-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gskorwd5orgskcareers/assistant-key-account-manager-vaccines-gsk-39a08e?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toast/strategic-markets-account-executive-smb-santa-rosa-ca-toast-88d4e9?utm_source=reddit",
       "postedAt": "2026-10-20T15:19:05.000Z",
       "notable": 5
-    },
-    {
-      "id": "cb31dfe0-f59e-4044-8a1f-bd7f58162702",
-      "title": "Propulsion Design Engineer, Propulsion (m/f/d)",
-      "company": "Isar Aerospace SE",
-      "place": "Parsdorf, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5011474101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/isaraerospace/propulsion-design-engineer-propulsion-mfd-isar-aerospace-se-5928ed?utm_source=reddit",
-      "postedAt": "2026-10-20T15:18:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
