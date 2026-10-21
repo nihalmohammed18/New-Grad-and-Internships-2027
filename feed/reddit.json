@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:11:03.198Z",
+  "generatedAt": "2026-10-21T09:12:52.141Z",
   "jobs": [
     {
       "id": "5ab18a5c-bf41-4bf1-af54-b4ac06721517",
@@ -9160,6 +9160,25 @@
       "notable": 5
     },
     {
+      "id": "18b2c1b3-c5d7-4977-84be-43a6bb0ce58c",
+      "title": "Brand Designer",
+      "company": "Titan",
+      "place": "New York, United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$100.0K-$150.0K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/titan/414a4e72-09dc-4814-9f47-0f58f09a05ca",
+      "firstJobbyUrl": "https://firstjobby.com/companies/titan-ashby/brand-designer-titan-859c32?utm_source=reddit",
+      "postedAt": "2026-10-20T16:33:23.404Z",
+      "notable": 3
+    },
+    {
       "id": "71526846-f7f9-419f-b57a-dfaaa938c283",
       "title": "Founding Account Executive (West Coast)",
       "company": "Beam Up",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000156608339-audio-visual-technician",
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/audio-visual-technician-accorhotel-90f42f?utm_source=reddit",
       "postedAt": "2026-10-20T16:18:11.111Z",
-      "notable": 3
-    },
-    {
-      "id": "0bbe5836-f017-4ec0-831e-658ed5436a02",
-      "title": "Business Operations & Automations Jr. Analyst",
-      "company": "Rehire",
-      "place": "Remote from Colombia",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/rehire/3d0aaf64-f2fb-4123-b9bb-5c0d418226c7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rehire/business-operations-and-automations-jr-analyst-rehire-fb7fb4?utm_source=reddit",
-      "postedAt": "2026-10-20T16:17:49.127Z",
       "notable": 3
     }
   ],
