@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-21T22:08:16.518Z",
+  "generatedAt": "2026-10-21T23:03:15.903Z",
   "jobs": [
+    {
+      "id": "b71b6584-dc35-4d8c-92ca-5d7d08f441ae",
+      "title": "Information Security Engineer",
+      "company": "Westpac",
+      "place": "New Zealand",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://westpacnz.wd105.myworkdayjobs.com/Westpac_Careers/job/Westpac-on-Takutai-Square/Information-Security-Engineer_JR107863",
+      "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orwestpaccareers/information-security-engineer-westpac-cdb11f?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "ee27ba4e-4e67-4134-975c-8d4ad44d6d72",
       "title": "Payment Operations Global Processing Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/visual-designer-mfx-scalable-gmbh-bd09ff?utm_source=reddit",
       "postedAt": "2026-10-21T09:41:35.410Z",
       "notable": 3
-    },
-    {
-      "id": "de54413e-f144-45fb-9c8b-ee5e1cab91b0",
-      "title": "Strategic Account Manager",
-      "company": "The Adaptavist Group",
-      "place": "Remote from Canada",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000156755656",
-      "firstJobbyUrl": "https://firstjobby.com/companies/theadaptavistgroup/strategic-account-manager-the-adaptavist-group-844bf3?utm_source=reddit",
-      "postedAt": "2026-10-21T09:41:25.725Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
