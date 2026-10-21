@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:38:53.093Z",
+  "generatedAt": "2026-10-21T05:55:49.711Z",
   "jobs": [
     {
       "id": "83d8b5da-714c-47e1-971d-7760c35d4438",
@@ -684,6 +684,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/services-coordinator-jll-396800?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "fc4b8349-5ecb-481b-b1a0-b916538f23c3",
+      "title": "Production Coordinator II",
+      "company": "Rocket Lab",
+      "place": "Long Beach, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$28-$33/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8039444003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rocketlab/production-coordinator-ii-rocket-lab-corporation-bbe456?utm_source=reddit",
+      "postedAt": "2026-10-20T23:52:27.000Z",
+      "notable": 5
     },
     {
       "id": "1122a2f5-937c-458f-affd-5343e5bbb01a",
@@ -3856,7 +3875,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/trace3/jobs/8304310",
       "firstJobbyUrl": "https://firstjobby.com/companies/trace3/software-engineer-gaits-analyst-team-26-386-trace3-4075cd?utm_source=reddit",
       "postedAt": "2026-10-20T20:14:12.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "bc859e38-bb6d-404d-9ae8-4ed018d0c791",
@@ -3989,7 +4008,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/trace3/jobs/8304291",
       "firstJobbyUrl": "https://firstjobby.com/companies/trace3/user-interface-automated-test-engineer-26-381-trace3-1fbea9?utm_source=reddit",
       "postedAt": "2026-10-20T19:58:47.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "d6e36cb4-f7a8-4ce7-b283-d80c897216e1",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/1password-ashby/developer-device-trust-reliability-1password-906698?utm_source=reddit",
       "postedAt": "2026-10-20T15:19:30.487Z",
       "notable": 5
-    },
-    {
-      "id": "ccc46fe0-1ab2-4b62-b450-85c5ee5d2a13",
-      "title": "Field Service Engineer",
-      "company": "Veolia",
-      "place": "Leiston, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "£45.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156594619",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/field-service-engineer-veolia-environnement-sa-ea957a?utm_source=reddit",
-      "postedAt": "2026-10-20T15:19:22.540Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
