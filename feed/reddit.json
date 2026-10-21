@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:10:50.308Z",
+  "generatedAt": "2026-10-21T23:28:13.128Z",
   "jobs": [
     {
       "id": "b71b6584-dc35-4d8c-92ca-5d7d08f441ae",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orwestpaccareers/information-security-engineer-westpac-cdb11f?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4aaf997d-7ff4-4308-aea3-2796c14657c2",
+      "title": "IT Support Specialist",
+      "company": "LA Clippers",
+      "place": "Inglewood, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$30-$35/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.nba.com/clippers/company/careers/openpositionlaclippers?gh_jid=4723835006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/laclippers/it-support-specialist-la-clippers-1902fc?utm_source=reddit",
+      "postedAt": "2026-10-21T23:12:48.000Z",
+      "notable": 3
     },
     {
       "id": "ee27ba4e-4e67-4134-975c-8d4ad44d6d72",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/alten/744000156756020",
       "firstJobbyUrl": "https://firstjobby.com/companies/alten/electrical-design-engineer-alten-2eb4f8?utm_source=reddit",
       "postedAt": "2026-10-21T09:42:45.557Z",
-      "notable": 3
-    },
-    {
-      "id": "080d7cb7-aa2c-4bad-bb44-fc59f6d63c55",
-      "title": "Sales Development Representative, Rentals",
-      "company": "Jobgether",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/b28a647e-9427-4683-9444-9656c0967eb7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/sales-development-representative-rentals-jobgether-3a02ec?utm_source=reddit",
-      "postedAt": "2026-10-21T09:42:25.216Z",
       "notable": 3
     }
   ],
