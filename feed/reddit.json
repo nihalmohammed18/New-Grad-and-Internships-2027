@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:31:25.627Z",
+  "generatedAt": "2026-10-21T20:37:37.826Z",
   "jobs": [
     {
       "id": "5e0cb900-c80a-4f82-b2db-6e891de5f0d8",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/local-infusion/intake-coordinator-winchester-va-local-infusion-fe8cbf?utm_source=reddit",
       "postedAt": "2026-10-21T16:52:32.039Z",
       "notable": 5
+    },
+    {
+      "id": "d4a2f167-eccc-4d79-bbf9-01073d412213",
+      "title": "Enterprise Account Executive, Flourish",
+      "company": "Canva",
+      "place": "Munich, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001510190-enterprise-account-executive-flourish",
+      "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/enterprise-account-executive-flourish-canva-6c3e1b?utm_source=reddit",
+      "postedAt": "2026-10-21T16:49:21.916Z",
+      "notable": 2
     },
     {
       "id": "971e94c0-d272-4a10-be5c-68db1aa3a2db",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-roma-sixt-ccc1e8?utm_source=reddit",
       "postedAt": "2026-10-21T08:07:26.056Z",
       "notable": 3
-    },
-    {
-      "id": "5ec86778-48fb-4f39-820e-8586764e30ba",
-      "title": "Junior People Ops & Automation Specialist (m/f/d)",
-      "company": "Flink",
-      "place": "Berlin, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€35.0K-€40.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Flink3/744000156735349-junior-people-ops-automation-specialist-m-f-d-",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flink3/junior-people-ops-and-automation-specialist-mfd-flink-1ea2a0?utm_source=reddit",
-      "postedAt": "2026-10-21T08:07:19.932Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
