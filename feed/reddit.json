@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:25:25.050Z",
+  "generatedAt": "2026-10-21T09:31:14.738Z",
   "jobs": [
     {
       "id": "5ab18a5c-bf41-4bf1-af54-b4ac06721517",
@@ -19,6 +19,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/betsson/player-management-backend-software-engineer-betsson-group-cc86da?utm_source=reddit",
       "postedAt": "2026-10-21T08:58:29.000Z",
       "notable": 1
+    },
+    {
+      "id": "4e99214a-5940-4e51-ab29-0171f4e9cb1b",
+      "title": "Field Marketing Officer - Thika/Central",
+      "company": "M-KOPA",
+      "place": "Kenya",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/m-kopa/922db801-9339-4aef-95ab-40f257b7db05",
+      "firstJobbyUrl": "https://firstjobby.com/companies/m-kopa-ashby/field-marketing-officer-thikacentral-m-kopa-e63546?utm_source=reddit",
+      "postedAt": "2026-10-21T08:42:50.959Z",
+      "notable": 3
+    },
+    {
+      "id": "5533aaaa-8531-496f-883a-5874058e9a19",
+      "title": "Field Marketing Officer - Kisumu",
+      "company": "M-KOPA",
+      "place": "Kisumu, Kenya",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/m-kopa/51158890-92a2-4236-b206-f36c2c142ea3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/m-kopa-ashby/field-marketing-officer-kisumu-m-kopa-a8eca1?utm_source=reddit",
+      "postedAt": "2026-10-21T08:42:35.731Z",
+      "notable": 3
     },
     {
       "id": "2e14ee49-cccd-4c31-9c95-8e8a3d8e1377",
@@ -1653,6 +1691,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hkustorwd102orhkust/officer-assistant-officer-marketing-and-social-media-content-school-of-business--a840a0?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 0
+    },
+    {
+      "id": "30636dd1-6938-4c50-90bf-8e0c96a8480d",
+      "title": "Customer Service Advisor (12 months fixed term contract)",
+      "company": "Biotechne",
+      "place": "Bristol, United Kingdom",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£19.6K-£31.5K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Bristol-UK/Customer-Service-Advisor--12-months-fixed-term-contract-_JR102238",
+      "firstJobbyUrl": "https://firstjobby.com/companies/biotechneorwd5orbiotechne/customer-service-advisor-12-months-fixed-term-contract-biotechne-056724?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "1ff43fe9-958a-453f-8a29-0eefebd8ba76",
@@ -4654,7 +4711,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/jellyfishcareers/ab1983e9-3b30-44ef-a35f-b129ed5c0261",
       "firstJobbyUrl": "https://firstjobby.com/companies/jellyfishcareers/business-intelligence-analyst-jellyfishcareers-250a3a?utm_source=reddit",
       "postedAt": "2026-10-20T20:46:53.027Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "b293ceda-480d-4778-88ae-d6454230fd6a",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/givinghhc/billing-coordinator-givinghhc-152e80?utm_source=reddit",
       "postedAt": "2026-10-20T16:20:50.520Z",
       "notable": 5
-    },
-    {
-      "id": "b1a4080c-c2c6-4b64-aa07-acd9a36b3743",
-      "title": "Software Engineer Intern, Agent (London 2027)",
-      "company": "Sierra",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sierra/software-engineer-intern-agent-london-2027-sierra-b13d27?utm_source=reddit",
-      "postedAt": "2026-10-20T16:20:16.918Z",
-      "notable": 3
-    },
-    {
-      "id": "e8c5e594-ef2b-434e-a849-dcf9d21ea8ee",
-      "title": "Software Engineer, Agent (New Grad)",
-      "company": "Sierra",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£140.0K-£150.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sierra/software-engineer-agent-new-grad-sierra-403e69?utm_source=reddit",
-      "postedAt": "2026-10-20T16:20:01.695Z",
-      "notable": 5
-    },
-    {
-      "id": "94192c31-9808-43cf-b5c9-6b867a6a5c65",
-      "title": "Research Analyst, Companies & Transactions",
-      "company": "Financial Technology Partners",
-      "place": "Remote from India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8903022002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/financialtechnologypartners/research-analyst-companies-and-transactions-financial-technology-partners-f7a98e?utm_source=reddit",
-      "postedAt": "2026-10-20T16:19:51.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
