@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:55:28.889Z",
+  "generatedAt": "2026-10-21T00:59:54.474Z",
   "jobs": [
     {
       "id": "582e1e6c-bebc-47cc-98c0-837f1e39da14",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/northwesternmedicine/medical-laboratory-scientist-chemistry-full-time-evenings-eligible-for-sign-on-b-cc6439?utm_source=reddit",
       "postedAt": "2026-10-20T23:40:21.500Z",
       "notable": 3
+    },
+    {
+      "id": "423e2f81-39a1-4735-91e1-d614f40cabec",
+      "title": "Research Intern, ClickHouse Labs",
+      "company": "ClickHouse",
+      "place": "Remote",
+      "category": "Research",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$6.0K-$10.0K/mo",
+      "minYears": null,
+      "season": "Summer",
+      "applyUrl": "https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clickhouse-ashby/research-intern-clickhouse-labs-clickhouse-cc7505?utm_source=reddit",
+      "postedAt": "2026-10-20T23:35:16.142Z",
+      "notable": 5
     },
     {
       "id": "f4c59695-efec-4e48-b689-504acf7f4454",
@@ -762,6 +781,25 @@
       "notable": 6
     },
     {
+      "id": "c904b160-f76b-43ae-8d76-a92069494593",
+      "title": "Security Research, Intern",
+      "company": "Illumio",
+      "place": "Sunnyvale, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$37/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
+      "firstJobbyUrl": "https://firstjobby.com/companies/illumio-ashby/security-research-intern-illumio-ce9520?utm_source=reddit",
+      "postedAt": "2026-10-20T21:12:47.811Z",
+      "notable": 5
+    },
+    {
       "id": "1cd7eb39-0c6e-4768-ae21-cae2a68b660c",
       "title": "Account Executive, Mid Market (Southeast)",
       "company": "Samsara",
@@ -817,6 +855,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sambanovasystems/ai-performance-engineer-new-grad-sambanova-c315c3?utm_source=reddit",
       "postedAt": "2026-10-20T21:08:36.000Z",
       "notable": 3
+    },
+    {
+      "id": "4d9db582-ca0f-463e-a2f4-d511a6920470",
+      "title": "Engineering Intern, Product Security",
+      "company": "Illumio",
+      "place": "Sunnyvale, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$37/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/illumio-ashby/engineering-intern-product-security-illumio-e2d326?utm_source=reddit",
+      "postedAt": "2026-10-20T21:07:35.517Z",
+      "notable": 5
     },
     {
       "id": "c2db2506-a466-4073-97f6-fa3a95f3c3a4",
@@ -9443,71 +9500,14 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/speechmatics/website-coordinator-speechmatics-9522f3?utm_source=reddit",
       "postedAt": "2026-10-20T13:21:16.000Z",
       "notable": 1
-    },
-    {
-      "id": "50326cfe-738e-4d8c-b5ea-df0c79424e35",
-      "title": "Medical Billing Customer Service Representative",
-      "company": "Getfivestar",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$14/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/getfivestar/e59cc84f-2f8d-43d1-bae6-f3ad922dcd52",
-      "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/medical-billing-customer-service-representative-getfivestar-c17425?utm_source=reddit",
-      "postedAt": "2026-10-20T13:20:02.187Z",
-      "notable": 5
-    },
-    {
-      "id": "2192d2a6-3965-4d9d-8907-a299a3ad87b3",
-      "title": "Territory Account Executive , SMB - Columbia, MD",
-      "company": "Toast",
-      "place": "Columbia, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$128.0K-$205.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8300525",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toast/territory-account-executive-smb-columbia-md-toast-eddc63?utm_source=reddit",
-      "postedAt": "2026-10-20T13:19:16.000Z",
-      "notable": 5
-    },
-    {
-      "id": "cb9e5026-4d9c-4a7e-8a55-6e615d1c98f9",
-      "title": "Graphene Photonics Device Reliability Testing Engineer (f/m/d)",
-      "company": "Black Semiconductor",
-      "place": "Aachen, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/blacksemiconductor/9b8142e8-b24f-4267-8408-047ec76a7667",
-      "firstJobbyUrl": "https://firstjobby.com/companies/blacksemiconductor/graphene-photonics-device-reliability-testing-engineer-fmd-black-semiconductor-13c92a?utm_source=reddit",
-      "postedAt": "2026-10-20T13:18:32.799Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
-    "title": "Junior Logistics Manager - South Europe",
-    "company": "Emma Sleep",
-    "place": "Lisbon",
-    "minYears": 3,
-    "applyUrl": "https://jobs.lever.co/emma-sleep/31ad0e4f-db8c-4f04-855f-776ac9b6370a",
-    "firstJobbyUrl": "https://firstjobby.com/companies/emma-sleep/junior-logistics-manager-south-europe-emma-sleep-b4ef84?utm_source=reddit"
+    "title": "AI Product Engineer, 2027 New Grad",
+    "company": "Brain Co.",
+    "place": "San Francisco Bay Area",
+    "minYears": 10,
+    "applyUrl": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e",
+    "firstJobbyUrl": "https://firstjobby.com/companies/brainco/ai-product-engineer-2027-new-grad-brain-co-6910a2?utm_source=reddit"
   }
 }
