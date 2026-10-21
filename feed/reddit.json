@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:09:48.418Z",
+  "generatedAt": "2026-10-21T16:21:29.871Z",
   "jobs": [
     {
       "id": "83277d0e-8c43-43ef-8a4d-924ac30f57a4",
@@ -9217,6 +9217,25 @@
       "notable": 4
     },
     {
+      "id": "f4e865a5-33d1-45f0-8258-e91827946395",
+      "title": "Item Master Engineer",
+      "company": "GE Vernova",
+      "place": "Hungary",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Budapest/Item-Master-Engineer_R5056326-3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5oronlyconfidentialexecutiverecruiting/item-master-engineer-ge-vernova-5572ea?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f358843d-e7ec-47f0-99ba-3f68a6a2d21a",
       "title": "Stage Revenue Mangement",
       "company": "Roompot",
@@ -9329,6 +9348,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/social-media-content-executive-weekday-ai-6b628e?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "e7db6725-a40f-4630-a9c0-473560c19f0b",
+      "title": "Item Master Engineer",
+      "company": "GE Vernova",
+      "place": "Hungary",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Budapest/Item-Master-Engineer_R5056326",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/item-master-engineer-ge-vernova-ca3073?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "e7971f80-d70c-4792-b538-076dd27d3004",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/software-engineer-ii-framework-medtronic-716213?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "e1f78b1a-ac3b-4e4e-8555-8c58cbaa926a",
-      "title": "Software Engineer II -Framework",
-      "company": "Medtronic",
-      "place": "Galway, Ireland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€51.3K-€76.9K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Software-Engineer-II--Framework_R75025-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/software-engineer-ii-framework-medtronic-a5ba38?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "e0dee092-c4d6-40f1-b0f3-fe3db8df1acf",
-      "title": "Sales  Representative II",
-      "company": "Medtronic",
-      "place": "Taguig City, Philippines",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Sales--Representative-II_R77661-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/sales-representative-ii-medtronic-b7a51f?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
