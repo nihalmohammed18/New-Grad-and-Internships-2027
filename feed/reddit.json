@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:28:34.324Z",
+  "generatedAt": "2026-10-21T04:34:50.373Z",
   "jobs": [
     {
       "id": "4071fe72-8adc-45b2-96fb-ef2f93658bc1",
@@ -570,6 +570,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fuku/it-executive-fuku-204cbb?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3e37d1d1-45a2-4b7f-bec6-f5fb8558d982",
+      "title": "Officer / Assistant Officer (Marketing and Social Media Content) - School of Business and Management",
+      "company": "Hkust",
+      "place": "Hong Kong",
+      "category": "Marketing",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://hkust.wd102.myworkdayjobs.com/HKUST/job/Clear-Water-Bay-Campus-Hong-Kong/Officer---Assistant-Officer--Marketing-and-Social-Media-Content----School-of-Business-and-Management_JR100711",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hkustorwd102orhkust/officer-assistant-officer-marketing-and-social-media-content-school-of-business--a840a0?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "18fab0c1-4031-46a2-85a3-b66fade18bfb",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/neweratech/field-tech-support-specialist-electro-mechanical-new-era-technology-e12d53?utm_source=reddit",
       "postedAt": "2026-10-20T15:14:24.000Z",
       "notable": 3
-    },
-    {
-      "id": "a47ceb5f-5c72-4868-8d11-ba532d6d4d6b",
-      "title": "Research Software Engineer - Scientific Computing & GPU Infrastructure",
-      "company": "Marvel Fusion",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/marvelfusion/jobs/5001929101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/marvelfusion/research-software-engineer-scientific-computing-and-gpu-infrastructure-marvel-fu-e7b11b?utm_source=reddit",
-      "postedAt": "2026-10-20T15:13:51.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
