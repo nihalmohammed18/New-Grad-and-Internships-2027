@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:40:43.590Z",
+  "generatedAt": "2026-10-21T07:45:53.144Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -1254,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fuku/it-executive-fuku-204cbb?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4bec52cd-627f-4b20-9309-2993cf115976",
+      "title": "Junior Quality Assurance (QA) Consultant",
+      "company": "ikeja",
+      "place": "Midrand, South Africa",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/E03499C20C",
+      "firstJobbyUrl": "https://firstjobby.com/companies/withikeja/junior-quality-assurance-qa-consultant-ikeja-954a91?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "49818da8-53dc-4d46-a5e6-d241c61ae9ec",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geotab/vehicle-systems-engineering-geotab-b22ec0?utm_source=reddit",
       "postedAt": "2026-10-20T15:59:27.000Z",
       "notable": 4
-    },
-    {
-      "id": "53a7cc7c-5666-4112-af5c-9ffd67055f08",
-      "title": "Program Management Analyst - NNSA OST",
-      "company": "Accenture Federal Services",
-      "place": "Albuquerque, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$74.3K-$115.8K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4723380006?gh_jid=4723380006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/program-management-analyst-nnsa-ost-accenture-federal-services-2c4956?utm_source=reddit",
-      "postedAt": "2026-10-20T15:58:54.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
