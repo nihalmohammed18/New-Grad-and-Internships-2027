@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:03:23.798Z",
+  "generatedAt": "2026-10-21T08:18:09.284Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -952,6 +952,25 @@
       "notable": 4
     },
     {
+      "id": "e7971f80-d70c-4792-b538-076dd27d3004",
+      "title": "Analyst, IT Security, IT",
+      "company": "Citicclsa",
+      "place": "Hong Kong",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://citicclsa.wd3.myworkdayjobs.com/External/job/Hong-Kong/Analyst--IT-Security--IT_JR003402",
+      "firstJobbyUrl": "https://firstjobby.com/companies/citicclsaorwd3orexternal/analyst-it-security-it-citicclsa-27a7d9?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "dc98216b-8142-49b9-a276-857f7ee27372",
       "title": "Risk & Compliance Analyst APAC - Global Law Firm (based in Singapore)",
       "company": "Clyde & Co",
@@ -969,6 +988,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clydecoorwd103orclydecocareers/risk-and-compliance-analyst-apac-global-law-firm-based-in-singapore-clyde-and-co-b982ad?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "d133a1b6-0572-45f7-a19b-762b6996ccbe",
+      "title": "FA Marketing & Technical Specialist",
+      "company": "Virbac",
+      "place": "Taguig City, Philippines",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://virbac.wd103.myworkdayjobs.com/career/job/Taguig-City-Philippines/FA-Marketing---Technical-Specialist_R4977",
+      "firstJobbyUrl": "https://firstjobby.com/companies/virbacorwd103orcareer/fa-marketing-and-technical-specialist-virbac-9a5bfc?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "c0bc8f88-4f46-46e6-8ec6-6c813408ac5a",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-elk-grove-il-coreweave-bde063?utm_source=reddit",
       "postedAt": "2026-10-20T16:08:00.000Z",
       "notable": 5
-    },
-    {
-      "id": "bb5cb8d3-3ad6-45c5-836c-aca99449eb3a",
-      "title": "Platform Engineer",
-      "company": "Capital on Tap",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/capitalontap/jobs/8902990002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/capitalontap/platform-engineer-capital-on-tap-9aa7bd?utm_source=reddit",
-      "postedAt": "2026-10-20T16:05:49.000Z",
-      "notable": 3
-    },
-    {
-      "id": "46a5ca77-b279-420e-ab67-dd9a0290cd1b",
-      "title": "Data Operations Analyst",
-      "company": "NielsenIQ",
-      "place": "Warsaw, Poland",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000156605300",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-operations-analyst-nielseniq-99601a?utm_source=reddit",
-      "postedAt": "2026-10-20T16:04:23.438Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
