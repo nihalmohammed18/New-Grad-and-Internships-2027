@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:31:56.856Z",
+  "generatedAt": "2026-10-21T07:36:11.863Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -37,6 +37,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8",
       "firstJobbyUrl": "https://firstjobby.com/companies/mach9/software-engineer-3d-graphics-mach9-1bcc93?utm_source=reddit",
       "postedAt": "2026-10-21T05:51:14.813Z",
+      "notable": 3
+    },
+    {
+      "id": "156e98aa-a0e4-47e0-968f-68b053c2ce13",
+      "title": "Software Engineer- Backend",
+      "company": "dunnhumby",
+      "place": "Gurugram, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/dunnhumby/jobs/7996473003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dunnhumby/software-engineer-backend-dunnhumby-09c736?utm_source=reddit",
+      "postedAt": "2026-10-21T05:40:39.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/d722e1e1-dcc6-489b-a3b5-ecc6813ca374",
       "firstJobbyUrl": "https://firstjobby.com/companies/mistralai/applied-scientist-research-engineer-formal-methods-emea-mistral-ai-ab9a50?utm_source=reddit",
       "postedAt": "2026-10-20T15:56:56.576Z",
-      "notable": 3
-    },
-    {
-      "id": "001db0ef-1674-4d1d-8479-11362da9b3e6",
-      "title": "Data Scout",
-      "company": "Jump Trading",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$150.0K-$250.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.jumptrading.com/hr/job?gh_jid=8303577",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jumptrading/data-scout-jump-trading-fde4ea?utm_source=reddit",
-      "postedAt": "2026-10-20T15:56:23.000Z",
       "notable": 3
     }
   ],
