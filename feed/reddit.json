@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:10:57.341Z",
+  "generatedAt": "2026-10-21T01:21:19.109Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -1786,6 +1786,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/insights-analyst-nielseniq-a40ac1?utm_source=reddit",
       "postedAt": "2026-10-20T19:57:56.667Z",
       "notable": 5
+    },
+    {
+      "id": "d7f69b9b-18c1-4df5-aa98-e74bfe58f565",
+      "title": "Support Engineer",
+      "company": "T1 Energy",
+      "place": "Waterbury, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/t1energy/f9c6ede1-a717-4005-acec-1a19261bcb21",
+      "firstJobbyUrl": "https://firstjobby.com/companies/t1energy/support-engineer-t1-energy-cda2aa?utm_source=reddit",
+      "postedAt": "2026-10-20T19:56:10.727Z",
+      "notable": 1
     },
     {
       "id": "9a5abb94-540b-4c0c-9f39-13f3aa71ceca",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/medical-billing-customer-service-representative-getfivestar-414f48?utm_source=reddit",
       "postedAt": "2026-10-20T13:26:28.480Z",
       "notable": 5
-    },
-    {
-      "id": "5bdbc7aa-33ec-4199-bb1a-420e9501caa2",
-      "title": "2027 Summer Internship - Communication Networks - London",
-      "company": "PA Consulting",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000156558702-2027-summer-internship-communication-networks-london",
-      "firstJobbyUrl": "https://firstjobby.com/companies/paconsulting/2027-summer-internship-communication-networks-london-pa-consulting-508531?utm_source=reddit",
-      "postedAt": "2026-10-20T13:25:38.916Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
