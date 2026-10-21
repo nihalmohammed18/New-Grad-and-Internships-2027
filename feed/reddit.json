@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:18:09.284Z",
+  "generatedAt": "2026-10-21T08:33:04.457Z",
   "jobs": [
     {
       "id": "207ed7ce-e6cb-45ea-8720-067fa49789b3",
@@ -133,6 +133,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/smt-equipment-engineerme-bosch-group-927717?utm_source=reddit",
       "postedAt": "2026-10-21T05:26:38.693Z",
       "notable": 3
+    },
+    {
+      "id": "994f5524-5713-4ae2-85df-4f8aaf8e54b1",
+      "title": "K12 Education Account Manager, South Korea (12 months contract)",
+      "company": "Canva",
+      "place": "Seoul, South Korea",
+      "category": "Sales",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001508808-k12-education-account-manager-south-korea-12-months-contract-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/k12-education-account-manager-south-korea-12-months-contract-canva-785896?utm_source=reddit",
+      "postedAt": "2026-10-21T05:02:48.567Z",
+      "notable": 2
     },
     {
       "id": "83d8b5da-714c-47e1-971d-7760c35d4438",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://coreweave.com/careers/job?4722830006&board=coreweave&gh_jid=4722830006",
       "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-volo-il-coreweave-996594?utm_source=reddit",
       "postedAt": "2026-10-20T16:08:51.000Z",
-      "notable": 5
-    },
-    {
-      "id": "a0b59a6d-44fb-46bc-b178-d499ef8f65b0",
-      "title": "Data Center Technician - Elk Grove, IL",
-      "company": "CoreWeave",
-      "place": "Elk Grove, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$65.0K-$85.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://coreweave.com/careers/job?4722828006&board=coreweave&gh_jid=4722828006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-elk-grove-il-coreweave-bde063?utm_source=reddit",
-      "postedAt": "2026-10-20T16:08:00.000Z",
       "notable": 5
     }
   ],
