@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:31:29.989Z",
+  "generatedAt": "2026-10-21T14:37:30.334Z",
   "jobs": [
     {
       "id": "bc50809c-2edc-4433-a95b-d7001e39ee0d",
@@ -5620,7 +5620,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001508808-k12-education-account-manager-south-korea-12-months-contract-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001508808",
       "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/k12-education-account-manager-south-korea-12-months-contract-canva-785896?utm_source=reddit",
       "postedAt": "2026-10-21T05:02:48.567Z",
       "notable": 2
@@ -8761,6 +8761,25 @@
       "notable": 2
     },
     {
+      "id": "4eacf2c6-94f1-4508-805e-3f8be73944be",
+      "title": "Customer Experience Analyst",
+      "company": "Electrolux",
+      "place": "Charlotte, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Charlotte/Customer-Experience-Analyst_JR81654",
+      "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/customer-experience-analyst-electrolux-34e993?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "4ca50205-9426-4ba6-9b75-966a4fdd0408",
       "title": "Business Analyst",
       "company": "DXC Technology",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/jr-digital-marketing-specialist-octal-philippines-inc-88c25f?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "0a43c4e1-7020-4437-9879-3289d5b09c21",
-      "title": "Sales Representative Maternity Leave Cover",
-      "company": "Medtronic",
-      "place": "Prague, Czech Republic",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CZK 1.1M-CZK 1.6M/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Sales-Representative-Maternity-Leave-Cover_R79575-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/sales-representative-maternity-leave-cover-medtronic-46fc01?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
