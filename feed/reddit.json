@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:01:56.457Z",
+  "generatedAt": "2026-10-21T17:15:41.611Z",
   "jobs": [
     {
       "id": "83277d0e-8c43-43ef-8a4d-924ac30f57a4",
@@ -608,6 +608,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/niural/peo-customer-success-specialist-niural-656623?utm_source=reddit",
       "postedAt": "2026-10-21T14:06:57.338Z",
       "notable": 5
+    },
+    {
+      "id": "a45dffd2-7d15-4d39-8239-c576cd01ece1",
+      "title": "Scientist I, Computational Protein Design",
+      "company": "Generate Biomedicines",
+      "place": "Somerville, United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$140.0K-$196.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://generatebiomedicines.com/open-positions?gh_jid=4723323006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/generatebiomedicines/scientist-i-computational-protein-design-generate-biomedicines-bc2b14?utm_source=reddit",
+      "postedAt": "2026-10-21T14:05:47.000Z",
+      "notable": 2
     },
     {
       "id": "709f7fa2-1062-4c93-9499-8b72bf2708a0",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Budapest/Item-Master-Engineer_R5056326",
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/item-master-engineer-ge-vernova-ca3073?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "e7971f80-d70c-4792-b538-076dd27d3004",
-      "title": "Analyst, IT Security, IT",
-      "company": "Citicclsa",
-      "place": "Hong Kong",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://citicclsa.wd3.myworkdayjobs.com/External/job/Hong-Kong/Analyst--IT-Security--IT_JR003402",
-      "firstJobbyUrl": "https://firstjobby.com/companies/citicclsaorwd3orexternal/analyst-it-security-it-citicclsa-27a7d9?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     }
