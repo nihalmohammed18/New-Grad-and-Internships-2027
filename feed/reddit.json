@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:37:37.826Z",
+  "generatedAt": "2026-10-21T20:45:16.121Z",
   "jobs": [
     {
       "id": "5e0cb900-c80a-4f82-b2db-6e891de5f0d8",
@@ -1348,6 +1348,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/local%20infusion/a6759b3c-e2b7-4c89-b661-7908663cbcfe",
       "firstJobbyUrl": "https://firstjobby.com/companies/local-infusion/intake-coordinator-winchester-va-local-infusion-fe8cbf?utm_source=reddit",
       "postedAt": "2026-10-21T16:52:32.039Z",
+      "notable": 5
+    },
+    {
+      "id": "38688eac-34dc-4b2a-97f6-abf5e3139546",
+      "title": "DevSecOps Engineer",
+      "company": "STR",
+      "place": "Arlington, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$115.0K-$145.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723623006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/systemstechnologyresearch/devsecops-engineer-str-bc5453?utm_source=reddit",
+      "postedAt": "2026-10-21T16:51:03.000Z",
       "notable": 5
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000156734954",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/process-and-maintenance-engineer-wafertest-probecards-wmdiv-bosch-group-f53771?utm_source=reddit",
       "postedAt": "2026-10-21T08:08:21.953Z",
-      "notable": 3
-    },
-    {
-      "id": "5cd93d7d-b1d9-4920-8d9c-f68b89ba8716",
-      "title": "Rental Sales Agent (Roma)",
-      "company": "SIXT",
-      "place": "Rome, Italy",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000156733107",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-roma-sixt-ccc1e8?utm_source=reddit",
-      "postedAt": "2026-10-21T08:07:26.056Z",
       "notable": 3
     }
   ],
