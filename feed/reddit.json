@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:52:07.428Z",
+  "generatedAt": "2026-10-21T17:01:56.457Z",
   "jobs": [
     {
       "id": "83277d0e-8c43-43ef-8a4d-924ac30f57a4",
@@ -9046,6 +9046,25 @@
       "notable": 4
     },
     {
+      "id": "ff5cd761-b4ef-4cbb-bfe4-21f0695deca3",
+      "title": "Windows System Administrator",
+      "company": "A1 Bulgaria",
+      "place": "Bulgaria",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://a1group.wd3.myworkdayjobs.com/A1_Jobs_bg/job/Windows-System-Administrator_REQ-9083-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/a1grouporwd3ora1jobsbg/windows-system-administrator-a1-bulgaria-4dc8b2?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "fed85186-4d0a-4c48-9b7c-0e663f14f453",
       "title": "Security Service Technician",
       "company": "Johnson Controls",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/citicclsaorwd3orexternal/analyst-it-security-it-citicclsa-27a7d9?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "e6de2ee8-2ba4-4b88-9ffd-2f1af63612b0",
-      "title": "Supplier Quality Engineer I - Mervue site",
-      "company": "Medtronic",
-      "place": "Galway, Ireland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€41.6K-€62.4K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Galway-County-Galway-Ireland/Supplier-Quality-Engineer-I---Mervue-site_R79555",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/supplier-quality-engineer-i-mervue-site-medtronic-87e57d?utm_source=reddit",
-      "postedAt": "2026-10-21T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
