@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:29:02.498Z",
+  "generatedAt": "2026-10-21T10:58:36.995Z",
   "jobs": [
     {
       "id": "0cf0a8ac-0e21-4db3-8d92-2cd63a9c9dc8",
@@ -1655,6 +1655,25 @@
       "notable": 2
     },
     {
+      "id": "fa3b2941-e9bf-4784-989e-9edbe4b983d6",
+      "title": "Leader, Sales - Splunk - Defense - Advanced Mission",
+      "company": "Cisco",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$329.8K-$445.5K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Remote---Virginia-USA/Leader--Sales---Splunk---Defense---Advanced-Mission_2028151-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/leader-sales-splunk-defense-advanced-mission-cisco-eb4b59?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "f967c8ec-a3fd-4b56-b52e-ba4be0af8d5c",
       "title": "Analyst II Software Engineering",
       "company": "DXC Technology",
@@ -1843,6 +1862,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/community-manager-weekday-ai-37d6f4?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "c4453530-9fcf-4a39-9b60-116dc517617a",
+      "title": "Inside Account Executive, GVSE Cloud & AI Infrastructure",
+      "company": "Cisco",
+      "place": "Copenhagen, Denmark",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Copenhagen-Denmark/Inside-Account-Executive--GVSE-Cloud---AI-Infrastructure_2029101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/inside-account-executive-gvse-cloud-and-ai-infrastructure-cisco-61e933?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "c0bc8f88-4f46-46e6-8ec6-6c813408ac5a",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/research-engineer-synthetic-data-clera-1a681d?utm_source=reddit",
       "postedAt": "2026-10-20T17:09:51.737Z",
       "notable": 6
-    },
-    {
-      "id": "dc6d2bbc-20c6-434f-b019-e1ac6b9b6c97",
-      "title": "GTM Engineer",
-      "company": "Clera",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$100.0K-$170.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/066f137d-7cb6-43f5-841a-6aa94df01a9c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/gtm-engineer-clera-1c22f2?utm_source=reddit",
-      "postedAt": "2026-10-20T17:09:00.408Z",
-      "notable": 6
-    },
-    {
-      "id": "fa6a3530-9078-4f82-a699-687dd9816d5b",
-      "title": "Metallurgist / Materials Engineer – Joining and Thermal Processing",
-      "company": "LLNL",
-      "place": "Livermore, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_citizen",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/LLNL/3743990016270146",
-      "firstJobbyUrl": "https://firstjobby.com/companies/llnl/metallurgist-materials-engineer-joining-and-thermal-processing-llnl-7f975a?utm_source=reddit",
-      "postedAt": "2026-10-20T17:08:27.098Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
