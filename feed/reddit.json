@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:22:47.606Z",
+  "generatedAt": "2026-10-21T03:27:25.632Z",
   "jobs": [
     {
       "id": "b310d81b-6ca5-4c51-8f93-cb8c1de71de2",
@@ -133,6 +133,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/graymatter-robotics/project-coordinator-graymatter-robotics-fdeb68?utm_source=reddit",
       "postedAt": "2026-10-21T01:21:53.835Z",
       "notable": 3
+    },
+    {
+      "id": "edad9f78-7874-4fc0-8f05-6fa507afd1fb",
+      "title": "Workflow Implementation Engineer",
+      "company": "HireHangar",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$1.0K-$4.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/hirehangar/3315f68e-28b2-41c4-ab3c-d35c90ddfdaa",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hirehangar/workflow-implementation-engineer-hirehangar-7c6c92?utm_source=reddit",
+      "postedAt": "2026-10-21T00:53:38.257Z",
+      "notable": 5
+    },
+    {
+      "id": "baa3f217-7af7-4531-a0c5-f0a024a98d28",
+      "title": "WordPress Developer",
+      "company": "HireHangar",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$1.5K-$2.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/hirehangar/e4619e61-dd97-4f86-9e9f-909694d85f90",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hirehangar/wordpress-developer-hirehangar-6caf7a?utm_source=reddit",
+      "postedAt": "2026-10-21T00:43:05.037Z",
+      "notable": 5
     },
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -5376,7 +5414,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/flosports/aaa33238-6348-4841-be55-87299d25b5d5",
       "firstJobbyUrl": "https://firstjobby.com/companies/flosports/sales-planning-specialist-flosports-e79e68?utm_source=reddit",
       "postedAt": "2026-10-20T18:29:08.050Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "7f41f2a9-4829-436c-bb48-c51f15b07732",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/meadeengineeringinc/jobs/4459139009",
       "firstJobbyUrl": "https://firstjobby.com/companies/meadeengineeringinc/commissioning-technician-data-centers-meade-fb6532?utm_source=reddit",
       "postedAt": "2026-10-20T15:03:04.000Z",
-      "notable": 3
-    },
-    {
-      "id": "07a85527-9c0d-497f-99d1-107d1a6f38d3",
-      "title": "Co-pilot / Data annotator for automotive project",
-      "company": "TSMG",
-      "place": "Bulgaria",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/tsmg/8370e466-cea3-4863-a85d-b8c17416db4c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tsmg/co-pilot-data-annotator-for-automotive-project-tsmg-230736?utm_source=reddit",
-      "postedAt": "2026-10-20T15:03:00.803Z",
-      "notable": 3
-    },
-    {
-      "id": "13ab8f9f-53fe-46fb-9836-921cd50693ff",
-      "title": "Co-pilot / Data annotator for automotive project",
-      "company": "TSMG",
-      "place": "Romania",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/tsmg/1100c1e7-024c-450d-8210-48a0d0779684",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tsmg/co-pilot-data-annotator-for-automotive-project-tsmg-91e208?utm_source=reddit",
-      "postedAt": "2026-10-20T15:02:17.549Z",
       "notable": 3
     }
   ],
