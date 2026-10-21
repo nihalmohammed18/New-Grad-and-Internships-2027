@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:56:08.179Z",
+  "generatedAt": "2026-10-21T09:57:59.018Z",
   "jobs": [
     {
       "id": "0cf0a8ac-0e21-4db3-8d92-2cd63a9c9dc8",
@@ -2487,6 +2487,25 @@
       "season": null,
       "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Global-Service-Desk---Centralized-Access-Control-Analyst_JR-0024785-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/global-service-desk-centralized-access-control-analyst-theapexgroup-1aa302?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0ea2c9e3-8f54-47f1-ac0b-c99917b77f15",
+      "title": "IT Assistant (Graduate)",
+      "company": "Cai",
+      "place": "Manila, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/Manila---One-World-Square/IT-Assistant--Graduate-_R8236",
+      "firstJobbyUrl": "https://firstjobby.com/companies/caiorwd5orcomputeraid/it-assistant-graduate-cai-913e04?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wheelpros/territory-sales-representative-wheel-pros-fdd16e?utm_source=reddit",
       "postedAt": "2026-10-20T17:04:39.000Z",
       "notable": 3
-    },
-    {
-      "id": "49e98df5-2444-4cfe-a088-a9a3d0afcc20",
-      "title": "Founding Hardware Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$70.0K-$80.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/880f2b86-2371-40ef-a571-2b47cbbeb200",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-hardware-engineer-clera-83fd10?utm_source=reddit",
-      "postedAt": "2026-10-20T17:03:54.756Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
