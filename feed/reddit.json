@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:13:53.299Z",
+  "generatedAt": "2026-10-21T02:32:30.041Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -59,6 +59,25 @@
       "notable": 2
     },
     {
+      "id": "fed85186-4d0a-4c48-9b7c-0e663f14f453",
+      "title": "Security Service Technician",
+      "company": "Johnson Controls",
+      "place": "Sydney, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Security-Service-Technician_WD30283073",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/security-service-technician-johnson-controls-59354f?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "fdc244d7-b380-429b-9e18-bfa358aac6e4",
       "title": "Workplace Coordinator",
       "company": "JLL",
@@ -95,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clydecoorwd103orclydecocareers/risk-and-compliance-analyst-apac-global-law-firm-based-in-singapore-clyde-and-co-b982ad?utm_source=reddit",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "c0bc8f88-4f46-46e6-8ec6-6c813408ac5a",
+      "title": "Security Service Technician",
+      "company": "Johnson Controls",
+      "place": "Sydney, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Security-Service-Technician_WD30282580",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/security-service-technician-johnson-controls-4545b6?utm_source=reddit",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "80e2f937-a688-487e-880d-0e538404bc93",
@@ -1877,7 +1915,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001506251-business-development-representative-higher-education-public-sector-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Canva/6000000001506251",
       "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/business-development-representative-higher-education-public-sector-canva-0b83c9?utm_source=reddit",
       "postedAt": "2026-10-20T20:08:29.517Z",
       "notable": 2
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/checkout.com/a2c93e18-85f6-41a8-9115-a5aa43646f92",
       "firstJobbyUrl": "https://firstjobby.com/companies/checkoutcom/business-development-representative-german-or-polish-speaking-checkoutcom-28939d?utm_source=reddit",
       "postedAt": "2026-10-20T13:49:50.380Z",
-      "notable": 3
-    },
-    {
-      "id": "0c10bfeb-fd48-41b4-bf76-f28bc0c9b61c",
-      "title": "Data Operations Analyst",
-      "company": "NielsenIQ",
-      "place": "Vilnius, Lithuania",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000156562761-data-operations-analyst",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-operations-analyst-nielseniq-91d856?utm_source=reddit",
-      "postedAt": "2026-10-20T13:48:46.539Z",
-      "notable": 3
-    },
-    {
-      "id": "e16198ab-49ef-4256-9511-7fc9f701515e",
-      "title": "Geotechnical Engineer",
-      "company": "EDF UK",
-      "place": "Bristol, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EDF-UK/744000156566249-geotechnical-engineer",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edf-uk/geotechnical-engineer-edf-uk-135f8a?utm_source=reddit",
-      "postedAt": "2026-10-20T13:48:14.849Z",
       "notable": 3
     }
   ],
