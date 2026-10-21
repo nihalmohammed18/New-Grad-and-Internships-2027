@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:39:23.801Z",
+  "generatedAt": "2026-10-21T00:42:58.069Z",
   "jobs": [
     {
       "id": "582e1e6c-bebc-47cc-98c0-837f1e39da14",
@@ -361,6 +361,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/robinhood/customer-experience-associate-robinhood-ff98df?utm_source=reddit",
       "postedAt": "2026-10-20T21:39:44.000Z",
       "notable": 5
+    },
+    {
+      "id": "18e0d66e-cca8-43f0-9e5c-ed6ecf0d1862",
+      "title": "Inventory Coordinator",
+      "company": "Curaleaf ",
+      "place": "Phoenix, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$17/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/curaleaf/jobs/8904360002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/curaleaf/inventory-coordinator-curaleaf-ebab88?utm_source=reddit",
+      "postedAt": "2026-10-20T21:34:15.000Z",
+      "notable": 6
     },
     {
       "id": "e7a03b9b-2315-44e6-bc29-52887beebb6e",
@@ -2073,6 +2092,25 @@
       "notable": 5
     },
     {
+      "id": "76eaf3d6-4631-4a23-8385-9dd8c35bb1d6",
+      "title": "Credit Operations Associate",
+      "company": "Capital on Tap",
+      "place": "London, United Kingdom",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/capitalontap/jobs/8903741002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capitalontap/credit-operations-associate-capital-on-tap-cc88ed?utm_source=reddit",
+      "postedAt": "2026-10-20T19:07:03.000Z",
+      "notable": 3
+    },
+    {
       "id": "4b06e6ad-98d6-4959-a8a7-95ae41d037be",
       "title": "Patient Care Coordinator",
       "company": "Specialty1 Partners",
@@ -2337,6 +2375,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/xplor/account-executive-direct-sales-xplor-439baf?utm_source=reddit",
       "postedAt": "2026-10-20T18:42:41.661Z",
       "notable": 4
+    },
+    {
+      "id": "599a305a-c13d-4811-9089-1ceca039150f",
+      "title": "Software Engineer - Crypto Data Foundations",
+      "company": "Coinbase",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$152.4K-$179.3K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/software-engineer-crypto-data-foundations-coinbase-40e68f?utm_source=reddit",
+      "postedAt": "2026-10-20T18:42:39.000Z",
+      "notable": 5
     },
     {
       "id": "87e13671-0fdd-4cb5-baf4-9901e90a5047",
@@ -5718,7 +5775,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/capitalontap/jobs/8902990002",
       "firstJobbyUrl": "https://firstjobby.com/companies/capitalontap/platform-engineer-capital-on-tap-9aa7bd?utm_source=reddit",
       "postedAt": "2026-10-20T16:05:49.000Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "46a5ca77-b279-420e-ab67-dd9a0290cd1b",
@@ -6649,7 +6706,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/capitalontap/jobs/8902820002",
       "firstJobbyUrl": "https://firstjobby.com/companies/capitalontap/flutter-engineer-platform-capital-on-tap-a253d7?utm_source=reddit",
       "postedAt": "2026-10-20T15:12:57.000Z",
-      "notable": 1
+      "notable": 3
     },
     {
       "id": "e457b152-250d-412a-b9bc-0d1e3bfba2f3",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/medical-billing-customer-service-representative-getfivestar-b469cc?utm_source=reddit",
       "postedAt": "2026-10-20T13:13:27.562Z",
       "notable": 5
-    },
-    {
-      "id": "8c0dcdd6-64ad-4b8e-9b1e-d88c047f35cd",
-      "title": "Data scientist Internship (6 months)",
-      "company": "Shift Technology",
-      "place": "France",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€2.0K/mo",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/shifttechnology/data-scientist-internship-6-months-shift-technology-07c65b?utm_source=reddit",
-      "postedAt": "2026-10-20T13:12:58.000Z",
-      "notable": 5
-    },
-    {
-      "id": "6e82b21f-af46-4751-92ec-40669481ac23",
-      "title": "Graduate UX Researcher",
-      "company": "Wise",
-      "place": "London, United Kingdom",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£40.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wise/744000156556099-graduate-ux-researcher",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wise-smartrecruiters/graduate-ux-researcher-wise-b3ca3d?utm_source=reddit",
-      "postedAt": "2026-10-20T13:10:32.972Z",
-      "notable": 5
-    },
-    {
-      "id": "699dabd9-4856-45c8-ad4b-0e5cdc52f804",
-      "title": "Sales Development Representative",
-      "company": "OPSWAT",
-      "place": "Dubai, United Arab Emirates",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.opswat.com/jobs/4745433005?gh_jid=4745433005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/opswat/sales-development-representative-opswat-b5c1be?utm_source=reddit",
-      "postedAt": "2026-10-20T13:10:17.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
