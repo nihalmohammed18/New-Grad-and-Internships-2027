@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:32:03.313Z",
+  "generatedAt": "2026-10-21T01:41:14.752Z",
   "jobs": [
     {
       "id": "c629b7c6-b8ef-4b3b-af98-d1d0586dfb42",
@@ -342,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/radiant-industries/materials-engineer-moderator-materials-radiant-industries-953912?utm_source=reddit",
       "postedAt": "2026-10-20T22:21:03.209Z",
       "notable": 5
+    },
+    {
+      "id": "4cb96944-8a49-4b23-bd4f-828cfd4c87ca",
+      "title": "Customer Experience Specialist",
+      "company": "Flex",
+      "place": "Remote",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$60.0K-CA$100.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/Flex/58e0f457-1f2a-4f68-9af9-1317696dcace",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flex-lever/customer-experience-specialist-flex-a198ed?utm_source=reddit",
+      "postedAt": "2026-10-20T22:19:39.934Z",
+      "notable": 3
     },
     {
       "id": "90bf68d6-985b-452f-8cf2-39db26338ec4",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/industrial-account-manager-rexel-f5d20c?utm_source=reddit",
       "postedAt": "2026-10-20T13:42:10.411Z",
       "notable": 3
-    },
-    {
-      "id": "1b213aee-293f-4ac9-9cd7-ca218dedc270",
-      "title": "Cyber Security Analyst",
-      "company": "DataDome",
-      "place": "Remote from France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/ddome/jobs/8902410002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ddome/cyber-security-analyst-datadome-b027b2?utm_source=reddit",
-      "postedAt": "2026-10-20T13:41:08.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
