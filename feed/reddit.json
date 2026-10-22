@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-22T08:23:12.005Z",
+  "generatedAt": "2026-10-22T08:30:00.729Z",
   "jobs": [
+    {
+      "id": "c420ceda-8b34-42b9-bd1a-7c3f9906cea5",
+      "title": "Account Manager I",
+      "company": "Careem",
+      "place": "Karachi, Pakistan",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/careem/jobs/8890956002?gh_jid=8890956002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/careem/account-manager-i-careem-d5d85d?utm_source=reddit",
+      "postedAt": "2026-10-22T08:23:30.000Z",
+      "notable": 0
+    },
     {
       "id": "aff6d7b7-111e-4049-90b2-968601370bda",
       "title": "Partner Account Manager, Intégrateurs de solutions de gestion",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/aumovio/744000156829834",
       "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/sales-analyst-aumovio-0ea489?utm_source=reddit",
       "postedAt": "2026-10-21T14:57:59.435Z",
-      "notable": 3
-    },
-    {
-      "id": "6b8fdaf9-99d6-4b94-bf84-fea6fd1f93c2",
-      "title": "Logistics Analyst",
-      "company": "AUMOVIO",
-      "place": "Itapevi, Brazil",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/aumovio/744000156830078",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/logistics-analyst-aumovio-da3cce?utm_source=reddit",
-      "postedAt": "2026-10-21T14:57:35.045Z",
       "notable": 3
     }
   ],
