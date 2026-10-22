@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:30:42.046Z",
+  "generatedAt": "2026-10-22T07:43:07.768Z",
   "jobs": [
     {
       "id": "9b5b1fd9-0081-4b6a-9d76-af49dce3edff",
@@ -477,6 +477,25 @@
       "notable": 3
     },
     {
+      "id": "2170b579-db88-4d2d-83c2-5feac05ae7be",
+      "title": "Content Enrichment Specialist - Short-term (Indonesian)",
+      "company": "1021 Creative",
+      "place": "Remote from Malaysia",
+      "category": "Marketing",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$17-$19/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/1021creative/jobs/8041064003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/1021creative/content-enrichment-specialist-short-term-indonesian-1021-creative-3b3b97?utm_source=reddit",
+      "postedAt": "2026-10-22T04:49:53.000Z",
+      "notable": 2
+    },
+    {
       "id": "e38fdde5-c162-4741-a06c-22b051270606",
       "title": "Validation & reliability Engineer",
       "company": "Bosch Group",
@@ -703,6 +722,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gen-digital/data-scientist-decision-science-gen-digital-inc-f192c1?utm_source=reddit",
       "postedAt": "2026-10-22T03:00:23.320Z",
       "notable": 3
+    },
+    {
+      "id": "bef176c7-eb31-438a-81f8-def65f4c612c",
+      "title": "Business Analyst",
+      "company": "Hato Hone St John",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "January 2027",
+      "applyUrl": "https://jobs.smartrecruiters.com/HatoHoneStJohn/6000000001512094-business-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hatohonestjohn/business-analyst-hato-hone-st-john-18d772?utm_source=reddit",
+      "postedAt": "2026-10-22T02:53:25.568Z",
+      "notable": 1
     },
     {
       "id": "6fc721da-beef-44b4-8a0e-7b7fe08c0919",
@@ -1006,6 +1044,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Nagarro1/744000156932490-platform-solutions-operations-pso-specialist",
       "firstJobbyUrl": "https://firstjobby.com/companies/nagarro1/platform-solutions-and-operations-pso-specialist-nagarro-d39901?utm_source=reddit",
       "postedAt": "2026-10-22T01:27:44.249Z",
+      "notable": 2
+    },
+    {
+      "id": "c934848a-47c2-4794-9979-ec587b1f1811",
+      "title": "Launch Operations Engineer (Starship)",
+      "company": "SpaceX",
+      "place": "Brownsville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8907760002?gh_jid=8907760002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/launch-operations-engineer-starship-spacex-13ec01?utm_source=reddit",
+      "postedAt": "2026-10-22T01:20:10.000Z",
       "notable": 2
     },
     {
@@ -1710,6 +1767,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cdc-data-centres/facilities-coordinator-data-centre-cdc-data-centres-294c16?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 1
+    },
+    {
+      "id": "58ec6bb1-465a-4690-a322-2377adfcc8e1",
+      "title": "Customer Service Representative - Logistics",
+      "company": "SuperStaff",
+      "place": "Makati City, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₱28.0K-₱32.5K/mo",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/E6737670F6",
+      "firstJobbyUrl": "https://firstjobby.com/companies/apply-superstaffjobs/customer-service-representative-logistics-superstaff-f805ef?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "4cc87544-8583-4fce-befa-e105a2f9d8dc",
@@ -5113,25 +5189,6 @@
       "notable": 5
     },
     {
-      "id": "0182abc0-d0b8-4d83-9f31-8d083870ffe9",
-      "title": "Test Engineer I - RF/EMC",
-      "company": "Alarm.com",
-      "place": "Tysons, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$32/hr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8888033002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/alarmcom/test-engineer-i-rfemc-alarmcom-33f769?utm_source=reddit",
-      "postedAt": "2026-10-21T18:43:02.000Z",
-      "notable": 5
-    },
-    {
       "id": "666ab509-0b75-4c6c-943a-d47195b0e60f",
       "title": "Customer Support Specialist",
       "company": "Apollo.io",
@@ -8457,25 +8514,6 @@
       "notable": 5
     },
     {
-      "id": "2924bbef-cd5f-4c72-8fed-8232d0717841",
-      "title": "Fluids Engineer (Starship)",
-      "company": "SpaceX",
-      "place": "Brownsville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8906243002?gh_jid=8906243002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/fluids-engineer-starship-spacex-0713bf?utm_source=reddit",
-      "postedAt": "2026-10-21T15:34:31.000Z",
-      "notable": 2
-    },
-    {
       "id": "63e44f0d-9d8e-44db-971d-6cbabefd51bc",
       "title": "Associate Fire Protection Engineer",
       "company": "Jensen Hughes",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/analyticpartners-lever/data-science-co-op-or-january-2027-analytic-partners-485f41?utm_source=reddit",
       "postedAt": "2026-10-21T14:36:54.812Z",
       "notable": 2
-    },
-    {
-      "id": "26c17966-32f5-4d87-812e-0cb1d917e321",
-      "title": "Business Development Representative (BDR) Intern (Jan-Jun 2027)",
-      "company": "Vizzia",
-      "place": "Paris, France",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€1.0K/mo",
-      "minYears": null,
-      "season": "Jan-Jun 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/vizzia/731bd828-37da-494f-9b58-41c36ab83bf7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vizzia/business-development-representative-bdr-intern-jan-jun-2027-vizzia-c5fca3?utm_source=reddit",
-      "postedAt": "2026-10-21T14:36:28.921Z",
-      "notable": 3
-    },
-    {
-      "id": "153d22cf-5bd4-4fd2-95b6-c70b1c04c4b4",
-      "title": "Customer Service Specialist (m/w/d) Telefonservice",
-      "company": "GALVANY",
-      "place": "Berlin, Germany",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/galvany/2296ff74-3ae8-42b8-acfd-14b3d72db64c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/galvany/customer-service-specialist-mwd-telefonservice-galvany-c6c568?utm_source=reddit",
-      "postedAt": "2026-10-21T14:34:21.827Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
