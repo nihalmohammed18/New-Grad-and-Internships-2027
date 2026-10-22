@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:12:30.899Z",
+  "generatedAt": "2026-10-22T01:17:48.826Z",
   "jobs": [
     {
       "id": "4b60c78c-7f54-496c-83c7-ad148a2a85e9",
@@ -1007,6 +1007,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/queracomputinginc/scientific-software-engineer-machine-programming-quera-computing-inc-ecd603?utm_source=reddit",
       "postedAt": "2026-10-21T20:44:33.000Z",
       "notable": 5
+    },
+    {
+      "id": "6a125c08-5b1a-4054-8611-b183bc64b30a",
+      "title": "Jr Controllership Analyst - Brazil",
+      "company": "ARQ",
+      "place": "São Paulo, Brazil",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/arq/d1b39d8d-8b82-4f8d-8290-d8dd58fb4283",
+      "firstJobbyUrl": "https://firstjobby.com/companies/arq-ashby/jr-controllership-analyst-brazil-arq-c4c4d0?utm_source=reddit",
+      "postedAt": "2026-10-21T20:34:46.769Z",
+      "notable": 3
     },
     {
       "id": "cfa42dfc-2c2f-4537-87a4-c419ed4dbb24",
@@ -2203,7 +2222,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/blossom-health/769e371e-ce17-4595-b3de-5a6122ad925b",
       "firstJobbyUrl": "https://firstjobby.com/companies/blossom-health/software-engineer-blossom-health-a30c06?utm_source=reddit",
       "postedAt": "2026-10-21T18:40:24.051Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "4324dcfe-144c-4542-8d30-14ffa9f3916a",
@@ -2222,7 +2241,7 @@
       "applyUrl": "https://jobs.ashbyhq.com/blossom-health/3ac1c37a-3ea3-4451-8833-e2b6d163579d",
       "firstJobbyUrl": "https://firstjobby.com/companies/blossom-health/applied-ai-engineer-blossom-health-2bfd4c?utm_source=reddit",
       "postedAt": "2026-10-21T18:39:26.975Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "690f1925-c103-4fe9-827a-7156f59887ca",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000156780430",
       "firstJobbyUrl": "https://firstjobby.com/companies/staubligroup/firmware-engineer-staubli-019d48?utm_source=reddit",
       "postedAt": "2026-10-21T11:51:30.950Z",
-      "notable": 3
-    },
-    {
-      "id": "1374c775-5762-4371-9051-717b6ad1d89d",
-      "title": "Pessoa Technical Customer Success",
-      "company": "Jobgether",
-      "place": "Remote from Brazil",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/0e751352-d7e6-46a2-ae91-d877c5b6957d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/pessoa-technical-customer-success-jobgether-c96f01?utm_source=reddit",
-      "postedAt": "2026-10-21T11:45:46.287Z",
       "notable": 3
     }
   ],
