@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:39:51.395Z",
+  "generatedAt": "2026-10-22T02:45:46.760Z",
   "jobs": [
     {
       "id": "1d96fd4c-3864-4869-ab79-b8e1643e73c8",
@@ -323,6 +323,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/backend-engineer-solving-jobgether-cd21cb?utm_source=reddit",
       "postedAt": "2026-10-22T00:26:18.752Z",
       "notable": 3
+    },
+    {
+      "id": "c42e4466-8063-45d6-a527-4bb1a9d1ace7",
+      "title": "Mechanical Engineer",
+      "company": "Stoke Space",
+      "place": "Kent, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$109.7K-$148.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6231651004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stokespacetechnologies/mechanical-engineer-stoke-space-bec6f5?utm_source=reddit",
+      "postedAt": "2026-10-22T00:20:29.000Z",
+      "notable": 2
     },
     {
       "id": "915d4e1f-e54d-4063-a134-0ebfc01ac670",
@@ -1104,6 +1123,25 @@
       "notable": 1
     },
     {
+      "id": "cea18d02-fef4-4427-8e5e-ba555f481db0",
+      "title": "2027 PhD Resident - AI for Science (Lab Automation)",
+      "company": "X",
+      "place": "Mountain View, United States",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$109.0K-$157.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://x.company/careers/8907040002?gh_jid=8907040002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/x9/2027-phd-resident-ai-for-science-lab-automation-x-6e27f3?utm_source=reddit",
+      "postedAt": "2026-10-21T21:42:41.000Z",
+      "notable": 3
+    },
+    {
       "id": "53f1a65e-f30b-4d03-a2a4-254a881a8825",
       "title": "Brand Excellence Specialist",
       "company": "Crumbl",
@@ -1216,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/relativity/offshore-recovery-electrical-engineer-i-relativity-space-b1f367?utm_source=reddit",
       "postedAt": "2026-10-21T21:34:08.000Z",
       "notable": 5
+    },
+    {
+      "id": "bd06987b-c13b-4546-a610-b059b4b6a0ba",
+      "title": "Customer Hero Operations Specialist",
+      "company": "SpotHero",
+      "place": "Chicago, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$56.0K-$70.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://spothero.com/careers/8310697/?gh_jid=8310697",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spothero/customer-hero-operations-specialist-spothero-a3503d?utm_source=reddit",
+      "postedAt": "2026-10-21T21:30:40.000Z",
+      "notable": 4
     },
     {
       "id": "c13276a8-fc18-431a-a3fa-3a15bca9060b",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/indiecampers/operations-supervisor-indie-campers-27297c?utm_source=reddit",
       "postedAt": "2026-10-21T12:27:02.000Z",
       "notable": 3
-    },
-    {
-      "id": "0cf9795d-feb5-48ba-80c3-d55010637fd3",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/f2814b76-2601-4284-9c90-2858a0925ff8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-4c9076?utm_source=reddit",
-      "postedAt": "2026-10-21T12:24:49.603Z",
-      "notable": 5
-    },
-    {
-      "id": "d01e8ab2-36cd-4c74-b309-4fb109ca6efc",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines, LATAM",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/6cb7ffe8-1c80-4208-af3a-e83d1345f5c4",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-7466b5?utm_source=reddit",
-      "postedAt": "2026-10-21T12:24:22.268Z",
-      "notable": 5
-    },
-    {
-      "id": "6555f664-e045-4c12-b498-2f364ccb5aba",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/0d5e354b-b093-4bee-b0d2-8073b332756d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-be90ec?utm_source=reddit",
-      "postedAt": "2026-10-21T12:23:57.843Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
