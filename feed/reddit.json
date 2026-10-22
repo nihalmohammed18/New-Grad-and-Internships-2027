@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-22T02:18:30.471Z",
+  "generatedAt": "2026-10-22T02:33:18.404Z",
   "jobs": [
+    {
+      "id": "1d96fd4c-3864-4869-ab79-b8e1643e73c8",
+      "title": "Brandwatch, Customer Success Associate, Sales, APAC, Australia",
+      "company": "Cision",
+      "place": "Melbourne, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/cision/jobs/5005203101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cision/brandwatch-customer-success-associate-sales-apac-australia-cision-bf07e4?utm_source=reddit",
+      "postedAt": "2026-10-22T02:10:39.000Z",
+      "notable": 2
+    },
     {
       "id": "567768d1-6254-4f9c-b7e0-f87c49054bc1",
       "title": "Applied AI Engineer (Full-Stack)",
@@ -1653,6 +1672,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/grafanalabs/regional-marketing-associate-or-east-or-central-us-or-remote-grafana-labs-af5024?utm_source=reddit",
       "postedAt": "2026-10-21T20:45:24.000Z",
       "notable": 3
+    },
+    {
+      "id": "1b9c6f6b-640c-4870-816f-69f4c6e3353f",
+      "title": "Business Operations Analyst",
+      "company": "AppLovin",
+      "place": "Palo Alto, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$110.0K-CA$160.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/applovin/jobs/4723470006?gh_jid=4723470006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/applovin/business-operations-analyst-applovin-271b28?utm_source=reddit",
+      "postedAt": "2026-10-21T20:44:51.000Z",
+      "notable": 4
     },
     {
       "id": "82b482e3-3386-4a85-8749-40a16462cc18",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-be90ec?utm_source=reddit",
       "postedAt": "2026-10-21T12:23:57.843Z",
       "notable": 5
-    },
-    {
-      "id": "9da959b6-d5e3-44bb-a31c-d19d6f085444",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines, LATAM",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/b52bea5d-9bf8-4af9-b250-fc2977be998e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-dbceca?utm_source=reddit",
-      "postedAt": "2026-10-21T12:23:36.226Z",
-      "notable": 5
-    },
-    {
-      "id": "4ff20862-9c5d-46ed-bef1-3682f1f0692f",
-      "title": "Sales Analyst & Support - High-Tech (F/H/X) - CDI",
-      "company": "Veepee",
-      "place": "France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/veepee/06b8009e-efab-43f4-b899-0ed5b6318f98",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veepee/sales-analyst-and-support-high-tech-fhx-cdi-veepee-ad668a?utm_source=reddit",
-      "postedAt": "2026-10-21T12:23:22.764Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
