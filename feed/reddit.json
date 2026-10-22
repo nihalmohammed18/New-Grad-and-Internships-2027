@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:06:17.230Z",
+  "generatedAt": "2026-10-22T02:10:32.568Z",
   "jobs": [
     {
       "id": "03dc8822-f935-4fc0-841e-2b9c273072d2",
@@ -550,6 +550,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/soci/jobs/6231628004",
       "firstJobbyUrl": "https://firstjobby.com/companies/soci/sales-development-representative-soci-31203b?utm_source=reddit",
       "postedAt": "2026-10-21T23:22:39.000Z",
+      "notable": 3
+    },
+    {
+      "id": "da1f3e30-e37d-4b9f-9fb2-8cbb68efb7bd",
+      "title": "Software Engineer, DevAI",
+      "company": "Airbnb",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$162.0K-$190.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
+      "firstJobbyUrl": "https://firstjobby.com/companies/airbnb/software-engineer-devai-airbnb-012490?utm_source=reddit",
+      "postedAt": "2026-10-21T23:20:53.000Z",
       "notable": 3
     },
     {
@@ -1370,6 +1389,25 @@
       "notable": 1
     },
     {
+      "id": "6ce03951-339b-4292-9377-d5e854908390",
+      "title": "Visual Strategist",
+      "company": "TubeScience",
+      "place": "Los Angeles, United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/tubescience52/jobs/5271791007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tubescience52/visual-strategist-tubescience-9e8670?utm_source=reddit",
+      "postedAt": "2026-10-21T21:10:57.000Z",
+      "notable": 3
+    },
+    {
       "id": "7dba60d3-1076-4a70-bd75-24ecc306d65a",
       "title": "ACCOUNTS RECEIVABLE - COLLECTIONS EXPERT ANALYST",
       "company": "Bosch Group",
@@ -1843,6 +1881,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/kernel-ashby/ai-ops-engineer-business-operations-kernel-22b4a7?utm_source=reddit",
       "postedAt": "2026-10-21T20:08:47.695Z",
       "notable": 3
+    },
+    {
+      "id": "057405ce-f7d9-4ac6-b05a-573cb62b4e40",
+      "title": "Data Migration Specialist",
+      "company": "Canopy",
+      "place": "Draper, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/canopytax/jobs/4463117009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/canopytax/data-migration-specialist-canopy-c3e5e4?utm_source=reddit",
+      "postedAt": "2026-10-21T20:07:43.000Z",
+      "notable": 1
     },
     {
       "id": "423dc7bb-5910-4afe-a7ea-1d32f311bcdc",
@@ -8685,25 +8742,6 @@
       "notable": 3
     },
     {
-      "id": "c789cdad-486d-4d7a-81a6-f20c7d6a3c77",
-      "title": "QA/QC Technician",
-      "company": "Loenbro",
-      "place": "Andrews, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/loenbro/jobs/4462205009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/loenbro/qaqc-technician-loenbro-fc2bcb?utm_source=reddit",
-      "postedAt": "2026-10-21T13:15:24.000Z",
-      "notable": 2
-    },
-    {
       "id": "27c27327-f549-475d-98ce-5ea4ad880af6",
       "title": "Store Research Analyst (m/w/d)",
       "company": "NielsenIQ",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/9fc7f5f4-026f-488c-829a-44471240da12",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-95be79?utm_source=reddit",
       "postedAt": "2026-10-21T12:22:44.713Z",
-      "notable": 5
-    },
-    {
-      "id": "fb6af255-a94f-43bd-8b7e-7e93d8245aee",
-      "title": "Territory Sales Representative",
-      "company": "Techo-Bloc",
-      "place": "Nashville, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/techo-bloc/744000156787574",
-      "firstJobbyUrl": "https://firstjobby.com/companies/techo-bloc/territory-sales-representative-techo-bloc-c908f1?utm_source=reddit",
-      "postedAt": "2026-10-21T12:22:04.547Z",
-      "notable": 3
-    },
-    {
-      "id": "6b33599c-b61f-4dce-9ec9-647dd95ce34a",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines, LATAM",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/7744d918-5def-4b9e-b4c1-2cb470a23318",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-3985ed?utm_source=reddit",
-      "postedAt": "2026-10-21T12:21:50.676Z",
       "notable": 5
     }
   ],
