@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:43:42.000Z",
+  "generatedAt": "2026-10-22T08:47:39.828Z",
   "jobs": [
     {
       "id": "c420ceda-8b34-42b9-bd1a-7c3f9906cea5",
@@ -2280,6 +2280,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ecooutdoor/product-developer-architectural-surfaces-eco-outdoor-009528?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 1
+    },
+    {
+      "id": "2f4c81c1-70c5-4ab6-9888-42fe4cadef65",
+      "title": "REVENUE OFFICER I (TAXATION)",
+      "company": "Ri",
+      "place": "United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$59.6K-$68.2K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ri.wd5.myworkdayjobs.com/RI/job/William-E-Powers-Office-Building/REVENUE-OFFICER-I--TAXATION-_JR103978",
+      "firstJobbyUrl": "https://firstjobby.com/companies/riorwd5orri/revenue-officer-i-taxation-ri-93b64d?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "2e1ae771-45b0-4b2f-a5be-a7b567de3af6",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Auto1/744000156830749",
       "firstJobbyUrl": "https://firstjobby.com/companies/auto1/it-system-administrator-production-fmx-auto1-group-352cd7?utm_source=reddit",
       "postedAt": "2026-10-21T15:00:22.551Z",
-      "notable": 3
-    },
-    {
-      "id": "26c037f6-d83e-4c1e-a688-c4762833647b",
-      "title": "Junior Service Desk Analyst",
-      "company": "Endava",
-      "place": "Hyderabad, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/endava/744000156825605",
-      "firstJobbyUrl": "https://firstjobby.com/companies/endava/junior-service-desk-analyst-endava-1fe230?utm_source=reddit",
-      "postedAt": "2026-10-21T14:59:59.834Z",
       "notable": 3
     }
   ],
