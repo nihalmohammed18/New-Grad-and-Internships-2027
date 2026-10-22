@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:23:35.188Z",
+  "generatedAt": "2026-10-22T01:26:55.993Z",
   "jobs": [
     {
       "id": "4b60c78c-7f54-496c-83c7-ad148a2a85e9",
@@ -534,6 +534,25 @@
       "notable": 5
     },
     {
+      "id": "4ff2003b-604a-469d-8c84-a2086b1fc542",
+      "title": "LA Galaxy, Producer- Video & Content",
+      "company": "AEG Worldwide",
+      "place": "Carson, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$71.0K-$80.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/aegworldwide/jobs/8883912002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aegworldwide/la-galaxy-producer-video-and-content-aeg-worldwide-c05b88?utm_source=reddit",
+      "postedAt": "2026-10-21T22:23:14.000Z",
+      "notable": 5
+    },
+    {
       "id": "21e418bd-2201-4f54-9c7f-5e84073620b3",
       "title": "Multi Media Design Intern",
       "company": "Sezzle",
@@ -930,6 +949,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271794007",
       "firstJobbyUrl": "https://firstjobby.com/companies/altentechnologyusa/systems-engineer-alten-technology-usa-79dd05?utm_source=reddit",
       "postedAt": "2026-10-21T21:22:18.000Z",
+      "notable": 5
+    },
+    {
+      "id": "0a73f1ca-3d89-405e-a6f2-f8f3a3b6bcac",
+      "title": "Analyst, Early Career (Full Stack)",
+      "company": "Affirm",
+      "place": "San Francisco, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$115.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/affirm/analyst-early-career-full-stack-affirm-ad30c2?utm_source=reddit",
+      "postedAt": "2026-10-21T21:16:19.000Z",
       "notable": 5
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/fire-engineer-aecom-b62df8?utm_source=reddit",
       "postedAt": "2026-10-21T12:06:28.896Z",
       "notable": 3
-    },
-    {
-      "id": "619b7c7a-0e1e-44d0-840e-d67682f9e5e7",
-      "title": "Customer Success (CS) | Gestão de Clientes e Projetos",
-      "company": "Jobgether",
-      "place": "Remote from Brazil",
-      "category": "Customer Support",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/bf4ac104-7508-49fa-8b9e-51a97064e6e8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/customer-success-cs-or-gestao-de-clientes-e-projetos-jobgether-e00446?utm_source=reddit",
-      "postedAt": "2026-10-21T12:06:26.711Z",
-      "notable": 3
-    },
-    {
-      "id": "68b20ea8-ad63-4101-b2a6-8a8968fd0810",
-      "title": "Contact Center Solution Designer (m/f/n)",
-      "company": "InPost",
-      "place": "Kraków, Poland",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InPost/744000156783279",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inpost/contact-center-solution-designer-mfn-inpost-3b9036?utm_source=reddit",
-      "postedAt": "2026-10-21T12:03:03.658Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
