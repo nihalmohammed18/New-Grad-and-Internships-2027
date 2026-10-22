@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:39:41.602Z",
+  "generatedAt": "2026-10-22T08:43:42.000Z",
   "jobs": [
     {
       "id": "c420ceda-8b34-42b9-bd1a-7c3f9906cea5",
@@ -56,6 +56,25 @@
       "applyUrl": "https://www.avepoint.com/careers/job-detail?gh_jid=8306174",
       "firstJobbyUrl": "https://firstjobby.com/companies/avepoint/customer-community-manager-avepoint-7afe37?utm_source=reddit",
       "postedAt": "2026-10-22T07:31:24.000Z",
+      "notable": 3
+    },
+    {
+      "id": "e4dd4156-f386-4c4e-8547-5fb01fbd8070",
+      "title": "Associate Customer Success Manager",
+      "company": "Bynder",
+      "place": "Amsterdam, Netherlands",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€34.0K-€38.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/bynder/9e35edd7-76cf-4926-b1e4-cfe1e1fdd41a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bynder/associate-customer-success-manager-bynder-8a3b1f?utm_source=reddit",
+      "postedAt": "2026-10-22T07:24:35.797Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/endava/junior-service-desk-analyst-endava-1fe230?utm_source=reddit",
       "postedAt": "2026-10-21T14:59:59.834Z",
       "notable": 3
-    },
-    {
-      "id": "fb039260-f313-41fc-a1c3-4a56c1be2fb9",
-      "title": "DevOps Engineer",
-      "company": "Accenture Federal Services",
-      "place": "Chantilly, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$66.7K-$122.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4722580006?gh_jid=4722580006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/devops-engineer-accenture-federal-services-0c615a?utm_source=reddit",
-      "postedAt": "2026-10-21T14:59:30.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
