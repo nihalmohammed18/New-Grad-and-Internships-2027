@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:10:32.568Z",
+  "generatedAt": "2026-10-22T02:16:20.048Z",
   "jobs": [
     {
       "id": "03dc8822-f935-4fc0-841e-2b9c273072d2",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/openart/early-adopter-and-product-builder-intern-creative-ai-openart-ai-bbb34f?utm_source=reddit",
       "postedAt": "2026-10-22T01:14:54.485Z",
       "notable": 4
+    },
+    {
+      "id": "1d45939f-4923-4066-806e-4b3a8116a677",
+      "title": "Security Engineer",
+      "company": "Toku",
+      "place": "Chile",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/toku/1e91c15c-db7e-4207-b90f-10e5b6c992da",
+      "firstJobbyUrl": "https://firstjobby.com/companies/toku-ashby/security-engineer-toku-5ef39e?utm_source=reddit",
+      "postedAt": "2026-10-22T01:07:55.521Z",
+      "notable": 1
     },
     {
       "id": "eb9e402a-f935-48ae-8f80-cf7d838d6837",
@@ -513,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/figma/product-builder-ai-insights-figma-2d7bdb?utm_source=reddit",
       "postedAt": "2026-10-21T23:27:20.000Z",
       "notable": 5
+    },
+    {
+      "id": "fd3a8e2c-9768-4d85-a190-434a0fca84e8",
+      "title": "Electrical Engineer",
+      "company": "Overview Energy",
+      "place": "Ashburn, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$110.0K-$150.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/overviewenergy/a295cf3c-1c0b-41bc-854e-64e08d3467a3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/overviewenergy/electrical-engineer-overview-energy-1b477b?utm_source=reddit",
+      "postedAt": "2026-10-21T23:25:59.980Z",
+      "notable": 3
     },
     {
       "id": "afc09cc5-3855-47ae-a8c4-22cd97de8885",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/certifiedgroup/jobs/4459653009",
       "firstJobbyUrl": "https://firstjobby.com/companies/certifiedgroup/lab-analyst-certified-group-b43d9a?utm_source=reddit",
       "postedAt": "2026-10-21T12:23:21.000Z",
-      "notable": 5
-    },
-    {
-      "id": "405e9c4c-a443-43db-ae8b-d1b5ba10eabd",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines, LATAM",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/6743227c-3301-429d-a6de-ed6671b7bc07",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-4aa293?utm_source=reddit",
-      "postedAt": "2026-10-21T12:23:09.592Z",
-      "notable": 5
-    },
-    {
-      "id": "9878d381-228c-4509-bccb-fe22ec2ab742",
-      "title": "Graphic Designer",
-      "company": "Jobgether",
-      "place": "Remote from Poland, Philippines, LATAM",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$1.7K-$2.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/9fc7f5f4-026f-488c-829a-44471240da12",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-designer-jobgether-95be79?utm_source=reddit",
-      "postedAt": "2026-10-21T12:22:44.713Z",
       "notable": 5
     }
   ],
