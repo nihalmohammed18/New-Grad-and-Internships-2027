@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:59:06.752Z",
+  "generatedAt": "2026-10-22T06:00:16.977Z",
   "jobs": [
     {
       "id": "b94fd8c1-a11b-4de7-8287-00ed03fc6bbb",
@@ -18,6 +18,44 @@
       "applyUrl": "https://jobs.ashbyhq.com/palmstreet/a279c25f-92d0-4b50-ad5a-2fdbc4fb2306",
       "firstJobbyUrl": "https://firstjobby.com/companies/palmstreet/business-development-representative-mexico-palmstreet-7a62fd?utm_source=reddit",
       "postedAt": "2026-10-22T03:45:01.873Z",
+      "notable": 3
+    },
+    {
+      "id": "1c934d1d-d973-49d7-9d74-75baa7f80a1b",
+      "title": "Junior Engineer",
+      "company": "Egis Group",
+      "place": "Hong Kong",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000157014892-junior-engineer-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/junior-engineer-egis-group-f679a1?utm_source=reddit",
+      "postedAt": "2026-10-22T03:21:29.486Z",
+      "notable": 3
+    },
+    {
+      "id": "62094c89-e40e-4a3b-9a78-09ca2e739158",
+      "title": "Assistant Façade Engineer",
+      "company": "Egis Group",
+      "place": "Hong Kong, Hong Kong",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000157007447-assistant-facade-engineer",
+      "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/assistant-facade-engineer-egis-group-f9ac0e?utm_source=reddit",
+      "postedAt": "2026-10-22T03:20:54.846Z",
       "notable": 3
     },
     {
@@ -114,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/halter-ashby/people-operations-coordinator-halter-5cedd3?utm_source=reddit",
       "postedAt": "2026-10-22T02:33:09.334Z",
       "notable": 5
+    },
+    {
+      "id": "1a4e2b3c-6f4a-4ff1-a51c-871614dc4693",
+      "title": "Specialist, Field Sales",
+      "company": "Delivery Hero",
+      "place": "Dhaka, Bangladesh",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000156963793-specialist-field-sales",
+      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/specialist-field-sales-delivery-hero-755b85?utm_source=reddit",
+      "postedAt": "2026-10-22T02:15:54.238Z",
+      "notable": 3
     },
     {
       "id": "1d96fd4c-3864-4869-ab79-b8e1643e73c8",
@@ -3226,7 +3283,7 @@
       "pay": null,
       "minYears": null,
       "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016316166-2027-procurement-intern-undergraduate-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016316166",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/2027-procurement-intern-undergraduate-abbvie-8cb12c?utm_source=reddit",
       "postedAt": "2026-10-21T19:57:25.551Z",
       "notable": 3
@@ -4841,7 +4898,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000156864713-key-account-manager-regions-italy",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000156864713",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/key-account-manager-regions-italy-delivery-hero-43fbd3?utm_source=reddit",
       "postedAt": "2026-10-21T17:53:55.671Z",
       "notable": 3
@@ -5126,7 +5183,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000156863039-field-sales-merchandiser-wonderful-pistachios-pom-wonderful-halos-citrus",
+      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000156863039",
       "firstJobbyUrl": "https://firstjobby.com/companies/thewonderfulcompany/field-sales-merchandiser-wonderful-pistachios-pom-wonderful-halos-citrus-the-won-a055c7?utm_source=reddit",
       "postedAt": "2026-10-21T17:38:53.007Z",
       "notable": 3
@@ -5620,7 +5677,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000156858120-it-support-spezialist-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000156858120",
       "firstJobbyUrl": "https://firstjobby.com/companies/strersecokgaastrergruppe/it-support-spezialist-mwd-stroer-se-and-co-kgaa-stroer-gruppe-1cf6f5?utm_source=reddit",
       "postedAt": "2026-10-21T17:11:42.796Z",
       "notable": 3
@@ -5791,7 +5848,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000156856569-inside-sales-specialist-flowerbuyer",
+      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000156856569",
       "firstJobbyUrl": "https://firstjobby.com/companies/thewonderfulcompany/inside-sales-specialist-flowerbuyer-the-wonderful-company-a389ff?utm_source=reddit",
       "postedAt": "2026-10-21T17:00:34.200Z",
       "notable": 3
@@ -5848,7 +5905,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000156856267-project-manager-junior-madrid",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000156856267",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/project-manager-junior-madrid-turner-and-townsend-d7ee97?utm_source=reddit",
       "postedAt": "2026-10-21T16:59:47.353Z",
       "notable": 3
@@ -5867,7 +5924,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000156856209-graphic-designer-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000156856209",
       "firstJobbyUrl": "https://firstjobby.com/companies/strersecokgaastrergruppe/graphic-designer-mwd-stroer-se-and-co-kgaa-stroer-gruppe-2c3efd?utm_source=reddit",
       "postedAt": "2026-10-21T16:59:18.238Z",
       "notable": 3
@@ -6798,7 +6855,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sutherland/744000156848458-insurance-transaction-customer-service-associates-contract-opportunity",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sutherland/744000156848458",
       "firstJobbyUrl": "https://firstjobby.com/companies/sutherland/insurance-transaction-customer-service-associates-contract-opportunity-sutherlan-5527ac?utm_source=reddit",
       "postedAt": "2026-10-21T16:14:34.710Z",
       "notable": 2
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/snowflake-ashby/cloud-support-engineer-japanese-speaking-snowflake-5908b5?utm_source=reddit",
       "postedAt": "2026-10-21T13:43:28.190Z",
       "notable": 5
-    },
-    {
-      "id": "3701f9a2-e740-426c-a3c4-0ca3c2eb11a9",
-      "title": "Sustainability Analyst",
-      "company": "SOCOTEC",
-      "place": "New York, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000156808789",
-      "firstJobbyUrl": "https://firstjobby.com/companies/socotec/sustainability-analyst-socotec-ec9716?utm_source=reddit",
-      "postedAt": "2026-10-21T13:41:43.344Z",
-      "notable": 3
-    },
-    {
-      "id": "dd4e2e37-a191-4e6b-b96f-f790cb0c027b",
-      "title": "Ingénieur SSI et cybersécurité en ingénierie nucléaire - Stage - H/F",
-      "company": "ASSYSTEM",
-      "place": "Tours, France",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/assystem/744000156803740",
-      "firstJobbyUrl": "https://firstjobby.com/companies/assystem/ingenieur-ssi-et-cybersecurite-en-ingenierie-nucleaire-stage-hf-assystem-a316f5?utm_source=reddit",
-      "postedAt": "2026-10-21T13:41:36.514Z",
-      "notable": 3
-    },
-    {
-      "id": "a699839e-949d-410f-901b-9ca928f10e0f",
-      "title": "Internship and Entry-Level Graduate Opportunities - Engineering & Manufacturing Fair",
-      "company": "AECOM",
-      "place": "Rocky Hill, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000156808649",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/internship-and-entry-level-graduate-opportunities-engineering-and-manufacturing--2ee15f?utm_source=reddit",
-      "postedAt": "2026-10-21T13:41:08.133Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
