@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:30:00.729Z",
+  "generatedAt": "2026-10-22T08:39:41.602Z",
   "jobs": [
     {
       "id": "c420ceda-8b34-42b9-bd1a-7c3f9906cea5",
@@ -1921,6 +1921,25 @@
       "notable": 3
     },
     {
+      "id": "df5ceb20-d718-450a-8039-86961bc07ee9",
+      "title": "Wireless Communications Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$83.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Wireless-Communications-Engineer_R0171133-11",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/wireless-communications-engineer-amentum-ddc66b?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "d8e25264-f7a1-46ba-83a5-9f3e5fe7513e",
       "title": "Customer Development Executive (Sales) Jakarta 2 Com-Terminix Branch",
       "company": "Rentokil Initial",
@@ -1995,6 +2014,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orwestpaccareers/information-security-engineer-westpac-cdb11f?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "aa841e38-ff55-41e0-bd23-28a37b729eba",
+      "title": "Project Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$83.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Project-Engineer_R0171014-5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/project-engineer-amentum-d9a1e5?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "a99e8391-ad60-4fa5-8cdd-d3baf3f94a6c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/devops-engineer-accenture-federal-services-0c615a?utm_source=reddit",
       "postedAt": "2026-10-21T14:59:30.000Z",
       "notable": 5
-    },
-    {
-      "id": "8fd2188c-3b39-4ff7-9858-ac6dac8d8c46",
-      "title": "Graduate Design Engineer, Structural Engineering - Buildings & Facilities",
-      "company": "TKDA",
-      "place": "Bloomington, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$75.0K-$90.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/tkda/0f130ca0-bdca-4533-8de1-28dbd47f5e19",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tkda/graduate-design-engineer-structural-engineering-buildings-and-facilities-tkda-87d362?utm_source=reddit",
-      "postedAt": "2026-10-21T14:58:39.257Z",
-      "notable": 6
-    },
-    {
-      "id": "929aa165-d607-49f8-803c-dc5f346b668a",
-      "title": "Sales Analyst",
-      "company": "AUMOVIO",
-      "place": "Itapevi, Brazil",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/aumovio/744000156829834",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/sales-analyst-aumovio-0ea489?utm_source=reddit",
-      "postedAt": "2026-10-21T14:57:59.435Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
