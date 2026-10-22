@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:06:43.784Z",
+  "generatedAt": "2026-10-22T08:17:45.893Z",
   "jobs": [
     {
       "id": "aff6d7b7-111e-4049-90b2-968601370bda",
@@ -306,6 +306,25 @@
       "notable": 3
     },
     {
+      "id": "1fd1abe1-242a-4d32-8954-726b80ae56f9",
+      "title": "Customer Support for Germany",
+      "company": "KLARSTEIN",
+      "place": "Bratislava, Slovakia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/berlinbrands/jobs/6231774004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/berlinbrands/customer-support-for-germany-klarstein-76d140?utm_source=reddit",
+      "postedAt": "2026-10-22T06:07:16.000Z",
+      "notable": 1
+    },
+    {
       "id": "191c26a7-09ef-4fe5-a986-88cac743b8ec",
       "title": "Design Engineer – Structural - Towers and Teleom - Hyderabad",
       "company": "Ramboll",
@@ -323,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/design-engineer-structural-towers-and-teleom-hyderabad-ramboll-82ca5d?utm_source=reddit",
       "postedAt": "2026-10-22T06:05:26.258Z",
       "notable": 3
+    },
+    {
+      "id": "defc240b-c0fb-454c-8e8f-11ed4b213196",
+      "title": "Key Account Manager",
+      "company": "Bradken",
+      "place": "Almaty, Kazakhstan",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/bradken/jobs/4864357101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bradken/key-account-manager-bradken-5bf66f?utm_source=reddit",
+      "postedAt": "2026-10-22T06:05:05.000Z",
+      "notable": 1
     },
     {
       "id": "5c7665ba-536d-4ff9-b908-d6fd69fb1970",
@@ -874,6 +912,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nice/sales-associate-nice-cc6958?utm_source=reddit",
       "postedAt": "2026-10-22T03:01:29.000Z",
       "notable": 3
+    },
+    {
+      "id": "6a7f88fa-b7e2-433f-94d6-4abb71ffbc22",
+      "title": "Commercial Sales Engineer - East",
+      "company": "Zscaler",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$105.0K-$150.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5268700007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/zscaler/commercial-sales-engineer-east-zscaler-dfd497?utm_source=reddit",
+      "postedAt": "2026-10-22T03:01:04.000Z",
+      "notable": 5
     },
     {
       "id": "7e5b3d77-7a2e-4c69-9374-c2085b793614",
@@ -3856,7 +3913,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/tubescience52/jobs/5271791007",
       "firstJobbyUrl": "https://firstjobby.com/companies/tubescience52/visual-strategist-tubescience-9e8670?utm_source=reddit",
       "postedAt": "2026-10-21T21:10:57.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "7dba60d3-1076-4a70-bd75-24ecc306d65a",
@@ -9442,63 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/wgsn/df6c8549-bcd1-424b-b5b5-bfa068afec05",
       "firstJobbyUrl": "https://firstjobby.com/companies/wgsn/account-manager-retention-acceleration-wgsn-b687c0?utm_source=reddit",
       "postedAt": "2026-10-21T14:54:10.862Z",
-      "notable": 3
-    },
-    {
-      "id": "ba3ad4f5-dabe-4456-bf29-0b5aa7859770",
-      "title": "Product Development Scientist/Engineer",
-      "company": "Anton Paar",
-      "place": "Boynton Beach, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AntonPaar1/744000156828419",
-      "firstJobbyUrl": "https://firstjobby.com/companies/antonpaar1/product-development-scientistengineer-anton-paar-a8ab32?utm_source=reddit",
-      "postedAt": "2026-10-21T14:52:06.850Z",
-      "notable": 3
-    },
-    {
-      "id": "c752bc6f-f7e1-4227-b83b-fe79ac45f10d",
-      "title": "Mortgage Analyst",
-      "company": "Rothesay",
-      "place": "New York City, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$125.0K-$175.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/rothesaylife/jobs/8899952002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rothesaylife/mortgage-analyst-rothesay-ea1a36?utm_source=reddit",
-      "postedAt": "2026-10-21T14:51:25.000Z",
-      "notable": 3
-    },
-    {
-      "id": "e290e2b4-1d4b-4798-a3de-01fff4acf3b9",
-      "title": "Event & Community Manager (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "place": "Berlin, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/reonic/1c89673e-a0e0-4aed-831b-cdfe82afc39d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/reonic/event-and-community-manager-ai-x-greentech-mfd-reonic-970b49?utm_source=reddit",
-      "postedAt": "2026-10-21T14:50:37.468Z",
       "notable": 3
     }
   ],
