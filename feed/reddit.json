@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-22T02:45:46.760Z",
+  "generatedAt": "2026-10-22T03:18:22.226Z",
   "jobs": [
+    {
+      "id": "6fc721da-beef-44b4-8a0e-7b7fe08c0919",
+      "title": "Brandwatch, Customer Success Associate, Sales, APAC, Australia",
+      "company": "Brandwatch",
+      "place": "Melbourne, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/brandwatch/jobs/5012992101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/brandwatch/brandwatch-customer-success-associate-sales-apac-australia-brandwatch-2f2637?utm_source=reddit",
+      "postedAt": "2026-10-22T02:50:11.000Z",
+      "notable": 3
+    },
     {
       "id": "1d96fd4c-3864-4869-ab79-b8e1643e73c8",
       "title": "Brandwatch, Customer Success Associate, Sales, APAC, Australia",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/bioassay-scientist-eurofins-327018?utm_source=reddit",
       "postedAt": "2026-10-21T12:28:09.562Z",
       "notable": 4
-    },
-    {
-      "id": "98c2d7a9-0926-4e92-8afe-8ea08f3b7231",
-      "title": "Operations Supervisor",
-      "company": "Indie Campers",
-      "place": "München, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://indiecampers.com/discover/en-us/careers/8905375002?gh_jid=8905375002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/indiecampers/operations-supervisor-indie-campers-27297c?utm_source=reddit",
-      "postedAt": "2026-10-21T12:27:02.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
