@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-22T02:16:20.048Z",
+  "generatedAt": "2026-10-22T02:18:30.471Z",
   "jobs": [
+    {
+      "id": "567768d1-6254-4f9c-b7e0-f87c49054bc1",
+      "title": "Applied AI Engineer (Full-Stack)",
+      "company": "Pinecone",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$190.0K-$270.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pinecone/applied-ai-engineer-full-stack-pinecone-075e03?utm_source=reddit",
+      "postedAt": "2026-10-22T02:02:42.448Z",
+      "notable": 3
+    },
     {
       "id": "03dc8822-f935-4fc0-841e-2b9c273072d2",
       "title": "Sports Data Collector (Volleyball) - Jiaxing, China",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veepee/sales-analyst-and-support-high-tech-fhx-cdi-veepee-ad668a?utm_source=reddit",
       "postedAt": "2026-10-21T12:23:22.764Z",
       "notable": 3
-    },
-    {
-      "id": "a7762bc0-5de9-4620-9795-d8034c1cb5a3",
-      "title": "Lab Analyst",
-      "company": "Certified Group",
-      "place": "Phoenix, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$22/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/certifiedgroup/jobs/4459653009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/certifiedgroup/lab-analyst-certified-group-b43d9a?utm_source=reddit",
-      "postedAt": "2026-10-21T12:23:21.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
