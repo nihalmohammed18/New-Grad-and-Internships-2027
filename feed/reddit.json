@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:18:22.226Z",
+  "generatedAt": "2026-10-22T03:21:42.118Z",
   "jobs": [
     {
       "id": "6fc721da-beef-44b4-8a0e-7b7fe08c0919",
@@ -439,6 +439,25 @@
       "notable": 5
     },
     {
+      "id": "2d00ca51-d6f1-4dbb-bda2-bb2d8e7cafe3",
+      "title": "Functional Analyst",
+      "company": "University of Auckland",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "NZ$87.0K-NZ$107.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/TheUniversityOfAuckland/744000156909599-functional-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theuniversityofauckland/functional-analyst-university-of-auckland-73e959?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:15.696Z",
+      "notable": 3
+    },
+    {
       "id": "b71b6584-dc35-4d8c-92ca-5d7d08f441ae",
       "title": "Information Security Engineer",
       "company": "Westpac",
@@ -456,6 +475,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orwestpaccareers/information-security-engineer-westpac-cdb11f?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "a99e8391-ad60-4fa5-8cdd-d3baf3f94a6c",
+      "title": "Revenue and Operations Specialist, AP",
+      "company": "Nature",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://nature.wd108.myworkdayjobs.com/ExternalCareers/job/Remote-India/Revenue-and-Operations-Specialist--AP_JR104205",
+      "firstJobbyUrl": "https://firstjobby.com/companies/natureorwd108orexternalcareers/revenue-and-operations-specialist-ap-nature-7595f3?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "90c8e733-85d1-4655-adb0-ba3dfe604c5b",
@@ -494,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sulzerorwd502orsulzerjobs/apt-engineer-mtcs-eapa-sulzer-de3f1f?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6d63bf35-9f28-408c-aa4a-cfd265d12b97",
+      "title": "Facilities Coordinator (Data Centre)",
+      "company": "CDC Data Centres",
+      "place": "Laverton, Australia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/9F4DCFAF79",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cdc-data-centres/facilities-coordinator-data-centre-cdc-data-centres-294c16?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "2e1ae771-45b0-4b2f-a5be-a7b567de3af6",
@@ -1611,7 +1668,7 @@
       "pay": "€700/mo",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000156893439-internship-cmf-designer-m-f-x",
+      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000156893439",
       "firstJobbyUrl": "https://firstjobby.com/companies/salomon/internship-cmf-designer-mfx-salomon-bed478?utm_source=reddit",
       "postedAt": "2026-10-21T20:56:51.062Z",
       "notable": 5
@@ -2941,7 +2998,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SyngentaGroup/744000156875039-research-associate-3",
+      "applyUrl": "https://jobs.smartrecruiters.com/SyngentaGroup/744000156875039",
       "firstJobbyUrl": "https://firstjobby.com/companies/syngentagroup/research-associate-3-syngenta-group-a0c494?utm_source=reddit",
       "postedAt": "2026-10-21T19:01:20.199Z",
       "notable": 3
@@ -4689,7 +4746,7 @@
       "pay": "$21-$30/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000156856110-presentation-design-associate",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000156856110",
       "firstJobbyUrl": "https://firstjobby.com/companies/rrdonnelley/presentation-design-associate-rr-donnelley-503424?utm_source=reddit",
       "postedAt": "2026-10-21T17:07:12.869Z",
       "notable": 4
@@ -6342,7 +6399,7 @@
       "pay": "€700-€1.2K/mo",
       "minYears": null,
       "season": "Winter 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000156838904-stage-merchandising-tools-data-coordinator-m-f-x-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000156838904",
       "firstJobbyUrl": "https://firstjobby.com/companies/salomon/stage-merchandising-tools-and-data-coordinator-mfx-salomon-afa31f?utm_source=reddit",
       "postedAt": "2026-10-21T15:39:42.134Z",
       "notable": 5
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/xebiacee/databricks-platform-engineer-poland-and-central-eastern-europe-8ef117?utm_source=reddit",
       "postedAt": "2026-10-21T12:32:42.000Z",
       "notable": 3
-    },
-    {
-      "id": "4e89f8f0-233e-44f9-ba17-bbd6b381b126",
-      "title": "2027 New Graduate Mechanical Engineer",
-      "company": "Anduril Industries",
-      "place": "Dublin, Ireland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/2027-new-graduate-mechanical-engineer-anduril-industries-f6c61a?utm_source=reddit",
-      "postedAt": "2026-10-21T12:32:24.000Z",
-      "notable": 3
-    },
-    {
-      "id": "841a98b4-9d5b-4dad-afe4-87948e91569a",
-      "title": "Werkstudent Data Quality Sales Navigator (m/w/d)",
-      "company": "StepStone Group",
-      "place": "Dusseldorf, Germany",
-      "category": "Sales",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StepStoneGroup/744000156789323",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stepstonegroup/werkstudent-data-quality-sales-navigator-mwd-stepstone-group-b4eaaa?utm_source=reddit",
-      "postedAt": "2026-10-21T12:28:39.726Z",
-      "notable": 3
-    },
-    {
-      "id": "92291f1d-0a3b-4146-b2f2-e9ed008cbb4d",
-      "title": "Bioassay Scientist",
-      "company": "Eurofins",
-      "place": "Columbia, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000156789639",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/bioassay-scientist-eurofins-327018?utm_source=reddit",
-      "postedAt": "2026-10-21T12:28:09.562Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
