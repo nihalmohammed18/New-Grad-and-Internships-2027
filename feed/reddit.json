@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:47:39.828Z",
+  "generatedAt": "2026-10-22T08:56:14.903Z",
   "jobs": [
     {
       "id": "c420ceda-8b34-42b9-bd1a-7c3f9906cea5",
@@ -1940,6 +1940,25 @@
       "notable": 3
     },
     {
+      "id": "e217ba21-d89c-4407-9161-5642707d1941",
+      "title": "Specialist II, Logistics",
+      "company": "Nordson",
+      "place": "Taipei, Taiwan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/Taiwan---Taipei/Specialist-II--Logistics_REQ53555",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nordsonhcmorwd501ornordsoncareers/specialist-ii-logistics-nordson-01fd53?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "df5ceb20-d718-450a-8039-86961bc07ee9",
       "title": "Wireless Communications Engineer",
       "company": "Amentum",
@@ -2185,6 +2204,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cdc-data-centres/facilities-coordinator-data-centre-cdc-data-centres-294c16?utm_source=reddit",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "notable": 1
+    },
+    {
+      "id": "68c80bb6-24e5-45f4-b63e-4af9d8beefc4",
+      "title": "Specialist II, Logistics",
+      "company": "Nordson",
+      "place": "Taipei, Taiwan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/Taiwan---Taipei/Specialist-II--Logistics_REQ53553",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nordsonhcmorwd501ornordsoncareers/specialist-ii-logistics-nordson-c97331?utm_source=reddit",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "63ce949d-35f1-445e-8efa-294e0b7e22fe",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156831289",
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/agent-pr-hf-veolia-environnement-sa-334d4d?utm_source=reddit",
       "postedAt": "2026-10-21T15:02:05.125Z",
-      "notable": 3
-    },
-    {
-      "id": "ed143f11-7408-4d30-94f2-4f55c20b11b0",
-      "title": "Business Information Analyst Groningen",
-      "company": "Sopra Steria",
-      "place": "Groningen, Netherlands",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000156831109",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/business-information-analyst-groningen-sopra-steria-8bc3c5?utm_source=reddit",
-      "postedAt": "2026-10-21T15:01:28.392Z",
-      "notable": 3
-    },
-    {
-      "id": "73511837-a03a-48e1-a3ea-591bb32403f8",
-      "title": "IT System Administrator Production (f/m/x)",
-      "company": "AUTO1 Group",
-      "place": "Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Auto1/744000156830749",
-      "firstJobbyUrl": "https://firstjobby.com/companies/auto1/it-system-administrator-production-fmx-auto1-group-352cd7?utm_source=reddit",
-      "postedAt": "2026-10-21T15:00:22.551Z",
       "notable": 3
     }
   ],
