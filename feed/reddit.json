@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-22T07:53:11.527Z",
+  "generatedAt": "2026-10-22T08:01:44.479Z",
   "jobs": [
+    {
+      "id": "aff6d7b7-111e-4049-90b2-968601370bda",
+      "title": "Partner Account Manager, Intégrateurs de solutions de gestion",
+      "company": "Pennylane SAS",
+      "place": "Paris, France",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/pennylane/dffac3f5-6a76-453d-8731-ca1e6997901f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pennylane-ashby/partner-account-manager-integrateurs-de-solutions-de-gestion-pennylane-sas-5a0c37?utm_source=reddit",
+      "postedAt": "2026-10-22T07:37:25.146Z",
+      "notable": 3
+    },
     {
       "id": "4120920d-6472-4365-90ad-5873fa5e5929",
       "title": "Customer Community Manager",
@@ -133,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ajax/global-process-analyst-ajax-systems-cb22d0?utm_source=reddit",
       "postedAt": "2026-10-22T06:43:45.141Z",
       "notable": 3
+    },
+    {
+      "id": "6cf6c8a8-d373-472b-8732-fb4c4d72f363",
+      "title": "Stage: Software Developer",
+      "company": "Centric",
+      "place": "Gouda, Netherlands",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€550/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://centric.recruitee.com/o/stage-software-developer",
+      "firstJobbyUrl": "https://firstjobby.com/companies/centric/stage-software-developer-centric-613221?utm_source=reddit",
+      "postedAt": "2026-10-22T06:39:53.000Z",
+      "notable": 2
     },
     {
       "id": "7cbffa83-dd92-47ae-87ce-5875e5e3a612",
@@ -1174,7 +1212,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Nagarro1/744000156932490-platform-solutions-operations-pso-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/nagarro1/744000156932490",
       "firstJobbyUrl": "https://firstjobby.com/companies/nagarro1/platform-solutions-and-operations-pso-specialist-nagarro-d39901?utm_source=reddit",
       "postedAt": "2026-10-22T01:27:44.249Z",
       "notable": 2
@@ -5073,25 +5111,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coreview/solution-implementation-consultant-french-speaking-coreview-aa27cd?utm_source=reddit",
       "postedAt": "2026-10-21T19:08:08.000Z",
       "notable": 1
-    },
-    {
-      "id": "c30e28b6-ace4-4d88-b9b5-555d7d4e14ba",
-      "title": "Telehealth Care coordinator",
-      "company": "Fira Health",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$70.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/fira-health/49fde038-e6c4-469f-8b80-95ac58e8baa5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fira-health/telehealth-care-coordinator-fira-health-a5867f?utm_source=reddit",
-      "postedAt": "2026-10-21T19:07:20.637Z",
-      "notable": 3
     },
     {
       "id": "f849a6b3-957d-4967-9977-e41dd4e141e2",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-football-yerevan-armenia-genius-sports-statistician-networ-fff9ae?utm_source=reddit",
       "postedAt": "2026-10-21T14:49:05.000Z",
       "notable": 5
-    },
-    {
-      "id": "818b4231-304e-4491-9e57-5803cace7e0e",
-      "title": "Fluid Systems Engineer, Propulsion (m/f/d)",
-      "company": "Isar Aerospace SE",
-      "place": "Parsdorf, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5012604101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/isaraerospace/fluid-systems-engineer-propulsion-mfd-isar-aerospace-se-6d47a4?utm_source=reddit",
-      "postedAt": "2026-10-21T14:48:39.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
