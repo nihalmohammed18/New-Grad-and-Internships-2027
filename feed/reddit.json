@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:52:04.818Z",
+  "generatedAt": "2026-10-24T13:10:30.258Z",
   "jobs": [
     {
       "id": "d8c9c99f-675d-447f-b6c7-6a69dc281801",
@@ -967,6 +967,25 @@
       "season": null,
       "applyUrl": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1354-E-Main-St-Salem-VA-24153/Sales---Operations-Advisor-in-Training_R16556",
       "firstJobbyUrl": "https://firstjobby.com/companies/drivetimeorwd1ordrivetime/sales-and-operations-advisor-in-training-drivetime-2dc203?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "8e4ac339-d9e1-426c-8c6b-8f59c8c70916",
+      "title": "Account Manager",
+      "company": "Trellix",
+      "place": "Remote from Colombia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Colombia/Account-Manager_JR0038031",
+      "firstJobbyUrl": "https://firstjobby.com/companies/trellixorwd1orenterprisecareers/account-manager-trellix-b573f5?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/LEONI1/744000157508149",
       "firstJobbyUrl": "https://firstjobby.com/companies/leoni1/specialist-it-operations-leoni-356d8d?utm_source=reddit",
       "postedAt": "2026-10-23T15:03:02.779Z",
-      "notable": 3
-    },
-    {
-      "id": "0754fcd9-675b-4df6-abba-849097944f9d",
-      "title": "Application Developer",
-      "company": "AECOM",
-      "place": "Remote from United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157508108",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/application-developer-aecom-5dce9a?utm_source=reddit",
-      "postedAt": "2026-10-23T15:02:59.637Z",
       "notable": 3
     }
   ],
