@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:56:38.583Z",
+  "generatedAt": "2026-10-24T17:37:34.679Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -1028,6 +1028,25 @@
       "notable": 2
     },
     {
+      "id": "d1a5561f-0c54-4bf0-a397-072321905f6d",
+      "title": "Seasonal Sales Associate",
+      "company": "Coach",
+      "place": "United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£26.3K-£28.0K/yr",
+      "minYears": null,
+      "season": "Seasonal",
+      "applyUrl": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/Wirral-GBR-Ks-Cheshire-Oaks-Outlet---Kate-Spade/Seasonal-Sales-Associate_JR19909",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tapestryorwd108ortapestrycareers/seasonal-sales-associate-coach-6119f5?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "cc4a407c-fe66-451b-803f-03830fd92d2f",
       "title": "Package Development Engineering – Product Integration Engineer (PDE PIE)",
       "company": "Micron Technology",
@@ -1330,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-yield-enhancement-micron-technology-7669c9?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7fd3ff09-a831-463f-9f0e-43d933812579",
+      "title": "Manheim Mobile Vehicle Condition Inspector, Miami Metro West, FL",
+      "company": "Cox Automotive",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Florida/Manheim-Mobile-Vehicle-Condition-Inspector--Miami-Metro-West--FL_R202684047",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coxorwd1orcoxexternalcareersite1/manheim-mobile-vehicle-condition-inspector-miami-metro-west-fl-cox-automotive-6e0f5d?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "7d3aabb5-f14f-4e81-8857-d45da4be3638",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-electrical-engineer-2027-ramboll-ce3394?utm_source=reddit",
       "postedAt": "2026-10-23T15:29:19.357Z",
       "notable": 4
-    },
-    {
-      "id": "127b4515-4862-42ac-b93c-71f73a55b5f9",
-      "title": "Graduate Electrical Engineer 2027",
-      "company": "Ramboll",
-      "place": "Leeds, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157515561",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-electrical-engineer-2027-ramboll-b9bd3c?utm_source=reddit",
-      "postedAt": "2026-10-23T15:28:43.018Z",
-      "notable": 4
-    },
-    {
-      "id": "367d0798-1e68-4149-a09a-acbd6a256e68",
-      "title": "Security Analyst (H/F)",
-      "company": "ADVENS",
-      "place": "Montréal, Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ADVENS/744000157515524",
-      "firstJobbyUrl": "https://firstjobby.com/companies/advens/security-analyst-hf-advens-6e7b28?utm_source=reddit",
-      "postedAt": "2026-10-23T15:28:07.759Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
