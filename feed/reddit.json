@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:46:04.850Z",
+  "generatedAt": "2026-10-24T10:54:58.455Z",
   "jobs": [
     {
       "id": "68917d50-2c0a-4dec-8214-b37f1e02782b",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/adyen/operational-support-specialist-adyen-de44c4?utm_source=reddit",
       "postedAt": "2026-10-24T07:29:53.000Z",
       "notable": 0
+    },
+    {
+      "id": "7be530ad-d009-466c-ba64-449af9b7ce1f",
+      "title": "Customer Support Representative (CSR I)  Apprentice",
+      "company": "Gohighlevel",
+      "place": "Remote from India",
+      "category": "Customer Support",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₹32.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gohighlevel/bef12ecf-8d42-4c51-89a4-08ece9f3d82f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gohighlevel/customer-support-representative-csr-i-apprentice-gohighlevel-dd8045?utm_source=reddit",
+      "postedAt": "2026-10-24T06:28:49.041Z",
+      "notable": 5
     },
     {
       "id": "0d60d8eb-d5a0-4c38-8d92-f170c40f3388",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157504395",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-it-bo-2303c1?utm_source=reddit",
       "postedAt": "2026-10-23T14:57:24.598Z",
-      "notable": 3
-    },
-    {
-      "id": "102c2c8a-16c1-4ef4-8da5-832eb6f05075",
-      "title": "Professional Services Engineer",
-      "company": "ABACUS",
-      "place": "Frisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8042896003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abacus/professional-services-engineer-abacus-9b4832?utm_source=reddit",
-      "postedAt": "2026-10-23T14:57:22.000Z",
       "notable": 3
     }
   ],
