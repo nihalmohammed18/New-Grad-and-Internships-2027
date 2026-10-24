@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:53:38.054Z",
+  "generatedAt": "2026-10-24T23:00:03.899Z",
   "jobs": [
     {
       "id": "c862bdec-aab5-4e86-87d4-8549613d49ce",
@@ -76,6 +76,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/powerdigitalmarketing/reporting-analyst-consumer-services-power-digital-93a22e?utm_source=reddit",
       "postedAt": "2026-10-24T21:04:48.000Z",
       "notable": 3
+    },
+    {
+      "id": "991e31ff-00da-43aa-8d0c-fcaf3a8c2509",
+      "title": "Product Security Engineer",
+      "company": "CHAOS Industries",
+      "place": "Los Angeles, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$101.0K-$170.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5270684007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/chaosindustries/product-security-engineer-chaos-industries-f14d5f?utm_source=reddit",
+      "postedAt": "2026-10-24T20:10:33.000Z",
+      "notable": 5
+    },
+    {
+      "id": "a0ed3eef-c283-4c38-9976-cde3f3cf756b",
+      "title": "Security Operations Specialist",
+      "company": "CHAOS Industries",
+      "place": "Los Angeles, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$34-$58/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5270690007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/chaosindustries/security-operations-specialist-chaos-industries-d34f66?utm_source=reddit",
+      "postedAt": "2026-10-24T19:02:07.000Z",
+      "notable": 5
     },
     {
       "id": "30fefac4-74da-4cf3-93d8-b73b2433f987",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-dbd268?utm_source=reddit",
       "postedAt": "2026-10-23T16:11:51.076Z",
       "notable": 3
-    },
-    {
-      "id": "7f9cf4b7-2381-4c29-80be-93dc93fb2985",
-      "title": "Sports Data Collector (American Football) - Athens, Ohio, USA",
-      "company": "Genius Sports Statistician Network",
-      "place": "Athens, United States",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€150/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/geniussportssn/jobs/8042966003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-american-football-athens-ohio-usa-genius-sports-statistici-3313d0?utm_source=reddit",
-      "postedAt": "2026-10-23T16:08:58.000Z",
-      "notable": 5
-    },
-    {
-      "id": "9d63dc3b-3a8a-44df-96fb-c8ca0d7932e9",
-      "title": "Supplier Support Specialist 1",
-      "company": "Vermont Information Processing",
-      "place": "Colchester, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$49.9K-$54.1K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5273797007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vipvermontinformationprocessing2/supplier-support-specialist-1-vermont-information-processing-1c6bd9?utm_source=reddit",
-      "postedAt": "2026-10-23T16:06:49.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
