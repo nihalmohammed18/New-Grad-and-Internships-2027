@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:21:56.437Z",
+  "generatedAt": "2026-10-24T19:30:31.098Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -1596,6 +1596,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/luxionorwd103orlgl/dual-fuel-smart-meter-engineer-luxion-4916a1?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "723a369f-847b-40f6-bd3e-2707065feb5e",
+      "title": "Field Service Engineer -  Grantham to Peterborough Location",
+      "company": "Roche",
+      "place": "Grantham, United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Lincolnshire/Field-Service-Engineer----Grantham-to-Peterborough-Location_202610-127371-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rocheorwd3orroche-ext/field-service-engineer-grantham-to-peterborough-location-roche-467f74?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "70934bdb-3413-499c-a36e-826d5747cb99",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/everway/sales-development-representative-everway-0fa2de?utm_source=reddit",
       "postedAt": "2026-10-23T15:39:32.000Z",
       "notable": 1
-    },
-    {
-      "id": "86c23878-7ddf-43ef-a595-e8a9c6c6e0e8",
-      "title": "Customer Operations Officer - Insurance",
-      "company": "M-KOPA",
-      "place": "Nairobi, Kenya",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/m-kopa/6c173faf-ddd9-440d-a388-aea8a5b2f513",
-      "firstJobbyUrl": "https://firstjobby.com/companies/m-kopa-ashby/customer-operations-officer-insurance-m-kopa-20979a?utm_source=reddit",
-      "postedAt": "2026-10-23T15:39:13.435Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
