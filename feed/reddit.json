@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:03:50.055Z",
+  "generatedAt": "2026-10-24T18:27:48.883Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -1273,6 +1273,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/luxionorwd103orlgl/dual-fuel-smart-meter-engineer-luxion-77aebf?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "a293af8c-4ee4-4210-8032-a7d45d376ca8",
+      "title": "Construction Engineer",
+      "company": "GE Aerospace",
+      "place": "Italy",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Rivalta-di-Torino/Construction-Engineer_R5041762-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/geaerospaceorwd5orgeexternalsite/construction-engineer-ge-aerospace-4fc5bf?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a1b1fe47-37b1-4d1e-81e1-fb24a04a6a11",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/appian/information-security-analyst-appian-corporation-e3dce5?utm_source=reddit",
       "postedAt": "2026-10-23T15:32:28.000Z",
       "notable": 4
-    },
-    {
-      "id": "de997acc-f9ea-42d4-9141-0fa2a5af6b21",
-      "title": "Water Resources Engineer (EIT)",
-      "company": "Egis Group",
-      "place": "Indianapolis, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000157516494",
-      "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/water-resources-engineer-eit-egis-group-2f6395?utm_source=reddit",
-      "postedAt": "2026-10-23T15:32:23.939Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
