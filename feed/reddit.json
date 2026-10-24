@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:44:37.346Z",
+  "generatedAt": "2026-10-24T06:51:41.498Z",
   "jobs": [
     {
       "id": "3c93f8b2-e492-4a5c-a818-b6c17d103a85",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/electrical-engineering-intern-bp-hiring-event-with-aecom-arlington-va-aecom-11f1f9?utm_source=reddit",
       "postedAt": "2026-10-24T03:23:36.032Z",
       "notable": 4
+    },
+    {
+      "id": "79406eed-0abc-4280-9282-6b2c3f2b0c17",
+      "title": "Social Media Manager",
+      "company": "Genesis",
+      "place": "United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/genesis/7a6b9277-5d73-494b-ad72-dd5fe2ccf763",
+      "firstJobbyUrl": "https://firstjobby.com/companies/genesis-ashby/social-media-manager-genesis-cf5f41?utm_source=reddit",
+      "postedAt": "2026-10-24T03:10:05.025Z",
+      "notable": 1
     },
     {
       "id": "fa2e1f95-a49f-4e04-bc9b-0a7fd6621588",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/septeo/tecnicoa-de-soporte-software-hotelero-pms-cloud-septeo-5eb2a5?utm_source=reddit",
       "postedAt": "2026-10-23T14:56:10.195Z",
       "notable": 2
-    },
-    {
-      "id": "3b5b6506-f3cb-46c0-8d9b-f4f9d5c912e4",
-      "title": "Pursuit Coordinator",
-      "company": "Ramboll",
-      "place": "Chicago, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$75.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157505231",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/pursuit-coordinator-ramboll-d88c3a?utm_source=reddit",
-      "postedAt": "2026-10-23T14:55:38.418Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
