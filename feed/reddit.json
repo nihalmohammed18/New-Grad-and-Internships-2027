@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-24T13:51:05.386Z",
+  "generatedAt": "2026-10-24T14:18:30.143Z",
   "jobs": [
+    {
+      "id": "a4958115-f618-41fe-acab-f876f6a377a3",
+      "title": "Enterprise Account Executive - Turkish Speaking",
+      "company": "Elliptic",
+      "place": "Frankfurt, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/elliptic/a90fe1b2-2af1-4932-9fb5-8950d9697575",
+      "firstJobbyUrl": "https://firstjobby.com/companies/elliptic/enterprise-account-executive-turkish-speaking-elliptic-b1038b?utm_source=reddit",
+      "postedAt": "2026-10-24T13:48:39.463Z",
+      "notable": 3
+    },
     {
       "id": "d8c9c99f-675d-447f-b6c7-6a69dc281801",
       "title": "Budget Analyst",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/anaplan/enterprise-account-executive-fsi-anaplan-b02545?utm_source=reddit",
       "postedAt": "2026-10-23T15:24:59.000Z",
       "notable": 3
-    },
-    {
-      "id": "1d4cc89b-3d2c-443c-b6a0-df458285dee4",
-      "title": "Sales Associate, Inside West (Part-Time)",
-      "company": "Amplify",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$35-$50/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/amplify/886265ba-67fc-4652-9741-2719f783f354",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amplify/sales-associate-inside-west-part-time-amplify-405055?utm_source=reddit",
-      "postedAt": "2026-10-23T15:24:26.875Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
