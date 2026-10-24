@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:42:35.425Z",
+  "generatedAt": "2026-10-24T13:51:05.386Z",
   "jobs": [
     {
       "id": "d8c9c99f-675d-447f-b6c7-6a69dc281801",
@@ -988,25 +988,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-engineer-applied-materials-7f2294?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "bbf0d54c-600a-4c22-b2bb-331408900874",
-      "title": "Application Developer",
-      "company": "Accenture",
-      "place": "Bengaluru, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5880273-S2073177-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/application-developer-accenture-b19403?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 2
     },
     {
       "id": "b7e59035-c887-41d2-ac04-65c10421968b",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/anaplan/enterprise-account-executive-fsi-anaplan-b02545?utm_source=reddit",
       "postedAt": "2026-10-23T15:24:59.000Z",
       "notable": 3
+    },
+    {
+      "id": "1d4cc89b-3d2c-443c-b6a0-df458285dee4",
+      "title": "Sales Associate, Inside West (Part-Time)",
+      "company": "Amplify",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35-$50/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/amplify/886265ba-67fc-4652-9741-2719f783f354",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amplify/sales-associate-inside-west-part-time-amplify-405055?utm_source=reddit",
+      "postedAt": "2026-10-23T15:24:26.875Z",
+      "notable": 5
     }
   ],
   "fakeEntryLevel": {
