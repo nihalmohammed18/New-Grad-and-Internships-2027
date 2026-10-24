@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:02:57.093Z",
+  "generatedAt": "2026-10-24T08:11:36.887Z",
   "jobs": [
     {
       "id": "9e2be363-4d5e-40ff-9d26-d4341778ebb4",
@@ -7849,25 +7849,6 @@
       "notable": 3
     },
     {
-      "id": "45780656-0ba8-48b0-8224-f4f93ab88429",
-      "title": "Marketing Specialist",
-      "company": "A1 Garage Door Service",
-      "place": "Phoenix, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$80.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/a1%20garage%20door%20service/9185b6e7-3815-400c-9d8a-17e9ea1adef5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/a1-garage-door-service/marketing-specialist-a1-garage-door-service-87e2e0?utm_source=reddit",
-      "postedAt": "2026-10-23T16:05:08.638Z",
-      "notable": 5
-    },
-    {
       "id": "2289a976-91e7-49a1-8068-d0d517da5b27",
       "title": "Account Executive - Spain (Barcelona) 🇪🇸",
       "company": "Alan",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/pursuit-coordinator-ramboll-08b080?utm_source=reddit",
       "postedAt": "2026-10-23T14:56:34.341Z",
       "notable": 5
+    },
+    {
+      "id": "efe6c048-753f-427a-bf10-9eb2bd503d92",
+      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales Mobility",
+      "company": "Bosch Group",
+      "place": "Gerlingen, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157505351",
+      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-sales-64ac25?utm_source=reddit",
+      "postedAt": "2026-10-23T14:56:29.246Z",
+      "notable": 3
     }
   ],
   "fakeEntryLevel": {
