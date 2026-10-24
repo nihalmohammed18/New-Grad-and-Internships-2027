@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:58:33.862Z",
+  "generatedAt": "2026-10-24T22:53:38.054Z",
   "jobs": [
     {
       "id": "c862bdec-aab5-4e86-87d4-8549613d49ce",
@@ -1159,6 +1159,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/figureai/developer-productivity-intern-winter-2027-figure-624571?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:18.000Z",
       "notable": 5
+    },
+    {
+      "id": "ffc2e153-4ae4-493a-bfbe-adb6385cc321",
+      "title": "PT Air Operations Supervisor",
+      "company": "UPS",
+      "place": "Peoria, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$26-$43/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PEORIA-GATEWAY-ILPEG/PT-Air-Operations-Supervisor_R26037844",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hcmportalorwd5orsearch/pt-air-operations-supervisor-ups-d6d34f?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "fe16043f-f2e6-4a50-9618-f28d721ef720",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/vipvermontinformationprocessing2/supplier-support-specialist-1-vermont-information-processing-1c6bd9?utm_source=reddit",
       "postedAt": "2026-10-23T16:06:49.000Z",
       "notable": 2
-    },
-    {
-      "id": "65f3d627-2ce4-46c2-8ff2-f8ab4f18026d",
-      "title": "Working Student – Compliance Automation & AI (m/f/d)",
-      "company": "Pliant",
-      "place": "Berlin, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/pliant/c17d9608-4f0f-4136-bf53-8e84d3b7a84a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pliant/working-student-compliance-automation-and-ai-mfd-pliant-524307?utm_source=reddit",
-      "postedAt": "2026-10-23T16:05:41.851Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
