@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-24T07:19:28.677Z",
+  "generatedAt": "2026-10-24T08:02:57.093Z",
   "jobs": [
+    {
+      "id": "9e2be363-4d5e-40ff-9d26-d4341778ebb4",
+      "title": "Operational Support Specialist",
+      "company": "Adyen",
+      "place": "Singapore",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/adyen/jobs/8300220",
+      "firstJobbyUrl": "https://firstjobby.com/companies/adyen/operational-support-specialist-adyen-de44c4?utm_source=reddit",
+      "postedAt": "2026-10-24T07:29:53.000Z",
+      "notable": 0
+    },
     {
       "id": "0d60d8eb-d5a0-4c38-8d92-f170c40f3388",
       "title": "Talent Operations Associate",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/pursuit-coordinator-ramboll-08b080?utm_source=reddit",
       "postedAt": "2026-10-23T14:56:34.341Z",
       "notable": 5
-    },
-    {
-      "id": "efe6c048-753f-427a-bf10-9eb2bd503d92",
-      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales Mobility",
-      "company": "Bosch Group",
-      "place": "Gerlingen, Germany",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157505351",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-sales-64ac25?utm_source=reddit",
-      "postedAt": "2026-10-23T14:56:29.246Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
