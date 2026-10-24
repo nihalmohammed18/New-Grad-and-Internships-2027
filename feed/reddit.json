@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:27:48.883Z",
+  "generatedAt": "2026-10-24T18:34:33.419Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -990,6 +990,25 @@
       "notable": 2
     },
     {
+      "id": "e3971e56-4697-4192-8a62-34c069d1a56b",
+      "title": "Automotive Powertrain - Mechanical Project Engineer",
+      "company": "ABB",
+      "place": "Auburn Hills, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Automotive-Powertrain---Mechanical-Project-Engineer_JR00050632",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/automotive-powertrain-mechanical-project-engineer-abb-57e955?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "e319c1be-de85-4c79-a138-b937cbb9540d",
       "title": "Full Time - Sales Associate - Paint - Day",
       "company": "Lowe's",
@@ -1427,6 +1446,25 @@
       "notable": 3
     },
     {
+      "id": "7e4253d7-9401-4dfe-a2c2-b08926251a8c",
+      "title": "Quality Assurance Engineer",
+      "company": "RTX",
+      "place": "White Sands, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$57.2K-$108.8K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/Quality-Assurance-Engineer_01884770",
+      "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/quality-assurance-engineer-rtx-f43b95?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "7d3aabb5-f14f-4e81-8857-d45da4be3638",
       "title": "Research Intern, Robotics — NVIDIA Research",
       "company": "NVIDIA",
@@ -1824,6 +1862,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/manufacturing-equipmentproduction-engineer-micron-technology-cca189?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3b02d144-a352-4e92-9fb9-1457f325429a",
+      "title": "Customer Support Ambassador",
+      "company": "Octal Philippines Inc.",
+      "place": "Pasig City, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/72AA27036F",
+      "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/customer-support-ambassador-octal-philippines-inc-bc00ad?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "39831514-2595-4246-9608-5d87388d9b2d",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/legendcareers/it-project-coordinator-legend-biotech-us-120f5d?utm_source=reddit",
       "postedAt": "2026-10-23T15:35:07.000Z",
       "notable": 3
-    },
-    {
-      "id": "a910170e-ade8-412d-be5b-0bd71b580653",
-      "title": "Manufacturing Design Engineering Internship - Spring 2027",
-      "company": "Path Robotics",
-      "place": "Columbus, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://boards.greenhouse.io/pathrobotics/jobs/8911569002?gh_jid=8911569002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pathrobotics/manufacturing-design-engineering-internship-spring-2027-path-robotics-868539?utm_source=reddit",
-      "postedAt": "2026-10-23T15:32:50.000Z",
-      "notable": 2
-    },
-    {
-      "id": "b0f4e072-7a6d-4c9a-b21b-71be74441c10",
-      "title": "Manufacturing Design Engineering Internship",
-      "company": "Path Robotics",
-      "place": "Columbus, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pathrobotics/manufacturing-design-engineering-internship-path-robotics-29d4a2?utm_source=reddit",
-      "postedAt": "2026-10-23T15:32:37.000Z",
-      "notable": 2
-    },
-    {
-      "id": "3368ec5e-a675-4d47-ba6c-499807750ca5",
-      "title": "Information Security Analyst",
-      "company": "Appian Corporation",
-      "place": "McLean, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$100.0K-$200.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/appian/jobs/8312417",
-      "firstJobbyUrl": "https://firstjobby.com/companies/appian/information-security-analyst-appian-corporation-e3dce5?utm_source=reddit",
-      "postedAt": "2026-10-23T15:32:28.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
