@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:10:30.258Z",
+  "generatedAt": "2026-10-24T13:17:55.028Z",
   "jobs": [
     {
       "id": "d8c9c99f-675d-447f-b6c7-6a69dc281801",
@@ -686,6 +686,25 @@
       "notable": 2
     },
     {
+      "id": "fc56afbb-7734-4598-9f68-f0cdda8ef620",
+      "title": "Divisional Account Manager",
+      "company": "Kensho",
+      "place": "Charlottesville, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$66.6K-$88.2K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Charlottesville-VA/Divisional-Account-Manager_332283-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/divisional-account-manager-kensho-dbbbdf?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "fa427946-6f0b-4a06-a3d5-9960575bdd1d",
       "title": "Engineer, APTD CEM – Advanced Packaging Wafer Level Technology Engineering",
       "company": "Micron Technology",
@@ -722,6 +741,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-engineer-product-engineering-mfg-analog-devices-9854e1?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "f5246bad-f3a3-4884-b3b8-1bbd32974ec4",
+      "title": "UX/UI Design Intern - Summer 2027",
+      "company": "STANLEY Engineered Fastening",
+      "place": "Valley City, United States",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sbdincorwd1orstanleyblackdeckercareersite/uxui-design-intern-summer-2027-stanley-engineered-fastening-10aee0?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f0430358-20c9-4950-ae1e-3a3e59bb1052",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/bpcs/jobs/8318277",
       "firstJobbyUrl": "https://firstjobby.com/companies/bpcs/customer-support-agent-ukrainian-speaking-bench-team-blueprint-technologies-5bc944?utm_source=reddit",
       "postedAt": "2026-10-23T15:05:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "c5478307-230a-47ba-80c5-9ddeb46b50a0",
-      "title": "Graduate ESG/EHS Due Diligence & Strategy Consultant 2027",
-      "company": "Ramboll",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157508409",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-esgehs-due-diligence-and-strategy-consultant-2027-ramboll-84898f?utm_source=reddit",
-      "postedAt": "2026-10-23T15:03:37.587Z",
-      "notable": 4
-    },
-    {
-      "id": "15b6dcf4-7781-4eee-aed0-89b202707ce6",
-      "title": "Specialist IT Operations",
-      "company": "LEONI",
-      "place": "Bouskoura, Morocco",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/LEONI1/744000157508149",
-      "firstJobbyUrl": "https://firstjobby.com/companies/leoni1/specialist-it-operations-leoni-356d8d?utm_source=reddit",
-      "postedAt": "2026-10-23T15:03:02.779Z",
       "notable": 3
     }
   ],
