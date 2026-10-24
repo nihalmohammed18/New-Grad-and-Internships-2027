@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:30:31.098Z",
+  "generatedAt": "2026-10-24T19:39:01.670Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -1746,6 +1746,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/PROBE-AREA-ENGINEER_JR105268",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/probe-area-engineer-micron-technology-9f5dce?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "648ce76b-b092-4d84-b748-c3e63fb8b1dd",
+      "title": "RTL Design Engineer, DFT",
+      "company": "NVIDIA",
+      "place": "Yokneam, Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/RTL-Design-Engineer--DFT_JR2028303",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/rtl-design-engineer-dft-nvidia-b53ac6?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/classpass/field-account-executive-munich-mwd-classpass-4400d4?utm_source=reddit",
       "postedAt": "2026-10-23T15:44:06.000Z",
       "notable": 2
-    },
-    {
-      "id": "0579a495-7197-475b-af17-e5ffc3b5c991",
-      "title": "Sales Development Representative",
-      "company": "Everway",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/everway/jobs/4721831006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/everway/sales-development-representative-everway-0fa2de?utm_source=reddit",
-      "postedAt": "2026-10-23T15:39:32.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
