@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:51:27.587Z",
+  "generatedAt": "2026-10-24T15:54:05.668Z",
   "jobs": [
     {
       "id": "04e0572f-f55d-4f5d-94eb-e0118c338b45",
@@ -75,6 +75,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/elliptic/a90fe1b2-2af1-4932-9fb5-8950d9697575",
       "firstJobbyUrl": "https://firstjobby.com/companies/elliptic/enterprise-account-executive-turkish-speaking-elliptic-b1038b?utm_source=reddit",
       "postedAt": "2026-10-24T13:48:39.463Z",
+      "notable": 3
+    },
+    {
+      "id": "8e0bb206-8a09-4cec-8ca0-2b0ae7cd6188",
+      "title": "Sales Executive Regions Italy",
+      "company": "Delivery Hero",
+      "place": "Roma, Italy",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000157620879-sales-executive-regions-italy",
+      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-regions-italy-delivery-hero-91c8eb?utm_source=reddit",
+      "postedAt": "2026-10-24T12:04:10.916Z",
       "notable": 3
     },
     {
@@ -186,7 +205,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000157617729-commercial-coordinator-saudi-national-only-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000157617729",
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/commercial-coordinator-saudi-national-only-accorhotel-8ab63c?utm_source=reddit",
       "postedAt": "2026-10-24T08:09:22.368Z",
       "notable": 3
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157515050",
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-electrical-engineer-2027-ramboll-b05696?utm_source=reddit",
       "postedAt": "2026-10-23T15:28:02.557Z",
-      "notable": 4
-    },
-    {
-      "id": "5e6b07f0-404a-4288-ae73-4affb00ee59a",
-      "title": "Graduate Electrical Engineer 2027",
-      "company": "Ramboll",
-      "place": "United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157515519",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-electrical-engineer-2027-ramboll-3948aa?utm_source=reddit",
-      "postedAt": "2026-10-23T15:27:22.200Z",
       "notable": 4
     }
   ],
