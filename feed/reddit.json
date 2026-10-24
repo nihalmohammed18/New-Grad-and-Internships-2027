@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:39:01.670Z",
+  "generatedAt": "2026-10-24T20:05:41.902Z",
   "jobs": [
     {
       "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
@@ -990,6 +990,25 @@
       "notable": 2
     },
     {
+      "id": "e827adfc-512c-4ad2-a6e2-580b195cf176",
+      "title": "Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only)",
+      "company": "Digitals AI Inc",
+      "place": "Hyderabad, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/0881A18C3A",
+      "firstJobbyUrl": "https://firstjobby.com/companies/digitals/generative-ai-engineer-freshers-202627-computer-science-or-ai-only-digitals-ai-i-3ed09f?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "e3a5025c-2adf-46fb-8f19-b39377c4bace",
       "title": "Engineer - QEM PRODUCT QUALITY ENGINEERING YIELD",
       "company": "Micron Technology",
@@ -1083,6 +1102,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-tro-engineer-roads-and-road-facilities-management-singapore-public-service-ade14b?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "d692476c-f027-4dd2-b3c5-891117eb4275",
+      "title": "Business Development Executive (BDE) - IT / Software Sales",
+      "company": "Digitals AI Inc",
+      "place": "Hyderabad, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/22197974B5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/digitals/business-development-executive-bde-it-software-sales-digitals-ai-inc-ac74b5?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "d1a5561f-0c54-4bf0-a397-072321905f6d",
@@ -1995,6 +2033,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-qem-process-control-systempcs-micron-technology-4ed0b9?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "389f165b-0b3d-48ee-9a74-403358784b8e",
+      "title": "Content Moderator - Digitals AI Marketplace",
+      "company": "Digitals AI Inc",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/4594CBA578",
+      "firstJobbyUrl": "https://firstjobby.com/companies/digitals/content-moderator-digitals-ai-marketplace-digitals-ai-inc-0832d0?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "35d22806-04c3-43c3-a998-a5b17df65c07",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/rocketlab/ground-systems-engineer-ii-mechanical-rocket-lab-corporation-98feac?utm_source=reddit",
       "postedAt": "2026-10-23T15:45:56.000Z",
       "notable": 3
-    },
-    {
-      "id": "673cd301-e102-48c2-b2b7-fc76bf67c0ca",
-      "title": "Optical Sales - Paid Training",
-      "company": "Clarkson Eyecare",
-      "place": "Shepherdsville, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.clarksoneyecare.com/careers/?gh_jid=8911637002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clarksoneyecare/optical-sales-paid-training-clarkson-eyecare-c4cd99?utm_source=reddit",
-      "postedAt": "2026-10-23T15:45:11.000Z",
-      "notable": 3
-    },
-    {
-      "id": "fbf5013f-7ddd-4549-abdd-6a0add1cbdd5",
-      "title": "Fullstack Software Engineer (Java, React, Typescript) / 1",
-      "company": "Inetum",
-      "place": "Warsaw, Poland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/inetum2/744000157519359",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/fullstack-software-engineer-java-react-typescript-1-inetum-469684?utm_source=reddit",
-      "postedAt": "2026-10-23T15:45:08.907Z",
-      "notable": 3
-    },
-    {
-      "id": "6d42f5d9-8742-488c-a1e1-97bb4244916e",
-      "title": "Field Account Executive, Munich (m/w/d)",
-      "company": "ClassPass",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.playlist.com/careers/opportunities/4724342006?gh_jid=4724342006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/classpass/field-account-executive-munich-mwd-classpass-4400d4?utm_source=reddit",
-      "postedAt": "2026-10-23T15:44:06.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
