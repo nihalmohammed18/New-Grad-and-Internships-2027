@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:47:44.359Z",
+  "generatedAt": "2026-10-24T21:53:55.324Z",
   "jobs": [
     {
       "id": "c862bdec-aab5-4e86-87d4-8549613d49ce",
@@ -1332,6 +1332,25 @@
       "notable": 2
     },
     {
+      "id": "e9caae57-6d8f-4d1c-b4ab-caa87f5f7c67",
+      "title": "Business Analyst",
+      "company": "Weekday AI",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/0365C10C19",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/business-analyst-weekday-ai-7325fa?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "e827adfc-512c-4ad2-a6e2-580b195cf176",
       "title": "Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only)",
       "company": "Digitals AI Inc",
@@ -1406,6 +1425,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-paint-day-lowes-c210e9?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "e01455ab-3416-4b90-b487-cf424f1ed6ef",
+      "title": "Account Executive",
+      "company": "Weekday AI",
+      "place": "Gurugram, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/75C4C491F1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/account-executive-weekday-ai-f9d309?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "dd169a3d-f3f4-436f-b46a-93715ce32219",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-american-football-toledo-ohio-usa-genius-sports-statistici-671e14?utm_source=reddit",
       "postedAt": "2026-10-23T16:03:42.000Z",
       "notable": 5
-    },
-    {
-      "id": "c2638a20-e08f-4f12-9fdf-c11fd98a3e5c",
-      "title": "Sales Associate (German speaker)",
-      "company": "TransPerfect",
-      "place": "Zurich, Switzerland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://transperfect.com/o/sales-associate-german-speaker-3",
-      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/sales-associate-german-speaker-transperfect-2b9551?utm_source=reddit",
-      "postedAt": "2026-10-23T16:01:51.000Z",
-      "notable": 2
-    },
-    {
-      "id": "172db679-aebc-497c-8c4f-50be22ebf115",
-      "title": "Quantitative Research Intern",
-      "company": "Engineers Gate",
-      "place": "Singapore",
-      "category": "Research",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
-      "firstJobbyUrl": "https://firstjobby.com/companies/engineersgate/quantitative-research-intern-engineers-gate-9840f6?utm_source=reddit",
-      "postedAt": "2026-10-23T16:00:01.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
