@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:17:55.028Z",
+  "generatedAt": "2026-10-24T13:26:00.380Z",
   "jobs": [
     {
       "id": "d8c9c99f-675d-447f-b6c7-6a69dc281801",
@@ -1104,6 +1104,25 @@
       "notable": 2
     },
     {
+      "id": "79eb7ad7-7f9c-4aa7-9017-c3ee32f67c6e",
+      "title": "Associate Scientist CID",
+      "company": "Pfizer",
+      "place": "United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$60.2K-$100.4K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Associate-Scientist-CID_4965881-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pfizerorwd1orpfizercareers/associate-scientist-cid-pfizer-4fcb02?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "70934bdb-3413-499c-a36e-826d5747cb99",
       "title": "ENGINEER - PROBE SOFTWARE & ANALYTICAL",
       "company": "Micron Technology",
@@ -1216,6 +1235,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-tro-data-engineer-traffic-and-road-it-singapore-public-service-2ada1a?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4228e70d-7cfe-44bf-b1c5-10f1aa902474",
+      "title": "Claims Customer Service Advocate II",
+      "company": "BlueCross BlueShield of South Carolina",
+      "place": "Columbia, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "us_citizen",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Claims-Customer-Service-Advocate-II_R1052022-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ourhrconnectorwd501orscblues/claims-customer-service-advocate-ii-bluecross-blueshield-of-south-carolina-47d472?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "3e0d4fff-70ed-4b47-84d0-b02c198d5544",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-esgehs-due-diligence-and-strategy-consultant-2027-ramboll-ceafb0?utm_source=reddit",
       "postedAt": "2026-10-23T15:05:24.081Z",
       "notable": 4
-    },
-    {
-      "id": "0ac8dc8c-57e7-4144-ac56-2f4b67daf543",
-      "title": "Customer Support Agent - (Ukrainian Speaking) (Bench Team)",
-      "company": "External Only | Blueprint Technologies",
-      "place": "Bellevue, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/notexternal/jobs/8318278",
-      "firstJobbyUrl": "https://firstjobby.com/companies/notexternal/customer-support-agent-ukrainian-speaking-bench-team-external-only-or-blueprint--c52977?utm_source=reddit",
-      "postedAt": "2026-10-23T15:05:23.000Z",
-      "notable": 1
-    },
-    {
-      "id": "c9498543-f4b3-4132-bd61-adac56032e00",
-      "title": "Customer Support Agent - (Ukrainian Speaking) (Bench Team)",
-      "company": "Blueprint Technologies",
-      "place": "Bellevue, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/bpcs/jobs/8318277",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bpcs/customer-support-agent-ukrainian-speaking-bench-team-blueprint-technologies-5bc944?utm_source=reddit",
-      "postedAt": "2026-10-23T15:05:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
