@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-24T06:51:41.498Z",
+  "generatedAt": "2026-10-24T07:19:28.677Z",
   "jobs": [
+    {
+      "id": "0d60d8eb-d5a0-4c38-8d92-f170c40f3388",
+      "title": "Talent Operations Associate",
+      "company": "Weekdayworks",
+      "place": "Remote from India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₹10.0K-₹35.0K/mo",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/weekdayworks/69bc9e94-a6c5-4166-a50b-95dba61d763a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekdayworks/talent-operations-associate-weekdayworks-64d438?utm_source=reddit",
+      "postedAt": "2026-10-24T05:42:07.774Z",
+      "notable": 5
+    },
     {
       "id": "3c93f8b2-e492-4a5c-a818-b6c17d103a85",
       "title": "Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-sales-64ac25?utm_source=reddit",
       "postedAt": "2026-10-23T14:56:29.246Z",
       "notable": 3
-    },
-    {
-      "id": "a3766e14-acc2-4280-bad6-2dac27d237ea",
-      "title": "Técnico/a de Soporte – Software Hotelero (PMS Cloud)",
-      "company": "Septeo",
-      "place": "Barcelona, Spain",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Septeo/744000157503410",
-      "firstJobbyUrl": "https://firstjobby.com/companies/septeo/tecnicoa-de-soporte-software-hotelero-pms-cloud-septeo-5eb2a5?utm_source=reddit",
-      "postedAt": "2026-10-23T14:56:10.195Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
