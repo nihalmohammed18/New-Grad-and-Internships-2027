@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-24T15:54:05.668Z",
+  "generatedAt": "2026-10-24T16:56:38.583Z",
   "jobs": [
+    {
+      "id": "ef75d681-1fe0-4047-97e6-6401573e2ecd",
+      "title": "Forward Deployed Engineer",
+      "company": "Auterion",
+      "place": "Munich, Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://auterion.com/company/careers-open-position/8914596002?gh_jid=8914596002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/auterion/forward-deployed-engineer-auterion-290168?utm_source=reddit",
+      "postedAt": "2026-10-24T16:53:24.000Z",
+      "notable": 1
+    },
     {
       "id": "04e0572f-f55d-4f5d-94eb-e0118c338b45",
       "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/advens/security-analyst-hf-advens-6e7b28?utm_source=reddit",
       "postedAt": "2026-10-23T15:28:07.759Z",
       "notable": 0
-    },
-    {
-      "id": "a6656bce-5447-4b9d-a46d-5b3dd9cbd7f0",
-      "title": "Graduate Electrical Engineer 2027",
-      "company": "Ramboll",
-      "place": "Chester, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157515050",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/graduate-electrical-engineer-2027-ramboll-b05696?utm_source=reddit",
-      "postedAt": "2026-10-23T15:28:02.557Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
