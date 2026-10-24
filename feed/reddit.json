@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:47:26.334Z",
+  "generatedAt": "2026-10-24T06:13:10.597Z",
   "jobs": [
     {
       "id": "3c93f8b2-e492-4a5c-a818-b6c17d103a85",
@@ -154,6 +154,25 @@
       "notable": 1
     },
     {
+      "id": "5eb13c61-ce2a-454d-90af-1ac2fc90220f",
+      "title": "IT Operations & Case Management Specialist",
+      "company": "Blueprint Technologies",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$28-$32/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/bpcs/jobs/8319786",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bpcs/it-operations-and-case-management-specialist-blueprint-technologies-9ed94a?utm_source=reddit",
+      "postedAt": "2026-10-24T00:50:09.000Z",
+      "notable": 5
+    },
+    {
       "id": "cdf1550b-c45e-48d6-b783-506e14719820",
       "title": "Electrical Engineer",
       "company": "Xona Space Systems",
@@ -285,6 +304,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/account-executive-clera-b6a4c0?utm_source=reddit",
       "postedAt": "2026-10-24T00:01:54.897Z",
       "notable": 3
+    },
+    {
+      "id": "54bb90e8-5c89-4d03-ab79-7d4f273c2427",
+      "title": "Developer Productivity Intern [Winter 2027]",
+      "company": "Figure",
+      "place": "San Jose, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$40-$45/hr",
+      "minYears": null,
+      "season": "Winter 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/figureai/developer-productivity-intern-winter-2027-figure-624571?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:18.000Z",
+      "notable": 5
     },
     {
       "id": "fe16043f-f2e6-4a50-9618-f28d721ef720",
@@ -5034,7 +5072,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
       "firstJobbyUrl": "https://firstjobby.com/companies/figure/customer-success-associate-figure-lending-8f3b15?utm_source=reddit",
       "postedAt": "2026-10-23T17:39:19.000Z",
-      "notable": 6
+      "notable": 4
     },
     {
       "id": "9d7f0eea-868b-47e8-b936-2013edc03034",
@@ -6440,7 +6478,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/keeleyconstruction/jobs/4747104005",
       "firstJobbyUrl": "https://firstjobby.com/companies/keeleyconstruction/project-coordinator-keeley-construction-d019aa?utm_source=reddit",
       "postedAt": "2026-10-23T17:08:41.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "e0abdd1f-d890-44cc-9588-0fb9b82ccb31",
@@ -6972,7 +7010,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/colabsoftware/jobs/5461087008",
       "firstJobbyUrl": "https://firstjobby.com/companies/colabsoftware/sales-engineer-colab-software-cb7278?utm_source=reddit",
       "postedAt": "2026-10-23T16:35:14.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "a8133375-4ce5-4302-85f0-e771d91cdb7a",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157505640",
       "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/pursuit-coordinator-ramboll-3fc4f0?utm_source=reddit",
       "postedAt": "2026-10-23T14:55:10.862Z",
-      "notable": 5
-    },
-    {
-      "id": "57d84f32-c67d-44e7-9738-d19579d74af9",
-      "title": "Front Desk Coordinator",
-      "company": "Peachy",
-      "place": "United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$19/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/peachy/jobs/4724350006?gh_jid=4724350006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/peachy/front-desk-coordinator-peachy-3988a9?utm_source=reddit",
-      "postedAt": "2026-10-23T14:54:50.000Z",
-      "notable": 3
-    },
-    {
-      "id": "8103c250-76c2-45c4-a91f-1580cbe87ba6",
-      "title": "Pursuit Coordinator",
-      "company": "Ramboll",
-      "place": "Albany, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$75.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000157505589",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramboll3/pursuit-coordinator-ramboll-ec4c4d?utm_source=reddit",
-      "postedAt": "2026-10-23T14:54:41.848Z",
       "notable": 5
     }
   ],
