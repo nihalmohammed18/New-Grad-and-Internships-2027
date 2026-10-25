@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:34:29.069Z",
+  "generatedAt": "2026-10-25T12:52:36.593Z",
   "jobs": [
     {
       "id": "cc7c2dd0-fee7-4bda-8a14-556a40e34595",
@@ -129,7 +129,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000157657879-software-engineering-intern",
+      "applyUrl": "https://jobs.smartrecruiters.com/experian/744000157657879",
       "firstJobbyUrl": "https://firstjobby.com/companies/experian/software-engineering-intern-experian-1ca670?utm_source=reddit",
       "postedAt": "2026-10-25T02:43:39.709Z",
       "notable": 3
@@ -494,6 +494,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/vishayorwd3orvishaycareers/engineer-vishay-9d9e3f?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0fbe36b9-fab1-426a-a187-eb2dde8b0caa",
+      "title": "Information Security Compliance Officer",
+      "company": "Envision Employment Solutions",
+      "place": "El Sheikh Zayed City, Egypt",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/13DB3D1DCA",
+      "firstJobbyUrl": "https://firstjobby.com/companies/envisiones/information-security-compliance-officer-envision-employment-solutions-0821e7?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "05405ce9-0c41-40af-8adb-e72b4a503302",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/solidroad/operations-specialist-part-timefull-time-solidroad-78d126?utm_source=reddit",
       "postedAt": "2026-10-23T16:34:10.600Z",
       "notable": 1
-    },
-    {
-      "id": "4f184553-9f3e-43d2-bc1f-134bf42d08c9",
-      "title": "Sports Data Collector (American Football) - Pullman, Washington, USA",
-      "company": "Genius Sports Statistician Network",
-      "place": "Pullman, United States",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€150/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/geniussportssn/jobs/8042999003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-american-football-pullman-washington-usa-genius-sports-sta-dfa9f4?utm_source=reddit",
-      "postedAt": "2026-10-23T16:33:00.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
