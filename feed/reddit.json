@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:15:15.265Z",
+  "generatedAt": "2026-10-25T22:30:57.128Z",
   "jobs": [
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "dd5c5743-5bd5-49ee-8982-42d880e6de34",
+      "title": "Operational Support Specialist I",
+      "company": "Eurofins",
+      "place": "River Falls, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000157678909-operational-support-specialist-i",
+      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/operational-support-specialist-i-eurofins-d3633e?utm_source=reddit",
+      "postedAt": "2026-10-25T20:08:29.604Z",
+      "notable": 3
     },
     {
       "id": "47a6d382-1ace-4f23-bd33-7ec1428c699a",
@@ -376,7 +395,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016394646-process-support-scientist-microbiology",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016394646",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/process-support-scientist-microbiology-abbvie-b2d1a8?utm_source=reddit",
       "postedAt": "2026-10-25T14:41:30.701Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/intern-soporte-it-aumovio-076c22?utm_source=reddit",
       "postedAt": "2026-10-23T17:10:18.364Z",
       "notable": 3
-    },
-    {
-      "id": "bbef7039-1ab2-4053-968b-4a45bce1de4d",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote from Spain",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/cf64757d-fd39-46a6-9adb-c942b0688369",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-b1ba8d?utm_source=reddit",
-      "postedAt": "2026-10-23T17:09:47.695Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
