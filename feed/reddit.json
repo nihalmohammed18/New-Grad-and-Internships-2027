@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:04:02.259Z",
+  "generatedAt": "2026-10-25T19:15:44.194Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "f7ee2e3d-e65b-4107-a372-d63585a227ae",
+      "title": "BI Consultant",
+      "company": "NielsenIQ",
+      "place": "Warsaw, Poland",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000157675809-bi-consultant",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/bi-consultant-nielseniq-eeb953?utm_source=reddit",
+      "postedAt": "2026-10-25T17:11:23.130Z",
+      "notable": 3
     },
     {
       "id": "4dd79d6b-c101-4379-8378-7fbf2803d102",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jerryai/associate-business-operations-and-analytics-jerryai-ee0b24?utm_source=reddit",
       "postedAt": "2026-10-23T17:00:37.015Z",
       "notable": 5
-    },
-    {
-      "id": "cf0351bd-c3c6-47ac-a8c0-5d96c9846e9d",
-      "title": "Strategic Account Executive (Zurich)",
-      "company": "Benchling",
-      "place": "Zurich, Switzerland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/benchling/c8414a0f-9bb8-41dc-9797-e781af1a2f49",
-      "firstJobbyUrl": "https://firstjobby.com/companies/benchling-ashby/strategic-account-executive-zurich-benchling-cea2e2?utm_source=reddit",
-      "postedAt": "2026-10-23T17:00:07.278Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
