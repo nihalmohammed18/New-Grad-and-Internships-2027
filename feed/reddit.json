@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-25T20:37:34.866Z",
+  "generatedAt": "2026-10-25T21:37:11.134Z",
   "jobs": [
+    {
+      "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
+      "title": "Technical Consultant – Migration Engineer (Entra Apps Tenant Migration)",
+      "company": "Kyndryl",
+      "place": "Bangalore, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Technical-Consultant---Migration-Engineer--Entra-Apps-Tenant-Migration-_R-66951",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/technical-consultant-migration-engineer-entra-apps-tenant-migration-kyndryl-a57758?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
       "title": "Engineer, Equipment Development - PCVD",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/software-engineer-clera-aecc6f?utm_source=reddit",
       "postedAt": "2026-10-23T17:05:48.677Z",
       "notable": 6
-    },
-    {
-      "id": "ef53c8aa-c4cd-45b0-a978-171095ce126b",
-      "title": "Customer Success Executive",
-      "company": "PatientPoint",
-      "place": "Austin, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/patientpoint/jobs/4747108005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/customer-success-executive-patientpoint-9bacc6?utm_source=reddit",
-      "postedAt": "2026-10-23T17:05:03.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
