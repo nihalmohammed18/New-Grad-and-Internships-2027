@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:02:41.932Z",
+  "generatedAt": "2026-10-25T20:18:30.311Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -530,6 +530,25 @@
       "season": null,
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Gurgaon/Business-Analyst----Client-Engagement-Services--_114893",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/business-analyst-client-engagement-services-gartner-4ac977?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c9f16049-a4b3-4578-9ffd-430f1c3a4a73",
+      "title": "Ocean Customer Experience Specialist",
+      "company": "Maersk",
+      "place": "Navi Mumbai, India",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/IN---Navi-Mumbai/Ocean-Customer-Experience-Specialist_R201490",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maerskorwd3ormaerskcareers/ocean-customer-experience-specialist-maersk-aeff9f?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/customer-success-executive-patientpoint-93aa4c?utm_source=reddit",
       "postedAt": "2026-10-23T17:04:12.000Z",
       "notable": 3
-    },
-    {
-      "id": "1b1724b3-10ec-4492-8be8-7fd91daf43de",
-      "title": "Founding Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$150.0K-$250.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/e1c974c3-b864-49ef-baac-79f5c71ce9b3",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-clera-c7f010?utm_source=reddit",
-      "postedAt": "2026-10-23T17:04:06.977Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
