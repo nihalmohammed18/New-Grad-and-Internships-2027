@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:00:03.899Z",
+  "generatedAt": "2026-10-25T00:09:56.475Z",
   "jobs": [
     {
       "id": "c862bdec-aab5-4e86-87d4-8549613d49ce",
@@ -2394,6 +2394,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-qem-pqe-electrical-failure-analysis-micron-technology-c1f1ea?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "57f9fc67-5b43-48f6-bb24-55e40ceaf497",
+      "title": "Full Time - Sales Associate - Paint - Closing",
+      "company": "Lowe's",
+      "place": "Latham, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$16-$17/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/LATHAM-NY-1177/Full-Time---Sales-Associate---Paint---Closing_JR-02684609",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-paint-closing-lowes-b77786?utm_source=reddit",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "548e3ca8-3031-4c51-a9fb-7a895a20c18c",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/workleap/technical-support-it-6-month-contract-workleap-9317ef?utm_source=reddit",
       "postedAt": "2026-10-23T16:11:54.000Z",
       "notable": 1
-    },
-    {
-      "id": "49849893-b2d3-470c-8c06-97120425ab56",
-      "title": "Middle Marketing Data Analyst",
-      "company": "Jobgether",
-      "place": "Remote from Netherlands",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/8c9c7b36-c7a3-416f-9484-63d8ef2131b5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-dbd268?utm_source=reddit",
-      "postedAt": "2026-10-23T16:11:51.076Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
