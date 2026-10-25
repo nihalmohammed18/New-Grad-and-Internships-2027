@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:22:17.571Z",
+  "generatedAt": "2026-10-25T05:12:04.501Z",
   "jobs": [
     {
       "id": "6d7ba537-0353-4907-ae9b-1e91470ac047",
@@ -132,6 +132,25 @@
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007",
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/software-engineer-infrastructure-anduril-industries-d059cc?utm_source=reddit",
       "postedAt": "2026-10-24T23:28:40.000Z",
+      "notable": 5
+    },
+    {
+      "id": "18023939-e65a-4379-885c-d4e7b6a9a8f4",
+      "title": "Sales Development Representatives: Live Website Pitch Call",
+      "company": "Terac",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$14/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/terac/ad86e3d8-2333-42f5-9e13-e21eb72307cb",
+      "firstJobbyUrl": "https://firstjobby.com/companies/terac/sales-development-representatives-live-website-pitch-call-terac-b7b451?utm_source=reddit",
+      "postedAt": "2026-10-24T23:15:42.002Z",
       "notable": 5
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/business-developer-digital-marketing-jobgether-cec469?utm_source=reddit",
       "postedAt": "2026-10-23T16:15:17.355Z",
       "notable": 3
-    },
-    {
-      "id": "cbc439cc-e637-4c68-ab11-f4d5a980d39f",
-      "title": "Sports Data Collector (American Football) - Spokane, Washington, USA",
-      "company": "Genius Sports Statistician Network",
-      "place": "Spokane, United States",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€150/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/geniussportssn/jobs/8042978003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-american-football-spokane-washington-usa-genius-sports-sta-feefbc?utm_source=reddit",
-      "postedAt": "2026-10-23T16:15:16.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
