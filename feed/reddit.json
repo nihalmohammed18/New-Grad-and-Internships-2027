@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:04:09.145Z",
+  "generatedAt": "2026-10-25T14:10:50.476Z",
   "jobs": [
     {
       "id": "cc7c2dd0-fee7-4bda-8a14-556a40e34595",
@@ -4237,6 +4237,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/associate-software-engineer-servicenow-4635f0?utm_source=reddit",
       "postedAt": "2026-10-23T21:24:58.987Z",
       "notable": 5
+    },
+    {
+      "id": "ef36ba8f-1389-460e-aab4-3c35f515a95a",
+      "title": "Vendor Operations Specialist",
+      "company": "Mainstay Labs Inc.",
+      "place": "Remote from United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/mainstay/b2d81c9e-d5cb-4f6d-b064-846e12b47e9a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mainstay/vendor-operations-specialist-mainstay-labs-inc-4c3c80?utm_source=reddit",
+      "postedAt": "2026-10-23T21:22:47.050Z",
+      "notable": 1
     },
     {
       "id": "d041a41e-8501-4de9-a8c7-c0f2d182ab19",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/beyondtrust/associate-data-engineer-beyondtrust-dc4782?utm_source=reddit",
       "postedAt": "2026-10-23T16:37:20.000Z",
       "notable": 3
-    },
-    {
-      "id": "fe974ead-c9c0-470a-a5eb-03d30ad3ba62",
-      "title": "Structural Engineer II - Remote",
-      "company": "AECOM",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157529089",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/structural-engineer-ii-remote-aecom-4c04e8?utm_source=reddit",
-      "postedAt": "2026-10-23T16:36:44.490Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
