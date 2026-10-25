@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:32:02.512Z",
+  "generatedAt": "2026-10-25T23:00:33.253Z",
   "jobs": [
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -703,6 +703,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-7d31bf?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "fd033ac8-1259-445b-a048-c94ba60237d5",
+      "title": "IT Cybersecurity Compliance Technical Associate- Campus 2027",
+      "company": "Guidehouse",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$56.0K-$94.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899",
+      "firstJobbyUrl": "https://firstjobby.com/companies/guidehouseorwd1orexternal/it-cybersecurity-compliance-technical-associate-campus-2027-guidehouse-708b45?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "edfd443a-a054-4722-84db-27b1bba6d880",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-e1efe2?utm_source=reddit",
       "postedAt": "2026-10-23T17:10:21.981Z",
       "notable": 5
-    },
-    {
-      "id": "b8ba73eb-21fd-486a-9e1e-0a1ba390c016",
-      "title": "AI Solution Developer (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Lisboa, Portugal",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157531934",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/ai-solution-developer-fmdiv-bosch-group-ec7b9e?utm_source=reddit",
-      "postedAt": "2026-10-23T17:10:21.135Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
