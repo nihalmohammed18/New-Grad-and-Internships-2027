@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:39:09.431Z",
+  "generatedAt": "2026-10-25T18:50:04.966Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -359,6 +359,25 @@
       "season": null,
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2027271-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-7d31bf?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "edfd443a-a054-4722-84db-27b1bba6d880",
+      "title": "ETIC, Full stack Developer  - Graduate Program",
+      "company": "PwC",
+      "place": "Cairo, Egypt",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Full-stack-Developer----Graduate-Program_754567WD",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pwcorwd3orglobalexperiencedcareers/etic-full-stack-developer-graduate-program-pwc-46e6f1?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/ion/56184f7e-e758-4684-a1aa-bbd2838dd684",
       "firstJobbyUrl": "https://firstjobby.com/companies/ion/associate-product-manager-new-york-on-site-ion-group-517190?utm_source=reddit",
       "postedAt": "2026-10-23T16:57:50.755Z",
-      "notable": 5
-    },
-    {
-      "id": "260666bd-c0c1-46e3-9a57-50f6922869b9",
-      "title": "Strategic Account Executive - AI, San Francisco",
-      "company": "GitLab",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$124.0K-$186.6K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8895523002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gitlab/strategic-account-executive-ai-san-francisco-gitlab-aba903?utm_source=reddit",
-      "postedAt": "2026-10-23T16:57:41.000Z",
       "notable": 5
     }
   ],
