@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:15:44.194Z",
+  "generatedAt": "2026-10-25T19:31:31.353Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -511,6 +511,25 @@
       "season": null,
       "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Cloud-System-Administrator_R0047013-3",
       "firstJobbyUrl": "https://firstjobby.com/companies/harriscomputerorwd3or1/cloud-system-administrator-harris-computer-89826f?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b71853bc-c47f-45d4-af7f-823cb5fdd240",
+      "title": "DevOps Engineer – OpenShift Platform & Managed Services",
+      "company": "Swisscom",
+      "place": "Zurich, Switzerland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Zurich/DevOps-Engineer---OpenShift-Platform---Managed-Services_R-0006873-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/swisscomorwd103orswisscomexternalcareers/devops-engineer-openshift-platform-and-managed-services-swisscom-122936?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/65c9cedf-eedb-4d57-b359-2cc8cf156bf6",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-1e80af?utm_source=reddit",
       "postedAt": "2026-10-23T17:00:55.373Z",
-      "notable": 5
-    },
-    {
-      "id": "74729957-0baa-40d9-b0f5-e37a92a924df",
-      "title": "Associate, Business Operations & Analytics",
-      "company": "Jerry.ai",
-      "place": "New York, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$110.0K-$140.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/jerry.ai/a99cb51b-5f41-44c6-ac88-79dd9cefe642",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jerryai/associate-business-operations-and-analytics-jerryai-ee0b24?utm_source=reddit",
-      "postedAt": "2026-10-23T17:00:37.015Z",
       "notable": 5
     }
   ],
