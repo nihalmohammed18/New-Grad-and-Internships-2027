@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:26:07.627Z",
+  "generatedAt": "2026-10-25T17:06:48.684Z",
   "jobs": [
     {
       "id": "4dd79d6b-c101-4379-8378-7fbf2803d102",
@@ -458,6 +458,25 @@
       "notable": 3
     },
     {
+      "id": "96195046-fe30-4473-b098-df5b11c15405",
+      "title": "Customer Service Representative",
+      "company": "Teledyne",
+      "place": "Tracy, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$44.5K-$59.3K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Tracy-CA/Customer-Service-Representative_REQ37239",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flirorwd1orflircareers/customer-service-representative-teledyne-c9d884?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "7b5e4b3c-0537-48c1-9b64-8f60528b4ec9",
       "title": "New Product Development Engineer II",
       "company": "Johnson & Johnson",
@@ -741,6 +760,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/envisiones/information-security-compliance-officer-envision-employment-solutions-0821e7?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "00a598af-ff93-4b04-bfb6-951f338e4a50",
+      "title": "People & Culture Coordinator",
+      "company": "Four Seasons",
+      "place": "Cairo, Egypt",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Cairo---First-Residence/People---Culture-Coordinator_REQ10395015-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fourseasonsorwd3orsearch/people-and-culture-coordinator-four-seasons-57e85d?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "05405ce9-0c41-40af-8adb-e72b4a503302",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spotify/machine-learning-engineer-subscriptions-spotify-29e9bc?utm_source=reddit",
       "postedAt": "2026-10-23T16:53:57.686Z",
       "notable": 1
-    },
-    {
-      "id": "c6514672-bf99-4078-9195-979338780bb0",
-      "title": "Capital Markets Analyst",
-      "company": "Colliers International EMEA",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000157531149",
-      "firstJobbyUrl": "https://firstjobby.com/companies/colliersinternationalemea/capital-markets-analyst-colliers-international-emea-403d15?utm_source=reddit",
-      "postedAt": "2026-10-23T16:50:24.231Z",
-      "notable": 3
-    },
-    {
-      "id": "98a10489-38fb-4d48-b3a4-628183159a5b",
-      "title": "CREDIT POLICIES ANALYST I | CS&P - BUSINESS MG",
-      "company": "Inter Carreiras",
-      "place": "Belo Horizonte, Brazil",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/inter/jobs/4740786005?gh_jid=4740786005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inter/credit-policies-analyst-i-or-csandp-business-mg-inter-carreiras-15a6de?utm_source=reddit",
-      "postedAt": "2026-10-23T16:47:52.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
