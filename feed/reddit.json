@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:50:04.966Z",
+  "generatedAt": "2026-10-25T19:04:02.259Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -817,6 +817,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/envisiones/information-security-compliance-officer-envision-employment-solutions-0821e7?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "05b85097-e756-48d6-a881-99a9371f210c",
+      "title": "Infrastructure Intern - November 2026 | CHL",
+      "company": "Ardian",
+      "place": "Santiago, Chile",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "November 2026",
+      "applyUrl": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Santiago-Chile/Infrastructure-Intern---November-2026---CHL_JR1002281",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ardianorwd103orardiancareers/infrastructure-intern-november-2026-or-chl-ardian-7d4985?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "00a598af-ff93-4b04-bfb6-951f338e4a50",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/benchling-ashby/strategic-account-executive-zurich-benchling-cea2e2?utm_source=reddit",
       "postedAt": "2026-10-23T17:00:07.278Z",
       "notable": 3
-    },
-    {
-      "id": "e5c8956d-d1b2-4bd8-ab01-be0c160f4d6a",
-      "title": "Associate Product Manager, New York, On site",
-      "company": "ION Group",
-      "place": "New York, United States",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$110.0K-$120.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/ion/56184f7e-e758-4684-a1aa-bbd2838dd684",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ion/associate-product-manager-new-york-on-site-ion-group-517190?utm_source=reddit",
-      "postedAt": "2026-10-23T16:57:50.755Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
