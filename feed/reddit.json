@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-25T00:16:48.021Z",
+  "generatedAt": "2026-10-25T00:29:06.570Z",
   "jobs": [
+    {
+      "id": "d599c567-b6b0-481e-8258-bf856fc74dd8",
+      "title": "Business Analyst – (Client Engagement Services)",
+      "company": "Gartner",
+      "place": "Gurgaon, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Analyst----Client-Engagement-Services--_114893",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/business-analyst-client-engagement-services-gartner-4ac977?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "05405ce9-0c41-40af-8adb-e72b4a503302",
       "title": "Software Engineer- Infrastructure",
@@ -1915,7 +1934,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Rivalta-di-Torino/Construction-Engineer_R5041762-2",
+      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Rivalta-di-Torino/Construction-Engineer_R5041762-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/geaerospaceorwd5orgeexternalsite/construction-engineer-ge-aerospace-4fc5bf?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/28d61436-e10e-409e-849a-43b8adda8b57",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-e8aa88?utm_source=reddit",
       "postedAt": "2026-10-23T16:12:54.626Z",
-      "notable": 3
-    },
-    {
-      "id": "ab1265ea-f5c1-4fc1-a16a-4d453eb2ba5a",
-      "title": "Middle Marketing Data Analyst",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/bc3b1666-43f1-4e90-8c54-5c377bc5f8cd",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-ea74c2?utm_source=reddit",
-      "postedAt": "2026-10-23T16:12:32.690Z",
       "notable": 3
     }
   ],
