@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:01:37.559Z",
+  "generatedAt": "2026-10-25T11:52:05.478Z",
   "jobs": [
     {
       "id": "cc7c2dd0-fee7-4bda-8a14-556a40e34595",
@@ -230,6 +230,25 @@
       "notable": 3
     },
     {
+      "id": "fea748e4-177f-44f8-b105-5ef62df4b1e5",
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "place": "Bangalore, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027271-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-7d31bf?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "e9a7d43c-fcd6-4813-ba05-aa72690ec189",
       "title": "Associate, Bonds Data",
       "company": "Kensho",
@@ -323,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/assistant-test-engineer-intern-abb-b75552?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "6c853e87-cc38-439c-b8da-a2c8c673ed41",
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "place": "Bangalore, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2028667-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-3ba106?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "64ee842f-0dd0-4cf3-91ec-e85f46bc323a",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ixllearning/marketing-associate-rosetta-stone-consumer-ixl-learning-90df85?utm_source=reddit",
       "postedAt": "2026-10-23T16:31:01.000Z",
       "notable": 5
-    },
-    {
-      "id": "bee2a1bb-b8bf-4772-a396-7ec59bf1400d",
-      "title": "Sales Development Representative",
-      "company": "SpecterOps",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$85.0K-$110.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/specterops/jobs/8911725002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/specterops/sales-development-representative-specterops-cb64c7?utm_source=reddit",
-      "postedAt": "2026-10-23T16:30:08.000Z",
-      "notable": 4
-    },
-    {
-      "id": "1729c753-eb49-490c-8c2a-6b44ab818a7e",
-      "title": "Operations Executive - Asset & Leasing (12m FTC)",
-      "company": "Triple Point",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/triplepointllp/jobs/5015193101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/triplepointllp/operations-executive-asset-and-leasing-12m-ftc-triple-point-1ab2a0?utm_source=reddit",
-      "postedAt": "2026-10-23T16:28:19.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
