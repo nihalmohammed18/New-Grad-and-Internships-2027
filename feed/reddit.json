@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:33:32.147Z",
+  "generatedAt": "2026-10-25T06:41:26.118Z",
   "jobs": [
     {
       "id": "6d7ba537-0353-4907-ae9b-1e91470ac047",
@@ -114,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/business-analyst-client-engagement-services-gartner-4ac977?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "a79847ba-6622-480f-9657-6720aeb9f3af",
+      "title": "Assistant Test Engineer (Intern)",
+      "company": "ABB",
+      "place": "Hangzhou, China",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/assistant-test-engineer-intern-abb-b75552?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "05405ce9-0c41-40af-8adb-e72b4a503302",
@@ -1881,25 +1900,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/nand-reliability-product-engineer-micron-technology-9e4d61?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "bf34842f-9163-4a85-b764-499839388a0a",
-      "title": "Medical Sales Intern",
-      "company": "Abbott",
-      "place": "Dubai, United Arab Emirates",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Arab-Emirates---Dubai/Medical-Sales-Intern_31165177",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abbottorwd5orabbottcareers/medical-sales-intern-abbott-d5e556?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 3
     },
     {
       "id": "bc82384a-6056-4daa-ab1e-76bfb562f66b",
