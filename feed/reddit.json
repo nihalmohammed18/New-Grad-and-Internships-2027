@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:18:30.311Z",
+  "generatedAt": "2026-10-25T20:33:24.982Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -722,6 +722,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-3ba106?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6882c5ea-1974-4961-8a7e-709b18a0215d",
+      "title": "Sales Application Engineer - RES (EE26124)",
+      "company": "TMEIC Corporation Americas",
+      "place": "Houston, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/B5DDBEB223",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tmeic-corporation-americas/sales-application-engineer-res-ee26124-tmeic-corporation-americas-a40446?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "64ee842f-0dd0-4cf3-91ec-e85f46bc323a",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-product-designer-clera-e8cecc?utm_source=reddit",
       "postedAt": "2026-10-23T17:04:59.435Z",
       "notable": 6
-    },
-    {
-      "id": "2f02c9b9-3b0d-4586-958d-ae5dbda7f3a3",
-      "title": "Customer Success Executive",
-      "company": "PatientPoint",
-      "place": "Austin, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/patientpoint/jobs/4747068005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/customer-success-executive-patientpoint-93aa4c?utm_source=reddit",
-      "postedAt": "2026-10-23T17:04:12.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
