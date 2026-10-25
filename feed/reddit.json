@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T07:33:50.777Z",
+  "generatedAt": "2026-10-25T07:54:14.541Z",
   "jobs": [
     {
       "id": "5684b6a4-0887-44bf-be08-7394bc7631a6",
@@ -226,6 +226,25 @@
       "season": null,
       "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/North-Vancouver-British-Columbia/Mobile-Mortgage-Specialist---Japanese-language-skills-an-asset_R_1518506",
       "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/mobile-mortgage-specialist-japanese-language-skills-an-asset-td-bank-134177?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "29f7b899-1a98-4fa4-a7fa-bdaf8acfe81d",
+      "title": "Nursing Program Coordinator - Jefferson County Department of Health",
+      "company": "Jefferson County, AL",
+      "place": "United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$67.8K-$105.2K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pbjcal.wd503.myworkdayjobs.com/JobsQuest/job/Merit-System/Nursing-Program-Coordinator---Jefferson-County-Department-of-Health_R0016050",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pbjcalorwd503orjobsquest/nursing-program-coordinator-jefferson-county-department-of-health-jefferson-coun-98ff7c?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
     },
@@ -5436,6 +5455,25 @@
       "notable": 3
     },
     {
+      "id": "b17f0c08-1c8b-4736-8864-c6bb2166914d",
+      "title": "Client Support Engineer I - LA",
+      "company": "Coretelligent",
+      "place": "Los Angeles, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$105.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/coretelligent/jobs/5462697008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coretelligent/client-support-engineer-i-la-coretelligent-7de8ee?utm_source=reddit",
+      "postedAt": "2026-10-23T19:47:53.000Z",
+      "notable": 3
+    },
+    {
       "id": "75fa9a20-6121-4ea2-a32d-4361835e3cd8",
       "title": "Sales Operations Specialist",
       "company": "EOS IT Solutions",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veeamsoftware/c-developer-security-veeam-software-9f5915?utm_source=reddit",
       "postedAt": "2026-10-23T16:18:17.000Z",
       "notable": 3
-    },
-    {
-      "id": "8c32c6bc-5724-45b1-90d2-656f9ed3757f",
-      "title": "Business Developer (Digital Marketing)",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/d677855b-fff5-486b-97c0-c50874ec236f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/business-developer-digital-marketing-jobgether-123a2a?utm_source=reddit",
-      "postedAt": "2026-10-23T16:16:37.540Z",
-      "notable": 3
-    },
-    {
-      "id": "24eb2b0f-276a-44d2-a0fe-42cef0960794",
-      "title": "Researcher - AI Agents & Knowledge Graphs",
-      "company": "Huawei Technologies Canada Co., Ltd.",
-      "place": "Ottawa, Canada",
-      "category": "Research",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$90.0K-$140.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://huaweicanada.recruitee.com/o/researcher-ai-agents-knowledge-graphs",
-      "firstJobbyUrl": "https://firstjobby.com/companies/huaweicanada/researcher-ai-agents-and-knowledge-graphs-huawei-technologies-canada-co-ltd-526521?utm_source=reddit",
-      "postedAt": "2026-10-23T16:16:22.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
