@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:54:24.633Z",
+  "generatedAt": "2026-10-25T18:39:09.431Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--Equipment-Development---PCVD_JR113533",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-equipment-development-pcvd-micron-technology-bb230d?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "365893b1-09d1-455f-ad84-13418a3459df",
+      "title": "Motor Engineer",
+      "company": "Copeland",
+      "place": "Suzhou, China",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Suzhou-China/Motor-Engineer_JR118772",
+      "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -566,7 +585,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Cairo/Substation-Automation-and-Protection-FS-Engineer_R5056730-2",
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Cairo/Substation-Automation-and-Protection-FS-Engineer_R5056730-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/substation-automation-and-protection-fs-engineer-ge-vernova-c1e478?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8895523002",
       "firstJobbyUrl": "https://firstjobby.com/companies/gitlab/strategic-account-executive-ai-san-francisco-gitlab-aba903?utm_source=reddit",
       "postedAt": "2026-10-23T16:57:41.000Z",
-      "notable": 5
-    },
-    {
-      "id": "821208bd-2686-43e9-8a30-4f85ea3563eb",
-      "title": "Sales Development Representative - New York",
-      "company": "Elastic",
-      "place": "New York, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$19.7K-$104.2K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605",
-      "firstJobbyUrl": "https://firstjobby.com/companies/elastic/sales-development-representative-new-york-elastic-cfccd4?utm_source=reddit",
-      "postedAt": "2026-10-23T16:56:42.000Z",
       "notable": 5
     }
   ],
