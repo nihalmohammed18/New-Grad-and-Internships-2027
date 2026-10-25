@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-25T16:18:06.964Z",
+  "generatedAt": "2026-10-25T16:26:07.627Z",
   "jobs": [
+    {
+      "id": "4dd79d6b-c101-4379-8378-7fbf2803d102",
+      "title": "Process Support Scientist, Microbiology",
+      "company": "AbbVie",
+      "place": "North Chicago, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016394646-process-support-scientist-microbiology",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/process-support-scientist-microbiology-abbvie-b2d1a8?utm_source=reddit",
+      "postedAt": "2026-10-25T14:41:30.701Z",
+      "notable": 3
+    },
     {
       "id": "a36641b3-bfee-4f45-b1e6-36786df385f5",
       "title": "INTERNSHIP - CMF Designer M/F/X",
@@ -167,7 +186,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157666289-structural-engineer-site-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157666289",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/structural-engineer-site-aecom-e83817?utm_source=reddit",
       "postedAt": "2026-10-25T07:35:34.800Z",
       "notable": 3
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://boards.greenhouse.io/inter/jobs/4740786005?gh_jid=4740786005",
       "firstJobbyUrl": "https://firstjobby.com/companies/inter/credit-policies-analyst-i-or-csandp-business-mg-inter-carreiras-15a6de?utm_source=reddit",
       "postedAt": "2026-10-23T16:47:52.000Z",
-      "notable": 3
-    },
-    {
-      "id": "c5cec15f-3c92-4821-860f-1cedc506ad19",
-      "title": "Technical Support Analyst (French Speaker)",
-      "company": "DigiCert",
-      "place": "Cape Town, South Africa",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.digicert.com/careers/?gh_jid=8885307002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/digicert/technical-support-analyst-french-speaker-digicert-170305?utm_source=reddit",
-      "postedAt": "2026-10-23T16:47:29.000Z",
       "notable": 3
     }
   ],
