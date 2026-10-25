@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:30:57.128Z",
+  "generatedAt": "2026-10-25T22:32:02.512Z",
   "jobs": [
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -1254,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/parsonsorwd5orsearch/associate-mechanical-engineer-tamkeen-program-saudi-national-parsons-da57f2?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1668aa27-2146-46bc-8e29-ed513130aa15",
+      "title": "Biomedical Engineer - Saudi Nationals - Al Khobar",
+      "company": "Imdad",
+      "place": "Al Khobar, Saudi Arabia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/14D0BA0FB4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/careers-imdad/biomedical-engineer-saudi-nationals-al-khobar-imdad-60f53d?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "11bae613-42df-4467-9bbd-73fca3851bd4",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157531934",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/ai-solution-developer-fmdiv-bosch-group-ec7b9e?utm_source=reddit",
       "postedAt": "2026-10-23T17:10:21.135Z",
-      "notable": 3
-    },
-    {
-      "id": "55bb264a-8034-4bb0-8c64-bf9ce4885dd2",
-      "title": "Intern Soporte IT",
-      "company": "AUMOVIO",
-      "place": "Guadalajara, Mexico",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/aumovio/744000157533399",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/intern-soporte-it-aumovio-076c22?utm_source=reddit",
-      "postedAt": "2026-10-23T17:10:18.364Z",
       "notable": 3
     }
   ],
