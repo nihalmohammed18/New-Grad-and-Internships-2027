@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:31:31.353Z",
+  "generatedAt": "2026-10-25T19:43:21.105Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--Equipment-Development---PCVD_JR113533",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-equipment-development-pcvd-micron-technology-bb230d?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6fbf3469-8d2b-4b1a-b143-538c6e763c0d",
+      "title": "Associate Analyst, Clean Technologies and Supply Chains",
+      "company": "Kensho",
+      "place": "Malaysia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Penang-Jalan-MYS/Associate-Analyst--Clean-Technologies-and-Supply-Chains_332137-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/associate-analyst-clean-technologies-and-supply-chains-kensho-b413b6?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/patientpoint/jobs/4747074005",
       "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/client-success-intern-patientpoint-b5113c?utm_source=reddit",
       "postedAt": "2026-10-23T17:01:27.000Z",
-      "notable": 5
-    },
-    {
-      "id": "e69b5034-e57a-4772-83c6-50328421fc4e",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/65c9cedf-eedb-4d57-b359-2cc8cf156bf6",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-1e80af?utm_source=reddit",
-      "postedAt": "2026-10-23T17:00:55.373Z",
       "notable": 5
     }
   ],
