@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:10:42.306Z",
+  "generatedAt": "2026-10-25T16:18:06.964Z",
   "jobs": [
     {
       "id": "a36641b3-bfee-4f45-b1e6-36786df385f5",
@@ -513,6 +513,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/substation-automation-and-protection-fs-engineer-ge-vernova-c1e478?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "5bdbe4c3-300c-4efb-8d60-c46bc14ae6fd",
+      "title": "IT Helpdesk Specialist",
+      "company": "Syarah",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/BEF3074426",
+      "firstJobbyUrl": "https://firstjobby.com/companies/syarah/it-helpdesk-specialist-syarah-dabd62?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "5aec56f7-bb36-49f2-97de-b8f1716b23b9",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.digicert.com/careers/?gh_jid=8885307002",
       "firstJobbyUrl": "https://firstjobby.com/companies/digicert/technical-support-analyst-french-speaker-digicert-170305?utm_source=reddit",
       "postedAt": "2026-10-23T16:47:29.000Z",
-      "notable": 3
-    },
-    {
-      "id": "1681800a-57ca-47de-99ce-0d65099264f8",
-      "title": "Data Center Technician - Douglasville, GA",
-      "company": "CoreWeave",
-      "place": "Douglasville, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://coreweave.com/careers/job?4724074006&board=coreweave&gh_jid=4724074006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-douglasville-ga-coreweave-3bba64?utm_source=reddit",
-      "postedAt": "2026-10-23T16:45:16.000Z",
       "notable": 3
     }
   ],
