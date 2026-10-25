@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:56:07.052Z",
+  "generatedAt": "2026-10-25T20:02:41.932Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -477,6 +477,25 @@
       "notable": 4
     },
     {
+      "id": "e14a3f3c-e574-4bcb-8cea-f93c59652008",
+      "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
+      "company": "Northrop Grumman",
+      "place": "Morrisville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$72.7K-$109.1K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/2027-associate-embedded-software-engineer-morrisville-nc-northrop-grumman-9c6a92?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "d5a5a774-56f8-41eb-9547-0c515592cd43",
       "title": "Account Solution Engineer, Philippines - SMB Market",
       "company": "Salesforce",
@@ -513,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/business-analyst-client-engagement-services-gartner-4ac977?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "c6ee3778-ce50-4ec6-8cee-6eb837077106",
+      "title": "2027 Associate Electrical Engineer / Electrical Engineer - Roy UT",
+      "company": "Northrop Grumman",
+      "place": "Roy, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$65.8K-$118.9K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer---Roy-UT_R10257538",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/2027-associate-electrical-engineer-electrical-engineer-roy-ut-northrop-grumman-221638?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "c67a2e39-e350-4494-860a-0f31e8a52f79",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/clera/e1c974c3-b864-49ef-baac-79f5c71ce9b3",
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-clera-c7f010?utm_source=reddit",
       "postedAt": "2026-10-23T17:04:06.977Z",
-      "notable": 6
-    },
-    {
-      "id": "cbdeda50-d40c-4a9f-b8bc-8c8855cd0bea",
-      "title": "Industrial Designer",
-      "company": "ZURU",
-      "place": "Los Angeles, United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$120.0K-$140.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/zuru/5967a2d6-62fc-4822-ab69-58a64447a77b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/zuru-ashby/industrial-designer-zuru-06fe1f?utm_source=reddit",
-      "postedAt": "2026-10-23T17:02:54.952Z",
-      "notable": 5
-    },
-    {
-      "id": "33c50188-d327-4e9a-bb36-4a1869929a42",
-      "title": "Platform Engineer (Kubernetes)",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$180.0K-$210.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/e91ec243-acb4-4b95-84c7-5e65ddbed2b2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/platform-engineer-kubernetes-clera-3d7a4e?utm_source=reddit",
-      "postedAt": "2026-10-23T17:02:27.118Z",
       "notable": 6
     }
   ],
