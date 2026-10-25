@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:51:46.135Z",
+  "generatedAt": "2026-10-25T14:04:09.145Z",
   "jobs": [
     {
       "id": "cc7c2dd0-fee7-4bda-8a14-556a40e34595",
@@ -551,6 +551,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/parsonsorwd5orsearch/associate-mechanical-engineer-tamkeen-program-saudi-national-parsons-da57f2?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "11bae613-42df-4467-9bbd-73fca3851bd4",
+      "title": "Content Creator / Customer Support",
+      "company": "Devsinc",
+      "place": "Lahore, Pakistan",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/756A759BCF",
+      "firstJobbyUrl": "https://firstjobby.com/companies/devsinc-17/content-creator-customer-support-devsinc-bb99b8?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "0fbe36b9-fab1-426a-a187-eb2dde8b0caa",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/structural-engineer-ii-remote-aecom-4c04e8?utm_source=reddit",
       "postedAt": "2026-10-23T16:36:44.490Z",
       "notable": 4
-    },
-    {
-      "id": "0d72dd88-9822-456f-b1a0-4d241be72b20",
-      "title": "Software Engineer – Cloud Services – Rust",
-      "company": "Tensordyne",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/tensordyne/jobs/8911761002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tensordyne/software-engineer-cloud-services-rust-tensordyne-ab7a49?utm_source=reddit",
-      "postedAt": "2026-10-23T16:36:42.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
