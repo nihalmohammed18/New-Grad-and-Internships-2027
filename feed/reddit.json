@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-25T23:32:47.436Z",
+  "generatedAt": "2026-10-25T23:39:01.611Z",
   "jobs": [
+    {
+      "id": "f3f4671d-9852-4a1e-a73e-a06bb256f198",
+      "title": "Logistics Sourcing Coordinator",
+      "company": "Dow",
+      "place": "Navi Mumbai, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Logistics-Sourcing-Coordinator_R2068433",
+      "firstJobbyUrl": "https://firstjobby.com/companies/doworwd1orexternalcareers/logistics-sourcing-coordinator-dow-373c2a?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
       "title": "Technical Consultant – Migration Engineer (Entra Apps Tenant Migration)",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/1a7c84e6-26af-45ed-bb41-bddac1dfd83c",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-d88c8f?utm_source=reddit",
       "postedAt": "2026-10-23T17:11:47.629Z",
-      "notable": 5
-    },
-    {
-      "id": "a8bb58e8-a72c-48cd-8f58-9343843592cf",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/a8a3552f-0db1-4d72-9113-098d48792362",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-1285db?utm_source=reddit",
-      "postedAt": "2026-10-23T17:11:27.505Z",
       "notable": 5
     }
   ],
