@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:33:24.982Z",
+  "generatedAt": "2026-10-25T20:37:34.866Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "9fba2fa0-d9e9-4b81-8301-f8491089b6cb",
+      "title": "Sports Data Collector (Volleyball) - Friedrichshafen, Germany",
+      "company": "Genius Sports Statistician Network",
+      "place": "Friedrichshafen, Germany",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€80/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/geniussportssn/jobs/8043920003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/geniussportssn/sports-data-collector-volleyball-friedrichshafen-germany-genius-sports-statistic-1b2591?utm_source=reddit",
+      "postedAt": "2026-10-25T18:04:45.000Z",
+      "notable": 5
     },
     {
       "id": "f7ee2e3d-e65b-4107-a372-d63585a227ae",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/customer-success-executive-patientpoint-9bacc6?utm_source=reddit",
       "postedAt": "2026-10-23T17:05:03.000Z",
       "notable": 3
-    },
-    {
-      "id": "7b7a0f28-78f5-4379-ad73-087f6b05d1bf",
-      "title": "Founding Product Designer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$150.0K-$250.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/c4862ea6-b0a3-4e6a-8e74-5380ba724593",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-product-designer-clera-e8cecc?utm_source=reddit",
-      "postedAt": "2026-10-23T17:04:59.435Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
