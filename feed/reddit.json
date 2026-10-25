@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:02:35.599Z",
+  "generatedAt": "2026-10-25T01:49:19.265Z",
   "jobs": [
     {
       "id": "795ca7dd-d772-414d-a56f-264b6fcc1750",
@@ -1826,25 +1826,6 @@
       "notable": 2
     },
     {
-      "id": "b5ba196c-f416-4b1b-9c20-9dcaa0bc7162",
-      "title": "Associate IT Analyst",
-      "company": "Nextpower",
-      "place": "Hyderabad, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Associate-IT-Analyst_NX-4926",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nextrackerorwd5ornextpowercareers/associate-it-analyst-nextpower-7a88a3?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "b54d0491-eb53-48c2-8c60-881c21e3aaf4",
       "title": "ENGINEER - QEM CHEMLAB",
       "company": "Micron Technology",
@@ -2390,7 +2371,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/RTL-Design-Engineer--DFT_JR2028303",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Israel-Yokneam/RTL-Design-Engineer--DFT_JR2028303",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/rtl-design-engineer-dft-nvidia-b53ac6?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
@@ -9499,6 +9480,25 @@
       "applyUrl": "https://jobs.lever.co/jobgether/0b4703a6-9c6e-4fe0-a8b7-5721c58b7faa",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-2b44c5?utm_source=reddit",
       "postedAt": "2026-10-23T16:13:14.389Z",
+      "notable": 3
+    },
+    {
+      "id": "020444ba-9eb9-4bad-904d-e2d770fc8f8c",
+      "title": "Middle Marketing Data Analyst",
+      "company": "Jobgether",
+      "place": "Remote",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/jobgether/28d61436-e10e-409e-849a-43b8adda8b57",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/middle-marketing-data-analyst-jobgether-e8aa88?utm_source=reddit",
+      "postedAt": "2026-10-23T16:12:54.626Z",
       "notable": 3
     }
   ],
