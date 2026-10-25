@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:43:21.105Z",
+  "generatedAt": "2026-10-25T19:56:07.052Z",
   "jobs": [
     {
       "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
@@ -477,6 +477,25 @@
       "notable": 4
     },
     {
+      "id": "d5a5a774-56f8-41eb-9547-0c515592cd43",
+      "title": "Account Solution Engineer, Philippines - SMB Market",
+      "company": "Salesforce",
+      "place": "Metro Manila, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Account-Solution-Engineer--Philippines---SMB-Market_JR365142",
+      "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/account-solution-engineer-philippines-smb-market-salesforce-62acc7?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "d599c567-b6b0-481e-8258-bf856fc74dd8",
       "title": "Business Analyst – (Client Engagement Services)",
       "company": "Gartner",
@@ -492,6 +511,25 @@
       "season": null,
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Gurgaon/Business-Analyst----Client-Engagement-Services--_114893",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/business-analyst-client-engagement-services-gartner-4ac977?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c67a2e39-e350-4494-860a-0f31e8a52f79",
+      "title": "Supply Chain Demand Support Intern",
+      "company": "Philips",
+      "place": "Madrid, Spain",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Supply-Chain-Demand-Support-Intern_593489-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/supply-chain-demand-support-intern-philips-15c6ea?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/platform-engineer-kubernetes-clera-3d7a4e?utm_source=reddit",
       "postedAt": "2026-10-23T17:02:27.118Z",
       "notable": 6
-    },
-    {
-      "id": "5fd098af-820b-49ea-a3e3-bdf22c903228",
-      "title": "Manufacturing Engineer Technician",
-      "company": "Oldcastle BuildingEnvelope",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4465380009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/oldcastlebuildingenvelope/manufacturing-engineer-technician-oldcastle-buildingenvelope-2e2450?utm_source=reddit",
-      "postedAt": "2026-10-23T17:01:56.000Z",
-      "notable": 3
-    },
-    {
-      "id": "32ac931e-7d9b-47e3-ab2f-847a12e566fb",
-      "title": "Client Success Intern",
-      "company": "PatientPoint",
-      "place": "Cincinnati, United States",
-      "category": "Customer Support",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$23/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/patientpoint/jobs/4747074005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/patientpoint/client-success-intern-patientpoint-b5113c?utm_source=reddit",
-      "postedAt": "2026-10-23T17:01:27.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
