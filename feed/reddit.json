@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-25T17:06:48.684Z",
+  "generatedAt": "2026-10-25T17:28:06.965Z",
   "jobs": [
+    {
+      "id": "ca8f4391-7406-4153-85d6-ff5d0109826d",
+      "title": "Engineer, Equipment Development - PCVD",
+      "company": "Micron Technology",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--Equipment-Development---PCVD_JR113533",
+      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-equipment-development-pcvd-micron-technology-bb230d?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "4dd79d6b-c101-4379-8378-7fbf2803d102",
       "title": "Process Support Scientist, Microbiology",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/elastic/sales-development-representative-new-york-elastic-cfccd4?utm_source=reddit",
       "postedAt": "2026-10-23T16:56:42.000Z",
       "notable": 5
-    },
-    {
-      "id": "93e03ff4-b8fd-4f33-bd17-47844a6ca551",
-      "title": "Machine Learning Engineer - Subscriptions",
-      "company": "Spotify",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spotify/machine-learning-engineer-subscriptions-spotify-29e9bc?utm_source=reddit",
-      "postedAt": "2026-10-23T16:53:57.686Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
