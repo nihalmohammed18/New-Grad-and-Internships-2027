@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:00:33.253Z",
+  "generatedAt": "2026-10-25T23:19:57.689Z",
   "jobs": [
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -114,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hudl/revenue-enablement-associate-i-hudl-13307c?utm_source=reddit",
       "postedAt": "2026-10-25T19:11:42.000Z",
       "notable": 4
+    },
+    {
+      "id": "a6585356-2984-4ee9-aa11-67e5ffd4cffc",
+      "title": "Business Development Representative (BDR)- AI Native",
+      "company": "Nebius",
+      "place": "San Francisco, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$95.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://careers.nebius.com/?gh_jid=5004452101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nebius/business-development-representative-bdr-ai-native-nebius-2b0aaf?utm_source=reddit",
+      "postedAt": "2026-10-25T19:02:56.000Z",
+      "notable": 5
     },
     {
       "id": "9fba2fa0-d9e9-4b81-8301-f8491089b6cb",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/27cb01db-6db9-4f71-af40-f9b86404dfe0",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-1e9656?utm_source=reddit",
       "postedAt": "2026-10-23T17:10:40.136Z",
-      "notable": 5
-    },
-    {
-      "id": "c62da2ce-cc14-4e97-922d-4305f0223cd8",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/7026021e-c7a5-4d99-8920-7bced8e2054a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-e1efe2?utm_source=reddit",
-      "postedAt": "2026-10-23T17:10:21.981Z",
       "notable": 5
     }
   ],
