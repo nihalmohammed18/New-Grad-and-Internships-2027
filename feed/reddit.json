@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:42:59.313Z",
+  "generatedAt": "2026-10-25T22:01:47.385Z",
   "jobs": [
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "47a6d382-1ace-4f23-bd33-7ec1428c699a",
+      "title": "Revenue Enablement Associate I",
+      "company": "Hudl",
+      "place": "Lincoln, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$51.0K-$85.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/hudl/jobs/8274051",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hudl/revenue-enablement-associate-i-hudl-13307c?utm_source=reddit",
+      "postedAt": "2026-10-25T19:11:42.000Z",
+      "notable": 4
     },
     {
       "id": "9fba2fa0-d9e9-4b81-8301-f8491089b6cb",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/auw/ai-engineer-infrustructure-auw-95a697?utm_source=reddit",
       "postedAt": "2026-10-23T17:06:23.921Z",
       "notable": 3
-    },
-    {
-      "id": "e0abdd1f-d890-44cc-9588-0fb9b82ccb31",
-      "title": "Software Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$150.0K-$300.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/915a1724-19a1-41d4-9134-b8fca6be8e78",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/software-engineer-clera-aecc6f?utm_source=reddit",
-      "postedAt": "2026-10-23T17:05:48.677Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
