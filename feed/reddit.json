@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T07:22:20.202Z",
+  "generatedAt": "2026-10-25T07:33:50.777Z",
   "jobs": [
     {
       "id": "5684b6a4-0887-44bf-be08-7394bc7631a6",
@@ -133,6 +133,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/system-test-engineer-in-architecture-and-network-solutions-telematics-or-aumovio-6663fd?utm_source=reddit",
       "postedAt": "2026-10-25T00:49:37.502Z",
       "notable": 3
+    },
+    {
+      "id": "e9a7d43c-fcd6-4813-ba05-aa72690ec189",
+      "title": "Associate, Bonds Data",
+      "company": "Kensho",
+      "place": "New York, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Associate--Bonds-Data_332412-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/associate-bonds-data-kensho-c089b0?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "e8f41056-4da0-46aa-9356-b2030227ed96",
+      "title": "Marketing Specialist- Enterprise Solution",
+      "company": "Kensho",
+      "place": "New York, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$59.2K-$92.5K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Marketing-Specialist--Enterprise-Solution_332335-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/marketing-specialist-enterprise-solution-kensho-1519de?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "d599c567-b6b0-481e-8258-bf856fc74dd8",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/huaweicanada/researcher-ai-agents-and-knowledge-graphs-huawei-technologies-canada-co-ltd-526521?utm_source=reddit",
       "postedAt": "2026-10-23T16:16:22.000Z",
       "notable": 4
-    },
-    {
-      "id": "3b5ee214-3d52-4448-a848-13f6054ef8fa",
-      "title": "Business Developer (Digital Marketing)",
-      "company": "Jobgether",
-      "place": "Remote from France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/5672c2c7-3b9b-4761-91f4-df1a786d4597",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/business-developer-digital-marketing-jobgether-0f1fc4?utm_source=reddit",
-      "postedAt": "2026-10-23T16:16:18.699Z",
-      "notable": 3
-    },
-    {
-      "id": "6c77f9a0-5125-484b-ab14-8aa712ddfdb3",
-      "title": "Academic Internship in Industrial Engineering and Management (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Braga, Portugal",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000157525049",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/academic-internship-in-industrial-engineering-and-management-fmdiv-bosch-group-f66774?utm_source=reddit",
-      "postedAt": "2026-10-23T16:16:11.673Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
