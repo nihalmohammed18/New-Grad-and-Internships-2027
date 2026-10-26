@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:39:36.460Z",
+  "generatedAt": "2026-10-26T02:47:53.043Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -94,6 +94,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000157695693-data-operations-analyst-thai-speaker-open-to-intermediate-level-candidates",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-operations-analyst-thai-speaker-or-open-to-intermediate-level-candidates-ni-e0b160?utm_source=reddit",
       "postedAt": "2026-10-26T01:22:50.712Z",
+      "notable": 3
+    },
+    {
+      "id": "4eef78a2-ffce-4bb5-a857-23ae5cd36da0",
+      "title": "Junior Full Stack Engineer - Hybrid",
+      "company": "Sitemate",
+      "place": "Sydney, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$85.0K-A$115.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sitemate/junior-full-stack-engineer-hybrid-sitemate-2eed7a?utm_source=reddit",
+      "postedAt": "2026-10-26T01:03:34.415Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atlassand/it-service-desk-atlas-energy-solutions-6aa55a?utm_source=reddit",
       "postedAt": "2026-10-23T17:31:12.000Z",
       "notable": 1
-    },
-    {
-      "id": "d8d89037-0ccd-41d4-9e98-abc4a99b3f9c",
-      "title": "Social Media Specialist, X",
-      "company": "Nebius",
-      "place": "Remote from United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$121.1K-$151.3K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.nebius.com/?gh_jid=5012682101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nebius/social-media-specialist-x-nebius-5eac09?utm_source=reddit",
-      "postedAt": "2026-10-23T17:28:34.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
