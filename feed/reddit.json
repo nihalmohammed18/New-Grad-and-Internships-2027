@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:26:54.258Z",
+  "generatedAt": "2026-10-26T03:38:06.539Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -281,7 +281,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Technical-Consultant---Migration-Engineer--Entra-Apps-Tenant-Migration-_R-66951",
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Bangalore-Karnataka-India/Technical-Consultant---Migration-Engineer--Entra-Apps-Tenant-Migration-_R-66951",
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/technical-consultant-migration-engineer-entra-apps-tenant-migration-kyndryl-a57758?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
@@ -530,6 +530,25 @@
       "season": null,
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/asic-engineer-networking-chip-design-new-college-grad-2027-nvidia-0747fb?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "11a1493e-d4fa-4204-a1fc-b5664fd141e8",
+      "title": "Sales Executive, Capital Markets",
+      "company": "JLL",
+      "place": "Canberra, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Sales-Executive--Capital-Markets_REQ508172-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/sales-executive-capital-markets-jll-c8f4ea?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/canonical/jobs/8318647",
       "firstJobbyUrl": "https://firstjobby.com/companies/canonical/linux-desktop-support-engineer-london-uk-office-canonical-43a0b2?utm_source=reddit",
       "postedAt": "2026-10-23T17:31:22.000Z",
-      "notable": 3
-    },
-    {
-      "id": "12f58793-3ddf-4aba-905f-5f4ffa95252a",
-      "title": "Marketing Coordinator",
-      "company": "Crest Operations",
-      "place": "Pineville, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/crestoperations/20a8603a-6b5d-40c7-a1be-c0fd9228b604",
-      "firstJobbyUrl": "https://firstjobby.com/companies/crestoperations/marketing-coordinator-crest-operations-e80241?utm_source=reddit",
-      "postedAt": "2026-10-23T17:31:20.138Z",
       "notable": 3
     }
   ],
