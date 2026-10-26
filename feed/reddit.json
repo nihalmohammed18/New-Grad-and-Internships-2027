@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:12:09.725Z",
+  "generatedAt": "2026-10-26T13:16:38.094Z",
   "jobs": [
     {
       "id": "43072298-617c-4168-af84-3b6b4f444aa4",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/order-operations-specialist-lucid-motors-6c7c18?utm_source=reddit",
       "postedAt": "2026-10-26T12:03:37.000Z",
       "notable": 3
+    },
+    {
+      "id": "e9d79117-7112-4ca6-bc19-6e6a0214a495",
+      "title": "KYC - Analyst",
+      "company": "Delta Capita",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://careersdeltacapita.recruitee.com/o/kyc-analyst-2030",
+      "firstJobbyUrl": "https://firstjobby.com/companies/careersdeltacapita/kyc-analyst-delta-capita-6ce3ea?utm_source=reddit",
+      "postedAt": "2026-10-26T11:35:25.000Z",
+      "notable": 2
     },
     {
       "id": "69f9f2f8-7f6b-4224-953d-d2ff00ebc4bd",
@@ -342,6 +361,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/xai/ai-tutor-amharic-spacexsi-bbe016?utm_source=reddit",
       "postedAt": "2026-10-26T09:45:55.000Z",
       "notable": 6
+    },
+    {
+      "id": "13f3d5f6-1086-4385-9551-7f94d39c871e",
+      "title": "Business Improvement Specialist - Contract Logistics",
+      "company": "GEODIS Benelux",
+      "place": "Venlo, Netherlands",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€3.7K-€5.5K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://geodis.recruitee.com/o/business-improvement-specialist-contract-logistics",
+      "firstJobbyUrl": "https://firstjobby.com/companies/geodis/business-improvement-specialist-contract-logistics-geodis-benelux-48ed77?utm_source=reddit",
+      "postedAt": "2026-10-26T09:44:37.000Z",
+      "notable": 2
     },
     {
       "id": "09790245-8a14-47ca-93c8-72a050164561",
@@ -7659,6 +7697,25 @@
       "notable": 2
     },
     {
+      "id": "05c16f1f-93f0-42ab-ae5b-d14bde93f537",
+      "title": "New Product Implementation Engineer",
+      "company": "Aerones",
+      "place": "Rīga, Latvia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€2.3K-€3.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/E23D0619BB",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aerones/new-product-implementation-engineer-aerones-a2ed78?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "04dbae00-6944-4900-965f-4ce0044861fe",
       "title": "Power Plant - Operating Engineer I",
       "company": "MSD",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/mobile-mortgage-specialist-japanese-language-skills-an-asset-td-bank-134177?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "6122a407-82f0-4de5-befd-33077b4a09c1",
-      "title": "Substation Automation and Protection FS Engineer",
-      "company": "GE Vernova",
-      "place": "Cairo, Egypt",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Cairo/Substation-Automation-and-Protection-FS-Engineer_R5056730-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/substation-automation-and-protection-fs-engineer-ge-vernova-c1e478?utm_source=reddit",
-      "postedAt": "2026-10-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "5ee9f658-8db9-4d99-8f40-584fbc687552",
-      "title": "Firmware Engineer",
-      "company": "NVIDIA",
-      "place": "Beer-Sheva, Israel",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/firmware-engineer-nvidia-0e4d52?utm_source=reddit",
-      "postedAt": "2026-10-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "5bdbe4c3-300c-4efb-8d60-c46bc14ae6fd",
-      "title": "IT Helpdesk Specialist",
-      "company": "Syarah",
-      "place": "Riyadh, Saudi Arabia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/BEF3074426",
-      "firstJobbyUrl": "https://firstjobby.com/companies/syarah/it-helpdesk-specialist-syarah-dabd62?utm_source=reddit",
-      "postedAt": "2026-10-25T00:00:00.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
