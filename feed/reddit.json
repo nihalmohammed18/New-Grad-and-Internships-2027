@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:20:29.407Z",
+  "generatedAt": "2026-10-26T11:24:54.590Z",
   "jobs": [
     {
       "id": "18952bcc-2049-432c-8e3b-f36fb5ae95d2",
@@ -722,6 +722,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/crypto/manda-analyst-cryptocom-ff2b4b?utm_source=reddit",
       "postedAt": "2026-10-26T08:04:16.510Z",
       "notable": 3
+    },
+    {
+      "id": "cc8253d5-77bf-42b4-92b5-95f33bae89c0",
+      "title": "Online Marketing Specialist — Nordics",
+      "company": "Funded.club",
+      "place": "Remote from Sweden, Norway, Denmark",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://funded.club/jobs.html?gh_jid=8044131003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fundedclub/online-marketing-specialist-nordics-fundedclub-652803?utm_source=reddit",
+      "postedAt": "2026-10-26T08:02:28.000Z",
+      "notable": 1
     },
     {
       "id": "ddda20f0-2f52-4e15-af4c-823cb7026f56",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/nand-reliability-product-engineer-micron-technology-9e4d61?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "bc82384a-6056-4daa-ab1e-76bfb562f66b",
-      "title": "Customer Engineer",
-      "company": "Applied Materials",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Customer-Engineer_R2630303",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-engineer-applied-materials-7f2294?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
