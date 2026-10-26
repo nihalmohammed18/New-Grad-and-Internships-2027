@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:51:42.357Z",
+  "generatedAt": "2026-10-26T01:59:16.234Z",
   "jobs": [
     {
       "id": "418afb92-9064-42ee-982a-e4133edfb0f0",
@@ -266,6 +266,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/borgwarnerorwd5orborgwarnercareers/mechanical-integration-engineer-borgwarner-d3f30b?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "7f385fee-ac4a-4553-81c0-b2e3c011f91f",
+      "title": "Consulting Sales - High-end Business Development Office,Travel & Mobility Business(C&M)",
+      "company": "Rakuten",
+      "place": "Tokyo, Japan",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Consulting-Sales---Leader-Manager-Candidate---High-end-Business-Development-Office-Travel---Mobility-Business_1034514",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rakutenorwd1orrakuteninc/consulting-sales-high-end-business-development-officetravel-and-mobility-busines-4cf759?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "75572d10-17f1-4bb5-bd85-0cce4aa83880",
@@ -1440,7 +1459,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Account-Solution-Engineer--Philippines---SMB-Market_JR365142",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Philippines---Metro-Manila/Account-Solution-Engineer--Philippines---SMB-Market_JR365142",
       "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/account-solution-engineer-philippines-smb-market-salesforce-62acc7?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/jerry.ai/9ab9a075-ef2a-4cb2-b94b-d00fb91f2b9c",
       "firstJobbyUrl": "https://firstjobby.com/companies/jerryai/data-scientist-jerryai-0f785a?utm_source=reddit",
       "postedAt": "2026-10-23T17:22:43.828Z",
-      "notable": 5
-    },
-    {
-      "id": "712a10b7-dd12-4e14-adfd-9560adbe4271",
-      "title": "Automotive Operations Specialist",
-      "company": "MSX International",
-      "place": "Portland, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$74.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MSXInternational/3743990016379636",
-      "firstJobbyUrl": "https://firstjobby.com/companies/msxinternational/automotive-operations-specialist-msx-international-2ac412?utm_source=reddit",
-      "postedAt": "2026-10-23T17:21:23.407Z",
       "notable": 5
     }
   ],
