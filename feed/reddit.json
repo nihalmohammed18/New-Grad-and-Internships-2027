@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:54:09.357Z",
+  "generatedAt": "2026-10-26T07:10:31.298Z",
   "jobs": [
     {
       "id": "f50d6342-6a12-4ad7-836a-5baef7d14f8e",
@@ -1161,6 +1161,25 @@
       "notable": 4
     },
     {
+      "id": "571b240b-b460-482c-b00e-67d4e4fd1db6",
+      "title": "Process Quality Engineer_Electronic",
+      "company": "ABB",
+      "place": "Xiamen, China",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Xiamen-Fujian-China/Process-Quality-Engineer-Electronic_JR00050861",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/process-quality-engineerelectronic-abb-24ac8d?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "548a9810-27c2-4b6a-b819-598eb487d26c",
       "title": "Economic Empowerment Coordinator",
       "company": "International Rescue Committee",
@@ -1178,6 +1197,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/theircorwd1orexternalcareers/economic-empowerment-coordinator-international-rescue-committee-866f29?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4d9949cd-8bc2-4625-8e91-f746347d5b05",
+      "title": "Product Marketing Specialist",
+      "company": "ABB",
+      "place": "Shanghai, China",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Shanghai-Shanghai-China/Product-Marketing-Specialist_JR00050190-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/product-marketing-specialist-abb-48a449?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "4d312bf1-8590-4f46-97d6-a43b183a10ef",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/design-engineering-intern-networking-event-with-aecom-raleigh-nc-aecom-ea0120?utm_source=reddit",
       "postedAt": "2026-10-23T19:27:12.081Z",
       "notable": 3
-    },
-    {
-      "id": "ddf7185a-a469-4305-b6f0-d7b3e67539a7",
-      "title": "Graphic Designer, Paid Creative",
-      "company": "ALO",
-      "place": "Beverly Hills, United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$75.0K-$85.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/aloyoga/jobs/6222710004?gh_jid=6222710004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aloyoga/graphic-designer-paid-creative-alo-6c8ddd?utm_source=reddit",
-      "postedAt": "2026-10-23T19:27:06.000Z",
-      "notable": 2
-    },
-    {
-      "id": "206e3c94-eafd-4cf4-810c-7881bf3fe916",
-      "title": "RevOps Coordinator | Coordonnateur(trice) des opérations de revenus",
-      "company": "Alveole",
-      "place": "Montreal, Canada",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$75.0K-CA$85.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/alveole/jobs/4430952009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/alveole/revops-coordinator-or-coordonnateurtrice-des-operations-de-revenus-alveole-bb5181?utm_source=reddit",
-      "postedAt": "2026-10-23T19:27:03.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
