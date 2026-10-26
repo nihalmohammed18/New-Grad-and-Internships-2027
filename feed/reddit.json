@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:28:00.177Z",
+  "generatedAt": "2026-10-26T09:32:49.254Z",
   "jobs": [
     {
       "id": "a088d818-0584-4704-83f7-ac848dab403c",
@@ -1826,6 +1826,25 @@
       "notable": 2
     },
     {
+      "id": "9f6f096b-adb0-4314-8145-d5f91066eb77",
+      "title": "Telespazio – Junior Spacecraft Operations Engineer",
+      "company": "Leonardo",
+      "place": "Italy",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Fucino/Telespazio---Junior-Spacecraft-Operations-Engineer_R0034540",
+      "firstJobbyUrl": "https://firstjobby.com/companies/leonardocompanyorwd3orleonardocareersite/telespazio-junior-spacecraft-operations-engineer-leonardo-5c0d93?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "9f1e158d-9ec3-45d7-9fc8-9e3db2940f17",
       "title": "Mechanical Integration Engineer",
       "company": "BorgWarner",
@@ -2622,6 +2641,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/iqviaorwd1oriqvia/client-data-acquisition-representative-iqvia-4821a6?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "5a88430a-e3dd-4880-902d-c2147755cbc6",
+      "title": "Field Sales Representative, Andalucía East (off-site)",
+      "company": "LEGO",
+      "place": "Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Malaga/Field-Sales-Representative--Andaluca-East--off-site-_0000039409",
+      "firstJobbyUrl": "https://firstjobby.com/companies/legoorwd103orlegoexternal/field-sales-representative-andalucia-east-off-site-lego-0925a6?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "5a196b28-40b1-42bf-b807-9ed1aa5071f2",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/mainstay/vendor-operations-specialist-mainstay-labs-inc-4c3c80?utm_source=reddit",
       "postedAt": "2026-10-23T21:22:47.050Z",
       "notable": 1
-    },
-    {
-      "id": "d041a41e-8501-4de9-a8c7-c0f2d182ab19",
-      "title": "Public Sector Delivery Analyst",
-      "company": "Cohere",
-      "place": "Ottawa, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$115.0K-CA$155.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cohere-ashby/public-sector-delivery-analyst-cohere-e2344d?utm_source=reddit",
-      "postedAt": "2026-10-23T21:19:34.820Z",
-      "notable": 3
-    },
-    {
-      "id": "593e9bde-a68c-4989-8d35-1b82a53dfa3b",
-      "title": "Embedded Software Engineer Intern - Winter 2027",
-      "company": "Skydio",
-      "place": "San Mateo, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$47-$58/hr",
-      "minYears": null,
-      "season": "Winter 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366",
-      "firstJobbyUrl": "https://firstjobby.com/companies/skydio-ashby/embedded-software-engineer-intern-winter-2027-skydio-b87833?utm_source=reddit",
-      "postedAt": "2026-10-23T21:18:39.017Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
