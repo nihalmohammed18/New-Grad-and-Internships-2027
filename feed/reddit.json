@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:49:39.609Z",
+  "generatedAt": "2026-10-26T10:53:36.116Z",
   "jobs": [
     {
       "id": "18952bcc-2049-432c-8e3b-f36fb5ae95d2",
@@ -5151,6 +5151,25 @@
       "notable": 3
     },
     {
+      "id": "0121eccf-86a1-4ed7-b007-358bf43871ed",
+      "title": "Future Sales Opportunities - Saudi Arabia",
+      "company": "Imdad",
+      "place": "Madinah, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/D4FD1A5F3C",
+      "firstJobbyUrl": "https://firstjobby.com/companies/careers-imdad/future-sales-opportunities-saudi-arabia-imdad-65cc74?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 1
+    },
+    {
       "id": "00b36e84-707f-4670-a5cd-dbb5b299a5a8",
       "title": "DE034032-Mandarin Procure to Pay Ops Analyst",
       "company": "Accenture",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pfizerorwd1orpfizercareers/associate-scientist-cid-pfizer-4fcb02?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 5
-    },
-    {
-      "id": "7398f432-979a-4a1c-8bf3-946134acb52e",
-      "title": "Mechanical Engineer",
-      "company": "Qode",
-      "place": "Hanoi, Vietnam",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/17B5256857",
-      "firstJobbyUrl": "https://firstjobby.com/companies/qodeworld/mechanical-engineer-qode-fc6792?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
