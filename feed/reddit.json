@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:43:38.622Z",
+  "generatedAt": "2026-10-26T03:49:07.288Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -416,6 +416,25 @@
       "season": null,
       "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Penang-Jalan-MYS/Associate-Analyst--Clean-Technologies-and-Supply-Chains_332137-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/associate-analyst-clean-technologies-and-supply-chains-kensho-b413b6?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6f43b54a-bf33-458b-b3ec-b9e8a8bdcfb1",
+      "title": "Investment Data Analyst",
+      "company": "Mmc",
+      "place": "Melbourne, Australia",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Melbourne---727-Collins/Investment-Data-Analyst_R_370393",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mmcorwd1ormmc/investment-data-analyst-mmc-53fbcc?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/pfm/jobs/6233534004",
       "firstJobbyUrl": "https://firstjobby.com/companies/pfm/associate-scientist-flow-cytometry-precision-for-medicine-e1680c?utm_source=reddit",
       "postedAt": "2026-10-23T17:34:49.000Z",
-      "notable": 6
-    },
-    {
-      "id": "b2694cb7-8fad-4699-92fe-318da4414c2b",
-      "title": "Associate Scientist, Flow Cytometry",
-      "company": "Precision Medicine Group",
-      "place": "Frederick, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$83.2K-$124.8K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6233524004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/precisionmedicinegroup/associate-scientist-flow-cytometry-precision-medicine-group-28090d?utm_source=reddit",
-      "postedAt": "2026-10-23T17:34:48.000Z",
       "notable": 6
     }
   ],
