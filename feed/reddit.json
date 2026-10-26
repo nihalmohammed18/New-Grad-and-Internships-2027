@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:49:07.288Z",
+  "generatedAt": "2026-10-26T04:28:39.321Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -268,6 +268,25 @@
       "notable": 2
     },
     {
+      "id": "e0161d4c-6b41-44ae-9189-9522d8a41d27",
+      "title": "Localization Coordinator-Game Audio Localization",
+      "company": "Side",
+      "place": "Shinjuku City, Japan",
+      "category": "Operations",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/3FD2FBA80A",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sideinc-workable/localization-coordinator-game-audio-localization-side-1f7fea?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
       "title": "Technical Consultant – Migration Engineer (Entra Apps Tenant Migration)",
       "company": "Kyndryl",
@@ -323,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-equipment-development-pcvd-micron-technology-bb230d?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "b23bf7ac-7f2b-4be6-922f-9eb126720222",
+      "title": "Digital Marketing Specialist (004 - 1417)",
+      "company": "Hunt St",
+      "place": "Remote from Philippines",
+      "category": "Marketing",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$2.5K/mo",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/F461A96739",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hunt-st/digital-marketing-specialist-004-1417-hunt-st-06dc9a?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "9f70c12f-af12-4930-9643-b272f47a140c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cogentanalytics/sales-representative-roofing-cogent-analytics-940212?utm_source=reddit",
       "postedAt": "2026-10-23T17:39:13.682Z",
       "notable": 3
-    },
-    {
-      "id": "4466f4e9-872d-4985-8868-821102c10266",
-      "title": "CMA Transitional Care Coordinator (Prince Georges County, MD)",
-      "company": "Ennoble Care",
-      "place": "Silver Spring, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$18-$19/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/ennoblecare/jobs/4724408006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ennoblecare/cma-transitional-care-coordinator-prince-georges-county-md-ennoble-care-b6209b?utm_source=reddit",
-      "postedAt": "2026-10-23T17:35:00.000Z",
-      "notable": 6
-    },
-    {
-      "id": "b04fe652-f7e9-4d4e-88ae-31c9b2134f61",
-      "title": "Associate Scientist, Flow Cytometry",
-      "company": "Precision for Medicine",
-      "place": "Frederick, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$83.2K-$124.8K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/pfm/jobs/6233534004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pfm/associate-scientist-flow-cytometry-precision-for-medicine-e1680c?utm_source=reddit",
-      "postedAt": "2026-10-23T17:34:49.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
