@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:47:39.102Z",
+  "generatedAt": "2026-10-26T11:55:36.012Z",
   "jobs": [
     {
       "id": "4badf917-3b5e-4895-b975-857dd913fd34",
@@ -684,6 +684,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bursonglobalcareers/consultant-corporate-pr-and-public-affairs-burson-1672ea?utm_source=reddit",
       "postedAt": "2026-10-26T08:25:57.000Z",
       "notable": 3
+    },
+    {
+      "id": "7bf47b29-0c2e-4e97-9cd6-fad1e315b01d",
+      "title": "QA Scientist - Hyderabad",
+      "company": "Schrödinger",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/schrdinger/jobs/8042547003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/schrdinger/qa-scientist-hyderabad-schrodinger-6e418c?utm_source=reddit",
+      "postedAt": "2026-10-26T08:23:53.000Z",
+      "notable": 0
     },
     {
       "id": "ec1dba5d-5088-48ae-bc15-8ae0ea4436a9",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-aptd-cem-advanced-packaging-wafer-level-technology-engineering-micron-t-c6a83c?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "f83605d2-6511-449f-a35d-7d515c87e2e1",
-      "title": "Dual Fuel Smart Meter Engineer",
-      "company": "Luxion",
-      "place": "United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£39.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://luxion.wd103.myworkdayjobs.com/LGL/job/Shildon/Dual-Fuel-Smart-Meter-Engineer_JR101417",
-      "firstJobbyUrl": "https://firstjobby.com/companies/luxionorwd103orlgl/dual-fuel-smart-meter-engineer-luxion-bf9383?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
