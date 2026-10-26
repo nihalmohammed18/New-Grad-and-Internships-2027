@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:15:21.522Z",
+  "generatedAt": "2026-10-26T00:41:55.605Z",
   "jobs": [
     {
       "id": "f3f4671d-9852-4a1e-a73e-a06bb256f198",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Logistics-Sourcing-Coordinator_R2068433",
       "firstJobbyUrl": "https://firstjobby.com/companies/doworwd1orexternalcareers/logistics-sourcing-coordinator-dow-373c2a?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "e7aa5bef-836f-49ea-b86c-cd136f58fd67",
+      "title": "Rental Sales Agent",
+      "company": "Europcar",
+      "place": "La Laguna, Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://europcar.wd103.myworkdayjobs.com/EuropcarCareerPage/job/La-Laguna-Santa-Cruz-de-Tenerife/Rental-Sales-Agent_JR115815",
+      "firstJobbyUrl": "https://firstjobby.com/companies/europcarorwd103oreuropcarcareerpage/rental-sales-agent-europcar-80255a?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -1311,6 +1330,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/frenckengrouporwd103orexternal/assistant-engineer-frencken-mechatronics-malaysia-a54be6?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3847561a-e37a-415c-9c76-67d5e50acf88",
+      "title": "Parts and Merchandise Coordinator",
+      "company": "Kubota Australia and New Zealand",
+      "place": "Australia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/2F39B2A598",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kubota/parts-and-merchandise-coordinator-kubota-australia-and-new-zealand-aefe95?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "3746dcd2-0c9c-4437-b760-64abb7611a98",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/scoutmotors/analyst-logistics-cost-management-scout-motors-57af34?utm_source=reddit",
       "postedAt": "2026-10-23T17:12:13.000Z",
       "notable": 3
-    },
-    {
-      "id": "c3f295cc-2667-4ba3-9850-47962160244d",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/973b502d-e66f-4335-a22a-3e544038e4f5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-63d5f1?utm_source=reddit",
-      "postedAt": "2026-10-23T17:12:08.864Z",
-      "notable": 5
-    },
-    {
-      "id": "ea3a9d12-2c33-4bb1-aab2-e09372192cf3",
-      "title": "Amazon External Marketing Specialist",
-      "company": "unybrands",
-      "place": "Remote from United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unybrands/jobs/6233483004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unybrands/amazon-external-marketing-specialist-unybrands-f50bbf?utm_source=reddit",
-      "postedAt": "2026-10-23T17:12:03.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
