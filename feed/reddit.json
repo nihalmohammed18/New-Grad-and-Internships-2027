@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:24:54.590Z",
+  "generatedAt": "2026-10-26T11:28:41.272Z",
   "jobs": [
     {
       "id": "18952bcc-2049-432c-8e3b-f36fb5ae95d2",
@@ -361,6 +361,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/airbnb/support-specialist-r1-airbnb-f5182c?utm_source=reddit",
       "postedAt": "2026-10-26T09:10:37.000Z",
       "notable": 1
+    },
+    {
+      "id": "03f3dabf-747a-4c25-af3a-5cb4bde5d57a",
+      "title": "CDI - UX/AI Designer - Artefact 3000 - Paris",
+      "company": "LinkedIn Job Wrapping",
+      "place": "Paris, France",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8916442002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/artefactlinkedin/cdi-uxai-designer-artefact-3000-paris-linkedin-job-wrapping-45cf13?utm_source=reddit",
+      "postedAt": "2026-10-26T09:07:57.000Z",
+      "notable": 2
     },
     {
       "id": "68e1542e-47bc-46ba-98f2-be2447fb7706",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ukiborwd3orukib/analyst-impact-ukib-6c0778?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 0
-    },
-    {
-      "id": "c6830a0c-c2ef-4857-975f-1d4c1b7e6957",
-      "title": "NAND Reliability Product Engineer",
-      "company": "Micron Technology",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/NAND-Reliability-Product-Engineer_JR96910",
-      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/nand-reliability-product-engineer-micron-technology-9e4d61?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
