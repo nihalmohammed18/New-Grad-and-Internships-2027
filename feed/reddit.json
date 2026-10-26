@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-26T06:25:26.148Z",
+  "generatedAt": "2026-10-26T06:33:28.258Z",
   "jobs": [
+    {
+      "id": "f50d6342-6a12-4ad7-836a-5baef7d14f8e",
+      "title": "Implementation & Activation Executive - SEM",
+      "company": "WPP Media",
+      "place": "Melbourne, Australia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/wppmedia/jobs/5410131008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wppmedia/implementation-and-activation-executive-sem-wpp-media-4b5997?utm_source=reddit",
+      "postedAt": "2026-10-26T06:20:24.000Z",
+      "notable": 3
+    },
     {
       "id": "1a662b22-7d47-461d-a26d-e39a1cf96a4e",
       "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/idmeuniversityrecruiting/summer-intern-2027-analytics-engineer-intern-idme-university-recruiting-1e51a4?utm_source=reddit",
       "postedAt": "2026-10-23T19:14:51.000Z",
       "notable": 1
-    },
-    {
-      "id": "dea90381-7c6e-4b7e-a043-430426e5acc5",
-      "title": "Supercompute Operations Engineering",
-      "company": "xAI",
-      "place": "Memphis, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5273689007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/xai/supercompute-operations-engineering-spacexsi-d4587e?utm_source=reddit",
-      "postedAt": "2026-10-23T19:12:25.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
