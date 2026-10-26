@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:29:49.580Z",
+  "generatedAt": "2026-10-26T01:41:15.466Z",
   "jobs": [
     {
       "id": "418afb92-9064-42ee-982a-e4133edfb0f0",
@@ -1577,6 +1577,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/flirorwd1orflircareers/customer-service-representative-teledyne-c9d884?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "7c76ca6d-9425-4d6f-a157-cceb9183cd9e",
+      "title": "Early Career Intern - Internal Sales (Global Liquidity)",
+      "company": "Invesco",
+      "place": "New York, United States",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Internal-Sales--Global-Liquidity-_R-15865",
+      "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivzearlycareers/early-career-intern-internal-sales-global-liquidity-invesco-ab646e?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "7b5e4b3c-0537-48c1-9b64-8f60528b4ec9",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/16294867-1fcc-485a-a9ed-1e1edbe46960",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-c66e3c?utm_source=reddit",
       "postedAt": "2026-10-23T17:18:49.587Z",
-      "notable": 5
-    },
-    {
-      "id": "562f247a-b425-4b92-b02a-7e43777e802b",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/e3183a89-a472-4311-ad06-47df382c5c83",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-8143e4?utm_source=reddit",
-      "postedAt": "2026-10-23T17:18:28.189Z",
       "notable": 5
     }
   ],
