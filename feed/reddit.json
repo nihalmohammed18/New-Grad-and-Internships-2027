@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:28:39.321Z",
+  "generatedAt": "2026-10-26T04:39:44.713Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -21,6 +21,25 @@
       "notable": 4
     },
     {
+      "id": "ad3a0d35-4be0-486c-828d-d2f7bde0528e",
+      "title": "Entry-Level Traction Power Engineer",
+      "company": "AECOM",
+      "place": "Philadelphia, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157714629-entry-level-traction-power-engineer",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/entry-level-traction-power-engineer-aecom-3b23da?utm_source=reddit",
+      "postedAt": "2026-10-26T02:10:59.649Z",
+      "notable": 3
+    },
+    {
       "id": "5763fe0e-37a3-443f-8859-96af41eb0f89",
       "title": "Customer Reliability Engineer",
       "company": "Cloudflare",
@@ -38,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cloudflare/customer-reliability-engineer-cloudflare-12cfb6?utm_source=reddit",
       "postedAt": "2026-10-26T02:04:41.000Z",
       "notable": 2
+    },
+    {
+      "id": "d3d7df67-df5d-42e5-a75d-9eb20ab0e161",
+      "title": "Entry-Level Civil Engineer - Remediation",
+      "company": "AECOM",
+      "place": "Conshohocken, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "us_citizen",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000157713139-entry-level-civil-engineer-remediation",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/entry-level-civil-engineer-remediation-aecom-af7185?utm_source=reddit",
+      "postedAt": "2026-10-26T01:46:44.920Z",
+      "notable": 4
     },
     {
       "id": "dc9eb250-3bf3-4a1d-b08a-4633a954d29e",
@@ -794,7 +832,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000157678909-operational-support-specialist-i",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000157678909",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/operational-support-specialist-i-eurofins-d3633e?utm_source=reddit",
       "postedAt": "2026-10-25T20:08:29.604Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/facilities-engineer-bosch-group-44a5a6?utm_source=reddit",
       "postedAt": "2026-10-23T17:40:43.975Z",
       "notable": 4
-    },
-    {
-      "id": "9227f26f-b155-4587-8982-a345bb2c3f90",
-      "title": "Customer Success Associate",
-      "company": "Figure Lending",
-      "place": "Reno, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$71.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8821166002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/figure/customer-success-associate-figure-lending-8f3b15?utm_source=reddit",
-      "postedAt": "2026-10-23T17:39:19.000Z",
-      "notable": 4
-    },
-    {
-      "id": "9d7f0eea-868b-47e8-b936-2013edc03034",
-      "title": "Sales Representative - Roofing",
-      "company": "Cogent Analytics",
-      "place": "Kansas City, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/cogentanalytics/f8639dd0-d414-4a91-afe1-4b17ee65589f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cogentanalytics/sales-representative-roofing-cogent-analytics-940212?utm_source=reddit",
-      "postedAt": "2026-10-23T17:39:13.682Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
