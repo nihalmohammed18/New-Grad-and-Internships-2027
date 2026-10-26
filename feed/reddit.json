@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-26T02:23:28.305Z",
+  "generatedAt": "2026-10-26T02:34:18.216Z",
   "jobs": [
+    {
+      "id": "dc9eb250-3bf3-4a1d-b08a-4633a954d29e",
+      "title": "Inside Partner Account Manager",
+      "company": "Everpure",
+      "place": "Sydney, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8280335",
+      "firstJobbyUrl": "https://firstjobby.com/companies/purestorage/inside-partner-account-manager-everpure-72bb15?utm_source=reddit",
+      "postedAt": "2026-10-26T01:42:53.000Z",
+      "notable": 3
+    },
     {
       "id": "418afb92-9064-42ee-982a-e4133edfb0f0",
       "title": "Sales Development Representative (Sales Force)",
@@ -8153,6 +8172,25 @@
       "notable": 5
     },
     {
+      "id": "4ea1806b-5035-49d8-a961-96813efe0a4a",
+      "title": "Application Sales Engineer",
+      "company": "Go RH",
+      "place": "Saint-Hyacinthe, Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gorh/b9069770-6e08-4048-ad7f-e078f3f32946",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gorh/application-sales-engineer-go-rh-6b94ee?utm_source=reddit",
+      "postedAt": "2026-10-23T19:16:42.475Z",
+      "notable": 1
+    },
+    {
       "id": "f37b5350-569c-48e9-bc7a-efd28cfdc684",
       "title": "Business Development Representative",
       "company": "Float",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/canonical/linux-desktop-support-associate-london-uk-office-canonical-a69642?utm_source=reddit",
       "postedAt": "2026-10-23T17:26:34.000Z",
       "notable": 3
-    },
-    {
-      "id": "f65c7a26-1b11-411d-b0f0-d75269ae6c2f",
-      "title": "Mid-Level AI Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$150.0K-$180.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/d8366414-d411-4b2d-8f6d-fe37b37bbddc",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-ai-engineer-clera-63c470?utm_source=reddit",
-      "postedAt": "2026-10-23T17:24:34.725Z",
-      "notable": 6
-    },
-    {
-      "id": "5e316492-2f69-4449-87ee-3fce17306e67",
-      "title": "Associate Data Scientist",
-      "company": "Jerry.ai",
-      "place": "New York, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$110.0K-$140.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/jerry.ai/705c618f-72b7-455e-a88b-2da217141de8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jerryai/associate-data-scientist-jerryai-28f198?utm_source=reddit",
-      "postedAt": "2026-10-23T17:24:02.947Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
