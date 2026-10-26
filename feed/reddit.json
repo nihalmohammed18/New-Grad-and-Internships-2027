@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:38:06.539Z",
+  "generatedAt": "2026-10-26T03:43:38.622Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -1636,6 +1636,25 @@
       "notable": 4
     },
     {
+      "id": "dc0c8495-50ef-49ec-b59d-390e74f70b9c",
+      "title": "Associate IT Operations Engineer",
+      "company": "Johnson Controls",
+      "place": "Nisku, Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$73.0K-CA$90.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Nisku-Alberta-Canada/Associate-IT-Operations-Engineer_WD30283006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/associate-it-operations-engineer-johnson-controls-a569b1?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "d5a5a774-56f8-41eb-9547-0c515592cd43",
       "title": "Account Solution Engineer, Philippines - SMB Market",
       "company": "Salesforce",
@@ -2375,6 +2394,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ardianorwd103orardiancareers/infrastructure-intern-november-2026-or-chl-ardian-7d4985?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "03843991-12e8-491f-a99f-4d401bcfc81f",
+      "title": "Associate Project Manager",
+      "company": "Omnicom",
+      "place": "New York, United States",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$50.0K-$66.3K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://interpublic.wd5.myworkdayjobs.com/OMC/job/New-York-New-York-United-States-of-America/Project-Manager_61641-AS",
+      "firstJobbyUrl": "https://firstjobby.com/companies/interpublicorwd5oromc/associate-project-manager-omnicom-21bbb9?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "00a598af-ff93-4b04-bfb6-951f338e4a50",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/precisionmedicinegroup/associate-scientist-flow-cytometry-precision-medicine-group-28090d?utm_source=reddit",
       "postedAt": "2026-10-23T17:34:48.000Z",
       "notable": 6
-    },
-    {
-      "id": "112ea211-530b-473f-ab7d-28ab91aa526c",
-      "title": "ProFound Therapeutics: Bioinformatics Data Engineering Co-Op",
-      "company": "Flagship Pioneering Co-Op Program",
-      "place": "Watertown, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$35/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fspco-op012325/profound-therapeutics-bioinformatics-data-engineering-co-op-flagship-pioneering--f585aa?utm_source=reddit",
-      "postedAt": "2026-10-23T17:34:10.000Z",
-      "notable": 5
-    },
-    {
-      "id": "0fedbb94-f1e4-4f1e-8ebe-f73615555431",
-      "title": "Linux Desktop Support Engineer (London UK office)",
-      "company": "Canonical",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/canonical/jobs/8318647",
-      "firstJobbyUrl": "https://firstjobby.com/companies/canonical/linux-desktop-support-engineer-london-uk-office-canonical-43a0b2?utm_source=reddit",
-      "postedAt": "2026-10-23T17:31:22.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
