@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-26T11:28:41.272Z",
+  "generatedAt": "2026-10-26T11:35:05.259Z",
   "jobs": [
+    {
+      "id": "4badf917-3b5e-4895-b975-857dd913fd34",
+      "title": "B2B Sponsorship Sales Executive",
+      "company": "Pmmalliance",
+      "place": "Remote from United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£32.0K-£38.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/pmmalliance/d439db12-ad74-44b5-96e3-6707bb9a4074",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pmmalliance/b2b-sponsorship-sales-executive-pmmalliance-b48374?utm_source=reddit",
+      "postedAt": "2026-10-26T10:34:28.776Z",
+      "notable": 3
+    },
     {
       "id": "18952bcc-2049-432c-8e3b-f36fb5ae95d2",
       "title": "Stage - Ingénieur(e) Data - Aéroline - Aix-en-Provence",
@@ -57,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/stage-developpeurse-fullstack-javaangular-aeroline-toulon-sopra-steria-0bfb9c?utm_source=reddit",
       "postedAt": "2026-10-26T10:16:38.522Z",
       "notable": 3
+    },
+    {
+      "id": "ada753ad-f48b-4eba-8a74-3b08cc88a7f4",
+      "title": "General Consumers: AI-Moderated Interview on Digital Experiences",
+      "company": "Terac",
+      "place": "Remote from United Kingdom",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$15/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/terac/3a5f71d7-6cb5-4104-b6c4-e5b3ec381fbf",
+      "firstJobbyUrl": "https://firstjobby.com/companies/terac/general-consumers-ai-moderated-interview-on-digital-experiences-terac-3c63c0?utm_source=reddit",
+      "postedAt": "2026-10-26T10:05:57.060Z",
+      "notable": 5
     },
     {
       "id": "5a809c82-ccc8-49b7-ae9e-dffb4c3601df",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-millwork-day-lowes-9b8e04?utm_source=reddit",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "cc4a407c-fe66-451b-803f-03830fd92d2f",
-      "title": "Package Development Engineering – Product Integration Engineer (PDE PIE)",
-      "company": "Micron Technology",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Package-Development-Engineering---Product-Integration-Engineer--PDE-PIE-_JR98268",
-      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/package-development-engineering-product-integration-engineer-pde-pie-micron-tech-4020fb?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "c6d58b8e-bc3c-4ca0-b51f-653ffa289e0f",
-      "title": "Analyst - Impact",
-      "company": "Ukib",
-      "place": "Leeds, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://ukib.wd3.myworkdayjobs.com/UKIB/job/City-Centre-Leeds/Analyst---Impact_JR100480",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ukiborwd3orukib/analyst-impact-ukib-6c0778?utm_source=reddit",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
