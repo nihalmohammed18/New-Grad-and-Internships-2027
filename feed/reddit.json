@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:41:55.605Z",
+  "generatedAt": "2026-10-26T00:46:04.929Z",
   "jobs": [
     {
       "id": "f3f4671d-9852-4a1e-a73e-a06bb256f198",
@@ -112,6 +112,25 @@
       "season": null,
       "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Penang-Jalan-MYS/Associate-Analyst--Clean-Technologies-and-Supply-Chains_332137-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/associate-analyst-clean-technologies-and-supply-chains-kensho-b413b6?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6cecdcc6-48f3-438b-85d2-d137012eaef4",
+      "title": "Control Systems Engineer",
+      "company": "Gcaa",
+      "place": "Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://gcaa.wd3.myworkdayjobs.com/GCAA_Careers/job/Ulan-NSW-Australia/PLC-and-Automation-Engineer_JR105266",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gcaaorwd3orgcaacareers/control-systems-engineer-gcaa-e4addd?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-ae914e?utm_source=reddit",
       "postedAt": "2026-10-23T17:12:28.614Z",
       "notable": 5
-    },
-    {
-      "id": "220eb62d-a1a1-4b8f-b844-ee69020030bb",
-      "title": "Analyst, Logistics Cost Management",
-      "company": "Scout Motors",
-      "place": "Blythewood, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K-$85.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/scoutmotors/jobs/5271287007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/scoutmotors/analyst-logistics-cost-management-scout-motors-57af34?utm_source=reddit",
-      "postedAt": "2026-10-23T17:12:13.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
