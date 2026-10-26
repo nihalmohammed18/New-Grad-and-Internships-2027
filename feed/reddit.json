@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:39:01.611Z",
+  "generatedAt": "2026-10-26T00:15:21.522Z",
   "jobs": [
     {
       "id": "f3f4671d-9852-4a1e-a73e-a06bb256f198",
@@ -1085,6 +1085,25 @@
       "notable": 3
     },
     {
+      "id": "99393e6a-4763-47cf-bc47-4731ac825a94",
+      "title": "Early Career Intern - Internal Sales (Global Liquidity)",
+      "company": "Invesco",
+      "place": "New York, United States",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Early-Career-Intern---Internal-Sales--Global-Liquidity-_R-15865-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivz/early-career-intern-internal-sales-global-liquidity-invesco-7b13de?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "96195046-fe30-4473-b098-df5b11c15405",
       "title": "Customer Service Representative",
       "company": "Teledyne",
@@ -1311,6 +1330,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/harriscomputerorwd3or1/cloud-system-administrator-harris-computer-ef1d9d?utm_source=reddit",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "30ac6990-a9f7-4934-a1e0-28611ae7eab9",
+      "title": "Field Service Engineer – Gas Insulated Switchgear (GIS)",
+      "company": "Hitachi",
+      "place": "South Brunswick, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$91.0K-$113.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Brunswick-New-Jersey-United-States-of-America/Job-Posting-Title-Field-Service-Engineer---Gas-Insulated-Switchgear--GIS-_R0127656",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/field-service-engineer-gas-insulated-switchgear-gis-hitachi-ddc075?utm_source=reddit",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "2c1a61d8-5cce-4a3f-baa9-bdd71b6a0d2c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unybrands/amazon-external-marketing-specialist-unybrands-f50bbf?utm_source=reddit",
       "postedAt": "2026-10-23T17:12:03.000Z",
       "notable": 0
-    },
-    {
-      "id": "d592827b-2b77-48f4-8320-9977ea3fbb37",
-      "title": "Control Automation Engineer",
-      "company": "Veolia",
-      "place": "Port Arthur, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157533689",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/control-automation-engineer-veolia-environnement-sa-76813e?utm_source=reddit",
-      "postedAt": "2026-10-23T17:12:00.572Z",
-      "notable": 3
-    },
-    {
-      "id": "031cc324-9397-4197-8a57-3c408f25cda1",
-      "title": "IT Operations & Cybersecurity Specialist",
-      "company": "Jobgether",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€10-€18/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/1a7c84e6-26af-45ed-bb41-bddac1dfd83c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/it-operations-and-cybersecurity-specialist-jobgether-d88c8f?utm_source=reddit",
-      "postedAt": "2026-10-23T17:11:47.629Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
