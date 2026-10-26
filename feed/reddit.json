@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:47:53.043Z",
+  "generatedAt": "2026-10-26T03:26:54.258Z",
   "jobs": [
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -209,6 +209,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/talent-operations-associate-jobgether-1ee84b?utm_source=reddit",
       "postedAt": "2026-10-26T00:12:19.012Z",
       "notable": 5
+    },
+    {
+      "id": "f7792718-192f-46f1-9fb7-cfd69e3c2f3d",
+      "title": "Call Center Analyst",
+      "company": "MiniMed",
+      "place": "Taguig City, Philippines",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://mdtkangaroo.wd108.myworkdayjobs.com/MiniMedCareers/job/Taguig-City-Manila-Philippines/Call-Center-Analyst_R-802125",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mdtkangarooorwd108orminimedcareers/call-center-analyst-minimed-ae795e?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f3f4671d-9852-4a1e-a73e-a06bb256f198",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/crestoperations/marketing-coordinator-crest-operations-e80241?utm_source=reddit",
       "postedAt": "2026-10-23T17:31:20.138Z",
       "notable": 3
-    },
-    {
-      "id": "386c444f-d708-4deb-9c66-1c655f182316",
-      "title": "IT Service Desk",
-      "company": "Atlas Energy Solutions",
-      "place": "Kermit, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/atlassand/jobs/8911971002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/atlassand/it-service-desk-atlas-energy-solutions-6aa55a?utm_source=reddit",
-      "postedAt": "2026-10-23T17:31:12.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
