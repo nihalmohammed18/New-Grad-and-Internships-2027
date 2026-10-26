@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:29:52.360Z",
+  "generatedAt": "2026-10-26T05:35:54.172Z",
   "jobs": [
     {
       "id": "1a662b22-7d47-461d-a26d-e39a1cf96a4e",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/krafton/ai-research-div-research-scientist-world-action-models-2-krafton-8bf4a4?utm_source=reddit",
       "postedAt": "2026-10-26T05:05:22.000Z",
       "notable": 1
+    },
+    {
+      "id": "c6b1f1c7-b894-4cf8-96db-3acbd40260f6",
+      "title": "eLearning Engagement & IT Support Officer",
+      "company": "Up Education",
+      "place": "Melbourne, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/UpEducation/6000000001521526-elearning-engagement-it-support-officer",
+      "firstJobbyUrl": "https://firstjobby.com/companies/upeducation/elearning-engagement-and-it-support-officer-up-education-1694b4?utm_source=reddit",
+      "postedAt": "2026-10-26T04:47:06.744Z",
+      "notable": 2
     },
     {
       "id": "8265ccfb-0392-492a-aebe-5c70451aa507",
@@ -781,6 +800,25 @@
       "notable": 2
     },
     {
+      "id": "3cf53d01-2d6c-44bb-b901-bcf0043a331e",
+      "title": "DevSecOps Engineer- A26403",
+      "company": "Activate Interactive Pte Ltd",
+      "place": "Singapore, Singapore",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/93471C5132",
+      "firstJobbyUrl": "https://firstjobby.com/companies/activate-interactive-pte-ltd/devsecops-engineer-a26403-activate-interactive-pte-ltd-b838d1?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "3705b29f-113e-4207-bf77-42051604c1fd",
       "title": "ASIC Physical Design Engineer - New College Grad 2027",
       "company": "NVIDIA",
@@ -1041,7 +1079,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000157679939-junior-network-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000157679939",
       "firstJobbyUrl": "https://firstjobby.com/companies/paconsulting/junior-network-consultant-pa-consulting-b7f65e?utm_source=reddit",
       "postedAt": "2026-10-25T21:10:59.208Z",
       "notable": 3
@@ -1060,7 +1098,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000157679799-junior-network-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000157679799",
       "firstJobbyUrl": "https://firstjobby.com/companies/paconsulting/junior-network-consultant-pa-consulting-a14cca?utm_source=reddit",
       "postedAt": "2026-10-25T21:08:50.197Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/project-engineer-i-aecom-2b923b?utm_source=reddit",
       "postedAt": "2026-10-23T18:34:01.274Z",
       "notable": 4
-    },
-    {
-      "id": "86d8bb97-f914-41fc-ae46-435d4d18fd70",
-      "title": "Service Operations Distribution Specialist",
-      "company": "Distro",
-      "place": "New York, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$15-$20/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/distro/892dea65-a05f-4cf3-9366-1201962fbf26",
-      "firstJobbyUrl": "https://firstjobby.com/companies/distro/service-operations-distribution-specialist-distro-f9e1d5?utm_source=reddit",
-      "postedAt": "2026-10-23T18:31:51.992Z",
-      "notable": 5
-    },
-    {
-      "id": "3e3f5ff9-ce78-44c6-a187-75bc192cb4a8",
-      "title": "E-Commerce Coordinator",
-      "company": "Techo-Bloc",
-      "place": "Saint-Hubert, Canada",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/techo-bloc/744000157545739",
-      "firstJobbyUrl": "https://firstjobby.com/companies/techo-bloc/e-commerce-coordinator-techo-bloc-2450af?utm_source=reddit",
-      "postedAt": "2026-10-23T18:31:20.882Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
