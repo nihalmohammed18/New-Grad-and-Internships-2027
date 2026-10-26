@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:19:23.970Z",
+  "generatedAt": "2026-10-26T05:29:52.360Z",
   "jobs": [
     {
       "id": "1a662b22-7d47-461d-a26d-e39a1cf96a4e",
@@ -836,6 +836,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/copelandorwd5orcopelandexternalcareerspage/motor-engineer-copeland-46cd53?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "33e9a845-e9e7-4a16-972c-ea62cda8037c",
+      "title": "Medical Receptionist & Data Migration Specialist (Elation to Dakota Health)",
+      "company": "Staffing for Doctors",
+      "place": "Philippines",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/D71BEF5464",
+      "firstJobbyUrl": "https://firstjobby.com/companies/staffing-for-doctors/medical-receptionist-and-data-migration-specialist-elation-to-dakota-health-staf-401014?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "2a7b55af-b6a6-4251-a436-ef3462cdfcd3",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/techo-bloc/744000157545739",
       "firstJobbyUrl": "https://firstjobby.com/companies/techo-bloc/e-commerce-coordinator-techo-bloc-2450af?utm_source=reddit",
       "postedAt": "2026-10-23T18:31:20.882Z",
-      "notable": 3
-    },
-    {
-      "id": "d50e105d-20cc-4d61-9727-19e149d2a619",
-      "title": "Epic Tapestry Utilization Management (UM) Analyst",
-      "company": "Chartis",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$90-$110/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/chartis/636d6d27-2ed4-4d53-b7e4-18b756311142",
-      "firstJobbyUrl": "https://firstjobby.com/companies/chartis/epic-tapestry-utilization-management-um-analyst-chartis-e6854f?utm_source=reddit",
-      "postedAt": "2026-10-23T18:31:20.438Z",
       "notable": 3
     }
   ],
