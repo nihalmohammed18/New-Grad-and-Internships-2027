@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:25:24.244Z",
+  "generatedAt": "2026-10-26T09:28:00.177Z",
   "jobs": [
     {
       "id": "a088d818-0584-4704-83f7-ac848dab403c",
@@ -794,7 +794,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://mdtkangaroo.wd108.myworkdayjobs.com/MiniMedCareers/job/Taguig-City-Manila-Philippines/Call-Center-Analyst_R-802125",
+      "applyUrl": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Taguig-City-Manila-Philippines/Call-Center-Analyst_R-802125",
       "firstJobbyUrl": "https://firstjobby.com/companies/mdtkangarooorwd108orminimedcareers/call-center-analyst-minimed-ae795e?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
@@ -1273,6 +1273,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boeingorwd1orexternalsubsidiary/entry-level-or-associate-aerospace-safety-engineer-boeing-3aabfb?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "d4595752-dcca-4b22-b5dc-ff59f6eea286",
+      "title": "Marketing Specialist",
+      "company": "MiniMed",
+      "place": "Remote",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://mdtkangaroo.wd108.myworkdayjobs.com/MiniMedCareers/job/Virtual-Oslo-Norway/Marketing-Specialist_R-802221",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mdtkangarooorwd108orminimedcareers/marketing-specialist-minimed-195c71?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "d37f9f7d-9dbf-4995-9e3c-4e96e8107e7f",
@@ -2185,6 +2204,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/iqviaorwd1oriqvia/full-stack-engineer-iqvia-ace509?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7a9f1781-d538-46d9-bb39-b569af10d82d",
+      "title": "Audiovisual Assistant B (CIRMMT)",
+      "company": "McGill University",
+      "place": "Canada",
+      "category": "Design",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$21/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Music-527-Sherbrooke/Audiovisual-Assistant-B--CIRMMT-_JR0000082725-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mcgillorwd3ormcgillcareers/audiovisual-assistant-b-cirmmt-mcgill-university-cf7088?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "7a28bd70-da14-4dce-bf08-f66b61f4206b",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/skydio-ashby/embedded-software-engineer-intern-winter-2027-skydio-b87833?utm_source=reddit",
       "postedAt": "2026-10-23T21:18:39.017Z",
       "notable": 5
-    },
-    {
-      "id": "67c53af2-afee-40c2-9277-47e38aea1ef1",
-      "title": "Commercial Account Manager -Small Business",
-      "company": "EPIC Brokers",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$28-$33/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8893317002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edgewoodpartnersinsurancecenter/commercial-account-manager-small-business-epic-brokers-3d05ad?utm_source=reddit",
-      "postedAt": "2026-10-23T21:16:34.000Z",
-      "notable": 5
-    },
-    {
-      "id": "75f3169e-1ae7-442c-b11b-ea6f02cb947c",
-      "title": "Associate Data Engineer",
-      "company": "Wildlife Studios",
-      "place": "São Paulo, Brazil",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/wildlifestudios/jobs/8912839002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wildlifestudios/associate-data-engineer-wildlife-studios-aee811?utm_source=reddit",
-      "postedAt": "2026-10-23T21:13:15.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
