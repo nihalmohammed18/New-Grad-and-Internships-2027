@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:58:39.433Z",
+  "generatedAt": "2026-10-26T10:20:13.976Z",
   "jobs": [
     {
       "id": "b5da040a-6dfa-4927-ace5-bf59c0dc3ff1",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spektrum/cloud-infrastructure-and-database-engineer-spektrum-391451?utm_source=reddit",
       "postedAt": "2026-10-26T08:33:47.000Z",
       "notable": 0
+    },
+    {
+      "id": "a06803cf-7538-4df9-8aca-ec1e49471fe3",
+      "title": "Consultant - Corporate PR & Public Affairs",
+      "company": "Burson",
+      "place": "Amsterdam, Netherlands",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.bursonglobal.com/careers/jobs?gh_jid=5463270008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bursonglobalcareers/consultant-corporate-pr-and-public-affairs-burson-1672ea?utm_source=reddit",
+      "postedAt": "2026-10-26T08:25:57.000Z",
+      "notable": 3
     },
     {
       "id": "b5792141-3f96-4e97-a680-367b21859b39",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5",
       "firstJobbyUrl": "https://firstjobby.com/companies/arcteryxcom/colour-designer-1-footwear-arcteryx-com-47961a?utm_source=reddit",
       "postedAt": "2026-10-23T22:24:18.792Z",
-      "notable": 5
-    },
-    {
-      "id": "464e7a16-734f-45c3-a188-a177c7f87439",
-      "title": "Account Executive",
-      "company": "Snap! Mobile, Inc.",
-      "place": "Fairfield, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$75.0K-$95.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/snapmobileinc/jobs/4724498006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/snapmobileinc/account-executive-snap-mobile-inc-91871e?utm_source=reddit",
-      "postedAt": "2026-10-23T22:24:14.000Z",
       "notable": 5
     }
   ],
