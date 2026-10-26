@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:08:49.454Z",
+  "generatedAt": "2026-10-26T02:23:28.305Z",
   "jobs": [
     {
       "id": "418afb92-9064-42ee-982a-e4133edfb0f0",
@@ -340,6 +340,25 @@
       "season": null,
       "applyUrl": "https://gcaa.wd3.myworkdayjobs.com/GCAA_Careers/job/Ulan-NSW-Australia/PLC-and-Automation-Engineer_JR105266",
       "firstJobbyUrl": "https://firstjobby.com/companies/gcaaorwd3orgcaacareers/control-systems-engineer-gcaa-e4addd?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "62f68501-aa02-416b-88bc-fe0c8ac82fed",
+      "title": "Full Stack LLM Engineer",
+      "company": "Accenture",
+      "place": "Sydney, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney/Full-Stack-LLM-Engineer_14826796",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/full-stack-llm-engineer-accenture-7f8cc8?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jerryai/associate-data-scientist-jerryai-28f198?utm_source=reddit",
       "postedAt": "2026-10-23T17:24:02.947Z",
       "notable": 5
-    },
-    {
-      "id": "565356b0-c9e5-47bb-be8b-3fa111671920",
-      "title": "Finance Engineer (Rotational Program)",
-      "company": "Lumafield",
-      "place": "Boston, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$95.0K-$160.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/lumafield/b4db1d72-e2b3-4a03-950e-6109ff6b7612",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lumafield/finance-engineer-rotational-program-lumafield-d3ff6d?utm_source=reddit",
-      "postedAt": "2026-10-23T17:24:02.596Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
