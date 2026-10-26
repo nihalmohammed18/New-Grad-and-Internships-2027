@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:33:28.258Z",
+  "generatedAt": "2026-10-26T06:46:07.389Z",
   "jobs": [
     {
       "id": "f50d6342-6a12-4ad7-836a-5baef7d14f8e",
@@ -1292,6 +1292,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/asic-engineer-networking-chip-design-new-college-grad-2027-nvidia-0747fb?utm_source=reddit",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "2639bd21-9a53-48a3-b835-7b897b33b7ea",
+      "title": "Help Desk Support Agent I",
+      "company": "Brightli",
+      "place": "Indianapolis, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://brightli.wd5.myworkdayjobs.com/BrightliTalent/job/Indianapolis-IN/Help-Desk-Support-Agent-I_R-26499-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/brightliorwd5orbrightlitalent/help-desk-support-agent-i-brightli-2bb7b8?utm_source=reddit",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "14f88d39-22eb-45c4-9a6d-df0c59e31137",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/float/business-development-representative-float-39b6f8?utm_source=reddit",
       "postedAt": "2026-10-23T19:15:16.432Z",
       "notable": 3
-    },
-    {
-      "id": "b7907384-ff36-4d07-9107-fb6e71441f0b",
-      "title": "Summer Intern 2027 - Analytics Engineer Intern",
-      "company": "ID.me University Recruiting",
-      "place": "Mountain View, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/idmeuniversityrecruiting/summer-intern-2027-analytics-engineer-intern-idme-university-recruiting-1e51a4?utm_source=reddit",
-      "postedAt": "2026-10-23T19:14:51.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
