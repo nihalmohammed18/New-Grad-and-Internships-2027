@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:34:10.318Z",
+  "generatedAt": "2026-10-30T05:50:50.265Z",
   "jobs": [
     {
       "id": "d8046238-dcd0-44e0-ae28-919c95c61b50",
@@ -1482,6 +1482,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/avisbudgetorwd1orabgcareers/customer-service-representative-casual-avis-budget-group-48e366?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "036b1756-f79c-4789-bcde-0ca6e2612576",
+      "title": "Supervisor - Operations",
+      "company": "Maersk",
+      "place": "Gelang Patah, Malaysia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Malaysia-Johor-Gelang-Patah-81550/Supervisor---Operations_R197250",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maerskorwd3ormaerskcareers/supervisor-operations-maersk-b54f59?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "00cfe436-f0af-44b4-b28f-b59195efdabe",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/iCodde/72ce10fc-4e82-4fbb-956c-354e7a3c7cbd",
       "firstJobbyUrl": "https://firstjobby.com/companies/icodde/account-executive-or-servicios-de-tecnologia-icodde-b72eca?utm_source=reddit",
       "postedAt": "2026-10-29T14:45:55.514Z",
-      "notable": 3
-    },
-    {
-      "id": "46ea458e-f354-4d8b-a4df-bb912c1918c5",
-      "title": "Stage - Analyste MDR - Detection Cybersécurité - Toulouse",
-      "company": "Sopra Steria",
-      "place": "Colomiers, France",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158539803",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/stage-analyste-mdr-detection-cybersecurite-toulouse-sopra-steria-e8ab07?utm_source=reddit",
-      "postedAt": "2026-10-29T14:45:25.144Z",
       "notable": 3
     }
   ],
