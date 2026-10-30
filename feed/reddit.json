@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:10:22.538Z",
+  "generatedAt": "2026-10-30T10:22:49.003Z",
   "jobs": [
     {
       "id": "ca38b469-48f7-449c-97a9-4d95882b8f04",
@@ -3403,6 +3403,25 @@
       "notable": 4
     },
     {
+      "id": "f254b6b6-d1ba-4631-81b1-8c303def4ba9",
+      "title": "Mechanical Engineer (New College Grad)",
+      "company": "Hyve Solutions",
+      "place": "Taiwan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/HYV-TW-NT-6753-Xinzhuang-Dist/Mechanical-Engineer--New-College-Grad-_R55296",
+      "firstJobbyUrl": "https://firstjobby.com/companies/synnexorwd5orhyvecareers/mechanical-engineer-new-college-grad-hyve-solutions-e7bd6a?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f160736c-71c7-4687-8b5d-f4a4b09cad8d",
       "title": "Engineering Technician II",
       "company": "State of North Carolina",
@@ -4828,6 +4847,25 @@
       "notable": 2
     },
     {
+      "id": "82692ec0-43e1-4d14-89fb-fde13fde32de",
+      "title": "Marketing Intern",
+      "company": "Access Group",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/Kuala-Lumpur---GOC/Marketing-Intern_JR004669-3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theaccessgrouporwd103oraccessgroupexternalcareers/marketing-intern-access-group-af4bb5?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "823c4a0f-6ad7-43ad-8a15-8e72002af4f8",
       "title": "construction civil engineer",
       "company": "Air Products",
@@ -5586,6 +5624,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/service-operations-administrator-johnson-controls-adf3b8?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "44f8c37e-5acc-4696-b443-02f0750a6729",
+      "title": "Target security specialist",
+      "company": "Target",
+      "place": "Schenectady, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$20/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/204-Saratoga-Rd-SchenectadyNY-12302-4509/Target-security-specialist_R0000479269",
+      "firstJobbyUrl": "https://firstjobby.com/companies/targetorwd5ortargetcareers/target-security-specialist-target-56afdc?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "44f24ff7-3aed-47a0-8685-4687d79a995e",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/saronic-ashby/forward-deployed-build-engineer-saronic-technologies-4b9da2?utm_source=reddit",
       "postedAt": "2026-10-29T19:45:18.950Z",
       "notable": 3
-    },
-    {
-      "id": "476e77d1-b54f-4892-bf5d-5a592d9d3312",
-      "title": "Controls Engineering Co-Op",
-      "company": "Diversified Automation",
-      "place": "Louisville, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/diversified-automation/controls-engineering-co-op-diversified-automation-b34b86?utm_source=reddit",
-      "postedAt": "2026-10-29T19:45:06.392Z",
-      "notable": 1
-    },
-    {
-      "id": "42d7b0d2-a1fd-488d-b76e-1c80103f3dc3",
-      "title": "Construction Project Engineer",
-      "company": "AECOM",
-      "place": "Oakland, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158594680",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/construction-project-engineer-aecom-71ec85?utm_source=reddit",
-      "postedAt": "2026-10-29T19:45:05.489Z",
-      "notable": 3
-    },
-    {
-      "id": "c01fa07a-7ca3-40e5-ad7e-bd02a294db56",
-      "title": "Touring Coordinator - Production (Global Touring)",
-      "company": "AEG Worldwide",
-      "place": "Nashville, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$20-$28/hr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/aegworldwide/jobs/8923909002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aegworldwide/touring-coordinator-production-global-touring-aeg-worldwide-bf2464?utm_source=reddit",
-      "postedAt": "2026-10-29T19:44:23.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
