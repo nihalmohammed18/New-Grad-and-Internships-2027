@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:06:53.565Z",
+  "generatedAt": "2026-10-30T05:16:24.887Z",
   "jobs": [
     {
       "id": "3f56ebb8-8569-4252-abd2-88fec6403a2f",
@@ -1100,6 +1100,25 @@
       "season": null,
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Barcelona/Account-Manager--2027-Graduates--Czech-Romanian-Hungarian-speakers-_115568",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/account-manager-2027-graduates-czechromanianhungarian-speakers-gartner-6560bb?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "51ca94a5-19a2-4c39-b997-e15160d231be",
+      "title": "FC Culture and Communication Coordinator",
+      "company": "Chewy",
+      "place": "Belton, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Belton-MO/FC-Culture-and-Communication-Coordinator_R31295-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/chewyorwd5orexternal/fc-culture-and-communication-coordinator-chewy-1a6ef9?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.optiver.com/join-us/jobs/8905991002/?gh_jid=8905991002",
       "firstJobbyUrl": "https://firstjobby.com/companies/optiverus/procurement-analyst-optiver-082c0a?utm_source=reddit",
       "postedAt": "2026-10-29T14:37:28.000Z",
-      "notable": 4
-    },
-    {
-      "id": "8db54690-596f-470c-85bf-e742226b5369",
-      "title": "Sales Executive",
-      "company": "TransPerfect",
-      "place": "Paris, France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€32.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://transperfect.com/o/sales-executive-5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/sales-executive-transperfect-484cc2?utm_source=reddit",
-      "postedAt": "2026-10-29T14:37:10.000Z",
       "notable": 4
     }
   ],
