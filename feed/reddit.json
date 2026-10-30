@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:32:15.022Z",
+  "generatedAt": "2026-10-30T10:42:55.977Z",
   "jobs": [
     {
       "id": "ca38b469-48f7-449c-97a9-4d95882b8f04",
@@ -5550,6 +5550,25 @@
       "notable": 3
     },
     {
+      "id": "66d891ef-edf8-42fa-b5ae-469ac8e992e3",
+      "title": "Customer Project Coordinator (x|f|m)",
+      "company": "Sartorius",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Riyadh/Customer-Project-Coordinator--x-f-m-_R42072-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sartoriusorwd3orsartoriuscareers/customer-project-coordinator-xorform-sartorius-1a5bd9?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "650bf262-bc5d-4f30-ba7f-6605583dae6c",
       "title": "QA Engineer",
       "company": "Igloo",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/insomniac/narrative-coordinator-insomniac-games-dec306?utm_source=reddit",
       "postedAt": "2026-10-29T19:55:56.000Z",
       "notable": 3
-    },
-    {
-      "id": "dc86d94b-aff7-4201-be71-87456b3f5918",
-      "title": "Coordinator, Sports Communications",
-      "company": "Versant",
-      "place": "Stamford, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24-$29/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Versant3/744000158596630",
-      "firstJobbyUrl": "https://firstjobby.com/companies/versant3/coordinator-sports-communications-versant-feb669?utm_source=reddit",
-      "postedAt": "2026-10-29T19:54:48.890Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
