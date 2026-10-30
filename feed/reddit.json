@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:26:18.855Z",
+  "generatedAt": "2026-10-30T04:40:01.596Z",
   "jobs": [
     {
       "id": "51cc5583-a80e-4b5b-a7d5-808bac3d015e",
@@ -1140,6 +1140,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dentsuaegisorwd3ordanglobal/software-engineer-platforms-and-cloud-dentsu-318599?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0e260439-ad50-4667-a8a1-c08c652c9505",
+      "title": "Casual Customer Service Representative - Wellington",
+      "company": "Westpacnz",
+      "place": "Wellington, New Zealand",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://westpacnz.wd105.myworkdayjobs.com/Private_WNZL29062023/job/Kilbirnie-Branch/Casual-Customer-Service-Representative---Wellington_JR107846-3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orprivatewnzl29062023/casual-customer-service-representative-wellington-westpacnz-b5aeaa?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "0deb4dec-04f2-4f15-a4d3-1755e1198abb",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/digitalmediamanagement/social-media-manager-platform-digital-media-management-ec25f9?utm_source=reddit",
       "postedAt": "2026-10-29T14:31:50.685Z",
       "notable": 5
-    },
-    {
-      "id": "525c4832-4cd5-4ad7-ab9c-4c03c086871d",
-      "title": "Cost Engineer",
-      "company": "Turner & Townsend",
-      "place": "Edinburgh, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000158536839",
-      "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/cost-engineer-turner-and-townsend-67c6b2?utm_source=reddit",
-      "postedAt": "2026-10-29T14:31:40.851Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
