@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:40:01.596Z",
+  "generatedAt": "2026-10-30T04:49:15.542Z",
   "jobs": [
     {
       "id": "51cc5583-a80e-4b5b-a7d5-808bac3d015e",
@@ -667,6 +667,25 @@
       "notable": 2
     },
     {
+      "id": "da776840-6d40-4c2b-91a6-5129cdefff85",
+      "title": "Cell Culture Technical Operations Specialist II",
+      "company": "Pfizer",
+      "place": "Pearl River, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$26-$44/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Cell-Culture-Technical-Operations-Specialist-II_4965503",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pfizerorwd1orpfizercareers/cell-culture-technical-operations-specialist-ii-pfizer-627b5b?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "d9f74c63-6141-4abd-ada6-bad80fb1854d",
       "title": "Workforce Partnerships Fellow (Coalfield Development), ACC Member",
       "company": "Lead For America",
@@ -794,7 +813,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Commerical-Account-Executive---Data-Foundations--Mulesoft-Informatica-_JR366387",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Australia---Sydney/Commerical-Account-Executive---Data-Foundations--Mulesoft-Informatica-_JR366387",
       "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/commerical-account-executive-data-foundations-mulesoftinformatica-salesforce-4f18cd?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
@@ -1138,6 +1157,25 @@
       "season": null,
       "applyUrl": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Sydney/Software-Engineer--Platforms---Cloud_R1132688",
       "firstJobbyUrl": "https://firstjobby.com/companies/dentsuaegisorwd3ordanglobal/software-engineer-platforms-and-cloud-dentsu-318599?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "115068b6-ae08-437f-8b93-2a5bbf658cf9",
+      "title": "Associate Credit Analyst",
+      "company": "RHB Insurance",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://rhb.wd102.myworkdayjobs.com/RHBExternalCareerSite/job/Singapore/Associate-Credit-Analyst_JR007773",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rhborwd102orrhbexternalcareersite/associate-credit-analyst-rhb-insurance-4af07f?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Quadient1/744000158535521",
       "firstJobbyUrl": "https://firstjobby.com/companies/quadient1/account-executive-hamilton-ontario-entry-level-quadient-7c80e6?utm_source=reddit",
       "postedAt": "2026-10-29T14:34:31.871Z",
-      "notable": 5
-    },
-    {
-      "id": "942a7ccc-cf6f-4d1a-8a30-8a10a0b3226d",
-      "title": "Junior Operations Coordinator (French-speaker)",
-      "company": "The Global Talent Co.",
-      "place": "Remote from Morocco, South Africa, Madagascar",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/the-global-talent-co/06afee6f-d4a4-4fb3-99d4-e8bf75fbacb5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/the-global-talent-co/junior-operations-coordinator-french-speaker-the-global-talent-co-9d16c2?utm_source=reddit",
-      "postedAt": "2026-10-29T14:33:23.796Z",
-      "notable": 3
-    },
-    {
-      "id": "4bd806be-e371-4604-b2d9-ac238e12a2da",
-      "title": "Social Media Manager, Platform",
-      "company": "Digital Media Management",
-      "place": "United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$52.0K-$62.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/digitalmediamanagement/3d3980b7-a033-4da8-adb5-928f705bd87d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/digitalmediamanagement/social-media-manager-platform-digital-media-management-ec25f9?utm_source=reddit",
-      "postedAt": "2026-10-29T14:31:50.685Z",
       "notable": 5
     }
   ],
