@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:35:18.117Z",
+  "generatedAt": "2026-10-30T11:42:44.832Z",
   "jobs": [
     {
       "id": "310e0fcd-0965-40af-bdea-aea56d75adc7",
@@ -303,6 +303,25 @@
       "applyUrl": "https://jobs.lever.co/onit/8b0dc399-57b8-448b-b66e-5f3c6496de59",
       "firstJobbyUrl": "https://firstjobby.com/companies/onit/software-engineer-ror-fullstack-onit-inc-a6bf18?utm_source=reddit",
       "postedAt": "2026-10-30T09:37:04.043Z",
+      "notable": 0
+    },
+    {
+      "id": "ae011b18-039f-4399-a833-18cfe2fd1109",
+      "title": "Werkstudent (w/m/d) Customer Service",
+      "company": "Holzland Becker",
+      "place": "Offenbach am Main, Germany",
+      "category": "Customer Support",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://holzlandbecker.recruitee.com/o/werkstudent-wmd-customer-service",
+      "firstJobbyUrl": "https://firstjobby.com/companies/holzlandbecker/werkstudent-wmd-customer-service-holzland-becker-062002?utm_source=reddit",
+      "postedAt": "2026-10-30T09:32:18.000Z",
       "notable": 0
     },
     {
@@ -5702,6 +5721,25 @@
       "notable": 2
     },
     {
+      "id": "84885863-3e2c-401b-a979-26a34f424dab",
+      "title": "Forward Deployed Engineer",
+      "company": "Beam AI",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/3386B8F27B",
+      "firstJobbyUrl": "https://firstjobby.com/companies/joinbeam/forward-deployed-engineer-beam-ai-6caa17?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 1
+    },
+    {
       "id": "82692ec0-43e1-4d14-89fb-fde13fde32de",
       "title": "Marketing Intern",
       "company": "Access Group",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alarmcom/device-engineer-ii-rfemc-alarmcom-df8a2c?utm_source=reddit",
       "postedAt": "2026-10-29T21:21:48.000Z",
       "notable": 5
-    },
-    {
-      "id": "3720dd83-f80d-49aa-9131-fe7c6d518f67",
-      "title": "Mechanical Design Engineer",
-      "company": "viaPhoton",
-      "place": "Naperville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$85.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/viaphoton/jobs/4473473009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/viaphoton/mechanical-design-engineer-viaphoton-783d99?utm_source=reddit",
-      "postedAt": "2026-10-29T21:18:51.000Z",
-      "notable": 3
-    },
-    {
-      "id": "dcfefc76-0add-43f5-a417-0cdb81f1469f",
-      "title": "Territory Sales Representative / Restaurant Specialist - Mobile, AL",
-      "company": "SpotOn",
-      "place": "Mobile, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$120.0K-$275.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/spoton/dbea2bcf-70f0-4311-833d-7474cc5c5c6e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spoton/territory-sales-representative-restaurant-specialist-mobile-al-spoton-20b867?utm_source=reddit",
-      "postedAt": "2026-10-29T21:17:43.085Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
