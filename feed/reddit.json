@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:31:55.256Z",
+  "generatedAt": "2026-10-30T09:40:28.255Z",
   "jobs": [
     {
       "id": "a3bc6e56-5ff8-42fc-b38a-11d93bf31e5b",
@@ -3650,6 +3650,25 @@
       "notable": 2
     },
     {
+      "id": "a75e12b0-233c-496a-a439-ea3c799338e3",
+      "title": "Apprentice Trainee, Engineering",
+      "company": "Valmet",
+      "place": "Chennai, India",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/External/job/Chennai/Apprentice-Trainee--Engineering_R61317-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valmetorwd103orexternal/apprentice-trainee-engineering-valmet-1ec2b2?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "a035f9cc-459e-45d0-99c3-e0e639f60802",
       "title": "Associate, Sales Development (Indonesian)",
       "company": "Cnx",
@@ -4030,6 +4049,25 @@
       "notable": 3
     },
     {
+      "id": "85e1cad7-6e6b-45bc-83ef-1142b2bb044c",
+      "title": "Software Engineer (1-2 years' experience, Python / Go, ML Engineering)",
+      "company": "Visa",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Software-Engineer--1-2-years--experience--Python---Go--ML-Engineering-_REF088406W",
+      "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisa/software-engineer-1-2-years-experience-python-go-ml-engineering-visa-b30d4b?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "85b274bf-1c5c-4686-847e-d37705206dec",
       "title": "POS/CB Analyst,Shanghai",
       "company": "Solventum",
@@ -4214,7 +4252,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/External/job/Jyvskyl/Engineer--Parts-Quality-Assurance_R57573",
+      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/external/job/Jyvskyl/Engineer--Parts-Quality-Assurance_R57573",
       "firstJobbyUrl": "https://firstjobby.com/companies/valmetorwd103orexternal/engineer-parts-quality-assurance-valmet-b34b01?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/tillster/98d79319-e358-47e2-8a55-3ba102adbf13",
       "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/data-analyst-tillster-0afd14?utm_source=reddit",
       "postedAt": "2026-10-29T18:58:51.742Z",
-      "notable": 6
-    },
-    {
-      "id": "309d2b8f-2f67-46b4-a18e-0e4a2e05b02e",
-      "title": "System Integration & Test, Intermediate",
-      "company": "General Dynamics Missions System International",
-      "place": "Calgary, Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "CA$77.0K-CA$90.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000158590639",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gdmsi/system-integration-and-test-intermediate-general-dynamics-missions-system-intern-a1e65a?utm_source=reddit",
-      "postedAt": "2026-10-29T18:58:36.107Z",
-      "notable": 4
-    },
-    {
-      "id": "8767ca42-5b52-4b63-8b0d-377eb45ee0e1",
-      "title": "Data Analyst",
-      "company": "Tillster",
-      "place": "San Diego, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "€70.0K-€85.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/tillster/b3e96421-ccb1-4e81-a432-71f917865425",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/data-analyst-tillster-569d7a?utm_source=reddit",
-      "postedAt": "2026-10-29T18:57:53.745Z",
       "notable": 6
     }
   ],
