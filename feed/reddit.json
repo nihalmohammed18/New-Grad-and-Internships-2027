@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:09:32.855Z",
+  "generatedAt": "2026-10-30T09:31:55.256Z",
   "jobs": [
     {
       "id": "a3bc6e56-5ff8-42fc-b38a-11d93bf31e5b",
@@ -3249,6 +3249,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/manulifeorwd3ormfcjhjobs/associate-full-stack-software-engineer-manulife-john-hancock-375039?utm_source=reddit",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "c89de001-59b0-4b17-b83f-180e59c44bfb",
+      "title": "Project Coordinator",
+      "company": "Brown University",
+      "place": "Providence, United States",
+      "category": "Operations",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Project-Coordinator_REQ211904",
+      "firstJobbyUrl": "https://firstjobby.com/companies/brownorwd5orstaff-careers-brown/project-coordinator-brown-university-1ebe7a?utm_source=reddit",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "c81afc09-cfe0-4aa5-87e8-137abf6cc463",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/data-analyst-tillster-569d7a?utm_source=reddit",
       "postedAt": "2026-10-29T18:57:53.745Z",
       "notable": 6
-    },
-    {
-      "id": "5ca9f86a-eb51-40af-922a-43a2832127eb",
-      "title": "Supply Chain Planner - CVD",
-      "company": "Anglo American / De Beers Group",
-      "place": "Santa Clara, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000158589664",
-      "firstJobbyUrl": "https://firstjobby.com/companies/angloamericandebeersgroup/supply-chain-planner-cvd-anglo-american-de-beers-group-3af853?utm_source=reddit",
-      "postedAt": "2026-10-29T18:56:45.263Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
