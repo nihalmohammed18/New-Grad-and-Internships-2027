@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:29:23.130Z",
+  "generatedAt": "2026-10-30T10:32:15.022Z",
   "jobs": [
     {
       "id": "ca38b469-48f7-449c-97a9-4d95882b8f04",
@@ -192,6 +192,25 @@
       "notable": 5
     },
     {
+      "id": "46ba3f13-8383-40f1-b93e-02b88bb9bc03",
+      "title": "Engineering Technician II, Metrology",
+      "company": "ASM",
+      "place": "Hwaseong-si, South Korea",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=5020718101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/asm/engineering-technician-ii-metrology-asm-57c983?utm_source=reddit",
+      "postedAt": "2026-10-30T09:03:57.000Z",
+      "notable": 3
+    },
+    {
       "id": "a3bc6e56-5ff8-42fc-b38a-11d93bf31e5b",
       "title": "Network Administrator",
       "company": "Jobgether",
@@ -304,6 +323,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/chemikerin-scientist-mwd-anorganische-analytik-sgs-312c87?utm_source=reddit",
       "postedAt": "2026-10-30T08:28:41.727Z",
       "notable": 3
+    },
+    {
+      "id": "83be9705-920b-42c6-8adf-e0858c17dd35",
+      "title": "Technical Support Engineer - Developer Platform",
+      "company": "Cloudflare",
+      "place": "Singapore, Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cloudflare/technical-support-engineer-developer-platform-cloudflare-cfa2c3?utm_source=reddit",
+      "postedAt": "2026-10-30T08:26:30.000Z",
+      "notable": 2
     },
     {
       "id": "405090da-bfd1-4c19-b615-3c4d2ab889c6",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/versant3/coordinator-sports-communications-versant-feb669?utm_source=reddit",
       "postedAt": "2026-10-29T19:54:48.890Z",
       "notable": 4
-    },
-    {
-      "id": "06f37952-adf2-47fb-ab94-c706c675e175",
-      "title": "Customer Service Specialist",
-      "company": "German American Bank",
-      "place": "Bloomington, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/germanamerican/5be1d6a4-2216-4cca-bd10-70e4edac46f7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/germanamerican/customer-service-specialist-german-american-bank-d2df46?utm_source=reddit",
-      "postedAt": "2026-10-29T19:54:18.766Z",
-      "notable": 3
-    },
-    {
-      "id": "6e94c296-2f97-4daa-8cef-31e3b8f16b0a",
-      "title": "Quality Engineer",
-      "company": "Mission Critical Group",
-      "place": "Brookston, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016508646",
-      "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/quality-engineer-mission-critical-group-d953d7?utm_source=reddit",
-      "postedAt": "2026-10-29T19:53:39.118Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
