@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:15:18.593Z",
+  "generatedAt": "2026-10-31T20:35:56.715Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -1446,6 +1446,25 @@
       "notable": 2
     },
     {
+      "id": "f401b1ab-7fda-4806-b790-bb0467e519af",
+      "title": "Electrical Engineer",
+      "company": "Weekday AI",
+      "place": "Remote from India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/F4D164E1C4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/electrical-engineer-weekday-ai-034e7a?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "f36ae37d-a91c-48b9-a483-7a7eab1eefc4",
       "title": "Grants Payments Data Analyst",
       "company": "Worldwide Clinical Trials",
@@ -1653,6 +1672,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/ratings-operations-specialist-denver-co-kensho-1dbff6?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "daa0466e-a70a-46ba-8e02-9ec8df602535",
+      "title": "Community & Growth Executive",
+      "company": "Weekday AI",
+      "place": "Gurugram, India",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/D8DFE8FE14",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/community-and-growth-executive-weekday-ai-998f32?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "d619f50b-b794-4789-8ff8-b606e8bf0f5c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/everience/it-support-technician-l1-and-l2-mwd-everience-545e52?utm_source=reddit",
       "postedAt": "2026-10-30T17:33:53.124Z",
       "notable": 3
-    },
-    {
-      "id": "8f4b5245-db6e-45aa-a7e1-b77e07b05dff",
-      "title": "Junior IT Support Specialist (Part-time)",
-      "company": "DEPT®",
-      "place": "Toronto, Canada",
-      "category": "Engineering",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$48.0K-CA$55.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8337127",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dept/junior-it-support-specialist-part-time-deptr-4b4382?utm_source=reddit",
-      "postedAt": "2026-10-30T17:33:34.000Z",
-      "notable": 5
-    },
-    {
-      "id": "f19c372e-d7f7-42ba-b42e-69e3932f7c9a",
-      "title": "Account Manager (Southeast)",
-      "company": "GuidePoint Security",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/guidepointsecurity/jobs/6239620004?gh_jid=6239620004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/guidepointsecurity/account-manager-southeast-guidepoint-security-00e315?utm_source=reddit",
-      "postedAt": "2026-10-30T17:32:57.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
