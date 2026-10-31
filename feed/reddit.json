@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:35:56.715Z",
+  "generatedAt": "2026-10-31T20:48:53.834Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -36,6 +36,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/MFG-PEE-PH-PR-TECH_JR110958-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mfg-pee-ph-pr-tech-micron-technology-b30986?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0be029a8-76d5-4fd8-bc30-220dd918bc68",
+      "title": "Key Account Manager - Bangkok",
+      "company": "Bacardi",
+      "place": "Bangkok, Thailand",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://bacardi.wd3.myworkdayjobs.com/Jobs_Bacardi/job/Bangkok/Key-Account-Manager---Bangkok_R26_02078",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bacardiorwd3orjobsbacardi/key-account-manager-bangkok-bacardi-fd7176?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/socotec/lab-technician-construction-testing-socotec-402047?utm_source=reddit",
       "postedAt": "2026-10-30T17:34:06.991Z",
       "notable": 5
-    },
-    {
-      "id": "08ed407f-608e-4928-94a5-2c301896f394",
-      "title": "IT Support Technician  L1 & L2 (m/w/d)",
-      "company": "EVERIENCE",
-      "place": "Amsterdam, Netherlands",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EVERIENCE/744000158809780",
-      "firstJobbyUrl": "https://firstjobby.com/companies/everience/it-support-technician-l1-and-l2-mwd-everience-545e52?utm_source=reddit",
-      "postedAt": "2026-10-30T17:33:53.124Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
