@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:24:31.629Z",
+  "generatedAt": "2026-10-31T18:14:43.961Z",
   "jobs": [
     {
       "id": "7960b836-f41f-4754-b217-383c02925551",
@@ -19,6 +19,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mfg-pee-ph-pr-tech-micron-technology-b30986?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "bf2cb17b-ce8e-49c1-b42a-69e0ce7c8dad",
+      "title": "Customer Success Team Agent II",
+      "company": "Coinbase",
+      "place": "Remote from United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.coinbase.com/careers/positions/8334752?gh_jid=8334752",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/customer-success-team-agent-ii-coinbase-e7b4a8?utm_source=reddit",
+      "postedAt": "2026-10-31T18:07:52.000Z",
+      "notable": 3
+    },
+    {
+      "id": "c7dca849-cc4e-4b8d-8960-db2a321ef196",
+      "title": "Customer Success Team Agent II",
+      "company": "Coinbase",
+      "place": "Remote from United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/customer-success-team-agent-ii-coinbase-963e51?utm_source=reddit",
+      "postedAt": "2026-10-31T17:54:26.000Z",
+      "notable": 3
     },
     {
       "id": "c780f23b-f7f1-4b29-8b46-951ed406994c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/asbestos-analyst-eurofins-built-environment-testing-tustin-ca-eurofins-ae0942?utm_source=reddit",
       "postedAt": "2026-10-30T17:21:18.421Z",
       "notable": 6
-    },
-    {
-      "id": "278ce19a-2c55-4c4b-90fe-7fa6373ab046",
-      "title": "Technical Business Development Representative",
-      "company": "Vercel",
-      "place": "San Francisco, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/vercel/jobs/6236991004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vercel/technical-business-development-representative-vercel-4beea8?utm_source=reddit",
-      "postedAt": "2026-10-30T17:20:44.000Z",
-      "notable": 2
-    },
-    {
-      "id": "3cd4ecac-761d-472c-a60e-5d581649bb07",
-      "title": "IT Support Specialist",
-      "company": "US Physical Therapy",
-      "place": "Fairfax, United States",
-      "category": "Engineering",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$26-$34/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016531206",
-      "firstJobbyUrl": "https://firstjobby.com/companies/usphysicaltherapy2/it-support-specialist-us-physical-therapy-636e94?utm_source=reddit",
-      "postedAt": "2026-10-30T17:19:45.753Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
