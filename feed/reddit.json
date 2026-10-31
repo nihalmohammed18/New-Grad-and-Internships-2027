@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:45:58.017Z",
+  "generatedAt": "2026-10-31T22:52:44.039Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -2523,7 +2523,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Marlborough-Massachusetts-United-States/Field-Service-Engineer--Territory--New-England-_R1315750",
+      "applyUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Marlborough-Massachusetts-United-States/Field-Service-Engineer--Territory--New-England-_R1315750",
       "firstJobbyUrl": "https://firstjobby.com/companies/danaherorwd1ordanaherjobs/field-service-engineer-territory-marlborough-ma-danaher-ff81b5?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
@@ -3209,6 +3209,25 @@
       "season": null,
       "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BELGRADE-SRB/L1-Support-agent_R0159155",
       "firstJobbyUrl": "https://firstjobby.com/companies/ncrorwd1orextnonus/l1-support-agent-ncr-voyix-1ebcdf?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "3e033e0c-a466-4471-b610-00a852ed6a52",
+      "title": "Full Time - Sales Associate - Plumbing - Day",
+      "company": "Lowe's",
+      "place": "Kailua Kona, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Plumbing---Day_JR-02696800",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-plumbing-day-lowes-847c0a?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/continental/intelligent-automation-and-ai-specialist-continental-8e60a0?utm_source=reddit",
       "postedAt": "2026-10-30T17:58:46.650Z",
       "notable": 2
-    },
-    {
-      "id": "7ab85f8f-dc64-499e-954e-6037317c0e6e",
-      "title": "SOC Engineer I (Mexico)",
-      "company": "DYOPATH",
-      "place": "Remote from Mexico",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "MX$25.0K/mo",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dyopath/jobs/4725856006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dyopath/soc-engineer-i-mexico-dyopath-e3da81?utm_source=reddit",
-      "postedAt": "2026-10-30T17:57:33.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
