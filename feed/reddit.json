@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:42:32.098Z",
+  "generatedAt": "2026-10-31T03:56:39.197Z",
   "jobs": [
     {
       "id": "e6ef904f-091b-489e-8411-182a2cc89595",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sonypicturesanimation/production-coordinator-marketing-and-custom-animation-sony-pictures-animation-608d5c?utm_source=reddit",
       "postedAt": "2026-10-31T00:42:21.000Z",
       "notable": 2
+    },
+    {
+      "id": "3dd58644-ba79-4549-b3d8-5319b4eadbc3",
+      "title": "QA Technician - 3rd Shift",
+      "company": "Monster Energy",
+      "place": "Phoenix, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$19-$25/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/monsterenergy/jobs/4444506009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/monsterenergy/qa-technician-3rd-shift-monster-energy-331634?utm_source=reddit",
+      "postedAt": "2026-10-31T00:13:57.000Z",
+      "notable": 3
     },
     {
       "id": "ffbe2121-5847-4b0c-bb49-593fbad57925",
@@ -5338,7 +5357,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
       "firstJobbyUrl": "https://firstjobby.com/companies/getbuilt/innovation-software-engineer-1-built-technologies-3429b9?utm_source=reddit",
       "postedAt": "2026-10-30T19:32:05.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "5e089e0a-11fc-4df4-8d19-0c7ade4d9292",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/convera/payments-processor-operations-convera-64e110?utm_source=reddit",
       "postedAt": "2026-10-30T16:10:49.000Z",
       "notable": 3
-    },
-    {
-      "id": "95fbe3aa-3547-4410-8d33-b0f98e801813",
-      "title": "Mobile/TAK Developer",
-      "company": "Accenture Federal Services",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$116.0K-$139.7K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/mobiletak-developer-accenture-federal-services-cf55f0?utm_source=reddit",
-      "postedAt": "2026-10-30T16:08:59.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
