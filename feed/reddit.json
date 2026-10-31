@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:55:07.512Z",
+  "generatedAt": "2026-10-31T20:15:18.593Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -1501,6 +1501,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-a00a9f?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "ed81e9ce-1a7c-4ab4-90ee-56fa6f9c2e90",
+      "title": "Deep Learning Compiler Verification Engineer",
+      "company": "NVIDIA",
+      "place": "Santa Clara, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$116.0K-$189.8K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Verification-Engineer_JR2028930",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/deep-learning-compiler-verification-engineer-nvidia-cf58de?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "eadbf789-c300-482b-943d-f582a2b8a8a4",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/guidepointsecurity/account-manager-southeast-guidepoint-security-00e315?utm_source=reddit",
       "postedAt": "2026-10-30T17:32:57.000Z",
       "notable": 2
-    },
-    {
-      "id": "3cff7021-2b32-4ad1-aef8-d25a0cc3c7bf",
-      "title": "Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA",
-      "company": "Eurofins",
-      "place": "Tustin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$18-$22/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000158809320",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-technician-i-organic-prep-multiple-shifts-eurofins-environment-testin-31a6d6?utm_source=reddit",
-      "postedAt": "2026-10-30T17:32:05.701Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
