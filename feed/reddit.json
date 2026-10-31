@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:11:53.338Z",
+  "generatedAt": "2026-10-31T16:19:50.268Z",
   "jobs": [
     {
       "id": "7960b836-f41f-4754-b217-383c02925551",
@@ -2468,6 +2468,25 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/22DA654880",
       "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/platform-engineer-weekday-ai-d5383f?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
+    },
+    {
+      "id": "2805d275-5576-4c7e-a232-27bcd1fbf5ff",
+      "title": "Frontline Customer Support - Technical Coach",
+      "company": "Octal Philippines Inc.",
+      "place": "Manila City, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/0BAC57E851",
+      "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/frontline-customer-support-technical-coach-octal-philippines-inc-d15619?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 3
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thefork/field-sales-representative-the-fork-6192f4?utm_source=reddit",
       "postedAt": "2026-10-30T17:08:10.000Z",
       "notable": 3
-    },
-    {
-      "id": "29951598-dcba-46be-9aad-249bbd7cc788",
-      "title": "Mid-Level Product Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$150.0K-$300.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/86b50192-e54a-40b1-94f2-9bac824bd002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-e32c14?utm_source=reddit",
-      "postedAt": "2026-10-30T17:06:41.829Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
