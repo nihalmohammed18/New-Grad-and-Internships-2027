@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:16:22.151Z",
+  "generatedAt": "2026-10-31T17:24:31.629Z",
   "jobs": [
     {
       "id": "7960b836-f41f-4754-b217-383c02925551",
@@ -1573,7 +1573,7 @@
       "pay": "$131.0K-$180.0K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer_R2632617",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer_R2632617",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/algorithm-developer-applied-materials-987eab?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -1706,7 +1706,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2632613",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Engineering-Technician_R2632613",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/engineering-technician-applied-materials-1af7ad?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 3
@@ -2523,7 +2523,7 @@
       "pay": "$100.0K-$136.5K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer_R2632614",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Electrical-Engineer_R2632614",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/electrical-engineer-applied-materials-1f1842?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -6405,6 +6405,25 @@
       "notable": 3
     },
     {
+      "id": "2813132a-ac56-468f-b4fd-95ca5372a723",
+      "title": "Fraud Strategy Analyst",
+      "company": "IDT",
+      "place": "Newark, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$95.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/idt/0f375f50-cba6-4412-af2a-bbcbc3f786e2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/idt/fraud-strategy-analyst-idt-916a1b?utm_source=reddit",
+      "postedAt": "2026-10-30T20:41:29.536Z",
+      "notable": 5
+    },
+    {
       "id": "ff25deed-b031-4651-ad8b-01dd9192d8e2",
       "title": "Area Sales Leader",
       "company": "Blue Link Wireless an Authorized Retailer of AT&T",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/usphysicaltherapy2/it-support-specialist-us-physical-therapy-636e94?utm_source=reddit",
       "postedAt": "2026-10-30T17:19:45.753Z",
       "notable": 3
-    },
-    {
-      "id": "3213a3fe-396b-4a7d-a717-5e085c80c344",
-      "title": "Machine Learning/Agentic AI Intern",
-      "company": "Tri",
-      "place": "Cambridge, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$40-$58/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tri/machine-learningagentic-ai-intern-tri-da9353?utm_source=reddit",
-      "postedAt": "2026-10-30T17:19:16.359Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
