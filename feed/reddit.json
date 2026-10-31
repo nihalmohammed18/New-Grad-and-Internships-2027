@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:25:12.526Z",
+  "generatedAt": "2026-10-31T21:34:22.965Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -21,6 +21,25 @@
       "notable": 2
     },
     {
+      "id": "a130bee4-42b6-46c5-b3ce-224368fd04d0",
+      "title": "S4 Developer",
+      "company": "KION Group",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Pune-India/S4-Developer_JR-0098457",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/s4-developer-kion-group-63b68f?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "7960b836-f41f-4754-b217-383c02925551",
       "title": "MFG PEE PH PR TECH",
       "company": "Micron Technology",
@@ -36,6 +55,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/MFG-PEE-PH-PR-TECH_JR110958-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mfg-pee-ph-pr-tech-micron-technology-b30986?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "38e39b44-ab7b-4b54-88e0-ee25bbec94e8",
+      "title": "S4 Developer",
+      "company": "KION Group",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Pune-India/S4-Developer_JR-0098458",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/s4-developer-kion-group-28e9c3?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spacex/it-windows-systems-administrator-spacex-49355b?utm_source=reddit",
       "postedAt": "2026-10-30T17:38:58.000Z",
       "notable": 2
-    },
-    {
-      "id": "2255f9b1-22fa-4439-83fd-135fa6f7b7f5",
-      "title": "Sales Intern - China Commercial",
-      "company": "Veeva",
-      "place": "Shanghai, China",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/veeva/c6d6b813-d235-4bee-a1bb-54390232152e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veeva/sales-intern-china-commercial-veeva-e4eb25?utm_source=reddit",
-      "postedAt": "2026-10-30T17:35:20.780Z",
-      "notable": 2
-    },
-    {
-      "id": "6056e4c7-c566-4b0a-a1da-d8f6f62073e9",
-      "title": "Junior Lab Technician - Construction Testing",
-      "company": "SOCOTEC",
-      "place": "Farmingdale, United States",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$18-$22/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000158810279",
-      "firstJobbyUrl": "https://firstjobby.com/companies/socotec/junior-lab-technician-construction-testing-socotec-8fde50?utm_source=reddit",
-      "postedAt": "2026-10-30T17:34:24.651Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
