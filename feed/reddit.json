@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:54:52.009Z",
+  "generatedAt": "2026-10-31T13:04:10.984Z",
   "jobs": [
     {
       "id": "8488108f-9828-45e3-aa0c-d1bd1695a046",
@@ -1271,6 +1271,25 @@
       "season": null,
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2632613",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/engineering-technician-applied-materials-1af7ad?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
+    },
+    {
+      "id": "bccb350a-4e96-412e-ad23-f0483e58309c",
+      "title": "Splice Technician Coordinator - Remote",
+      "company": "Race Communications",
+      "place": "Remote from United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$20-$22/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/C07594B6CB",
+      "firstJobbyUrl": "https://firstjobby.com/companies/racecommunications/splice-technician-coordinator-remote-race-communications-46c611?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 3
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/associate-chemist-environment-testing-2nd-shift-sun-thurs-eurofins-3c9059?utm_source=reddit",
       "postedAt": "2026-10-30T16:56:38.524Z",
       "notable": 6
-    },
-    {
-      "id": "2f48922b-e433-4302-8413-2475814e49f5",
-      "title": "Fleet Operations Associate (Day Shift)",
-      "company": "Lyft",
-      "place": "Nashville, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$17-$20/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lyft/fleet-operations-associate-day-shift-lyft-87e912?utm_source=reddit",
-      "postedAt": "2026-10-30T16:56:32.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
