@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:08:02.017Z",
+  "generatedAt": "2026-10-31T11:13:14.656Z",
   "jobs": [
     {
       "id": "8488108f-9828-45e3-aa0c-d1bd1695a046",
@@ -1060,7 +1060,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Analog-Design-Engineer_R266775",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-TX-Dallas-Tollway/Analog-Design-Engineer_R266775",
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/analog-design-engineer-analog-devices-d17f6a?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 3
@@ -1083,6 +1083,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/health-operations-associate-accenture-8e951d?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "ce2fff20-4c1a-4d0d-a4b3-e53310161a77",
+      "title": "Algorithm Developer",
+      "company": "Applied Materials",
+      "place": "Santa Clara, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$131.0K-$180.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer_R2632617",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/algorithm-developer-applied-materials-987eab?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "ce29d7e6-e44a-48d6-99eb-e2483dd29396",
@@ -1197,6 +1216,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-282063?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "bd546ea6-aa8e-4fb0-8809-66af4de94f8d",
+      "title": "Engineering Technician",
+      "company": "Applied Materials",
+      "place": "Santa Clara, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician_R2632613",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/engineering-technician-applied-materials-1af7ad?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "ba3b5b58-546c-489a-b40c-63c07c4bf16f",
@@ -1862,6 +1900,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-b4d32c?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "53a5a009-901d-43c3-8555-d995aa0df843",
+      "title": "Electrical Engineer",
+      "company": "Applied Materials",
+      "place": "Santa Clara, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$100.0K-$136.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer_R2632614",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/electrical-engineer-applied-materials-1f1842?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "530fd61c-87c2-4507-9a61-e7d9c9d98dc0",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lyft/fleet-operations-associate-lyft-8bae1f?utm_source=reddit",
       "postedAt": "2026-10-30T16:54:11.000Z",
       "notable": 5
-    },
-    {
-      "id": "49292c88-bc01-4cc0-8b2b-cbfdfb0b5d48",
-      "title": "Platform engineer",
-      "company": "Seccl",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£55.0K-£75.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/seccl/34d2433b-c83a-4f4e-b405-a5486cb209f2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/seccl/platform-engineer-seccl-24bee3?utm_source=reddit",
-      "postedAt": "2026-10-30T16:53:25.064Z",
-      "notable": 3
-    },
-    {
-      "id": "5c27d6bd-3dc1-476d-a0dc-622cf78df9d5",
-      "title": "Splunk Engineer",
-      "company": "SpaceX",
-      "place": "Redmond, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$135.0K-$195.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8925456002?gh_jid=8925456002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/splunk-engineer-spacex-dbfe9c?utm_source=reddit",
-      "postedAt": "2026-10-30T16:51:34.000Z",
-      "notable": 4
-    },
-    {
-      "id": "b3ad82ba-66b1-41a0-8516-3388f0d6af2f",
-      "title": "Customer Support Specialist - Tier 1",
-      "company": "Canopy",
-      "place": "Draper, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/canopytax/jobs/4474245009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/canopytax/customer-support-specialist-tier-1-canopy-73827b?utm_source=reddit",
-      "postedAt": "2026-10-30T16:51:32.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
