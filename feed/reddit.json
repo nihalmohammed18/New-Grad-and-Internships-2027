@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:19:50.268Z",
+  "generatedAt": "2026-10-31T16:27:02.222Z",
   "jobs": [
     {
       "id": "7960b836-f41f-4754-b217-383c02925551",
@@ -3232,6 +3232,25 @@
       "notable": 5
     },
     {
+      "id": "5453ba7b-e03f-4514-84b9-930432d35e28",
+      "title": "Remote Sales Rep, US Market - AI-Enabled, Flexible Hours (Independent Contractor)",
+      "company": "Sellfire",
+      "place": "Remote from Argentina, Australia, Colombia, Guatemala, Honduras, Canada, Costa Rica, United Kingdom, Dominican Republic, El Salvador, South Africa, Uruguay, Mexico",
+      "category": "Sales",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$7.5K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/sellfire/a79931d1-7e95-4712-88de-16f9ae0b93e7",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sellfire/remote-sales-rep-us-market-ai-enabled-flexible-hours-independent-contractor-sell-4473cd?utm_source=reddit",
+      "postedAt": "2026-10-30T21:51:03.406Z",
+      "notable": 3
+    },
+    {
       "id": "64485099-77ac-4949-acdf-9549131d44e0",
       "title": "Sales Development Representative, French Speaking",
       "company": "InfluxData",
@@ -3286,6 +3305,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/influxdata/250fe314-7ace-45e3-b0a0-ae1fd8f52d0b",
       "firstJobbyUrl": "https://firstjobby.com/companies/influxdata/sales-development-representative-uk-influxdata-3901d0?utm_source=reddit",
       "postedAt": "2026-10-30T21:49:05.378Z",
+      "notable": 3
+    },
+    {
+      "id": "11080ac2-0a43-4ab4-ac39-1aa3097c7c5a",
+      "title": "Remote Inside Sales Rep - AI-Enabled, Flexible Hours (Independent Contractor)",
+      "company": "Sellfire",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$7.5K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/sellfire/5a2bb4c0-46ac-4a9a-9170-e7d21b68814e",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sellfire/remote-inside-sales-rep-ai-enabled-flexible-hours-independent-contractor-sellfir-80ccf9?utm_source=reddit",
+      "postedAt": "2026-10-30T21:49:01.236Z",
       "notable": 3
     },
     {
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000158802446",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/development-and-test-engineer-heat-pumps-fmdiv-bosch-group-4888fd?utm_source=reddit",
       "postedAt": "2026-10-30T17:08:59.791Z",
-      "notable": 3
-    },
-    {
-      "id": "c36e2ef0-bb67-4712-880c-a3de92591948",
-      "title": "Consultant.e - Cybersécurité",
-      "company": "Wavestone",
-      "place": "Paris, France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000158805269",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wavestone1/consultante-cybersecurite-wavestone-805976?utm_source=reddit",
-      "postedAt": "2026-10-30T17:08:17.263Z",
-      "notable": 3
-    },
-    {
-      "id": "d5f77ad2-1f31-4970-8ea3-81d3126f1373",
-      "title": "Field Sales Representative",
-      "company": "The Fork",
-      "place": "Remote from Sweden",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thefork/jobs/8331094",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thefork/field-sales-representative-the-fork-6192f4?utm_source=reddit",
-      "postedAt": "2026-10-30T17:08:10.000Z",
       "notable": 3
     }
   ],
