@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:08:08.905Z",
+  "generatedAt": "2026-10-31T08:43:58.547Z",
   "jobs": [
     {
       "id": "c30ef09f-19f6-4026-979c-46b75deaec42",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/qtsdatacentersorwd5orqts/osc-facilities-support-engineer-i-qtsdatacenters-c0362d?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6c07f3cc-fdc3-471f-be22-c5a71a2573ed",
+      "title": "Sales Representative Maternity & NICU",
+      "company": "Medela",
+      "place": "Dietersheim, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://medela.wd103.myworkdayjobs.com/Medela_Careers/job/Dietersheim-Munich/Sales-Representative-Maternity---NICU_R2658",
+      "firstJobbyUrl": "https://firstjobby.com/companies/medelaorwd103ormedelacareers/sales-representative-maternity-and-nicu-medela-3d4036?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "67ffd74c-5798-4c8b-a606-542b895716fd",
@@ -3359,7 +3378,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000158841929-sales-executive",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000158841929",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-delivery-hero-3f3796?utm_source=reddit",
       "postedAt": "2026-10-30T20:58:33.761Z",
       "notable": 3
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://instacart.careers/job/?gh_jid=8336883",
       "firstJobbyUrl": "https://firstjobby.com/companies/instacart/customer-experience-t3-specialist-instacart-e77e89?utm_source=reddit",
       "postedAt": "2026-10-30T16:34:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "c8f4fa7e-f3ae-4ad5-b9c6-05afa18bfd2b",
-      "title": "Bilingual Customer Experience T3 Specialist (Spanish)",
-      "company": "Instacart",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$17-$21/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://instacart.careers/job/?gh_jid=8336857",
-      "firstJobbyUrl": "https://firstjobby.com/companies/instacart/bilingual-customer-experience-t3-specialist-spanish-instacart-2a817f?utm_source=reddit",
-      "postedAt": "2026-10-30T16:33:54.000Z",
       "notable": 3
     }
   ],
