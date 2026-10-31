@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-31T15:59:38.174Z",
+  "generatedAt": "2026-10-31T16:11:53.338Z",
   "jobs": [
+    {
+      "id": "7960b836-f41f-4754-b217-383c02925551",
+      "title": "MFG PEE PH PR TECH",
+      "company": "Micron Technology",
+      "place": "Higashihiroshima, Japan",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/MFG-PEE-PH-PR-TECH_JR110958-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mfg-pee-ph-pr-tech-micron-technology-b30986?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "c780f23b-f7f1-4b29-8b46-951ed406994c",
       "title": "Analyst, Operations Excellence",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-e32c14?utm_source=reddit",
       "postedAt": "2026-10-30T17:06:41.829Z",
       "notable": 6
-    },
-    {
-      "id": "ee7fe905-ed8a-47a0-a33a-8e7e859cf72e",
-      "title": "Regional Account Executive, Pennsylvania",
-      "company": "Flai",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$150.0K-$250.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/flai/f5c0182b-73bd-43f5-8de2-3c9d6641f886",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flai/regional-account-executive-pennsylvania-flai-eb6b03?utm_source=reddit",
-      "postedAt": "2026-10-30T17:05:46.215Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
