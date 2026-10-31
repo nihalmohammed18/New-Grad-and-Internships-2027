@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:28:30.074Z",
+  "generatedAt": "2026-10-31T15:24:34.036Z",
   "jobs": [
     {
       "id": "6b08823c-a7e2-4f74-9b17-3efa6bbb50d0",
@@ -2240,6 +2240,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Procure-to-Pay-Operations-Associate_AIOC-S01656107-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-f45048?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "3bf0ca52-b08a-4d6e-8202-1336ead5cb91",
+      "title": "Supply Chain & Logistik Prozess Experte Luftfahrtindustrie (all genders)",
+      "company": "Accenture",
+      "place": "Hamburg, Germany",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hamburg/Supply-Chain---Logistik-Prozess-Experte-Luftfahrtindustrie--all-genders-_R00327238-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/supply-chain-and-logistik-prozess-experte-luftfahrtindustrie-all-genders-accentu-4abd76?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/inter/engineering-assistant-or-construction-mg-inter-carreiras-2a76f4?utm_source=reddit",
       "postedAt": "2026-10-30T17:04:45.000Z",
       "notable": 3
-    },
-    {
-      "id": "ab8e36f8-aa81-4960-8911-54d9c87a2a0a",
-      "title": "Buyer, Procurement",
-      "company": "Carvana",
-      "place": "Tempe, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8337354",
-      "firstJobbyUrl": "https://firstjobby.com/companies/carvana/buyer-procurement-carvana-6f1b6e?utm_source=reddit",
-      "postedAt": "2026-10-30T17:04:44.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
