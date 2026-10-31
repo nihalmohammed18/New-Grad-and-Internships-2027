@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:06:54.854Z",
+  "generatedAt": "2026-10-31T05:13:09.037Z",
   "jobs": [
     {
       "id": "e6ef904f-091b-489e-8411-182a2cc89595",
@@ -779,6 +779,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-bb3ea4?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "a6691bf0-7f17-4811-9a56-a563d5c071ea",
+      "title": "Associate Engineer, Analytical AI Engineering",
+      "company": "RayzeBio",
+      "place": "Princeton, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$81.3K-$98.5K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bristolmyerssquibborwd5orbms/associate-engineer-analytical-ai-engineering-rayzebio-385ec1?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "a3767f20-5fc6-47e8-abf7-eed93e9e3b6e",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/myriad360/data-platform-admin-remote-myriad360-dedd02?utm_source=reddit",
       "postedAt": "2026-10-30T16:25:18.000Z",
       "notable": 2
-    },
-    {
-      "id": "8fecea62-c6d8-41df-8ea6-1d4f383e9e4b",
-      "title": "Business Analyst I (Remote)",
-      "company": "Businessolver",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$47.0K-$70.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.businessolver.com/careers/openings/?gh_jid=8024937",
-      "firstJobbyUrl": "https://firstjobby.com/companies/businessolver/business-analyst-i-remote-businessolver-4e56bf?utm_source=reddit",
-      "postedAt": "2026-10-30T16:24:24.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
