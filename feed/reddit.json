@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:16:42.892Z",
+  "generatedAt": "2026-10-31T12:02:57.570Z",
   "jobs": [
     {
       "id": "8488108f-9828-45e3-aa0c-d1bd1695a046",
@@ -56,6 +56,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000158887849-kauffrau-mann-m-w-d-kundenservice-fahrrad-pruflabor-",
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/kauffrau-mann-mwd-kundenservice-fahrrad-pruflabor-sgs-3adc32?utm_source=reddit",
       "postedAt": "2026-10-31T10:19:11.802Z",
+      "notable": 3
+    },
+    {
+      "id": "9ff54db0-50b0-421b-85a6-67c1c9c1d33b",
+      "title": "Quantitative Developer - Production",
+      "company": "Qube Research & Technologies",
+      "place": "Hong Kong",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8908075002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/quberesearchandtechnologies/quantitative-developer-production-qube-research-and-technologies-d9386a?utm_source=reddit",
+      "postedAt": "2026-10-31T09:53:45.000Z",
       "notable": 3
     },
     {
@@ -832,7 +851,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://worldwide.wd1.myworkdayjobs.com/External/job/New-Delhi-India/Grants-Payments-Data-Analyst_JR103039",
+      "applyUrl": "https://worldwide.wd1.myworkdayjobs.com/external/job/New-Delhi-India/Grants-Payments-Data-Analyst_JR103039",
       "firstJobbyUrl": "https://firstjobby.com/companies/worldwideorwd1orexternal/grants-payments-data-analyst-worldwide-clinical-trials-a246cd?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/panoptyc/business-development-representative-panoptyc-8e8706?utm_source=reddit",
       "postedAt": "2026-10-30T16:54:22.707Z",
       "notable": 0
-    },
-    {
-      "id": "af86e9fa-730b-4778-8afe-66c168f65fa1",
-      "title": "Fleet Operations Associate",
-      "company": "Lyft",
-      "place": "Nashville, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$17-$20/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lyft/fleet-operations-associate-lyft-8bae1f?utm_source=reddit",
-      "postedAt": "2026-10-30T16:54:11.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
