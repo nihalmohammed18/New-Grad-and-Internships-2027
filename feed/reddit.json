@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:48:21.040Z",
+  "generatedAt": "2026-10-31T07:41:22.544Z",
   "jobs": [
     {
       "id": "c30ef09f-19f6-4026-979c-46b75deaec42",
@@ -2238,7 +2238,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Xplor/744000158850066-device-operations-specialist-us",
+      "applyUrl": "https://jobs.smartrecruiters.com/Xplor/744000158850066",
       "firstJobbyUrl": "https://firstjobby.com/companies/xplor/device-operations-specialist-us-xplor-f7d35a?utm_source=reddit",
       "postedAt": "2026-10-30T22:18:07.730Z",
       "notable": 4
@@ -6000,7 +6000,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000158831349-admissions-representative-sales-experience-required-",
+      "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000158831349",
       "firstJobbyUrl": "https://firstjobby.com/companies/uniteklearning/admissions-representative-sales-experience-required-unitek-learning-2222dc?utm_source=reddit",
       "postedAt": "2026-10-30T19:26:40.915Z",
       "notable": 2
@@ -8191,25 +8191,6 @@
       "notable": 2
     },
     {
-      "id": "fcf2c8da-4ed2-43e6-9591-4aac0c5dc8e1",
-      "title": "Admissions Representative (Sales Experience Required)",
-      "company": "Unitek Learning",
-      "place": "Provo, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000158807839-admissions-representative-sales-experience-required-",
-      "firstJobbyUrl": "https://firstjobby.com/companies/uniteklearning/admissions-representative-sales-experience-required-unitek-learning-1c4872?utm_source=reddit",
-      "postedAt": "2026-10-30T17:20:35.508Z",
-      "notable": 2
-    },
-    {
       "id": "3cd4ecac-761d-472c-a60e-5d581649bb07",
       "title": "IT Support Specialist",
       "company": "US Physical Therapy",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/myriad360/analytics-engineer-remote-myriad360-1033f3?utm_source=reddit",
       "postedAt": "2026-10-30T16:33:12.000Z",
       "notable": 2
+    },
+    {
+      "id": "523c40a3-65fc-464d-a345-a440a5364c1d",
+      "title": "Customer Support Specialist ll",
+      "company": "Coinbase",
+      "place": "Manila, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₱798.3K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.coinbase.com/careers/positions/8337029?gh_jid=8337029",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/customer-support-specialist-ll-coinbase-86f543?utm_source=reddit",
+      "postedAt": "2026-10-30T16:31:08.000Z",
+      "notable": 5
     }
   ],
   "fakeEntryLevel": {
