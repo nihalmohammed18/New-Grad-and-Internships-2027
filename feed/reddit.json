@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:37:32.152Z",
+  "generatedAt": "2026-10-31T09:59:46.060Z",
   "jobs": [
     {
       "id": "c6a3cf5a-f1bf-4f2e-bbf3-4f075be0564d",
@@ -284,6 +284,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/vclusterlabs/056862b7-fcfd-4a3f-9f90-d8a34e375a34",
       "firstJobbyUrl": "https://firstjobby.com/companies/vclusterlabs/sales-development-rep-nyc-vcluster-labs-e86226?utm_source=reddit",
       "postedAt": "2026-10-31T04:35:35.666Z",
+      "notable": 5
+    },
+    {
+      "id": "32058c36-9c4c-4b63-a66b-ca0d7da0c469",
+      "title": "Systems Engineer II – Systems",
+      "company": "Voyager Technologies, Inc.",
+      "place": "Folsom, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$82.5K-$128.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4474576009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/voyagertechnologiesinc/systems-engineer-ii-systems-voyager-technologies-inc-53d3ed?utm_source=reddit",
+      "postedAt": "2026-10-31T04:05:33.000Z",
       "notable": 5
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/luxinfusion/patient-support-specialist-lux-infusion-734904?utm_source=reddit",
       "postedAt": "2026-10-30T16:49:28.000Z",
       "notable": 5
-    },
-    {
-      "id": "d21c6db7-3e05-4329-a686-538be07c8474",
-      "title": "Splunk Engineer",
-      "company": "SpaceX",
-      "place": "Redmond, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8925450002?gh_jid=8925450002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/splunk-engineer-spacex-54fcae?utm_source=reddit",
-      "postedAt": "2026-10-30T16:48:03.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
