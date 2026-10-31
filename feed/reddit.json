@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:13:09.037Z",
+  "generatedAt": "2026-10-31T05:59:06.896Z",
   "jobs": [
     {
       "id": "e6ef904f-091b-489e-8411-182a2cc89595",
@@ -378,6 +378,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Procurement-Practice-Associate_AIOC-S01673231-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procurement-practice-associate-accenture-d20091?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f36ae37d-a91c-48b9-a483-7a7eab1eefc4",
+      "title": "Grants Payments Data Analyst",
+      "company": "Worldwide Clinical Trials",
+      "place": "Remote from India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://worldwide.wd1.myworkdayjobs.com/External/job/New-Delhi-India/Grants-Payments-Data-Analyst_JR103039",
+      "firstJobbyUrl": "https://firstjobby.com/companies/worldwideorwd1orexternal/grants-payments-data-analyst-worldwide-clinical-trials-a246cd?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -1119,6 +1138,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Order-to-Cash-Operations-Associate_AIOC-S01656609-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-b4eea0?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "730bac28-8863-4a88-a025-cd789ad8bd9b",
+      "title": "Research Analyst 1",
+      "company": "Vanderbilt Health",
+      "place": "Nashville, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Research-Analyst-1_R-70872",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/research-analyst-1-vanderbilt-health-3ad441?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lightspeeddms/technical-support-analyst-tier-i-lightspeed-dms-5aa65f?utm_source=reddit",
       "postedAt": "2026-10-30T16:28:03.000Z",
       "notable": 1
-    },
-    {
-      "id": "5f67da2d-aeb7-4269-a909-42860dfc2181",
-      "title": "Radiation Assurance Engineer",
-      "company": "AST SpaceMobile",
-      "place": "Barcelona, Spain",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://ast-science.com/company/careers/?gh_jid=4749369005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/astspacemobile/radiation-assurance-engineer-ast-spacemobile-f70b37?utm_source=reddit",
-      "postedAt": "2026-10-30T16:27:27.000Z",
-      "notable": 3
-    },
-    {
-      "id": "f96cd4a2-1c69-41a5-8f6c-6273872df9e8",
-      "title": "Data Platform Admin (Remote)",
-      "company": "Myriad360",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/myriad360/jobs/8924434002?gh_jid=8924434002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/myriad360/data-platform-admin-remote-myriad360-dedd02?utm_source=reddit",
-      "postedAt": "2026-10-30T16:25:18.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
