@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:10:12.490Z",
+  "generatedAt": "2026-10-31T14:28:30.074Z",
   "jobs": [
     {
       "id": "6b08823c-a7e2-4f74-9b17-3efa6bbb50d0",
@@ -1408,6 +1408,25 @@
       "notable": 3
     },
     {
+      "id": "bc2728c9-26d2-4984-bd77-0b7fd7175cc7",
+      "title": "digital marketing",
+      "company": "Weekday AI",
+      "place": "Hyderabad, India",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/CB78FE5524",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/digital-marketing-weekday-ai-897d1b?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "ba3b5b58-546c-489a-b40c-63c07c4bf16f",
       "title": "School of Applied Science - Research Assistant (Aquaculture)",
       "company": "Singapore Public Service",
@@ -2356,6 +2375,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-756dda?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "29182293-686e-4d51-993b-8c2936518dc3",
+      "title": "Platform Engineer",
+      "company": "Weekday AI",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/22DA654880",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weekday-1/platform-engineer-weekday-ai-d5383f?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "26f6c870-83d0-491c-98ba-a20d0135756e",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/carvana/buyer-procurement-carvana-6f1b6e?utm_source=reddit",
       "postedAt": "2026-10-30T17:04:44.000Z",
       "notable": 4
-    },
-    {
-      "id": "295ae8b8-f7ca-4a06-a065-c528e5472348",
-      "title": "Forward Deployed Engineer",
-      "company": "Clera",
-      "place": "Berlin, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "€70.0K-€110.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clera/d68a52d1-3c6c-4752-86ea-05c72985145b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/forward-deployed-engineer-clera-d90a6b?utm_source=reddit",
-      "postedAt": "2026-10-30T17:04:30.386Z",
-      "notable": 6
-    },
-    {
-      "id": "2eb3a842-453e-48a7-979d-d9fc9869d466",
-      "title": "Minor League Complex Hitting Analyst and Rehab Coach",
-      "company": "Boston Red Sox",
-      "place": "Fort Myers, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "seasonal",
-      "applyUrl": "https://jobs.lever.co/redsox/7cafc474-cda7-49af-acfd-40dd2b804d14",
-      "firstJobbyUrl": "https://firstjobby.com/companies/redsox/minor-league-complex-hitting-analyst-and-rehab-coach-boston-red-sox-c87450?utm_source=reddit",
-      "postedAt": "2026-10-30T17:01:47.252Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
