@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:06:19.361Z",
+  "generatedAt": "2026-10-31T06:13:43.110Z",
   "jobs": [
     {
       "id": "1b88acd3-d122-4734-b6eb-2b638ae49ba5",
@@ -7830,6 +7830,25 @@
       "notable": 2
     },
     {
+      "id": "2255f9b1-22fa-4439-83fd-135fa6f7b7f5",
+      "title": "Sales Intern - China Commercial",
+      "company": "Veeva",
+      "place": "Shanghai, China",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/veeva/c6d6b813-d235-4bee-a1bb-54390232152e",
+      "firstJobbyUrl": "https://firstjobby.com/companies/veeva/sales-intern-china-commercial-veeva-e4eb25?utm_source=reddit",
+      "postedAt": "2026-10-30T17:35:20.780Z",
+      "notable": 2
+    },
+    {
       "id": "6056e4c7-c566-4b0a-a1da-d8f6f62073e9",
       "title": "Junior Lab Technician - Construction Testing",
       "company": "SOCOTEC",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trainline/junior-android-engineer-trainline-08703f?utm_source=reddit",
       "postedAt": "2026-10-30T16:30:49.734Z",
       "notable": 5
-    },
-    {
-      "id": "6749d036-5230-4d5e-965e-08fe5ad4b2c9",
-      "title": "Project Engineer",
-      "company": "Syner-G",
-      "place": "Providence, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/synerg/jobs/6239297004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/synerg/project-engineer-syner-g-36f44f?utm_source=reddit",
-      "postedAt": "2026-10-30T16:30:01.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
