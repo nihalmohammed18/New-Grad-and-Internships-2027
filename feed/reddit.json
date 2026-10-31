@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-31T19:05:35.618Z",
+  "generatedAt": "2026-10-31T19:34:19.324Z",
   "jobs": [
+    {
+      "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
+      "title": "National Community Leadership Institute Traineeship [GRIT@Gov]",
+      "company": "Singapore Public Service",
+      "place": "Singapore",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/PAS-National-Community-Leadership-Institute/National-Community-Leadership-Institute-Traineeship--GRIT-Gov-_JR-10000055045",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/national-community-leadership-institute-traineeship-gritgov-singapore-public-ser-3b16ac?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "7960b836-f41f-4754-b217-383c02925551",
       "title": "MFG PEE PH PR TECH",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/EVERSANA1/744000158808629",
       "firstJobbyUrl": "https://firstjobby.com/companies/eversana1/business-development-specialist-eversana-f4bb29?utm_source=reddit",
       "postedAt": "2026-10-30T17:23:31.349Z",
-      "notable": 3
-    },
-    {
-      "id": "be10b367-ae36-4e0c-bcc9-d7974b2a950f",
-      "title": "Product Support T3 Engineer",
-      "company": "Cato Networks",
-      "place": "Remote from United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.catonetworks.com/careers/careers-post/4968325101?gh_jid=4968325101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/catonetworks/product-support-t3-engineer-cato-networks-03367a?utm_source=reddit",
-      "postedAt": "2026-10-30T17:23:12.000Z",
       "notable": 3
     }
   ],
