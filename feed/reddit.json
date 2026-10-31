@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:49:48.100Z",
+  "generatedAt": "2026-10-31T12:54:52.009Z",
   "jobs": [
     {
       "id": "8488108f-9828-45e3-aa0c-d1bd1695a046",
@@ -1009,6 +1009,25 @@
       "notable": 2
     },
     {
+      "id": "dd8a0fd4-d3b8-4e4b-8235-e53b7c220bd1",
+      "title": "Ratings Operations Specialist, Denver, CO",
+      "company": "Kensho",
+      "place": "Denver, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$47.0K-$53.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Colorado-US/Ratings-Operations-Specialist--Denver--CO_332489-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/ratings-operations-specialist-denver-co-kensho-1dbff6?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "d619f50b-b794-4789-8ff8-b606e8bf0f5c",
       "title": "Supply Chain Operations Associate",
       "company": "Accenture",
@@ -1402,7 +1421,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Data-Analyst_329166-1",
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/IN---HYDERABAD-SKYVIEW/Data-Analyst_329166-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/data-analyst-kensho-0b2c75?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
@@ -2145,6 +2164,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Order-to-Cash-Operations-Associate_AIOC-S01656623-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-756dda?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "26f6c870-83d0-491c-98ba-a20d0135756e",
+      "title": "Rating Analyst – Corporate Ratings, São Paulo, Brazil",
+      "company": "Kensho",
+      "place": "São Paulo, Brazil",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Sao-Paulo-BR/Rating-Analyst---Corporate-Ratings--So-Paulo--Brazil-_332477-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/rating-analyst-corporate-ratings-sao-paulo-brazil-kensho-a9700e?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lyft/fleet-operations-associate-day-shift-lyft-87e912?utm_source=reddit",
       "postedAt": "2026-10-30T16:56:32.000Z",
       "notable": 5
-    },
-    {
-      "id": "36f9c24a-0216-42bf-8af4-9540e807d4fd",
-      "title": "DevOps Intern",
-      "company": "Bosch Group",
-      "place": "Beograd, Serbia",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000158802889",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/devops-intern-bosch-group-c8ccf5?utm_source=reddit",
-      "postedAt": "2026-10-30T16:55:30.427Z",
-      "notable": 3
-    },
-    {
-      "id": "61591b5c-b9de-41ea-92e6-51188e595cf9",
-      "title": "Civil Engineering Co-Op Student",
-      "company": "AECOM",
-      "place": "Philadelphia, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": "January 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158802849",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineering-co-op-student-aecom-e0b97e?utm_source=reddit",
-      "postedAt": "2026-10-30T16:54:56.460Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
