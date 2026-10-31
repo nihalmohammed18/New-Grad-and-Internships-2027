@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:48:53.834Z",
+  "generatedAt": "2026-10-31T21:25:12.526Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/netcraft/cybercrime-analyst-netcraft-c3c2b8?utm_source=reddit",
       "postedAt": "2026-10-31T00:03:44.000Z",
       "notable": 3
+    },
+    {
+      "id": "ffbe7e14-81c4-4283-8e8e-f292e7b729a3",
+      "title": "Platform Admin/DevOPs",
+      "company": "Accenture",
+      "place": "Santiago, Chile",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Platform-Admin-DevOPs_14885155",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/platform-admindevops-accenture-333ba6?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "ffbe2121-5847-4b0c-bb49-593fbad57925",
@@ -2922,7 +2941,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hamburg/Supply-Chain---Logistik-Prozess-Experte-Luftfahrtindustrie--all-genders-_R00327238-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Hamburg/Supply-Chain---Logistik-Prozess-Experte-Luftfahrtindustrie--all-genders-_R00327238-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/supply-chain-and-logistik-prozess-experte-luftfahrtindustrie-all-genders-accentu-4abd76?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000158810279",
       "firstJobbyUrl": "https://firstjobby.com/companies/socotec/junior-lab-technician-construction-testing-socotec-8fde50?utm_source=reddit",
       "postedAt": "2026-10-30T17:34:24.651Z",
-      "notable": 5
-    },
-    {
-      "id": "1f527b83-e7a5-4a80-9eb3-bad7605885cf",
-      "title": "Lab Technician - Construction Testing",
-      "company": "SOCOTEC",
-      "place": "Farmingdale, United States",
-      "category": "Engineering",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24-$28/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000158810090",
-      "firstJobbyUrl": "https://firstjobby.com/companies/socotec/lab-technician-construction-testing-socotec-402047?utm_source=reddit",
-      "postedAt": "2026-10-30T17:34:06.991Z",
       "notable": 5
     }
   ],
