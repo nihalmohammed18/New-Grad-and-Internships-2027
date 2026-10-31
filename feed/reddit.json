@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:20:41.320Z",
+  "generatedAt": "2026-10-31T10:29:19.999Z",
   "jobs": [
     {
       "id": "c6a3cf5a-f1bf-4f2e-bbf3-4f075be0564d",
@@ -2031,6 +2031,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Procurement-Practice-Associate_AIOC-S01673230-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procurement-practice-associate-accenture-49e4e3?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "188c975e-9c96-43cf-8e79-e1a2c550494a",
+      "title": "Associate Graphic Designer",
+      "company": "dentsu",
+      "place": "Mumbai, India",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Mumbai/Associate-Graphic-Designer_R1136538",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dentsuaegisorwd3ordanglobal/associate-graphic-designer-dentsu-68cfac?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/qa-engineer-accenture-federal-services-58f107?utm_source=reddit",
       "postedAt": "2026-10-30T16:49:42.000Z",
       "notable": 5
-    },
-    {
-      "id": "8b8f5e7f-58e7-416f-84cb-93e9521aa9ad",
-      "title": "Customer Support Specialist (Kazakh-speaking)",
-      "company": "FxPro",
-      "place": "Yerevan, Armenia",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/fxpro/jobs/5024287101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fxpro/customer-support-specialist-kazakh-speaking-fxpro-c81912?utm_source=reddit",
-      "postedAt": "2026-10-30T16:49:41.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
