@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:35:24.189Z",
+  "generatedAt": "2026-10-31T22:45:58.017Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -3190,6 +3190,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Procure-to-Pay-Operations-Associate_AIOC-S01656107-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-f45048?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "41fb2ec9-3549-4e65-844b-0efc87909206",
+      "title": "L1 Support agent",
+      "company": "NCR Voyix",
+      "place": "Belgrade, Suriname",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BELGRADE-SRB/L1-Support-agent_R0159155",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ncrorwd1orextnonus/l1-support-agent-ncr-voyix-1ebcdf?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dyopath/soc-engineer-i-mexico-dyopath-e3da81?utm_source=reddit",
       "postedAt": "2026-10-30T17:57:33.000Z",
       "notable": 5
-    },
-    {
-      "id": "21f0ad2d-18e1-44b1-b66a-b6852e31f03b",
-      "title": "Growth Specialist",
-      "company": "Constellation Software, Inc.",
-      "place": "New York, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/constellationsoftwareinc/jobs/4726115006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/constellationsoftwareinc/growth-specialist-constellation-software-inc-d5b205?utm_source=reddit",
-      "postedAt": "2026-10-30T17:52:32.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
