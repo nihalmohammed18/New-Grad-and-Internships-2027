@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:59:46.060Z",
+  "generatedAt": "2026-10-31T10:20:41.320Z",
   "jobs": [
     {
       "id": "c6a3cf5a-f1bf-4f2e-bbf3-4f075be0564d",
@@ -285,6 +285,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/vclusterlabs/sales-development-rep-nyc-vcluster-labs-e86226?utm_source=reddit",
       "postedAt": "2026-10-31T04:35:35.666Z",
       "notable": 5
+    },
+    {
+      "id": "64baad1e-6dd2-4440-ae68-137d7002e8fd",
+      "title": "Research Intern",
+      "company": "Sierra",
+      "place": "San Francisco, United States",
+      "category": "Research",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sierra/research-intern-sierra-3b041c?utm_source=reddit",
+      "postedAt": "2026-10-31T04:30:38.046Z",
+      "notable": 3
     },
     {
       "id": "32058c36-9c4c-4b63-a66b-ca0d7da0c469",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fxpro/customer-support-specialist-kazakh-speaking-fxpro-c81912?utm_source=reddit",
       "postedAt": "2026-10-30T16:49:41.000Z",
       "notable": 3
-    },
-    {
-      "id": "d26feb32-141e-4459-9dda-9b0d0bb7e8ba",
-      "title": "Patient Support Specialist",
-      "company": "LUX Infusion",
-      "place": "Bartlett, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$27/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/luxinfusion/jobs/4474237009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/luxinfusion/patient-support-specialist-lux-infusion-734904?utm_source=reddit",
-      "postedAt": "2026-10-30T16:49:28.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
