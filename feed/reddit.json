@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:52:44.039Z",
+  "generatedAt": "2026-10-31T23:08:33.800Z",
   "jobs": [
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -2320,6 +2320,25 @@
       "notable": 4
     },
     {
+      "id": "b141f049-7993-42ec-be65-30a63a70d1c7",
+      "title": "Process Quality Engineer",
+      "company": "GE Vernova",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$82.0K-$136.7K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Houston/Process-Quality-Engineer_R5057357-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5oronlyconfidentialexecutiverecruiting/process-quality-engineer-ge-vernova-096e48?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "ac435984-e0be-43ee-95b4-280909215455",
       "title": "Order to Cash Operations Associate",
       "company": "Accenture",
@@ -2736,6 +2755,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/supply-chain-operations-associate-accenture-432ec3?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7ca2dc57-bb70-4e6e-bbf7-ade26826a5c7",
+      "title": "Process Quality Engineer",
+      "company": "GE Vernova",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$82.0K-$136.7K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Houston/Process-Quality-Engineer_R5057357-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/process-quality-engineer-ge-vernova-067135?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "79e936c2-9768-4300-a1d5-19a271ac71e4",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/business-development-sales-specialist-construction-and-building-materials-indust-ad2a63?utm_source=reddit",
       "postedAt": "2026-10-30T17:59:54.000Z",
       "notable": 3
-    },
-    {
-      "id": "de45e2dd-3fa2-43eb-bad4-a8df0e125d37",
-      "title": "Lakebase Sales Specialist, Benelux",
-      "company": "Databricks",
-      "place": "Amsterdam, Netherlands",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569528002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/databricks/lakebase-sales-specialist-benelux-databricks-40d3af?utm_source=reddit",
-      "postedAt": "2026-10-30T17:58:53.000Z",
-      "notable": 3
-    },
-    {
-      "id": "0ec905b3-30eb-4e24-97c9-e6555dd327cf",
-      "title": "Intelligent Automation & AI Specialist",
-      "company": "Continental",
-      "place": "Jundiaí, Brazil",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000158815475",
-      "firstJobbyUrl": "https://firstjobby.com/companies/continental/intelligent-automation-and-ai-specialist-continental-8e60a0?utm_source=reddit",
-      "postedAt": "2026-10-30T17:58:46.650Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
