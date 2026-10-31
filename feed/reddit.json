@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:02:57.570Z",
+  "generatedAt": "2026-10-31T12:49:48.100Z",
   "jobs": [
     {
       "id": "8488108f-9828-45e3-aa0c-d1bd1695a046",
@@ -1273,6 +1273,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/school-of-applied-science-research-assistant-aquaculture-singapore-public-servic-44bdb4?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "b94e0384-9d84-4097-81b9-2947cd72de5f",
+      "title": "Application Support Engineer (Front Office)",
+      "company": "Synechron",
+      "place": "Mississauga, Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$90.0K-CA$105.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Mississauga-ON/Application-Support-Engineer--Front-Office-_JR1045835",
+      "firstJobbyUrl": "https://firstjobby.com/companies/synechronorwd1orsynechroncareers/application-support-engineer-front-office-synechron-c32f0c?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "ac435984-e0be-43ee-95b4-280909215455",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineering-co-op-student-aecom-e0b97e?utm_source=reddit",
       "postedAt": "2026-10-30T16:54:56.460Z",
       "notable": 4
-    },
-    {
-      "id": "58734f46-610e-418e-860e-4c3a2d96e612",
-      "title": "Business Development Representative",
-      "company": "Panoptyc",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/panoptyc/01c0b84d-b388-4d11-badd-743eebdf68d5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/panoptyc/business-development-representative-panoptyc-8e8706?utm_source=reddit",
-      "postedAt": "2026-10-30T16:54:22.707Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
