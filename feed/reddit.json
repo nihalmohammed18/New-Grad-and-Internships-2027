@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T16:05:30.922Z",
+  "generatedAt": "2026-11-01T16:15:52.846Z",
   "jobs": [
+    {
+      "id": "1e58bfad-d54a-4d7a-92c7-93c7b6ab8b21",
+      "title": "SIP Analyst,SH",
+      "company": "Solventum",
+      "place": "Shanghai, China",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://healthcare.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/SIP-Analyst-SH_R01135027",
+      "firstJobbyUrl": "https://firstjobby.com/companies/healthcareorwd1orsearch/sip-analystsh-solventum-2bea37?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
       "title": "Talent Analyst, Value Creation Team",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fluidstack/security-systems-administrator-fluidstack-d94c61?utm_source=reddit",
       "postedAt": "2026-10-30T19:47:10.786Z",
       "notable": 5
-    },
-    {
-      "id": "436d2498-2fa3-4d61-b757-ce83c2919d14",
-      "title": "Customer Experience Associate",
-      "company": "Benepass",
-      "place": "Remote",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/benepass/5d570f11-2127-4626-bacd-411fa696fb30",
-      "firstJobbyUrl": "https://firstjobby.com/companies/benepass-ashby/customer-experience-associate-benepass-fb25f1?utm_source=reddit",
-      "postedAt": "2026-10-30T19:46:00.220Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
