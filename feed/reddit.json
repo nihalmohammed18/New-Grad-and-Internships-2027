@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:37:32.736Z",
+  "generatedAt": "2026-11-01T21:46:34.109Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -36,6 +36,25 @@
       "season": null,
       "applyUrl": "https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Hong-Kong/Contract-Assistant-Manager--Data-Analytics_JR00012055",
       "firstJobbyUrl": "https://firstjobby.com/companies/ocbcorwd102orexternal/contract-assistant-manager-data-analytics-ocbc-01009a?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a5dbe922-4576-4093-91ac-ab22658a87d2",
+      "title": "Technical Support Representative (Japanese-English Bilingual)",
+      "company": "Kyndryl",
+      "place": "Makati, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Makati-KPH51673-Flex-Office/Technical-Support-Representative--Japanese-English-Bilingual-_R-70985",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/technical-support-representative-japanese-english-bilingual-kyndryl-4affa7?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/expressflooring/field-brand-ambassador-express-flooring-5a69d2?utm_source=reddit",
       "postedAt": "2026-10-30T20:24:35.000Z",
       "notable": 5
-    },
-    {
-      "id": "96c3d040-e5f4-4d6b-a302-406b2fb280b3",
-      "title": "Embedded Software Engineer, Cameras & CI",
-      "company": "Blue River Technology",
-      "place": "Santa Clara, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": "$122.0K-$183.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.bluerivertechnology.com/job/?gh_jid=8337794",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bluerivertech/embedded-software-engineer-cameras-and-ci-blue-river-technology-4a9dc7?utm_source=reddit",
-      "postedAt": "2026-10-30T20:23:21.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
