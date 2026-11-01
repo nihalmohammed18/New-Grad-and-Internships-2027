@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:35:58.235Z",
+  "generatedAt": "2026-11-01T20:40:44.840Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -113,6 +113,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/ruelala/jobs/8344735",
       "firstJobbyUrl": "https://firstjobby.com/companies/ruelala/retail-systems-sdet-software-development-engineer-in-test-rue-gilt-groupe-8bb352?utm_source=reddit",
       "postedAt": "2026-11-01T18:57:13.000Z",
+      "notable": 3
+    },
+    {
+      "id": "add963b8-e5d3-4c5e-bb22-3cff9e9f341a",
+      "title": "SDR – Sales Development Representative (m/w/d) – SME / KMU | Berlin (Hybrid)",
+      "company": "Pennylane SAS",
+      "place": "Berlin, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/pennylane/c4052c7b-e8aa-44a4-a543-1bb2e24098e9",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pennylane-ashby/sdr-sales-development-representative-mwd-sme-kmu-or-berlin-hybrid-pennylane-sas-60cd74?utm_source=reddit",
+      "postedAt": "2026-11-01T18:31:57.225Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/affirm/software-engineer-ii-full-stack-card-pre-swipe-experience-affirm-2ce594?utm_source=reddit",
       "postedAt": "2026-10-30T20:19:46.000Z",
       "notable": 5
-    },
-    {
-      "id": "98116447-905e-426b-9e0c-6ecc2a301c42",
-      "title": "Specialist, Customer Experience",
-      "company": "Synapse Health",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$17-$21/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://synapsehealth.com/job-postings/5277581007?gh_jid=5277581007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/synapsehealth/specialist-customer-experience-synapse-health-114ebc?utm_source=reddit",
-      "postedAt": "2026-10-30T20:19:15.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
