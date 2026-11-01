@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:03:21.997Z",
+  "generatedAt": "2026-11-01T09:29:12.234Z",
   "jobs": [
     {
       "id": "d5962980-a8b5-4dc8-ae70-ac01e3a2125f",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivzearlycareers/early-career-intern-marketing-email-team-invesco-082a5e?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "ed78cf59-9714-47d0-9f69-33adfc367857",
+      "title": "Network Security Consultant",
+      "company": "Accenture",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Cyber-Defense-Consultant---SME_14438486",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/network-security-consultant-accenture-628ca1?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "ecfedd7d-c4d7-4563-aa81-4aaf5a93bcc3",
@@ -775,7 +794,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639815-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639815-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/delivery-operations-associate-accenture-a08521?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
@@ -851,7 +870,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639817-1",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639817-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/delivery-operations-associate-accenture-b591b1?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/software-engineer-back-end-tillster-5a0c6f?utm_source=reddit",
       "postedAt": "2026-10-30T19:02:35.652Z",
       "notable": 6
-    },
-    {
-      "id": "0302a690-7190-4aa1-a4f0-e9c1a1e6d261",
-      "title": "Backend Engineering Intern, Wirecutter",
-      "company": "The New York Times",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$40/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/backend-engineering-intern-wirecutter-the-new-york-times-9245eb?utm_source=reddit",
-      "postedAt": "2026-10-30T19:02:07.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
