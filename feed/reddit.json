@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:49:38.493Z",
+  "generatedAt": "2026-11-01T13:59:44.425Z",
   "jobs": [
     {
       "id": "d55ae338-bfeb-4bed-8df4-09b71252d08c",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/marblehealth/customer-experience-associate-marble-health-934850?utm_source=reddit",
       "postedAt": "2026-11-01T12:28:14.235Z",
       "notable": 3
+    },
+    {
+      "id": "ca1c5ffe-bef0-4930-9320-7ca0372e7277",
+      "title": "Career Boost Program: Full-Stack AI Marketer - Base44",
+      "company": "Wix",
+      "place": "Tel Aviv-Yafo, Israel",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "November 2026",
+      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000158969209-career-boost-program-full-stack-ai-marketer-base44",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/career-boost-program-full-stack-ai-marketer-base44-wix-bbdd8e?utm_source=reddit",
+      "postedAt": "2026-11-01T11:31:24.838Z",
+      "notable": 2
     },
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -1501,25 +1520,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/terac/circuit-design-engineers-paid-technical-project-on-spice-simulation-terac-6a1644?utm_source=reddit",
       "postedAt": "2026-10-31T21:49:46.006Z",
       "notable": 5
-    },
-    {
-      "id": "bfb51d28-399d-495f-97c1-5b70dab490ed",
-      "title": "Career Boost Program: Full-Stack AI Marketer - Base44",
-      "company": "Wix",
-      "place": "Tel Aviv-Yafo, Israel",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "November 2026",
-      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000158900928-career-boost-program-full-stack-ai-marketer-base44",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/career-boost-program-full-stack-ai-marketer-base44-wix-89a86f?utm_source=reddit",
-      "postedAt": "2026-10-31T21:40:25.729Z",
-      "notable": 2
     },
     {
       "id": "571f9711-7367-4ca5-9876-56a556e1b100",
