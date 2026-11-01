@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T21:46:34.109Z",
+  "generatedAt": "2026-11-01T21:55:59.949Z",
   "jobs": [
+    {
+      "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
+      "title": "Sales Data Steward & Salesforce Administration Associate",
+      "company": "Huron",
+      "place": "Remote from United States, Canada, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---Outer-Ring-Road/Sales-Data-Steward---Salesforce-Administration-Associate_JR-0017061",
+      "firstJobbyUrl": "https://firstjobby.com/companies/huronorwd1orhuroncareers/sales-data-steward-and-salesforce-administration-associate-huron-bcd68f?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
       "title": "Global Logistics Team Leader",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hearst/customer-experience-representative-hearst-6290bb?utm_source=reddit",
       "postedAt": "2026-10-30T20:25:40.000Z",
       "notable": 3
-    },
-    {
-      "id": "bfebd914-1dc9-4596-b170-b2bce14e50d6",
-      "title": "Field Brand Ambassador",
-      "company": "Express Flooring",
-      "place": "Chino Hills, United States",
-      "category": "Marketing",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$30/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "http://www.expressflooring.com/careers?gh_jid=5280638007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/expressflooring/field-brand-ambassador-express-flooring-5a69d2?utm_source=reddit",
-      "postedAt": "2026-10-30T20:24:35.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
