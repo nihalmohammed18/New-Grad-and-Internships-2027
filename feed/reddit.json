@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:03:00.307Z",
+  "generatedAt": "2026-11-01T01:09:07.628Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -382,6 +382,25 @@
       "notable": 5
     },
     {
+      "id": "571f9711-7367-4ca5-9876-56a556e1b100",
+      "title": "Junior Technical Engineer",
+      "company": "Sparksoft Corporation",
+      "place": "Columbia, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5281142007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sparksoftcorporation/junior-technical-engineer-sparksoft-corporation-240889?utm_source=reddit",
+      "postedAt": "2026-10-31T21:33:59.000Z",
+      "notable": 0
+    },
+    {
       "id": "ff4b2509-b683-4758-ae43-619ad814c401",
       "title": "Customer Support Specialist II",
       "company": "Coinbase",
@@ -699,7 +718,7 @@
       "pay": "$18-$21/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016543896-it-support-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990016543896",
       "firstJobbyUrl": "https://firstjobby.com/companies/usphysicaltherapy2/it-support-specialist-us-physical-therapy-f61395?utm_source=reddit",
       "postedAt": "2026-10-31T15:05:41.246Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nscaleoperationsukltd/development-associate-analyst-nscale-96574c?utm_source=reddit",
       "postedAt": "2026-10-30T18:24:46.000Z",
       "notable": 5
-    },
-    {
-      "id": "bd183ac2-0365-4b94-a745-bc57d6fbfc44",
-      "title": "Manufacturing Test Engineering Intern",
-      "company": "Base Power Company",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6",
-      "firstJobbyUrl": "https://firstjobby.com/companies/base-power/manufacturing-test-engineering-intern-base-power-company-1bb434?utm_source=reddit",
-      "postedAt": "2026-10-30T18:22:49.383Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
