@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:42:36.049Z",
+  "generatedAt": "2026-11-01T22:58:50.776Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---Outer-Ring-Road/Sales-Data-Steward---Salesforce-Administration-Associate_JR-0017061",
       "firstJobbyUrl": "https://firstjobby.com/companies/huronorwd1orhuroncareers/sales-data-steward-and-salesforce-administration-associate-huron-bcd68f?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "ea9a7abe-1cef-471d-8163-5b439486e066",
+      "title": "Intake Care Associate Analyst- Cigna Healthcare",
+      "company": "Cigna",
+      "place": "Kenya",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kenya-One-Africa-Place/Intake-Care-Associate-Analyst--Cigna-Healthcare_26012976",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cignaorwd5orcignacareers/intake-care-associate-analyst-cigna-healthcare-cigna-b36876?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -1997,6 +2016,25 @@
       "notable": 3
     },
     {
+      "id": "4e27ea91-92a1-4310-b9be-a7f62ade39b2",
+      "title": "AI/ML Machine Learning Engineer",
+      "company": "Children's Healthcare of Atlanta",
+      "place": "Atlanta, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://choa.wd12.myworkdayjobs.com/externalcareers/job/Childrens-Healthcare-of-Atlanta-Support-Center/AI-ML-Machine-Learning-Engineer_R-39453",
+      "firstJobbyUrl": "https://firstjobby.com/companies/choaorwd12orexternalcareers/aiml-machine-learning-engineer-childrens-healthcare-of-atlanta-8f2eb4?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "4c483c1a-e9b8-49a1-98c1-522d480c2500",
       "title": "Delivery Operations Associate",
       "company": "Accenture",
@@ -2314,7 +2352,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/supply-chain-product-fpanda-analyst-cisco-6cec35?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109861003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-automation-associate-private-equity-insights-32cb87?utm_source=reddit",
       "postedAt": "2026-10-30T20:46:11.000Z",
-      "notable": 4
-    },
-    {
-      "id": "2fe41699-aa2d-4f5b-b4e4-d5c93866b04c",
-      "title": "AI Automation Analyst",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109856003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-automation-analyst-private-equity-insights-7bdca8?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:09.000Z",
-      "notable": 4
-    },
-    {
-      "id": "82bd98fb-d7cd-4b20-ad27-04be35207943",
-      "title": "AI Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109562003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-associate-private-equity-insights-1ca895?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:07.000Z",
       "notable": 4
     }
   ],
