@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:21:07.850Z",
+  "generatedAt": "2026-11-01T22:27:03.466Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -1824,6 +1824,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivz/early-career-intern-marketing-etf-invesco-fd4fed?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "3d392658-0d9e-4b8e-b22a-be1cc38a1745",
+      "title": "Audio Visual Technician",
+      "company": "Four Seasons",
+      "place": "Bahrain",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Bahrain/Audio-Visual-Technician_REQ10390800",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fourseasonsorwd3orsearch/audio-visual-technician-four-seasons-e6962d?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "3c27d82c-edfb-4370-8a87-ac279ba05cfa",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spoton/territory-sales-representative-restaurant-specialist-montgomery-al-spoton-02976c?utm_source=reddit",
       "postedAt": "2026-10-30T20:37:09.330Z",
       "notable": 6
-    },
-    {
-      "id": "41ff6d7e-fbe2-45de-96d6-a238378ec23d",
-      "title": "Client Support Specialist - After Hours",
-      "company": "Lyra Health",
-      "place": "United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/lyrahealth/74e91591-ef69-465b-892b-1c82e07744a9",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lyrahealth/client-support-specialist-after-hours-lyra-health-c4de21?utm_source=reddit",
-      "postedAt": "2026-10-30T20:27:43.781Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
