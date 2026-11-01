@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:26:49.886Z",
+  "generatedAt": "2026-11-01T20:30:07.240Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -855,6 +855,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/technology-sales-specialist-or-italian-speaker-atlean-world-972a83?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "b41cffc9-034f-4fbe-88e5-7e01be245a0e",
+      "title": "3rd Shift Run Test Technician",
+      "company": "Munters",
+      "place": "Daleville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$26-$33/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://munters.wd3.myworkdayjobs.com/External_Careers/job/US---Daleville-VA/XMLNAME-3rd-Shift-Run-Test-Technician_R13379",
+      "firstJobbyUrl": "https://firstjobby.com/companies/muntersorwd3orexternalcareers/3rd-shift-run-test-technician-munters-ae2b02?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "b2dece5e-2373-460b-97b5-e55e492c6a35",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-curitibapr-stone-linkedin-d8c8af?utm_source=reddit",
       "postedAt": "2026-10-30T20:18:48.000Z",
       "notable": 3
-    },
-    {
-      "id": "7ac704a3-d549-4b3b-a091-89809c1265ec",
-      "title": "Technical Customer Support Engineer, North America (Weekend Coverage)",
-      "company": "Hercules",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$75.0K-$150.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/hercules/3187fa14-42b7-4bf5-b0a0-de6c85d6482b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hercules-ashby/technical-customer-support-engineer-north-america-weekend-coverage-hercules-b554c9?utm_source=reddit",
-      "postedAt": "2026-10-30T20:14:13.794Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
