@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:28:03.827Z",
+  "generatedAt": "2026-11-01T02:52:29.226Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -93,6 +93,25 @@
       "season": null,
       "applyUrl": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Lund/Alfa-Laval-Talent-Program-2027---Nuclear-Engineering_JR0048985",
       "firstJobbyUrl": "https://firstjobby.com/companies/alfalavalorwd3oralfalavaljobs/alfa-laval-talent-program-2027-nuclear-engineering-alfa-laval-2c4763?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "beb769ce-e70c-4e72-b5ab-dcb41fcc232b",
+      "title": "Intern AI & Data Engineering (d/m/f/x)",
+      "company": "Mercedes-Benz Tech Innovation",
+      "place": "Germany",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/MBTI_JOBPORTAL/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mercedesbenztechinnovationorwd3ormbtijobportal/intern-ai-and-data-engineering-dmfx-mercedes-benz-tech-innovation-b907c2?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fehrandpeers/entry-level-transportation-engineerplanner-fehr-and-peers-86a066?utm_source=reddit",
       "postedAt": "2026-10-30T18:28:43.825Z",
       "notable": 5
-    },
-    {
-      "id": "cb638155-f5ba-4f99-af8e-f9ce2c04ffe1",
-      "title": "Statistical  Programmer",
-      "company": "AbbVie",
-      "place": "Irvine, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016533936",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/statistical-programmer-abbvie-775b48?utm_source=reddit",
-      "postedAt": "2026-10-30T18:27:59.032Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
