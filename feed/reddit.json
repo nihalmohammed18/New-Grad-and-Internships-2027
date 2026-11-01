@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T19:21:08.849Z",
+  "generatedAt": "2026-11-01T19:55:01.424Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -435,6 +435,25 @@
       "season": null,
       "applyUrl": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Lund/Alfa-Laval-Talent-Program-2027---Supply-Chain_JR0048986",
       "firstJobbyUrl": "https://firstjobby.com/companies/alfalavalorwd3oralfalavaljobs/alfa-laval-talent-program-2027-supply-chain-alfa-laval-6523dc?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "fe958855-3bd6-49d2-95eb-049824eed75b",
+      "title": "CDD - Chargé de Supply Chain Gamme - Parfums Beauté - Décembre 2026 - H/F/X",
+      "company": "Cc",
+      "place": "France",
+      "category": "Operations",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "December 2026",
+      "applyUrl": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Le-Meux/CDD---Charg-de-Supply-Chain-Gamme---Parfums-Beaut---Dcembre-2026---H-F-X_JOBREQ00118561",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ccorwd3orchanelcareers/cdd-charge-de-supply-chain-gamme-parfums-beaute-decembre-2026-hfx-cc-8b0193?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hercules-ashby/technical-support-engineer-emea-weekend-coverage-hercules-b7c2f3?utm_source=reddit",
       "postedAt": "2026-10-30T20:12:25.698Z",
       "notable": 5
-    },
-    {
-      "id": "a917f680-3a49-4fd1-b64d-685f1e333489",
-      "title": "Payments Operations Analyst",
-      "company": "Garner Health",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$65.0K-$78.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6238643004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/garnerhealth/payments-operations-analyst-garner-health-de5aa1?utm_source=reddit",
-      "postedAt": "2026-10-30T20:11:22.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
