@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:40:44.840Z",
+  "generatedAt": "2026-11-01T20:54:56.771Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -1786,6 +1786,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/electron-optics-and-multiphysics-simulation-physicist-engineer-mfd-applied-mater-3ec7fb?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "269b13b8-55c2-4f34-87b1-09892c61de39",
+      "title": "Pricing Analyst, Revenue Operations",
+      "company": "Bask Health",
+      "place": "Philippines",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/BCA0295DF2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bask-health-1/pricing-analyst-revenue-operations-bask-health-6d21e0?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "23c3ad81-7da4-4881-a1c8-9101ae0c4753",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
       "firstJobbyUrl": "https://firstjobby.com/companies/waymo/2027-summer-intern-phd-research-scientist-intern-waymo-be6600?utm_source=reddit",
       "postedAt": "2026-10-30T20:19:59.000Z",
-      "notable": 5
-    },
-    {
-      "id": "73b7ab15-30b8-465a-9d7d-8f410d979c71",
-      "title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
-      "company": "Affirm",
-      "place": "Remote from Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$133.0K-CA$183.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8042399003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/affirm/software-engineer-ii-full-stack-card-pre-swipe-experience-affirm-2ce594?utm_source=reddit",
-      "postedAt": "2026-10-30T20:19:46.000Z",
       "notable": 5
     }
   ],
