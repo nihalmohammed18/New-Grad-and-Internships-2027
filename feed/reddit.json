@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:23:00.281Z",
+  "generatedAt": "2026-11-01T00:59:07.126Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -169,6 +169,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/MFG-PEE-PH-PR-TECH_JR110958-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mfg-pee-ph-pr-tech-micron-technology-b30986?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "712211ea-82b0-4dff-ad0e-cc65226923b8",
+      "title": "Sales Development Representative",
+      "company": "Kensho",
+      "place": "London, United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Sales-Development-Representative_332490-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/sales-development-representative-kensho-88d51a?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -2700,25 +2719,6 @@
       "notable": 2
     },
     {
-      "id": "996073be-5002-40f8-a759-abf015f9602d",
-      "title": "Data Analyst",
-      "company": "Kensho",
-      "place": "Hyderabad, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/IN---HYDERABAD-SKYVIEW/Data-Analyst_329166-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/data-analyst-kensho-0b2c75?utm_source=reddit",
-      "postedAt": "2026-10-31T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "98b22bd7-db8b-4c30-bda7-5f03b5e424f3",
       "title": "Order to Cash Operations Associate",
       "company": "Accenture",
@@ -3302,7 +3302,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620",
+      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620",
       "firstJobbyUrl": "https://firstjobby.com/companies/statestreetorwd1orglobal/cyber-security-operations-center-early-career-placement-program-2027-state-stree-b108d0?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
