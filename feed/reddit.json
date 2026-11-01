@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:14:52.530Z",
+  "generatedAt": "2026-11-01T14:19:48.801Z",
   "jobs": [
     {
       "id": "aacfa17c-e286-4b30-89cf-458e101c5175",
@@ -416,6 +416,25 @@
       "season": "Summer 2027",
       "applyUrl": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Lund/Alfa-Laval-Talent-Program-2027---IT_JR0048982",
       "firstJobbyUrl": "https://firstjobby.com/companies/alfalavalorwd3oralfalavaljobs/alfa-laval-talent-program-2027-it-alfa-laval-888e02?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "df7f82fb-f153-43aa-b4d0-50b704d6d24f",
+      "title": "Program Coordinator / Project Coordinator and Cost Analyst - Saudi National",
+      "company": "Parsons",
+      "place": "Jeddah, Saudi Arabia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Jeddah/Program-Coordinator---Project-Coordinator-and-Cost-Analyst---Saudi-National_R188043",
+      "firstJobbyUrl": "https://firstjobby.com/companies/parsonsorwd5orsearch/program-coordinator-project-coordinator-and-cost-analyst-saudi-national-parsons-c04016?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/zefr/software-engineer-zefr-47c283?utm_source=reddit",
       "postedAt": "2026-10-30T19:37:47.312Z",
       "notable": 3
-    },
-    {
-      "id": "a5b5f076-55e5-43d3-bc40-da2654457691",
-      "title": "Intern - Mechanical and Magnet Engineer - Spring or Summer 2027",
-      "company": "Cfsenergy",
-      "place": "Devens, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$38/hr",
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfsenergy/intern-mechanical-and-magnet-engineer-spring-or-summer-2027-cfsenergy-290f53?utm_source=reddit",
-      "postedAt": "2026-10-30T19:36:16.354Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
