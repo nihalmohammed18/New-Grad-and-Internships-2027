@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:29:27.159Z",
+  "generatedAt": "2026-11-01T21:37:32.736Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -779,6 +779,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orexternalcareersite/intelligence-analyst-gdit-6d7a09?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "d40a5bbb-3518-4cef-a87d-a87b70ca3ac7",
+      "title": "Full Stack Developer - AI Products (AI&Data)",
+      "company": "Accenture",
+      "place": "Warsaw, Poland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Full-Stack-Developer---AI-Products--AI-Data-_14812141",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/full-stack-developer-ai-products-aianddata-accenture-225b08?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "d4062cf8-cde1-4ee6-a105-1789d6fa83a7",
@@ -2029,7 +2048,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Identity-Management-Consultant----SME_14426073",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Riyadh/Identity-Management-Consultant----SME_14426073",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/iam-analyst-saudi-nationals-accenture-0e78f0?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bluerivertech/embedded-software-engineer-cameras-and-ci-blue-river-technology-4a9dc7?utm_source=reddit",
       "postedAt": "2026-10-30T20:23:21.000Z",
       "notable": 4
-    },
-    {
-      "id": "be11eb37-530c-4c5a-a95e-df5dd08aa001",
-      "title": "Graphic Designer",
-      "company": "AEG Worldwide",
-      "place": "Los Angeles, United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$71.0K-$79.5K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/aegworldwide/jobs/8920488002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aegworldwide/graphic-designer-aeg-worldwide-f06d64?utm_source=reddit",
-      "postedAt": "2026-10-30T20:21:21.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
