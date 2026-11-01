@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T10:08:13.497Z",
+  "generatedAt": "2026-11-01T10:12:41.960Z",
   "jobs": [
+    {
+      "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
+      "title": "Security Operations Specialist",
+      "company": "Wiz, Inc.",
+      "place": "Tel Aviv, Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://www.wiz.io/careers/job/4718925006/:title?gh_jid=4718925006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wizinc/security-operations-specialist-wiz-inc-8bdd67?utm_source=reddit",
+      "postedAt": "2026-11-01T08:58:19.000Z",
+      "notable": 4
+    },
     {
       "id": "d5962980-a8b5-4dc8-ae70-ac01e3a2125f",
       "title": "Consultant IT Strategy and Enterprise Architecture (m/w/d)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/software-engineer-back-end-tillster-57524b?utm_source=reddit",
       "postedAt": "2026-10-30T19:04:35.741Z",
       "notable": 6
-    },
-    {
-      "id": "5fcba340-0bf2-40b4-97dd-91b62e1c5ce8",
-      "title": "Marketing Intern, Wirecutter",
-      "company": "The New York Times",
-      "place": "New York, United States",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748485005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/marketing-intern-wirecutter-the-new-york-times-a549cf?utm_source=reddit",
-      "postedAt": "2026-10-30T19:04:27.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
