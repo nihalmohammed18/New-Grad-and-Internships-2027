@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T17:42:11.245Z",
+  "generatedAt": "2026-11-01T19:21:08.849Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -1824,6 +1824,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/data-analyst-student-position-kla-79b92b?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "07ff8d05-4dea-4426-9e32-e11e3cad98d4",
+      "title": "Content Moderator - Digitals AI Marketplace",
+      "company": "Digitals AI Inc",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/78127347AA",
+      "firstJobbyUrl": "https://firstjobby.com/companies/digitals/content-moderator-digitals-ai-marketplace-digitals-ai-inc-991210?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "07107c34-c110-4579-82b0-868ddc534e54",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/garnerhealth/payments-operations-analyst-garner-health-de5aa1?utm_source=reddit",
       "postedAt": "2026-10-30T20:11:22.000Z",
       "notable": 4
-    },
-    {
-      "id": "acb859c9-ebc7-492c-a4df-a45fd337b2b9",
-      "title": "Product Analyst",
-      "company": "Konrad",
-      "place": "Toronto, Canada",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$78.0K-$90.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.konrad.com/careers/job/8109548003?gh_jid=8109548003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/konradgroup/product-analyst-konrad-81bda0?utm_source=reddit",
-      "postedAt": "2026-10-30T20:07:43.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
