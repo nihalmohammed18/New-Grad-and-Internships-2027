@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:24:51.926Z",
+  "generatedAt": "2026-11-01T16:54:53.511Z",
   "jobs": [
     {
       "id": "9ed34e1d-00cb-436d-932b-a591edfd4a21",
@@ -1594,6 +1594,25 @@
       "season": null,
       "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Account-Manager---Private-Equity_JR-0024249",
       "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/account-manager-private-equity-theapexgroup-60ce21?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "176c57db-fbc4-4290-bc64-4df43d0a819e",
+      "title": "Supply Chain Product FP&A Analyst",
+      "company": "Cisco",
+      "place": "Bangalore, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/supply-chain-product-fpanda-analyst-cisco-6cec35?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ampleinsightinc/ml-engineer-generative-ai-and-llms-remote-ample-insight-inc-b13548?utm_source=reddit",
       "postedAt": "2026-10-30T19:51:20.256Z",
       "notable": 0
-    },
-    {
-      "id": "8e8b4958-5d5a-43f9-8954-46f21f6bd934",
-      "title": "Sales Specialist",
-      "company": "Lucid Motors",
-      "place": "Oak Brook, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$21/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://lucidmotors.com/careers/search/5280321007?gh_jid=5280321007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/sales-specialist-lucid-motors-27b732?utm_source=reddit",
-      "postedAt": "2026-10-30T19:49:37.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
