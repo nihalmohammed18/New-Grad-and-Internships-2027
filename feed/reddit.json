@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T17:30:57.621Z",
+  "generatedAt": "2026-11-01T17:36:23.686Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisaearlycareers/associate-product-manager-program-visa-6cdf06?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "8b192632-c637-4885-8539-6d781eab9129",
+      "title": "Bilingual Marketing and Public Relations Intern",
+      "company": "Jobs for Humanity",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/JobsForHumanity/744000158976589-bilingual-marketing-and-public-relations-intern",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jobsforhumanity/bilingual-marketing-and-public-relations-intern-jobs-for-humanity-f9ad3d?utm_source=reddit",
+      "postedAt": "2026-11-01T15:57:36.246Z",
+      "notable": 3
     },
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/konradgroup/product-analyst-konrad-81bda0?utm_source=reddit",
       "postedAt": "2026-10-30T20:07:43.000Z",
       "notable": 5
-    },
-    {
-      "id": "a8ece17c-af7e-4388-8d77-18e39ee16c0a",
-      "title": "Agente Stone - Consultor(a) Comercial Externo |  Apucarana/PR",
-      "company": "Stone - Linkedin",
-      "place": "Apucarana, Brazil",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/8109543003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-apucaranapr-stone-linkedin-a7af73?utm_source=reddit",
-      "postedAt": "2026-10-30T20:07:24.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
