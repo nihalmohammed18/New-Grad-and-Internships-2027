@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:05:56.284Z",
+  "generatedAt": "2026-11-01T14:14:52.530Z",
   "jobs": [
     {
       "id": "aacfa17c-e286-4b30-89cf-458e101c5175",
@@ -857,6 +857,25 @@
       "notable": 2
     },
     {
+      "id": "965c1a7a-e868-4db4-a04b-125dc3a7c5cc",
+      "title": "Product Quality Engineer",
+      "company": "Philips",
+      "place": "Haifa, Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "NIS 20.0K-NIS 25.0K/mo",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Haifa/Product-Quality-Engineer_593609",
+      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/product-quality-engineer-philips-182a4e?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "86d566f0-2983-4d71-bd5c-5c9a42637e6d",
       "title": "Health Services Support Agent with Italian",
       "company": "Atlean World",
@@ -1159,6 +1178,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivz/early-career-intern-marketing-email-team-invesco-4e5595?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "4f7bfd39-95d3-4f08-9395-c48ec0a0aadf",
+      "title": "Sales Account Manager - Roche Diagnostics",
+      "company": "Roche",
+      "place": "Jeddah, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Jeddah/Sales-Account-Manager---Roche-Diagnostics_202611-128043-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rocheorwd3orroche-ext/sales-account-manager-roche-diagnostics-roche-4865ef?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "4ebf707a-0655-42f0-a817-39460c51c1ad",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cfsenergy/intern-mechanical-and-magnet-engineer-spring-or-summer-2027-cfsenergy-290f53?utm_source=reddit",
       "postedAt": "2026-10-30T19:36:16.354Z",
       "notable": 5
-    },
-    {
-      "id": "01eddbb1-03f8-40f7-8053-04c969920afe",
-      "title": "Medical Lab Scientist I",
-      "company": "Natera",
-      "place": "Austin, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/natera/jobs/6220100004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/natera/medical-lab-scientist-i-natera-5011e5?utm_source=reddit",
-      "postedAt": "2026-10-30T19:33:49.000Z",
-      "notable": 3
-    },
-    {
-      "id": "ff5d5c10-6770-4e7a-8402-f965de60448e",
-      "title": "Innovation Software Engineer 1",
-      "company": "Built Technologies",
-      "place": "Nashville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/getbuilt/innovation-software-engineer-1-built-technologies-3429b9?utm_source=reddit",
-      "postedAt": "2026-10-30T19:32:05.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
