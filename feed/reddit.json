@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:04:17.906Z",
+  "generatedAt": "2026-11-01T12:15:42.873Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -663,6 +663,25 @@
       "season": null,
       "applyUrl": "https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Cracow/Junior-Spares-Documentation-Engineer--12-month-fixed-term-contract-_JR81105",
       "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/junior-spares-documentation-engineer-12-month-fixed-term-contract-electrolux-2278d8?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "9b1648d1-76e6-4121-a667-c12194a523c0",
+      "title": "Engineering Electronic Engineer",
+      "company": "Valeo",
+      "place": "Japan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Isehara/Engineering-Electronic-Engineer_REQ2026083094",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valeoorwd3orvaleojobs/engineering-electronic-engineer-valeo-1dd6a5?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veterinaryemergencygroupst/customer-experience-coordinator-chandler-az-veterinary-emergency-group-veg-942d8d?utm_source=reddit",
       "postedAt": "2026-10-30T19:24:45.000Z",
       "notable": 2
-    },
-    {
-      "id": "f8b4ebee-236f-4507-af58-d3a3eb0d0d7d",
-      "title": "Field Operations Specialist (Charleston & Mt. Pleasant, SC)",
-      "company": "AirGarage",
-      "place": "Charleston, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$22/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/airgarage/7b8d14ec-a2d9-4dd0-87e7-56970740022b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/airgarage-ashby/field-operations-specialist-charleston-and-mt-pleasant-sc-airgarage-13e0e2?utm_source=reddit",
-      "postedAt": "2026-10-30T19:24:22.859Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
