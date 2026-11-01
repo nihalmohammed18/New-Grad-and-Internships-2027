@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:48:35.038Z",
+  "generatedAt": "2026-11-01T10:51:57.685Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -929,6 +929,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639815-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/delivery-operations-associate-accenture-a08521?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "4399b230-2c2e-4af5-ab23-b0572bedec85",
+      "title": "AI & Hyperautomation Engineer II",
+      "company": "NCR Voyix",
+      "place": "Suriname",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BELGRADE-SRB/AI---Hyperautomation-Engineer-II_R0158989",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ncrorwd1orextnonus/ai-and-hyperautomation-engineer-ii-ncr-voyix-7418dc?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/goalcast/social-media-coordinator-or-coordinateurice-des-reseaux-sociaux-goalcast-f4249c?utm_source=reddit",
       "postedAt": "2026-10-30T19:05:23.000Z",
       "notable": 1
-    },
-    {
-      "id": "e66b2223-0fe1-4003-a4a2-7ca8f83c55c2",
-      "title": "Assistant Project Manager I, Eurofins Environment Testing Northern California, Air Toxics, Folsom, CA",
-      "company": "Eurofins",
-      "place": "Folsom, United States",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000158827250",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/assistant-project-manager-i-eurofins-environment-testing-northern-california-air-4bcc57?utm_source=reddit",
-      "postedAt": "2026-10-30T19:05:21.580Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
