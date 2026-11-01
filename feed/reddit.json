@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:37:10.623Z",
+  "generatedAt": "2026-11-01T01:42:40.348Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -2734,6 +2734,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Gurugram/Procure-to-Pay-Operations-Associate_AIOC-S01656127-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-66d4d6?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a23a0a1a-3a7f-4908-81e3-586aa3927035",
+      "title": "Marketing Specialist",
+      "company": "Seaworldentertainment",
+      "place": "San Antonio, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://seaworldentertainment.wd1.myworkdayjobs.com/SEA/job/SeaWorld-San-Antonio/Marketing-Specialist_JR136579",
+      "firstJobbyUrl": "https://firstjobby.com/companies/seaworldentertainmentorwd1orsea/marketing-specialist-seaworldentertainment-b08df2?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/statistical-programmer-abbvie-168479?utm_source=reddit",
       "postedAt": "2026-10-30T18:27:20.895Z",
       "notable": 3
-    },
-    {
-      "id": "f0d3f30d-d6b2-4b28-8087-246892fd79cb",
-      "title": "Associate Chemist - PFAS Analysis - Environment Testing - Various Shift and Hours Available",
-      "company": "Eurofins",
-      "place": "Lancaster, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$18-$19/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000158819590",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/associate-chemist-pfas-analysis-environment-testing-various-shift-and-hours-avai-7cb843?utm_source=reddit",
-      "postedAt": "2026-10-30T18:27:11.042Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
