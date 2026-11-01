@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T12:19:21.119Z",
+  "generatedAt": "2026-11-01T12:35:34.129Z",
   "jobs": [
+    {
+      "id": "d55ae338-bfeb-4bed-8df4-09b71252d08c",
+      "title": "Customer Experience Associate",
+      "company": "Marble Health",
+      "place": "New York City, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$65.0K-$80.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/marblehealth/c4b5c5d3-806e-4340-8cb1-e5a202aeec2c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/marblehealth/customer-experience-associate-marble-health-934850?utm_source=reddit",
+      "postedAt": "2026-11-01T12:28:14.235Z",
+      "notable": 3
+    },
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
       "title": "Security Operations Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/billing-and-collections-specialist-eurofins-environment-testing-southwest-calsci-069411?utm_source=reddit",
       "postedAt": "2026-10-30T19:25:51.544Z",
       "notable": 6
-    },
-    {
-      "id": "3030788e-75bd-4a0e-b73b-da34fa995f5b",
-      "title": "IT Operations Analyst II",
-      "company": "Fivetran ",
-      "place": "Denver, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8007247003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fivetran/it-operations-analyst-ii-fivetran-14eb84?utm_source=reddit",
-      "postedAt": "2026-10-30T19:25:41.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
