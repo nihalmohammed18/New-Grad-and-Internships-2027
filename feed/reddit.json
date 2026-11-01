@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:20:45.092Z",
+  "generatedAt": "2026-11-01T13:49:38.493Z",
   "jobs": [
     {
       "id": "d55ae338-bfeb-4bed-8df4-09b71252d08c",
@@ -1197,6 +1197,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-support-technician-ddp-applied-materials-6f34fd?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "28cdc596-d786-4d8b-a917-02a8aa753801",
+      "title": "Sales Representative - Hospital Care/Healthcare",
+      "company": "Sanofi",
+      "place": "Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Al-Khobar/Sales-Representative---Hospital-Care-Healthcare_R2876411",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sanofiorwd3orsanoficareers/sales-representative-hospital-carehealthcare-sanofi-a5efda?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "28c54f15-7688-4bcf-bd79-dd095acfb9d4",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5280600007",
       "firstJobbyUrl": "https://firstjobby.com/companies/defenseunicorns/business-development-representative-usmc-defense-unicorns-be4b3c?utm_source=reddit",
       "postedAt": "2026-10-30T19:28:50.000Z",
-      "notable": 3
-    },
-    {
-      "id": "79ff7a40-354d-401d-a4f7-8f9a697576f3",
-      "title": "Technical Support Analyst",
-      "company": "Qualtrics",
-      "place": "Chicago, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.qualtrics.com/careers/us/en/job/8335545?gh_jid=8335545",
-      "firstJobbyUrl": "https://firstjobby.com/companies/qualtrics/technical-support-analyst-qualtrics-678f55?utm_source=reddit",
-      "postedAt": "2026-10-30T19:27:21.000Z",
       "notable": 3
     }
   ],
