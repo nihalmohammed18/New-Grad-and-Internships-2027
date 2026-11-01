@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:10:58.678Z",
+  "generatedAt": "2026-11-01T20:26:49.886Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -1387,6 +1387,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/sales-development-representative-kensho-88d51a?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6fb60db6-cd06-43d4-974c-23bb1743b25c",
+      "title": "Optomechanical Engineer - 2",
+      "company": "Northrop Grumman",
+      "place": "Chandler, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$75.1K-$112.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optomechanical-Engineer---2_R10258691",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/optomechanical-engineer-2-northrop-grumman-2d4a5f?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "68a85d53-dde9-4b81-b6af-6c3e84eee4dd",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hercules-ashby/technical-customer-support-engineer-north-america-weekend-coverage-hercules-b554c9?utm_source=reddit",
       "postedAt": "2026-10-30T20:14:13.794Z",
       "notable": 5
-    },
-    {
-      "id": "e0838120-265e-426d-9a75-0341bddc9687",
-      "title": "Agente Stone - Consultor(a) Comercial Externo | Cascavel/PR",
-      "company": "Stone - Linkedin",
-      "place": "Cascavel, Brazil",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/8109559003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-cascavelpr-stone-linkedin-4f12db?utm_source=reddit",
-      "postedAt": "2026-10-30T20:12:35.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
