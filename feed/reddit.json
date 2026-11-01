@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:06:20.253Z",
+  "generatedAt": "2026-11-01T20:10:58.678Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -116,6 +116,25 @@
       "notable": 3
     },
     {
+      "id": "f436f986-59d7-4e8c-bac6-c957263b62d7",
+      "title": "Sales Executive",
+      "company": "AccorHotel",
+      "place": "Muharraq, Bahrain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158972189-sales-executive",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/sales-executive-accorhotel-fe583e?utm_source=reddit",
+      "postedAt": "2026-11-01T14:08:58.723Z",
+      "notable": 3
+    },
+    {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
       "title": "Talent Analyst, Value Creation Team",
       "company": "LLR Partners",
@@ -148,7 +167,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158969789-safety-coordinator-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158969789",
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/safety-coordinator-accorhotel-5ed633?utm_source=reddit",
       "postedAt": "2026-11-01T12:34:23.884Z",
       "notable": 3
@@ -281,7 +300,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158966709-maintenance-engineer-shift-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158966709",
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/maintenance-engineer-shift-engineer-accorhotel-fa3fff?utm_source=reddit",
       "postedAt": "2026-11-01T08:35:58.912Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-cascavelpr-stone-linkedin-4f12db?utm_source=reddit",
       "postedAt": "2026-10-30T20:12:35.000Z",
       "notable": 3
-    },
-    {
-      "id": "af95af2d-ebd7-4e20-92c7-9b5de0d93fa5",
-      "title": "Technical Support Engineer, EMEA (Weekend Coverage)",
-      "company": "Hercules",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$120.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/hercules/7b659e14-4a74-4049-83e9-d01fba141e52",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hercules-ashby/technical-support-engineer-emea-weekend-coverage-hercules-b7c2f3?utm_source=reddit",
-      "postedAt": "2026-10-30T20:12:25.698Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
