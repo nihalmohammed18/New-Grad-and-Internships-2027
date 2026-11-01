@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:28:19.139Z",
+  "generatedAt": "2026-11-01T10:48:35.038Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -454,6 +454,25 @@
       "season": null,
       "applyUrl": "https://hfecorp.wd503.myworkdayjobs.com/palace_jobs/job/Adventureland-3200-Adventureland-drive-Altoona--IA-50009-United-States-of-America/Adventureland-Park---Group-Sales---Events-Intern_JR107893",
       "firstJobbyUrl": "https://firstjobby.com/companies/hfecorporwd503orpalacejobs/adventureland-park-group-sales-and-events-intern-hfecorp-af60d2?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "aa7b5fb7-37ef-4945-8cbc-a36f9b5717ae",
+      "title": "Customer Support Engineer",
+      "company": "Cognex",
+      "place": "China",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Hong-Qiao-China/Customer-Support-Engineer_R0012531",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cognexorwd1orexternalcareersite/customer-support-engineer-cognex-cd7a2c?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/assistant-project-manager-i-eurofins-environment-testing-northern-california-air-4bcc57?utm_source=reddit",
       "postedAt": "2026-10-30T19:05:21.580Z",
       "notable": 4
-    },
-    {
-      "id": "f889cf27-0666-4fba-8d84-a5fc8570e638",
-      "title": "Verification Analyst",
-      "company": "Bosch Group",
-      "place": "Guadalajara, Mexico",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000158827879",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/verification-analyst-bosch-group-4c90a6?utm_source=reddit",
-      "postedAt": "2026-10-30T19:04:55.148Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
