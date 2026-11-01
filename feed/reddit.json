@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:35:30.737Z",
+  "generatedAt": "2026-11-01T12:04:17.906Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -2868,6 +2868,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/checkr/jobs/8328195",
       "firstJobbyUrl": "https://firstjobby.com/companies/checkr/workplace-operations-coordinator-checkr-d70a59?utm_source=reddit",
       "postedAt": "2026-10-31T00:09:27.000Z",
+      "notable": 3
+    },
+    {
+      "id": "0c4e836b-303d-4c5d-9517-06f876b48585",
+      "title": "Data Engineer Intern",
+      "company": "Fireworkhq",
+      "place": "San Mateo, United States",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$20-$25/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fireworkhq/data-engineer-intern-fireworkhq-69a7d4?utm_source=reddit",
+      "postedAt": "2026-10-31T00:08:05.504Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/airgarage-ashby/field-operations-specialist-charleston-and-mt-pleasant-sc-airgarage-13e0e2?utm_source=reddit",
       "postedAt": "2026-10-30T19:24:22.859Z",
       "notable": 5
-    },
-    {
-      "id": "700f46c4-1cb4-4a17-902b-590cfcfad4c6",
-      "title": "Retention Marketing Specialist",
-      "company": "Knix",
-      "place": "Toronto, Canada",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$66.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/knix/4d1309d9-b44c-4203-9fd2-40cff39d0bc0",
-      "firstJobbyUrl": "https://firstjobby.com/companies/knix/retention-marketing-specialist-knix-930671?utm_source=reddit",
-      "postedAt": "2026-10-30T19:22:47.859Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
