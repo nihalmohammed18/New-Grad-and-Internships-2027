@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:55:59.949Z",
+  "generatedAt": "2026-11-01T22:00:49.901Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -133,6 +133,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisaearlycareers/associate-product-manager-program-visa-6cdf06?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "16b7f3f2-23ce-4404-97fa-7d8c8ef4d997",
+      "title": "Internal Sales",
+      "company": "REXEL",
+      "place": "Moonah, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000158983559-internal-sales",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/internal-sales-rexel-b6681e?utm_source=reddit",
+      "postedAt": "2026-11-01T21:45:35.342Z",
+      "notable": 3
     },
     {
       "id": "34b5dbd3-25ae-4236-9ec8-f4b36bcfb7e8",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002",
       "firstJobbyUrl": "https://firstjobby.com/companies/optiverus/software-engineer-optiver-31a5f7?utm_source=reddit",
       "postedAt": "2026-10-30T20:27:06.000Z",
-      "notable": 3
-    },
-    {
-      "id": "64bfd582-7b19-4d26-a0a5-472382328a73",
-      "title": "Customer Experience Representative",
-      "company": "Hearst",
-      "place": "Dallas, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hearst/jobs/4474834009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hearst/customer-experience-representative-hearst-6290bb?utm_source=reddit",
-      "postedAt": "2026-10-30T20:25:40.000Z",
       "notable": 3
     }
   ],
