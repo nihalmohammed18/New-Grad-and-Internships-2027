@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:30:25.117Z",
+  "generatedAt": "2026-11-01T23:35:23.027Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ocbcorwd102orexternal/contract-assistant-manager-data-analytics-ocbc-01009a?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "bca8485b-938e-44cb-99c5-8460f2e5ae99",
+      "title": "Student Worker IT",
+      "company": "ABB",
+      "place": "Middelfart, Denmark",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Middelfart-Region-Syddanmark-Denmark/Student-Worker-IT_JR00050309-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/student-worker-it-abb-615be2?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "a5dbe922-4576-4093-91ac-ab22658a87d2",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109691003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-growth-engineer-private-equity-insights-8d45fc?utm_source=reddit",
       "postedAt": "2026-10-30T20:46:30.000Z",
-      "notable": 4
-    },
-    {
-      "id": "21c38450-bbc1-48b9-9a36-09e589c0446a",
-      "title": "AI Growth Consultant",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109680003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-growth-consultant-private-equity-insights-17760a?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:28.000Z",
       "notable": 4
     }
   ],
