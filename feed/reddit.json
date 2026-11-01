@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:13:41.875Z",
+  "generatedAt": "2026-11-01T04:38:11.872Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -245,6 +245,25 @@
       "season": null,
       "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Sales-Development-Representative_332490-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/sales-development-representative-kensho-88d51a?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "5b427464-d574-4dc4-81a0-536e0bbf8ae0",
+      "title": "Seasonal Sales Associate 30h Novembre/Janv",
+      "company": "Capri",
+      "place": "Paris, France",
+      "category": "Sales",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://capri.wd1.myworkdayjobs.com/Michael_Kors/job/Paris/Seasonal-Sales-Associate-30h-Novembre-Janv_R_787496",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capriorwd1ormichaelkors/seasonal-sales-associate-30h-novembrejanv-capri-281065?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tomra/devops-engineer-tomra-3a1dbd?utm_source=reddit",
       "postedAt": "2026-10-30T18:36:09.578Z",
       "notable": 3
-    },
-    {
-      "id": "7660040f-bc13-4c16-902f-32fd153fa6f1",
-      "title": "Entry-Level Water Resources Engineer",
-      "company": "AECOM",
-      "place": "Newark, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158822609",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/entry-level-water-resources-engineer-aecom-cfefab?utm_source=reddit",
-      "postedAt": "2026-10-30T18:35:57.998Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
