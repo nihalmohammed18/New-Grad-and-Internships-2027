@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:44:03.984Z",
+  "generatedAt": "2026-11-01T13:20:45.092Z",
   "jobs": [
     {
       "id": "d55ae338-bfeb-4bed-8df4-09b71252d08c",
@@ -285,6 +285,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geaerospaceorwd5orgeexternalsite/modern-engineering-apprenticeship-prestwick-2027-intake-ge-aerospace-fd36f9?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "e7189282-1fee-43c8-a9b4-849a01b76e8f",
+      "title": "Solution Specialist (Technical Sales)",
+      "company": "Maqsam",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/64354A2102",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maqsam/solution-specialist-technical-sales-maqsam-025345?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "e5f84162-b621-4d63-9ee5-c84a4385f4c0",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/qualtrics/technical-support-analyst-qualtrics-678f55?utm_source=reddit",
       "postedAt": "2026-10-30T19:27:21.000Z",
       "notable": 3
-    },
-    {
-      "id": "22ef3151-052e-48d4-9e0c-4ecc3927cea1",
-      "title": "Admissions Representative (Sales Experience Required)",
-      "company": "Unitek Learning",
-      "place": "Provo, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/UnitekLearning/744000158831349",
-      "firstJobbyUrl": "https://firstjobby.com/companies/uniteklearning/admissions-representative-sales-experience-required-unitek-learning-2222dc?utm_source=reddit",
-      "postedAt": "2026-10-30T19:26:40.915Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
