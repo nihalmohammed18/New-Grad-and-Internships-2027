@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:30:07.240Z",
+  "generatedAt": "2026-11-01T20:35:58.235Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisaearlycareers/associate-product-manager-program-visa-6cdf06?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0a3b36c0-3b5e-4fb4-9fd3-49554232e7af",
+      "title": "Retail Systems SDET (Software Development Engineer in Test)",
+      "company": "RUE GILT GROUPE",
+      "place": "Dublin, Ireland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€66.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/ruelala/jobs/8344735",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ruelala/retail-systems-sdet-software-development-engineer-in-test-rue-gilt-groupe-8bb352?utm_source=reddit",
+      "postedAt": "2026-11-01T18:57:13.000Z",
+      "notable": 3
     },
     {
       "id": "8b192632-c637-4885-8539-6d781eab9129",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://synapsehealth.com/job-postings/5277581007?gh_jid=5277581007",
       "firstJobbyUrl": "https://firstjobby.com/companies/synapsehealth/specialist-customer-experience-synapse-health-114ebc?utm_source=reddit",
       "postedAt": "2026-10-30T20:19:15.000Z",
-      "notable": 3
-    },
-    {
-      "id": "94145049-4ded-4554-a080-58e45f5a27dd",
-      "title": "Agente Stone - Consultor(a) Comercial Externo |  Curitiba/PR",
-      "company": "Stone - Linkedin",
-      "place": "Curitiba, Brazil",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/8109597003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-curitibapr-stone-linkedin-d8c8af?utm_source=reddit",
-      "postedAt": "2026-10-30T20:18:48.000Z",
       "notable": 3
     }
   ],
