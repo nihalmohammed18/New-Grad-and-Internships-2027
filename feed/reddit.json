@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T16:15:52.846Z",
+  "generatedAt": "2026-11-01T16:24:51.926Z",
   "jobs": [
+    {
+      "id": "9ed34e1d-00cb-436d-932b-a591edfd4a21",
+      "title": "HVM Process (Shift) Engineer(Taichung/Taoyuan)",
+      "company": "Micron Technology",
+      "place": "Taichung, Taiwan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/HVM-Process--Shift--Engineer-Taichung-Taoyuan-_JR116442",
+      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/hvm-process-shift-engineertaichungtaoyuan-micron-technology-b88fb7?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "1e58bfad-d54a-4d7a-92c7-93c7b6ab8b21",
       "title": "SIP Analyst,SH",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://lucidmotors.com/careers/search/5280321007?gh_jid=5280321007",
       "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/sales-specialist-lucid-motors-27b732?utm_source=reddit",
       "postedAt": "2026-10-30T19:49:37.000Z",
-      "notable": 5
-    },
-    {
-      "id": "19674832-2aaa-4506-a29a-f375fc3e17cd",
-      "title": "Security Systems Administrator",
-      "company": "Fluidstack",
-      "place": "Remote from United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$182.0K-$210.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/f1811455-d414-4630-b22c-58a585163864",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fluidstack/security-systems-administrator-fluidstack-d94c61?utm_source=reddit",
-      "postedAt": "2026-10-30T19:47:10.786Z",
       "notable": 5
     }
   ],
