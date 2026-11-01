@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:38:11.872Z",
+  "generatedAt": "2026-11-01T04:52:40.777Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -188,6 +188,25 @@
       "season": null,
       "applyUrl": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Pune-India/S4-Developer_JR-0098457",
       "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/s4-developer-kion-group-63b68f?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "966444ce-ef5d-463e-bca9-f33306fa61d6",
+      "title": "IT Desk Site Support  -  System Analyst (m/f/d)",
+      "company": "Thermo Fisher Scientific",
+      "place": "Linz, Austria",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Linz-Austria/IT-Desk-Site-Support-----System-Analyst--m-f-d-_R-01370101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/it-desk-site-support-system-analyst-mfd-thermo-fisher-scientific-843782?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cannondesign/lighting-designer-ib-cannondesign-0254ff?utm_source=reddit",
       "postedAt": "2026-10-30T18:36:19.000Z",
       "notable": 5
-    },
-    {
-      "id": "07c98bd1-9dfc-4d11-8160-e9b2f1abe490",
-      "title": "DevOps Engineer*",
-      "company": "TOMRA",
-      "place": "Wedel, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Tomra/744000158820841",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tomra/devops-engineer-tomra-3a1dbd?utm_source=reddit",
-      "postedAt": "2026-10-30T18:36:09.578Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
