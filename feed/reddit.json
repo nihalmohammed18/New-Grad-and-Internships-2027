@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T03:27:53.873Z",
+  "generatedAt": "2026-11-01T03:36:37.039Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -93,6 +93,25 @@
       "season": null,
       "applyUrl": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Lund/Alfa-Laval-Talent-Program-2027---Nuclear-Engineering_JR0048985",
       "firstJobbyUrl": "https://firstjobby.com/companies/alfalavalorwd3oralfalavaljobs/alfa-laval-talent-program-2027-nuclear-engineering-alfa-laval-2c4763?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c6b02735-b389-4809-bcbd-09c9cd8b2ed7",
+      "title": "Region Key User Sales Front Office",
+      "company": "KION Group",
+      "place": "Warsaw, Poland",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Warszawa-Poland/Region-Key-User-Sales-Front-Office_JR-0098577",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/region-key-user-sales-front-office-kion-group-01a637?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-operations-support-engineer-eurofins-ae12f2?utm_source=reddit",
       "postedAt": "2026-10-30T18:35:51.420Z",
       "notable": 4
-    },
-    {
-      "id": "ec90f059-22f9-4760-90db-a6fafa7280bc",
-      "title": "Aerospace Visual Inspector (Entry Level)",
-      "company": "SQA Services",
-      "place": "Wichita, United States",
-      "category": "Design",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$25-$27/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/sqaservices/19e94df8-3c32-42aa-9e0e-f1a9cedce6dc",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sqaservices/aerospace-visual-inspector-entry-level-sqa-services-0519bb?utm_source=reddit",
-      "postedAt": "2026-10-30T18:35:50.574Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
