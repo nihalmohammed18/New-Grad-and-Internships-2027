@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:09:07.628Z",
+  "generatedAt": "2026-11-01T01:37:10.623Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -3097,6 +3097,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/process-quality-engineer-ge-vernova-067135?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "7a76bb01-8b0a-4897-9d8e-66707392187d",
+      "title": "Service Billing Coordinator",
+      "company": "Sciensbuildingsolutions",
+      "place": "Allentown, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sciensbuildingsolutions.wd108.myworkdayjobs.com/sciens_external_careers/job/Allentown-PA/Service-Billing-Coordinator_R-101241",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sciensbuildingsolutionsorwd108orsciensexternalcareers/service-billing-coordinator-sciensbuildingsolutions-8db3d9?utm_source=reddit",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "79e936c2-9768-4300-a1d5-19a271ac71e4",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/associate-chemist-pfas-analysis-environment-testing-various-shift-and-hours-avai-7cb843?utm_source=reddit",
       "postedAt": "2026-10-30T18:27:11.042Z",
       "notable": 6
-    },
-    {
-      "id": "bd5e8775-1a10-42b0-95d2-f4c245148b19",
-      "title": "Development Associate / Analyst",
-      "company": "Nscale",
-      "place": "United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$90.0K-$160.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/5024317101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nscaleoperationsukltd/development-associate-analyst-nscale-96574c?utm_source=reddit",
-      "postedAt": "2026-10-30T18:24:46.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
