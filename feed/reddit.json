@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:29:24.928Z",
+  "generatedAt": "2026-11-01T14:52:24.834Z",
   "jobs": [
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/kiongrouporwd3orkiongroup/s4-developer-kion-group-28e9c3?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "36a9b637-0be8-4a01-83d8-bad0441536fb",
+      "title": "Growth Marketing Associate - SCTE",
+      "company": "Valsoft Corporation",
+      "place": "Beirut, Lebanon",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/170A5C7A65",
+      "firstJobbyUrl": "https://firstjobby.com/companies/valsoft-corp/growth-marketing-associate-scte-valsoft-corporation-bd54e4?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "2f1203fe-8a36-4016-9797-9f1ca2464402",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158833044",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-b27f8f?utm_source=reddit",
       "postedAt": "2026-10-30T19:41:49.603Z",
-      "notable": 3
-    },
-    {
-      "id": "b4c2042e-5904-4dc8-829f-4445c24b4c38",
-      "title": "Sales Development Representative",
-      "company": "TechnologyAdvice",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "₱75.0K-₱141.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://technologyadvice.com/careers/opportunities/6239369004?gh_jid=6239369004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/technologyadvice/sales-development-representative-technologyadvice-06bef5?utm_source=reddit",
-      "postedAt": "2026-10-30T19:40:33.000Z",
       "notable": 3
     }
   ],
