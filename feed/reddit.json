@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:42:40.348Z",
+  "generatedAt": "2026-11-01T01:54:01.570Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -380,6 +380,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/terac/circuit-design-engineers-paid-technical-project-on-spice-simulation-terac-6a1644?utm_source=reddit",
       "postedAt": "2026-10-31T21:49:46.006Z",
       "notable": 5
+    },
+    {
+      "id": "bfb51d28-399d-495f-97c1-5b70dab490ed",
+      "title": "Career Boost Program: Full-Stack AI Marketer - Base44",
+      "company": "Wix",
+      "place": "Tel Aviv-Yafo, Israel",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "November 2026",
+      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000158900928-career-boost-program-full-stack-ai-marketer-base44",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/career-boost-program-full-stack-ai-marketer-base44-wix-89a86f?utm_source=reddit",
+      "postedAt": "2026-10-31T21:40:25.729Z",
+      "notable": 2
     },
     {
       "id": "571f9711-7367-4ca5-9876-56a556e1b100",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cfsenergy/intern-structural-engineer-summer-2027-cfsenergy-4bac8b?utm_source=reddit",
       "postedAt": "2026-10-30T18:27:33.320Z",
       "notable": 5
-    },
-    {
-      "id": "9165c7f5-8c97-475b-9352-1096d00a8b54",
-      "title": "Statistical  Programmer",
-      "company": "AbbVie",
-      "place": "North Chicago, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016533876",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/statistical-programmer-abbvie-168479?utm_source=reddit",
-      "postedAt": "2026-10-30T18:27:20.895Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
