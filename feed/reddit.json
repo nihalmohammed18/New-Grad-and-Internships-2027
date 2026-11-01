@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:45:39.260Z",
+  "generatedAt": "2026-11-01T16:05:30.922Z",
   "jobs": [
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -1178,6 +1178,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/2027-associate-software-engineer-bellevue-ne-northrop-grumman-3ca2d3?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "663e6318-9957-4451-ba22-5aafd53d4b96",
+      "title": "Marketing Specialist",
+      "company": "Ingram Micro",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Dubai-United-Arab-Emirates/Marketing-Specialist_R-118103",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ingrammicroorwd5oringrammicro/marketing-specialist-ingram-micro-b8522a?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "5b427464-d574-4dc4-81a0-536e0bbf8ae0",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/benepass-ashby/customer-experience-associate-benepass-fb25f1?utm_source=reddit",
       "postedAt": "2026-10-30T19:46:00.220Z",
       "notable": 3
-    },
-    {
-      "id": "abbd6f55-f5af-4ef7-8752-5e4176b89ad0",
-      "title": "Fall 2027 Manufacturing Engineer Co-op",
-      "company": "Anduril Industries",
-      "place": "Ashville, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$28-$45/hr",
-      "minYears": null,
-      "season": "Fall 2027",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/fall-2027-manufacturing-engineer-co-op-anduril-industries-4278cc?utm_source=reddit",
-      "postedAt": "2026-10-30T19:45:53.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
