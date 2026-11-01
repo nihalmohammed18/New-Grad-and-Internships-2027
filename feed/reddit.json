@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:59:07.083Z",
+  "generatedAt": "2026-11-01T08:02:37.843Z",
   "jobs": [
     {
       "id": "2be87fc1-edc6-4859-bf40-4592a4214c07",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wix2/career-boost-program-full-stack-ai-marketer-base44-wix-ef773b?utm_source=reddit",
       "postedAt": "2026-11-01T07:48:56.565Z",
       "notable": 2
+    },
+    {
+      "id": "012d9478-77fc-44f4-bb95-c26d539fcfe6",
+      "title": "Safety Coordinator",
+      "company": "AccorHotel",
+      "place": "Aqaba, Jordan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158946559-safety-coordinator-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/safety-coordinator-accorhotel-4222f3?utm_source=reddit",
+      "postedAt": "2026-11-01T05:54:41.190Z",
+      "notable": 3
     },
     {
       "id": "53be03b7-173d-492c-990d-9a6371fcbd5c",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/editorial-design-intern-wirecutter-the-new-york-times-021835?utm_source=reddit",
       "postedAt": "2026-10-30T18:59:00.000Z",
       "notable": 5
-    },
-    {
-      "id": "0968382d-c260-48c8-baba-1c3c0117cc1c",
-      "title": "Security Associate",
-      "company": "Carvana",
-      "place": "Ontario, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$20-$23/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8335579",
-      "firstJobbyUrl": "https://firstjobby.com/companies/carvana/security-associate-carvana-654205?utm_source=reddit",
-      "postedAt": "2026-10-30T18:57:14.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
