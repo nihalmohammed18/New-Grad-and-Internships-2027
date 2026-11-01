@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-01T17:25:58.509Z",
+  "generatedAt": "2026-11-01T17:30:57.621Z",
   "jobs": [
+    {
+      "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
+      "title": "Global Logistics Team Leader",
+      "company": "3M",
+      "place": "Taguig, Philippines",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/Global-Logistics-Team-Leader_R01172299",
+      "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/global-logistics-team-leader-3m-18546e?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "c31d00a3-e951-48a5-8e23-401138107e0b",
       "title": "Contract Assistant Manager, Data Analytics",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/stone/agente-stone-consultora-comercial-externo-or-apucaranapr-stone-linkedin-a7af73?utm_source=reddit",
       "postedAt": "2026-10-30T20:07:24.000Z",
       "notable": 3
-    },
-    {
-      "id": "6eb83161-2ab6-4914-b17f-73a9572d4a61",
-      "title": "IT NOC Technician",
-      "company": "SpaceX",
-      "place": "Hawthorne, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$34-$40/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8925803002?gh_jid=8925803002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/it-noc-technician-spacex-4c1235?utm_source=reddit",
-      "postedAt": "2026-10-30T20:06:46.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
