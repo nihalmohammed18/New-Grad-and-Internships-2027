@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:06:35.097Z",
+  "generatedAt": "2026-11-01T15:32:17.327Z",
   "jobs": [
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -376,7 +376,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Cyber-Defense-Consultant---SME_14438486",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Riyadh/Cyber-Defense-Consultant---SME_14438486",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/network-security-consultant-accenture-628ca1?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
@@ -1577,6 +1577,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/safety-engineer-ii-e2-applied-materials-0a3a86?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "02b4cdc0-75c6-4ae8-bf5c-5e2fd26d0902",
+      "title": "IAM Analyst- Saudi Nationals",
+      "company": "Accenture",
+      "place": "Remote",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Identity-Management-Consultant----SME_14426073",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/iam-analyst-saudi-nationals-accenture-0e78f0?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "c9013249-229a-4a98-ac41-d876e80a0fae",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nintendo/intern-software-engineer-performance-tools-ntd-nintendo-88903b?utm_source=reddit",
       "postedAt": "2026-10-30T19:44:13.000Z",
       "notable": 6
-    },
-    {
-      "id": "74430e20-a4e3-4922-938b-0e0b5d05f0b4",
-      "title": "Civil Engineer",
-      "company": "AECOM",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158833359",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-ab5ae1?utm_source=reddit",
-      "postedAt": "2026-10-30T19:43:41.109Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
