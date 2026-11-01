@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:47:55.225Z",
+  "generatedAt": "2026-11-01T10:08:13.497Z",
   "jobs": [
     {
       "id": "d5962980-a8b5-4dc8-ae70-ac01e3a2125f",
@@ -344,6 +344,25 @@
       "notable": 2
     },
     {
+      "id": "cbee5d87-56a6-464f-a7cb-5b5de20dc738",
+      "title": "College Intern - Data Analytics in Supply Chain",
+      "company": "HP",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "May 2027",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hporwd5orexternalcareersite/college-intern-data-analytics-in-supply-chain-hp-3ca218?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "c6b02735-b389-4809-bcbd-09c9cd8b2ed7",
       "title": "Region Key User Sales Front Office",
       "company": "KION Group",
@@ -456,6 +475,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/technical-support-specialist-hungarian-market-atlean-world-4f489c?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "a5d55ab2-3e57-401d-b270-8698643c9878",
+      "title": "College Intern – NPI Writing System Engineer",
+      "company": "HP",
+      "place": "Singapore, Singapore",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "May 2027",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hporwd5orexternalcareersite/college-intern-npi-writing-system-engineer-hp-e61dbf?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a25fe898-55f7-47fe-9cb8-e1227a8ee5a4",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/marketing-intern-wirecutter-the-new-york-times-a549cf?utm_source=reddit",
       "postedAt": "2026-10-30T19:04:27.000Z",
       "notable": 5
-    },
-    {
-      "id": "8e8c6313-8695-42cc-9934-b61422adac8d",
-      "title": "SOFTWARE ENGINEER – BACK END",
-      "company": "Tillster",
-      "place": "Los Angeles, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$95.0K-$125.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/tillster/0bf3cc55-a23c-4c38-8e8c-208fdf7c4a19",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/software-engineer-back-end-tillster-00a4d7?utm_source=reddit",
-      "postedAt": "2026-10-30T19:03:38.214Z",
-      "notable": 6
-    },
-    {
-      "id": "4bb7b52e-87e5-460a-b3f4-d7c4fbb5c988",
-      "title": "Civil Engineer",
-      "company": "AECOM",
-      "place": "Exeter, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158826847",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-5ff719?utm_source=reddit",
-      "postedAt": "2026-10-30T19:03:27.094Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
