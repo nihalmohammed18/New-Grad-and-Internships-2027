@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:15:42.873Z",
+  "generatedAt": "2026-11-01T12:19:21.119Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wizinc/security-operations-specialist-wiz-inc-8bdd67?utm_source=reddit",
       "postedAt": "2026-11-01T08:58:19.000Z",
       "notable": 4
+    },
+    {
+      "id": "dfe3213c-0987-4088-801c-1e30513841b5",
+      "title": "Account Executive",
+      "company": "Toast",
+      "place": "Remote from Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8279540",
+      "firstJobbyUrl": "https://firstjobby.com/companies/toast/account-executive-toast-49e628?utm_source=reddit",
+      "postedAt": "2026-11-01T08:53:03.000Z",
+      "notable": 3
     },
     {
       "id": "d5962980-a8b5-4dc8-ae70-ac01e3a2125f",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fivetran/it-operations-analyst-ii-fivetran-14eb84?utm_source=reddit",
       "postedAt": "2026-10-30T19:25:41.000Z",
       "notable": 3
-    },
-    {
-      "id": "384d78f1-343f-49d2-b096-7317e9d517d2",
-      "title": "Customer Experience Coordinator - Chandler, AZ",
-      "company": "Veterinary Emergency Group (VEG)",
-      "place": "Chandler, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6221675004?gh_jid=6221675004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veterinaryemergencygroupst/customer-experience-coordinator-chandler-az-veterinary-emergency-group-veg-942d8d?utm_source=reddit",
-      "postedAt": "2026-10-30T19:24:45.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
