@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:00:49.901Z",
+  "generatedAt": "2026-11-01T22:05:10.303Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ruelala/retail-systems-sdet-software-development-engineer-in-test-rue-gilt-groupe-8bb352?utm_source=reddit",
       "postedAt": "2026-11-01T18:57:13.000Z",
       "notable": 3
+    },
+    {
+      "id": "1846291e-4701-4e32-a748-44f2b1da26d8",
+      "title": "Reliability Technician I",
+      "company": "Proconex",
+      "place": "Royersford, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/proconex/jobs/6240352004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/proconex/reliability-technician-i-proconex-cc419c?utm_source=reddit",
+      "postedAt": "2026-11-01T18:34:53.000Z",
+      "notable": 2
     },
     {
       "id": "add963b8-e5d3-4c5e-bb22-3cff9e9f341a",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/richards-supply/0a269064-626e-44a9-990b-864eee0606f4",
       "firstJobbyUrl": "https://firstjobby.com/companies/richards-supply/outside-sales-representative-richards-supply-aa77c9?utm_source=reddit",
       "postedAt": "2026-10-30T20:27:23.528Z",
-      "notable": 3
-    },
-    {
-      "id": "ccff2581-db1e-4916-bfbd-657231b1c201",
-      "title": "Software Engineer",
-      "company": "Optiver",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.optiver.com/join-us/jobs/8925970002/?gh_jid=8925970002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/optiverus/software-engineer-optiver-31a5f7?utm_source=reddit",
-      "postedAt": "2026-10-30T20:27:06.000Z",
       "notable": 3
     }
   ],
