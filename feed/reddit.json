@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T05:25:55.809Z",
+  "generatedAt": "2026-11-01T05:32:57.425Z",
   "jobs": [
     {
       "id": "53be03b7-173d-492c-990d-9a6371fcbd5c",
@@ -490,7 +490,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/electron-optics-and-multiphysics-simulation-physicist-engineer-mfd-applied-mater-3ec7fb?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
@@ -532,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bacardiorwd3orjobsbacardi/key-account-manager-bangkok-bacardi-fd7176?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "07107c34-c110-4579-82b0-868ddc534e54",
+      "title": "Safety Engineer II-E2",
+      "company": "Applied Materials",
+      "place": "Switzerland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/XianCHN/Safety-Engineer-II-E2_R2631082",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/safety-engineer-ii-e2-applied-materials-0a3a86?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "c9013249-229a-4a98-ac41-d876e80a0fae",
@@ -2409,7 +2428,7 @@
       "pay": "$31-$41/hr",
       "minYears": null,
       "season": "Spring 2027",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-project-manager-co-op-billerica-ma-applied-materials-a8256c?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -2504,7 +2523,7 @@
       "pay": "$31-$41/hr",
       "minYears": null,
       "season": "Spring 2027",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-process-engineer-co-op-billerica-ma-applied-materials-e287b1?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -2960,7 +2979,7 @@
       "pay": "$31-$41/hr",
       "minYears": null,
       "season": "Spring 2027",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-electrical-engineer-co-op-billerica-ma-applied-materials-943633?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -3131,7 +3150,7 @@
       "pay": "$31-$41/hr",
       "minYears": null,
       "season": "Spring 2027",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-manufacturing-engineer-co-op-billerica-ma-applied-materials-2c4259?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -4005,7 +4024,7 @@
       "pay": "$31-$41/hr",
       "minYears": null,
       "season": "Summer 2027",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-summer-process-engineer-intern-bs-or-ms-gloucester-ma-applied-materials-fcfc05?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 5
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cbsconsulting/masterarbeitwerkstudent-agentic-ai-and-multi-agenten-systeme-mwd-cbs-corporate-b-35db5f?utm_source=reddit",
       "postedAt": "2026-10-30T18:47:39.000Z",
       "notable": 1
-    },
-    {
-      "id": "9c1c8b25-2cdc-4bb8-bb4a-93307ed2c788",
-      "title": "Product Designer",
-      "company": "Care Access",
-      "place": "Remote from United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$85.0K-$115.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/careaccess/jobs/4474598009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/careaccess/product-designer-care-access-2668e7?utm_source=reddit",
-      "postedAt": "2026-10-30T18:46:14.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
