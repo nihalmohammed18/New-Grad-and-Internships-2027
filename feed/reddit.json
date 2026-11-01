@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:59:31.675Z",
+  "generatedAt": "2026-11-01T17:03:35.515Z",
   "jobs": [
     {
       "id": "c31d00a3-e951-48a5-8e23-401138107e0b",
@@ -608,6 +608,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/invescoorwd1orivzearlycareers/early-career-intern-institutional-sales-retirement-and-insurance-invesco-b936d1?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "d53a987f-2e1d-4d6a-b63d-a4f8a49ee018",
+      "title": "Plant Engineer Intern - Tamheer",
+      "company": "Ecolab",
+      "place": "Dammam, Saudi Arabia",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Plant-Engineer-Intern---Tamheer_R00302662",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/plant-engineer-intern-tamheer-ecolab-3a50fb?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "d49700fd-79c1-4432-ad59-34d88a77ad46",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/konradgroup/data-analyst-konrad-078a53?utm_source=reddit",
       "postedAt": "2026-10-30T20:05:06.000Z",
       "notable": 5
-    },
-    {
-      "id": "97d92ad2-4df9-429a-be16-31dda6becfbb",
-      "title": "Embedded GSOC Intelligence Analyst",
-      "company": "Sibylline Ltd",
-      "place": "Mount Laurel, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$82.2K-$100.8K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/sibyllineltd/744000158835239",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sibyllineltd/embedded-gsoc-intelligence-analyst-sibylline-ltd-8044ce?utm_source=reddit",
-      "postedAt": "2026-10-30T20:03:30.647Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
