@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T08:02:37.843Z",
+  "generatedAt": "2026-11-01T08:22:57.685Z",
   "jobs": [
     {
       "id": "2be87fc1-edc6-4859-bf40-4592a4214c07",
@@ -665,6 +665,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/sales-development-representative-kensho-88d51a?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "68a85d53-dde9-4b81-b6af-6c3e84eee4dd",
+      "title": "2027 Associate Software Engineer - Bellevue (NE)",
+      "company": "Northrop Grumman",
+      "place": "Bellevue, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$65.8K-$98.8K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/2027-associate-software-engineer-bellevue-ne-northrop-grumman-3ca2d3?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "5b427464-d574-4dc4-81a0-536e0bbf8ae0",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/inter/digital-sales-assistant-or-farmer-cash-pj-mg-inter-carreiras-8f3737?utm_source=reddit",
       "postedAt": "2026-10-30T19:00:38.000Z",
       "notable": 3
-    },
-    {
-      "id": "9c7ae213-ddb2-49e2-8307-925f6d1cf62e",
-      "title": "Editorial Design Intern, Wirecutter",
-      "company": "The New York Times",
-      "place": "New York, United States",
-      "category": "Design",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/editorial-design-intern-wirecutter-the-new-york-times-021835?utm_source=reddit",
-      "postedAt": "2026-10-30T18:59:00.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
