@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:32:17.327Z",
+  "generatedAt": "2026-11-01T15:45:39.260Z",
   "jobs": [
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -1556,6 +1556,25 @@
       "season": null,
       "applyUrl": "https://bacardi.wd3.myworkdayjobs.com/Jobs_Bacardi/job/Bangkok/Key-Account-Manager---Bangkok_R26_02078",
       "firstJobbyUrl": "https://firstjobby.com/companies/bacardiorwd3orjobsbacardi/key-account-manager-bangkok-bacardi-fd7176?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0b7aa07d-8868-40d8-bac0-96d1801ebad6",
+      "title": "Data Analyst - Student Position",
+      "company": "KLA",
+      "place": "Migdal Ha'emek, Israel",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Data-Analyst---Student-Position_2641211-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/data-analyst-student-position-kla-79b92b?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/fall-2027-manufacturing-engineer-co-op-anduril-industries-4278cc?utm_source=reddit",
       "postedAt": "2026-10-30T19:45:53.000Z",
       "notable": 5
-    },
-    {
-      "id": "a78e9b36-75cf-41fd-8a8b-754e32184f63",
-      "title": "Intern - Software Engineer, Performance Tools (NTD)",
-      "company": "Nintendo ",
-      "place": "Redmond, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$45/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4473568009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nintendo/intern-software-engineer-performance-tools-ntd-nintendo-88903b?utm_source=reddit",
-      "postedAt": "2026-10-30T19:44:13.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
