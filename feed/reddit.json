@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:29:12.234Z",
+  "generatedAt": "2026-11-01T09:47:55.225Z",
   "jobs": [
     {
       "id": "d5962980-a8b5-4dc8-ae70-ac01e3a2125f",
@@ -572,6 +572,25 @@
       "notable": 3
     },
     {
+      "id": "822980e3-d2b2-4d71-a8a8-84d2f791e221",
+      "title": "Software Development student",
+      "company": "Intel",
+      "place": "Haifa, Israel",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Software-Development-student_JR0287581-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/intelorwd1orexternal/software-development-student-intel-b1c1b2?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "7f681d0a-0b2b-4758-bf85-9ebc2d0b5e1a",
       "title": "Alfa Laval Talent Program 2027 - Engineering",
       "company": "Alfa Laval",
@@ -762,6 +781,25 @@
       "notable": 2
     },
     {
+      "id": "554a11dd-9c97-4280-ba09-c5abcb4b10fb",
+      "title": "Module Engineer",
+      "company": "Intel",
+      "place": "Leixlip, Ireland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€49.3K-€77.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Module-Engineer_JR0288650",
+      "firstJobbyUrl": "https://firstjobby.com/companies/intelorwd1orexternal/module-engineer-intel-eb87bc?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "4ebf707a-0655-42f0-a817-39460c51c1ad",
       "title": "Estonian-Speaking Trust & Safety Analyst",
       "company": "Atlean World",
@@ -874,6 +912,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/delivery-operations-associate-accenture-b591b1?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1d1d6ffa-e635-47db-94e0-f270643b20d2",
+      "title": "Atom CPU Layout Design Engineer",
+      "company": "Intel",
+      "place": "Guadalajara, Mexico",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Atom-CPU-Layout-Design-Engineer_JR0287799",
+      "firstJobbyUrl": "https://firstjobby.com/companies/intelorwd1orexternal/atom-cpu-layout-design-engineer-intel-205344?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "0be029a8-76d5-4fd8-bc30-220dd918bc68",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-5ff719?utm_source=reddit",
       "postedAt": "2026-10-30T19:03:27.094Z",
       "notable": 3
-    },
-    {
-      "id": "fe61d3e5-193d-46b4-b523-3e47795d68b2",
-      "title": "Customer Support Specialist ll",
-      "company": "Coinbase",
-      "place": "Manila, Philippines",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.coinbase.com/careers/positions/8337203?gh_jid=8337203",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/customer-support-specialist-ll-coinbase-f42c8f?utm_source=reddit",
-      "postedAt": "2026-10-30T19:03:20.000Z",
-      "notable": 3
-    },
-    {
-      "id": "f58c8d9c-bcd9-48f7-9ec2-ccd72e8e7492",
-      "title": "Verification Analyst",
-      "company": "Bosch Group",
-      "place": "Guadalajara, Mexico",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000158825545",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/verification-analyst-bosch-group-d0623f?utm_source=reddit",
-      "postedAt": "2026-10-30T19:02:53.883Z",
-      "notable": 3
-    },
-    {
-      "id": "2cf369f8-d01e-47e4-85a8-bf6d90431001",
-      "title": "SOFTWARE ENGINEER – BACK END",
-      "company": "Tillster",
-      "place": "Atlanta, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$95.0K-$125.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/tillster/a260ac75-06d4-49fb-8c27-42e906a16f63",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/software-engineer-back-end-tillster-5a0c6f?utm_source=reddit",
-      "postedAt": "2026-10-30T19:02:35.652Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
