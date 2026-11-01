@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:57:10.231Z",
+  "generatedAt": "2026-11-01T11:03:07.686Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -606,6 +606,25 @@
       "season": null,
       "applyUrl": "https://hfecorp.wd503.myworkdayjobs.com/palace_jobs/job/Adventureland-3200-Adventureland-drive-Altoona--IA-50009-United-States-of-America/Adventureland-Park---IT-Support-Intern_JR107889",
       "firstJobbyUrl": "https://firstjobby.com/companies/hfecorporwd503orpalacejobs/adventureland-park-it-support-intern-hfecorp-45d45c?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "9c4986f5-20d4-4817-aef3-42ddf668fd25",
+      "title": "Junior Spares Documentation Engineer (12-month fixed term contract)",
+      "company": "Electrolux",
+      "place": "Krakow, Poland",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Cracow/Junior-Spares-Documentation-Engineer--12-month-fixed-term-contract-_JR81105",
+      "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/junior-spares-documentation-engineer-12-month-fixed-term-contract-electrolux-2278d8?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-f1d545?utm_source=reddit",
       "postedAt": "2026-10-30T19:16:06.643Z",
       "notable": 3
-    },
-    {
-      "id": "cd108c2e-a7d0-4772-a611-747679b148b3",
-      "title": "Intern - Software Engineer, Graphics (NTD)",
-      "company": "Nintendo ",
-      "place": "Redmond, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$45/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4473550009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nintendo/intern-software-engineer-graphics-ntd-nintendo-631f09?utm_source=reddit",
-      "postedAt": "2026-10-30T19:12:09.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
