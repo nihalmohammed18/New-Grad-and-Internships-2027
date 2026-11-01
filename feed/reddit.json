@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:41:08.394Z",
+  "generatedAt": "2026-11-01T23:47:53.323Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/huronorwd1orhuroncareers/sales-data-steward-and-salesforce-administration-associate-huron-bcd68f?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "f96c3433-3fe4-40fe-8e79-b8297d3ba27e",
+      "title": "Mechanical Engineer (d/f/m)",
+      "company": "Baker Hughes",
+      "place": "Warsaw, Poland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "PLN 116.0K-PLN 216.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R170926",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bakerhughesorwd5orbakerhughes/mechanical-engineer-dfm-baker-hughes-164fe6?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "ea9a7abe-1cef-471d-8163-5b439486e066",
@@ -1651,6 +1670,25 @@
       "season": "May 2027",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---NPI-Writing-System-Engineer_UNI4588-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/hporwd5orexternalcareersite/college-intern-npi-writing-system-engineer-hp-e61dbf?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a3772204-aa89-46bd-bf4d-569bf5124188",
+      "title": "EHS Engineer I",
+      "company": "Axcelis",
+      "place": "Beverly, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Beverly-MA/EHS-Engineer-I_12142",
+      "firstJobbyUrl": "https://firstjobby.com/companies/axcelisorwd1oraxcelis/ehs-engineer-i-axcelis-28bfce?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109651003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-implementation-engineer-private-equity-insights-cec296?utm_source=reddit",
       "postedAt": "2026-10-30T20:46:40.000Z",
-      "notable": 4
-    },
-    {
-      "id": "ed8c530a-0b25-4c75-94ca-278dc5aa192c",
-      "title": "AI Implementation Consultant",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109592003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-implementation-consultant-private-equity-insights-cab6d4?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:37.000Z",
-      "notable": 4
-    },
-    {
-      "id": "103abe62-2e64-492a-96ad-3f13abcd1a0d",
-      "title": "AI Implementation Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109586003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-implementation-associate-private-equity-insights-414735?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:35.000Z",
       "notable": 4
     }
   ],
