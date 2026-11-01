@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:35:34.129Z",
+  "generatedAt": "2026-11-01T12:44:03.984Z",
   "jobs": [
     {
       "id": "d55ae338-bfeb-4bed-8df4-09b71252d08c",
@@ -8666,6 +8666,25 @@
       "notable": 3
     },
     {
+      "id": "743f637c-343c-4270-abc4-dc1fc65ebeaa",
+      "title": "IT Support Analyst",
+      "company": "Canvasww",
+      "place": "El Segundo, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70.4K-$80.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/canvasww/bf9ea7c7-4112-4fdd-b31d-a1c283cc96f5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/canvasww/it-support-analyst-canvasww-b09c10?utm_source=reddit",
+      "postedAt": "2026-10-30T20:27:43.073Z",
+      "notable": 3
+    },
+    {
       "id": "99b828ab-8a56-483a-a85b-1ceab0216584",
       "title": "Outside Sales Representative",
       "company": "Richards Supply",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/uniteklearning/admissions-representative-sales-experience-required-unitek-learning-2222dc?utm_source=reddit",
       "postedAt": "2026-10-30T19:26:40.915Z",
       "notable": 2
-    },
-    {
-      "id": "818ba4bf-5d24-4d22-ae10-80ec9b7a1d97",
-      "title": "Billing & Collections Specialist, Eurofins Environment Testing Southwest, Calscience, Tustin, CA",
-      "company": "Eurofins",
-      "place": "Tustin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$20-$24/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000158831279",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/billing-and-collections-specialist-eurofins-environment-testing-southwest-calsci-069411?utm_source=reddit",
-      "postedAt": "2026-10-30T19:25:51.544Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
