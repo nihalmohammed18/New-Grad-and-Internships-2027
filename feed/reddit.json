@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:11:10.147Z",
+  "generatedAt": "2026-11-01T21:29:27.159Z",
   "jobs": [
     {
       "id": "d9a7875d-34b2-4f5c-9ed6-a27d13865c1d",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisaearlycareers/associate-product-manager-program-visa-6cdf06?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "34b5dbd3-25ae-4236-9ec8-f4b36bcfb7e8",
+      "title": "Portfolio Analyst",
+      "company": "Contact Energy",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/ContactEnergy/744000158981369-portfolio-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/contactenergy/portfolio-analyst-contact-energy-92b032?utm_source=reddit",
+      "postedAt": "2026-11-01T19:50:17.234Z",
+      "notable": 3
     },
     {
       "id": "0a3b36c0-3b5e-4fb4-9fd3-49554232e7af",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/aegworldwide/jobs/8920488002",
       "firstJobbyUrl": "https://firstjobby.com/companies/aegworldwide/graphic-designer-aeg-worldwide-f06d64?utm_source=reddit",
       "postedAt": "2026-10-30T20:21:21.000Z",
-      "notable": 5
-    },
-    {
-      "id": "5950af8a-ef8f-4a93-91e2-dbd66c13c860",
-      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
-      "company": "Waymo",
-      "place": "Mountain View, United States",
-      "category": "Research",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
-      "firstJobbyUrl": "https://firstjobby.com/companies/waymo/2027-summer-intern-phd-research-scientist-intern-waymo-be6600?utm_source=reddit",
-      "postedAt": "2026-10-30T20:19:59.000Z",
       "notable": 5
     }
   ],
