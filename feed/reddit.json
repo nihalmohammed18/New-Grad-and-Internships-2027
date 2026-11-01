@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:52:24.834Z",
+  "generatedAt": "2026-11-01T15:06:35.097Z",
   "jobs": [
     {
       "id": "5213131c-bdd1-4898-8fc7-015c72d343ab",
@@ -56,6 +56,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/marblehealth/c4b5c5d3-806e-4340-8cb1-e5a202aeec2c",
       "firstJobbyUrl": "https://firstjobby.com/companies/marblehealth/customer-experience-associate-marble-health-934850?utm_source=reddit",
       "postedAt": "2026-11-01T12:28:14.235Z",
+      "notable": 3
+    },
+    {
+      "id": "f9a82492-670b-4117-94ed-46c38b9f7c0b",
+      "title": "Consultant Requirements Engineering & Business Analysis GKV (m/w/d)",
+      "company": "Sopra Steria",
+      "place": "Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158969659-consultant-requirements-engineering-business-analysis-gkv-m-w-d-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/consultant-requirements-engineering-and-business-analysis-gkv-mwd-sopra-steria-763a97?utm_source=reddit",
+      "postedAt": "2026-11-01T12:17:44.094Z",
       "notable": 3
     },
     {
@@ -167,7 +186,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158966429-consultant-it-strategy-and-enterprise-architecture-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158966429",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/consultant-it-strategy-and-enterprise-architecture-mwd-sopra-steria-0376bc?utm_source=reddit",
       "postedAt": "2026-11-01T08:08:47.733Z",
       "notable": 3
@@ -186,7 +205,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158966339-junior-it-management-process-advisory-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000158966339",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/junior-it-management-process-advisory-mwd-sopra-steria-ad3552?utm_source=reddit",
       "postedAt": "2026-11-01T08:02:52.959Z",
       "notable": 3
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158833359",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-ab5ae1?utm_source=reddit",
       "postedAt": "2026-10-30T19:43:41.109Z",
-      "notable": 3
-    },
-    {
-      "id": "109c7921-04ef-464d-80dc-83a69b6b8abd",
-      "title": "Civil Engineer",
-      "company": "AECOM",
-      "place": "Basingstoke, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158833044",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/civil-engineer-aecom-b27f8f?utm_source=reddit",
-      "postedAt": "2026-10-30T19:41:49.603Z",
       "notable": 3
     }
   ],
