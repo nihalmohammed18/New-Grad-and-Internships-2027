@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T03:36:37.039Z",
+  "generatedAt": "2026-11-01T04:13:41.875Z",
   "jobs": [
     {
       "id": "ff56cbca-53c1-43d3-874b-b953219f7324",
@@ -74,6 +74,25 @@
       "season": "Summer 2027",
       "applyUrl": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Lund/Alfa-Laval-Talent-Program-2027---IT_JR0048982",
       "firstJobbyUrl": "https://firstjobby.com/companies/alfalavalorwd3oralfalavaljobs/alfa-laval-talent-program-2027-it-alfa-laval-888e02?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "d4062cf8-cde1-4ee6-a105-1789d6fa83a7",
+      "title": "Seasonal Helper Coordinator",
+      "company": "UPS",
+      "place": "United States",
+      "category": "Operations",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PALMETTO-SCTON/Seasonal-Helper-Coordinator_R26035594",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hcmportalorwd5orsearch/seasonal-helper-coordinator-ups-9cc713?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000158822609",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/entry-level-water-resources-engineer-aecom-cfefab?utm_source=reddit",
       "postedAt": "2026-10-30T18:35:57.998Z",
-      "notable": 4
-    },
-    {
-      "id": "f655dad6-b5b5-437a-ac1a-b92574496c91",
-      "title": "Laboratory Operations Support Engineer",
-      "company": "Eurofins",
-      "place": "West Point, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000158822070",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-operations-support-engineer-eurofins-ae12f2?utm_source=reddit",
-      "postedAt": "2026-10-30T18:35:51.420Z",
       "notable": 4
     }
   ],
