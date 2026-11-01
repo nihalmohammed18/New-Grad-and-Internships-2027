@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:12:41.960Z",
+  "generatedAt": "2026-11-01T10:28:19.139Z",
   "jobs": [
     {
       "id": "ff1c5399-ef4e-4aec-9461-d9dc4e5d3fa7",
@@ -838,6 +838,25 @@
       "notable": 2
     },
     {
+      "id": "597d4cf9-d867-4b44-a3dc-dbb9215080c2",
+      "title": "Account Manager - Private Equity",
+      "company": "Theapexgroup",
+      "place": "Bangalore, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Account-Manager---Private-Equity_JR-0024250",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/account-manager-private-equity-theapexgroup-2c050d?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "554a11dd-9c97-4280-ba09-c5abcb4b10fb",
       "title": "Module Engineer",
       "company": "Intel",
@@ -988,6 +1007,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/intelorwd1orexternal/atom-cpu-layout-design-engineer-intel-205344?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "1b36c531-0c12-4e6a-99ad-b84bc1c979a6",
+      "title": "Account Manager - Private Equity",
+      "company": "Theapexgroup",
+      "place": "Bangalore, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Account-Manager---Private-Equity_JR-0024249",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/account-manager-private-equity-theapexgroup-60ce21?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "0be029a8-76d5-4fd8-bc30-220dd918bc68",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/verification-analyst-bosch-group-4c90a6?utm_source=reddit",
       "postedAt": "2026-10-30T19:04:55.148Z",
       "notable": 3
-    },
-    {
-      "id": "2a3bfca8-9f1d-4e25-bcfb-ff3cac567932",
-      "title": "Product Management Intern, Wirecutter",
-      "company": "The New York Times",
-      "place": "New York, United States",
-      "category": "Product",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$40/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thenewyorktimes/product-management-intern-wirecutter-the-new-york-times-f9fde9?utm_source=reddit",
-      "postedAt": "2026-10-30T19:04:42.000Z",
-      "notable": 5
-    },
-    {
-      "id": "e369caab-7bae-4af1-8b9f-baa330ba2795",
-      "title": "SOFTWARE ENGINEER – BACK END",
-      "company": "Tillster",
-      "place": "San Diego, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$95.0K-$125.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/tillster/9a49dcde-1da3-4d6b-957a-cd245ea2ea8d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tillster-ashby/software-engineer-back-end-tillster-57524b?utm_source=reddit",
-      "postedAt": "2026-10-30T19:04:35.741Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
