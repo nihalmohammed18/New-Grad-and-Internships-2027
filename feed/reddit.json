@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:48:21.778Z",
+  "generatedAt": "2026-11-02T14:00:21.488Z",
   "jobs": [
     {
       "id": "1f99790d-b648-4dfa-a58a-0bcbca0cb28b",
@@ -1596,6 +1596,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alten/ingenieur-supply-chain-fh-alten-71d36e?utm_source=reddit",
       "postedAt": "2026-11-02T08:51:14.266Z",
       "notable": 3
+    },
+    {
+      "id": "f8400972-3601-4900-ba55-c30957479c8e",
+      "title": "Working Student / Werkstudent (f/m/d) SAP Sales & Demand Generation",
+      "company": "Nagarro",
+      "place": "Freiburg, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Nagarro1/744000159075211-working-student-werkstudent-f-m-d-sap-sales-demand-generation",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nagarro1/working-student-werkstudent-fmd-sap-sales-and-demand-generation-nagarro-f4113d?utm_source=reddit",
+      "postedAt": "2026-11-02T08:49:21.369Z",
+      "notable": 2
     },
     {
       "id": "23815760-b8ee-4832-a4cd-d15521eb6bef",
@@ -5185,6 +5204,25 @@
       "season": null,
       "applyUrl": "https://formulaone.wd3.myworkdayjobs.com/F1/job/London/Junior-Commercial-Solutions-Designer_JR101216",
       "firstJobbyUrl": "https://firstjobby.com/companies/formulaoneorwd3orf1/junior-commercial-solutions-designer-formula-1-fb368c?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c4c4a7cf-93dd-4a35-9faf-93192ae5513d",
+      "title": "Software Development in Test Intern",
+      "company": "Silicon Labs",
+      "place": "Hungary",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "January",
+      "applyUrl": "https://silabs.wd1.myworkdayjobs.com/SiliconLabsCareers/job/Budapest/Software-Development-in-Test-Intern_21170-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/silabsorwd1orsiliconlabscareers/software-development-in-test-intern-silicon-labs-4c4f70?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pernodricardorwd3orpernod-ricard/sales-technologies-management-trainee-pernodricard-2bac0f?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "213607bd-680e-4b1e-b48c-8c2e61b00f87",
-      "title": "Junior Drainage Engineer - Design (UAE National)",
-      "company": "Parsons",
-      "place": "United Arab Emirates",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Junior-Drainage-Engineer---Design--UAE-National-_R187873",
-      "firstJobbyUrl": "https://firstjobby.com/companies/parsonsorwd5orsearch/junior-drainage-engineer-design-uae-national-parsons-5db0d4?utm_source=reddit",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "207669ed-64a5-4d66-bb58-4ad41e6697c7",
-      "title": "Postdoctoral Research Associate",
-      "company": "Usyd",
-      "place": "Camperdown, Australia",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://usyd.wd105.myworkdayjobs.com/AON/job/Camperdown-Campus/Postdoctoral-Research-Associate_0158357",
-      "firstJobbyUrl": "https://firstjobby.com/companies/usydorwd105oraon/postdoctoral-research-associate-usyd-4949fd?utm_source=reddit",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
