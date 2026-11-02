@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:48:32.302Z",
+  "generatedAt": "2026-11-02T02:08:42.913Z",
   "jobs": [
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
@@ -55,6 +55,25 @@
       "season": null,
       "applyUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---Outer-Ring-Road/Sales-Data-Steward---Salesforce-Administration-Associate_JR-0017061",
       "firstJobbyUrl": "https://firstjobby.com/companies/huronorwd1orhuroncareers/sales-data-steward-and-salesforce-administration-associate-huron-bcd68f?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f9ce5e69-a3af-4565-a9c5-e555c6c8ac29",
+      "title": "Paid Social Media Specialist",
+      "company": "Avomind",
+      "place": "Hong Kong, Hong Kong",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/A88BBCB965",
+      "firstJobbyUrl": "https://firstjobby.com/companies/avomind/paid-social-media-specialist-avomind-660ff0?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109579003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-engineer-private-equity-insights-f53239?utm_source=reddit",
       "postedAt": "2026-10-30T20:47:04.000Z",
-      "notable": 4
-    },
-    {
-      "id": "b971b86e-90ea-4131-beb5-f224fd20f214",
-      "title": "AI Strategist Consultant",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109576003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-consultant-private-equity-insights-962f56?utm_source=reddit",
-      "postedAt": "2026-10-30T20:47:01.000Z",
       "notable": 4
     }
   ],
