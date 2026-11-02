@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:00:44.732Z",
+  "generatedAt": "2026-11-02T06:08:14.095Z",
   "jobs": [
     {
       "id": "0bf9b6ad-6ce0-47d4-9ca3-c55c0df5b291",
@@ -4178,6 +4178,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639815-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/delivery-operations-associate-accenture-a08521?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "49289d4e-2baf-4524-8eca-ad28d9b334c5",
+      "title": "Launch Operations Engineer (All levels)",
+      "company": "Blue Origin",
+      "place": "United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Launch-Operations-Engineer--All-levels-_R75135",
+      "firstJobbyUrl": "https://firstjobby.com/companies/blueoriginorwd5orblueorigin/launch-operations-engineer-all-levels-blue-origin-64ac97?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://careers.townsquareinteractive.com/jobs/?gh_jid=8338070",
       "firstJobbyUrl": "https://firstjobby.com/companies/townsquareinteractive/national-account-executive-townsquare-interactive-d79465?utm_source=reddit",
       "postedAt": "2026-10-30T21:32:47.000Z",
-      "notable": 3
-    },
-    {
-      "id": "f20d0e89-9e02-4b4b-b433-af77829383f9",
-      "title": "Inside Sales Specialist",
-      "company": "Townsquare Interactive",
-      "place": "Phoenix, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://careers.townsquareinteractive.com/jobs/?gh_jid=8338069",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquareinteractive/inside-sales-specialist-townsquare-interactive-9972e2?utm_source=reddit",
-      "postedAt": "2026-10-30T21:32:43.000Z",
       "notable": 3
     }
   ],
