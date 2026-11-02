@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:37:58.251Z",
+  "generatedAt": "2026-11-02T08:07:32.826Z",
   "jobs": [
     {
       "id": "64af791f-042c-420a-8b2c-cca3796bf1e5",
@@ -455,6 +455,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000159031540-explore-automotive-embedded-engineering-opportunities-at-bosch-vietnam",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/explore-automotive-embedded-engineering-opportunities-at-bosch-vietnam-bosch-gro-99370f?utm_source=reddit",
       "postedAt": "2026-11-02T02:35:34.354Z",
+      "notable": 3
+    },
+    {
+      "id": "c60c824e-28dd-403b-a575-c2e5e826066a",
+      "title": "Business Operations Associate",
+      "company": "Coast",
+      "place": "New York, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$110.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/coast/jobs/6240359004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coast/business-operations-associate-coast-6c2d8f?utm_source=reddit",
+      "postedAt": "2026-11-02T02:31:45.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/fluidstack/492c4869-e05e-45a3-8d3a-5a299cafa4dd",
       "firstJobbyUrl": "https://firstjobby.com/companies/fluidstack/talent-coordinator-fluidstack-4cd4b1?utm_source=reddit",
       "postedAt": "2026-10-30T22:47:45.304Z",
-      "notable": 5
-    },
-    {
-      "id": "4cf21a2e-dced-4547-a8d7-cdf8a2176d30",
-      "title": "Summer 2027 Business Intelligence Intern",
-      "company": "Divergent",
-      "place": "Torrance, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$39-$45/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/divergent/jobs/5393519008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/divergent/summer-2027-business-intelligence-intern-divergent-7855c9?utm_source=reddit",
-      "postedAt": "2026-10-30T22:42:23.000Z",
       "notable": 5
     }
   ],
