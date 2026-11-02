@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:16:12.728Z",
+  "generatedAt": "2026-11-02T05:23:41.959Z",
   "jobs": [
     {
       "id": "c8a7de0e-3672-40bd-9d45-197746033839",
@@ -815,6 +815,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Product-Test-Development-Engineer--DRAM-_JR115144",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/product-test-development-engineer-dram-micron-technology-bb5e38?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6f6b15b1-bd6f-4e74-a837-0f6a37e26776",
+      "title": "Mechanical Engineer",
+      "company": "Gcaa",
+      "place": "Tieri, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://gcaa.wd3.myworkdayjobs.com/GCAA_Careers/job/Tieri-QLD-Australia/Mechanical-Engineer_JR106555",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gcaaorwd3orgcaacareers/mechanical-engineer-gcaa-f5f7ee?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/8110325003",
       "firstJobbyUrl": "https://firstjobby.com/companies/stone/vendedora-externo-6-horas-or-umuaramapr-stone-linkedin-83dcc7?utm_source=reddit",
       "postedAt": "2026-10-30T21:03:12.000Z",
-      "notable": 3
-    },
-    {
-      "id": "66ba66bb-8ef0-4d80-aad4-726cad8e5b7f",
-      "title": "Founding Strategy and Operations Analyst role",
-      "company": "ClaimSorted",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/claimsorted/7d9d515a-96fe-4c5c-86c4-e24777f2a92d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/claimsorted/founding-strategy-and-operations-analyst-role-claimsorted-511ca8?utm_source=reddit",
-      "postedAt": "2026-10-30T21:02:54.294Z",
       "notable": 3
     }
   ],
