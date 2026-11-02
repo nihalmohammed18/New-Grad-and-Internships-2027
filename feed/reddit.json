@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:19:15.022Z",
+  "generatedAt": "2026-11-02T02:29:32.191Z",
   "jobs": [
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
@@ -2354,6 +2354,25 @@
       "season": null,
       "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optomechanical-Engineer---2_R10258691",
       "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/optomechanical-engineer-2-northrop-grumman-2d4a5f?utm_source=reddit",
+      "postedAt": "2026-11-01T00:00:00.000Z",
+      "notable": 4
+    },
+    {
+      "id": "6fac4f9d-5835-4c8c-8fec-f85f5980ac13",
+      "title": "Tool Designer Level 1 or Level 2",
+      "company": "Northrop Grumman",
+      "place": "United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$44.4K-$74.0K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Tool-Designer-Level-1-or-Level-2_R10256126",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/tool-designer-level-1-or-level-2-northrop-grumman-6f4d06?utm_source=reddit",
       "postedAt": "2026-11-01T00:00:00.000Z",
       "notable": 4
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109722003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-value-creation-engineer-private-equity-insights-9d04cd?utm_source=reddit",
       "postedAt": "2026-10-30T20:47:14.000Z",
-      "notable": 4
-    },
-    {
-      "id": "839eb45c-b9ba-4a1c-8e41-8a165e8a83b5",
-      "title": "AI Value Creation Consultant",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109711003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-value-creation-consultant-private-equity-insights-e5bc7d?utm_source=reddit",
-      "postedAt": "2026-10-30T20:47:12.000Z",
       "notable": 4
     }
   ],
