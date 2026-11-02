@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:46:24.623Z",
+  "generatedAt": "2026-11-02T06:52:45.255Z",
   "jobs": [
     {
       "id": "cc29a8b4-f8fe-4b12-b13b-05ac4ff8653c",
@@ -496,6 +496,25 @@
       "notable": 3
     },
     {
+      "id": "eaf624d7-7c8e-475f-8245-a2021ad330fe",
+      "title": "Business Insight Analyst",
+      "company": "Hato Hone St John",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/HatoHoneStJohn/6000000001540093-business-insight-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hatohonestjohn/business-insight-analyst-hato-hone-st-john-dcfdb0?utm_source=reddit",
+      "postedAt": "2026-11-02T01:58:37.420Z",
+      "notable": 1
+    },
+    {
       "id": "8bdc6807-b6af-4d5e-b40d-5f508b9693d3",
       "title": "Sales and Leasing Agent",
       "company": "Havenpark Communities",
@@ -661,7 +680,7 @@
       "pay": "A$118.2K-A$140.9K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ALDIStores/744000158991678-data-governance-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/ALDIStores/744000158991678",
       "firstJobbyUrl": "https://firstjobby.com/companies/aldistores/data-governance-specialist-aldi-stores-9a55bb?utm_source=reddit",
       "postedAt": "2026-11-02T00:18:03.083Z",
       "notable": 2
@@ -699,7 +718,7 @@
       "pay": "A$143.4K-A$163.5K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ALDIStores/744000158990898-data-governance-analyst",
+      "applyUrl": "https://jobs.smartrecruiters.com/ALDIStores/744000158990898",
       "firstJobbyUrl": "https://firstjobby.com/companies/aldistores/data-governance-analyst-aldi-stores-19c323?utm_source=reddit",
       "postedAt": "2026-11-02T00:13:39.135Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hrpliving/multi-site-community-manager-hawthorne-residential-partners-596a5f?utm_source=reddit",
       "postedAt": "2026-10-30T21:46:33.000Z",
       "notable": 1
-    },
-    {
-      "id": "2c63f45b-9f8c-4823-9c86-e0a382f7a1a0",
-      "title": "Customer Service Delivery Advocate",
-      "company": "Carvana",
-      "place": "United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$17-$19/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8338095",
-      "firstJobbyUrl": "https://firstjobby.com/companies/carvana/customer-service-delivery-advocate-carvana-b2dda5?utm_source=reddit",
-      "postedAt": "2026-10-30T21:45:42.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
