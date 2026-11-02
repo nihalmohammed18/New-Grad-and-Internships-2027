@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:05:47.298Z",
+  "generatedAt": "2026-11-02T01:23:45.243Z",
   "jobs": [
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
@@ -342,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alsglobalorwd103orexternal/customer-support-executive-als-8079de?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "d4622198-d58c-416d-92d5-ca0a42e5e30b",
+      "title": "Data Analytics & Automation Specialist (Sales/Business Development)",
+      "company": "Loenbro",
+      "place": "Centennial, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$100.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/loenbro/jobs/4475182009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/loenbro/data-analytics-and-automation-specialist-salesbusiness-development-loenbro-f6fed4?utm_source=reddit",
+      "postedAt": "2026-11-01T23:14:19.000Z",
+      "notable": 4
     },
     {
       "id": "cb4018c7-273b-4d1c-a2f7-d8432f96e1a0",
@@ -3119,7 +3138,7 @@
     },
     {
       "id": "a9f5ca17-2dbc-47f5-b919-cd12e33ef58b",
-      "title": "Robotics Research Scientist (San Francisco, CA)",
+      "title": "Research Scientist, Robotics",
       "company": "Tutor Intelligence",
       "place": "San Francisco, United States",
       "category": "Research",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109575003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-associate-private-equity-insights-e393c5?utm_source=reddit",
       "postedAt": "2026-10-30T20:47:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "0382441e-2386-47c1-9168-4c5605951b15",
-      "title": "AI Strategist Analyst",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109573003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-analyst-private-equity-insights-f5b9a8?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:58.000Z",
       "notable": 4
     }
   ],
