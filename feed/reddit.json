@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:44:55.807Z",
+  "generatedAt": "2026-11-02T23:22:39.392Z",
   "jobs": [
     {
       "id": "ecbb59d5-d46f-4941-bc3e-57988277bd48",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/2027-gmap-software-and-electronicssoftware-engineer-general-motors-ee99ab?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "e4b0a935-ea9d-4f24-b0b9-aeafb92d70cb",
+      "title": "Account Manager",
+      "company": "Seven West Media",
+      "place": "Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sevenwestmedia.wd105.myworkdayjobs.com/SWM/job/Rockhampton/Account-Manager_JR101517-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sevenwestmediaorwd105orswm/account-manager-seven-west-media-e3dbe5?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "d0eeaf80-7ade-4bb8-a9b0-79c9d5ae6439",
@@ -114,6 +133,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/2027-gmtck-virtual-engineering-general-motors-579591?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "ad5dc4da-883c-432b-b677-5565b49375ca",
+      "title": "Operations Support Officer",
+      "company": "Toll Group",
+      "place": "Kalgoorlie, Australia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tollgroup.wd5.myworkdayjobs.com/TollGroup/job/Broadwood-Western-Australia-Australia/Operations-Support-Officer_R000078702",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tollgrouporwd5ortollgroup/operations-support-officer-toll-group-bcc3bc?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a0d1028f-ffd2-4496-bfbb-7f13f064df7c",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000159095139",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/data-engineering-specialist-aecom-e88cd8?utm_source=reddit",
       "postedAt": "2026-11-02T10:08:05.140Z",
-      "notable": 3
-    },
-    {
-      "id": "0d8c13d0-77b0-4412-8386-57bd097ad321",
-      "title": "Customer Support Specialist ll",
-      "company": "Coinbase",
-      "place": "Manila, Philippines",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "₱798.3K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.coinbase.com/careers/positions/8337032?gh_jid=8337032",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coinbase/customer-support-specialist-ll-coinbase-8aa512?utm_source=reddit",
-      "postedAt": "2026-11-02T10:07:49.000Z",
-      "notable": 5
-    },
-    {
-      "id": "72a19b06-6d21-427f-bd81-8abc3245c107",
-      "title": "Inside Sales Representative - Polish Market",
-      "company": "The Fork",
-      "place": "Spain",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thefork/jobs/8345716",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thefork/inside-sales-representative-polish-market-the-fork-afca63?utm_source=reddit",
-      "postedAt": "2026-11-02T10:05:05.000Z",
       "notable": 3
     }
   ],
