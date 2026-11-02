@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:47:59.939Z",
+  "generatedAt": "2026-11-02T01:05:47.298Z",
   "jobs": [
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
@@ -266,6 +266,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/valmetorwd103orexternal/project-engineer-valmet-41a928?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "207669ed-64a5-4d66-bb58-4ad41e6697c7",
+      "title": "Postdoctoral Research Associate",
+      "company": "Usyd",
+      "place": "Camperdown, Australia",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://usyd.wd105.myworkdayjobs.com/AON/job/Camperdown-Campus/Postdoctoral-Research-Associate_0158357",
+      "firstJobbyUrl": "https://firstjobby.com/companies/usydorwd105oraon/postdoctoral-research-associate-usyd-4949fd?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "1e58bfad-d54a-4d7a-92c7-93c7b6ab8b21",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109573003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-analyst-private-equity-insights-f5b9a8?utm_source=reddit",
       "postedAt": "2026-10-30T20:46:58.000Z",
-      "notable": 4
-    },
-    {
-      "id": "eefcf5f2-834e-4fa8-8f3e-733665e1e1ff",
-      "title": "AI Specialist",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109565003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-specialist-private-equity-insights-df499c?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:56.000Z",
       "notable": 4
     }
   ],
