@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-02T05:23:41.959Z",
+  "generatedAt": "2026-11-02T05:29:43.948Z",
   "jobs": [
+    {
+      "id": "ffd0662f-4847-4a50-ade9-05813e23cd8a",
+      "title": "Outside Sales Residential New Construction Representative",
+      "company": "DH Pace",
+      "place": "Denver, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$60.4K-$90.6K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5469461008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/outside-sales-residential-new-construction-representative-dh-pace-37d93c?utm_source=reddit",
+      "postedAt": "2026-11-02T05:06:22.000Z",
+      "notable": 5
+    },
     {
       "id": "c8a7de0e-3672-40bd-9d45-197746033839",
       "title": "Junior/Middle Email Marketing Manager | Brainer",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016539646",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/associate-manager-market-access-analytics-abbvie-8bc8e1?utm_source=reddit",
       "postedAt": "2026-10-30T21:03:37.332Z",
-      "notable": 3
-    },
-    {
-      "id": "925ab732-37f1-4dba-bcf3-b299c03858c9",
-      "title": "Vendedor(a) Externo (6 horas) | Umuarama/PR",
-      "company": "Stone - Linkedin",
-      "place": "Umuarama, Brazil",
-      "category": "Marketing",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/8110325003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stone/vendedora-externo-6-horas-or-umuaramapr-stone-linkedin-83dcc7?utm_source=reddit",
-      "postedAt": "2026-10-30T21:03:12.000Z",
       "notable": 3
     }
   ],
