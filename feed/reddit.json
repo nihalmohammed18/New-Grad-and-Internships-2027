@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:47:53.323Z",
+  "generatedAt": "2026-11-02T00:10:37.818Z",
   "jobs": [
     {
       "id": "fcf1491e-8016-4eaf-96a4-c336eff8b3dc",
@@ -171,6 +171,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/weirorwd3orweirexternalcareers/engineer-sales-weir-9af451?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "664616be-ed59-44b4-a878-93547cc34791",
+      "title": "Student Assistant, User Research & Human Factors Engineering",
+      "company": "Convatec",
+      "place": "Søborg, Denmark",
+      "category": "Engineering",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "DKK 150/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://convatec.wd1.myworkdayjobs.com/ConvaTec/job/SBG-Soeborg/Student-Assistant--User-Research---Human-Factors-Engineering_JR00021885",
+      "firstJobbyUrl": "https://firstjobby.com/companies/convatecorwd1orconvatec/student-assistant-user-research-and-human-factors-engineering-convatec-3b5ed6?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "406b3552-bc9f-4dbc-8d09-d702e828a789",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109603003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-implementation-specialist-private-equity-insights-d93f94?utm_source=reddit",
       "postedAt": "2026-10-30T20:46:42.000Z",
-      "notable": 4
-    },
-    {
-      "id": "769e6526-8a34-4749-a5cd-f67f180ea984",
-      "title": "AI Implementation Engineer",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109651003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-implementation-engineer-private-equity-insights-cec296?utm_source=reddit",
-      "postedAt": "2026-10-30T20:46:40.000Z",
       "notable": 4
     }
   ],
