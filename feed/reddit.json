@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:19:08.086Z",
+  "generatedAt": "2026-11-02T06:25:26.112Z",
   "jobs": [
     {
       "id": "0bf9b6ad-6ce0-47d4-9ca3-c55c0df5b291",
@@ -1554,7 +1554,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/External/job/Tampere/Project-Engineer_R61071",
+      "applyUrl": "https://valmet.wd103.myworkdayjobs.com/external/job/Tampere/Project-Engineer_R61071",
       "firstJobbyUrl": "https://firstjobby.com/companies/valmetorwd103orexternal/project-engineer-valmet-41a928?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
@@ -7792,25 +7792,6 @@
       "notable": 2
     },
     {
-      "id": "730bac28-8863-4a88-a025-cd789ad8bd9b",
-      "title": "Research Analyst 1",
-      "company": "Vanderbilt Health",
-      "place": "Nashville, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Research-Analyst-1_R-70872",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/research-analyst-1-vanderbilt-health-3ad441?utm_source=reddit",
-      "postedAt": "2026-10-31T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "7180717e-62a4-4b16-bf47-b4f0f6b28a9c",
       "title": "Procure to Pay Operations Associate",
       "company": "Accenture",
@@ -9499,6 +9480,25 @@
       "applyUrl": "https://careers.townsquareinteractive.com/jobs/?gh_jid=8338082",
       "firstJobbyUrl": "https://firstjobby.com/companies/townsquareinteractive/outside-sales-account-executive-townsquare-interactive-fc37cb?utm_source=reddit",
       "postedAt": "2026-10-30T21:35:30.000Z",
+      "notable": 5
+    },
+    {
+      "id": "2fb6858c-2c99-4496-ab89-b60c18eed4c2",
+      "title": "Outside Sales Account Executive",
+      "company": "Townsquare Interactive",
+      "place": "Fort Collins, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$60.0K-$90.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://careers.townsquareinteractive.com/jobs/?gh_jid=8338081",
+      "firstJobbyUrl": "https://firstjobby.com/companies/townsquareinteractive/outside-sales-account-executive-townsquare-interactive-cba009?utm_source=reddit",
+      "postedAt": "2026-10-30T21:34:46.000Z",
       "notable": 5
     }
   ],
