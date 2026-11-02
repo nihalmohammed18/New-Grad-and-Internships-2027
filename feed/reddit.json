@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:23:45.243Z",
+  "generatedAt": "2026-11-02T01:48:32.302Z",
   "jobs": [
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
@@ -188,6 +188,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/HVM-Process--Shift--Engineer-Taichung-Taoyuan-_JR116442",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/hvm-process-shift-engineertaichungtaoyuan-micron-technology-b88fb7?utm_source=reddit",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "9d5712ce-69e3-4b60-bd80-3988471efd18",
+      "title": "Engineer (IFED)",
+      "company": "Singapore Public Service",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/HDB-HUB/Engineer--IFED-_JR-10000057047",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/engineer-ifed-singapore-public-service-0d04d1?utm_source=reddit",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109576003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-consultant-private-equity-insights-962f56?utm_source=reddit",
       "postedAt": "2026-10-30T20:47:01.000Z",
-      "notable": 4
-    },
-    {
-      "id": "e95f3467-bb1c-465d-9d76-2b675c434f90",
-      "title": "AI Strategist Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109575003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-associate-private-equity-insights-e393c5?utm_source=reddit",
-      "postedAt": "2026-10-30T20:47:00.000Z",
       "notable": 4
     }
   ],
