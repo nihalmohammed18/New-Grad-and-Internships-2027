@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:35:09.684Z",
+  "generatedAt": "2026-11-02T08:38:56.240Z",
   "jobs": [
     {
       "id": "8baa7e06-b180-4e70-8134-335b373c67ab",
@@ -360,6 +360,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000159047439--sx-eit-mm-embedded-test-engineer-1-year-contract-",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/sxeit-mm-embedded-test-engineer-1-year-contract-bosch-group-a0d96e?utm_source=reddit",
       "postedAt": "2026-11-02T04:36:59.726Z",
+      "notable": 3
+    },
+    {
+      "id": "1ae0d094-c039-4444-8d3d-0364e3e42aec",
+      "title": "Software Engineer II",
+      "company": "Tower Research Capital",
+      "place": "Gurgaon, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8232832",
+      "firstJobbyUrl": "https://firstjobby.com/companies/towerresearchcapital/software-engineer-ii-tower-research-capital-315382?utm_source=reddit",
+      "postedAt": "2026-11-02T04:16:33.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Associate---Plumbing---Day_JR-02696800",
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-plumbing-day-lowes-847c0a?utm_source=reddit",
-      "postedAt": "2026-10-31T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "3bf0ca52-b08a-4d6e-8202-1336ead5cb91",
-      "title": "Supply Chain & Logistik Prozess Experte Luftfahrtindustrie (all genders)",
-      "company": "Accenture",
-      "place": "Hamburg, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Hamburg/Supply-Chain---Logistik-Prozess-Experte-Luftfahrtindustrie--all-genders-_R00327238-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/supply-chain-and-logistik-prozess-experte-luftfahrtindustrie-all-genders-accentu-4abd76?utm_source=reddit",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "notable": 2
     }
