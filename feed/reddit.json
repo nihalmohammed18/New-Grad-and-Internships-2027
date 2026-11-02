@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:39:57.273Z",
+  "generatedAt": "2026-11-02T04:45:45.430Z",
   "jobs": [
     {
       "id": "c8a7de0e-3672-40bd-9d45-197746033839",
@@ -151,6 +151,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000159030964-cfd-engineer-intern",
       "firstJobbyUrl": "https://firstjobby.com/companies/socotec/cfd-engineer-intern-socotec-7a6acc?utm_source=reddit",
       "postedAt": "2026-11-02T02:09:39.124Z",
+      "notable": 3
+    },
+    {
+      "id": "7cbc5a82-d7ef-4695-829a-854f3840f069",
+      "title": "Deployment Operations Representative",
+      "company": "Halter",
+      "place": "Auckland, New Zealand",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/halter/b63cac9e-8ae6-4f26-bee2-8341283c7866",
+      "firstJobbyUrl": "https://firstjobby.com/companies/halter-ashby/deployment-operations-representative-halter-d0538b?utm_source=reddit",
+      "postedAt": "2026-11-02T01:59:44.126Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109968003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/marketing-engineer-private-equity-insights-afd599?utm_source=reddit",
       "postedAt": "2026-10-30T20:48:54.000Z",
-      "notable": 4
-    },
-    {
-      "id": "b3b8241c-9f1e-4e3e-b7e2-81e420ac471b",
-      "title": "Marketing Consultant",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109956003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/marketing-consultant-private-equity-insights-af6204?utm_source=reddit",
-      "postedAt": "2026-10-30T20:48:52.000Z",
       "notable": 4
     }
   ],
