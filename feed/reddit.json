@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:52:45.255Z",
+  "generatedAt": "2026-11-02T06:56:06.593Z",
   "jobs": [
     {
       "id": "cc29a8b4-f8fe-4b12-b13b-05ac4ff8653c",
@@ -6481,6 +6481,25 @@
       "notable": 0
     },
     {
+      "id": "d980cb5b-0bc3-4512-846d-e9e2dacba349",
+      "title": "Junior Technical Support Engineer",
+      "company": "Everbridge",
+      "place": "Remote from Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$56.0K-CA$65.0K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/everbridge/d651e3b4-b3ff-462d-80e8-983d21e70ee5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/everbridge/junior-technical-support-engineer-everbridge-bfc2b2?utm_source=reddit",
+      "postedAt": "2026-10-31T00:47:04.079Z",
+      "notable": 3
+    },
+    {
       "id": "c6a7cfb5-c341-48db-a6af-d224065e7be7",
       "title": "AI Engineer (Agentic Systems)",
       "company": "Ample Insight Inc.",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/data-validator-junior-rbs-sgs-d716c2?utm_source=reddit",
       "postedAt": "2026-10-30T21:47:25.000Z",
       "notable": 3
-    },
-    {
-      "id": "cd6543a9-e706-4b96-891e-979efbf960c6",
-      "title": "Multi-Site Community Manager",
-      "company": "Hawthorne Residential Partners",
-      "place": "Greensboro, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrpliving/jobs/4473246009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrpliving/multi-site-community-manager-hawthorne-residential-partners-596a5f?utm_source=reddit",
-      "postedAt": "2026-10-30T21:46:33.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
