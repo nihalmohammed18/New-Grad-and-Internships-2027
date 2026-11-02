@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-02T02:29:32.191Z",
+  "generatedAt": "2026-11-02T03:58:34.131Z",
   "jobs": [
+    {
+      "id": "ec13a633-ca52-4d88-a313-257c69961da1",
+      "title": "CFD Engineer Intern",
+      "company": "SOCOTEC",
+      "place": "Hanoi, Vietnam",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000159030964-cfd-engineer-intern",
+      "firstJobbyUrl": "https://firstjobby.com/companies/socotec/cfd-engineer-intern-socotec-7a6acc?utm_source=reddit",
+      "postedAt": "2026-11-02T02:09:39.124Z",
+      "notable": 3
+    },
     {
       "id": "8055a457-92c2-42e3-b2d5-0899fd815011",
       "title": "Data Governance Specialist",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109717003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-value-creation-specialist-private-equity-insights-4fc5ae?utm_source=reddit",
       "postedAt": "2026-10-30T20:47:16.000Z",
-      "notable": 4
-    },
-    {
-      "id": "87df7234-2f7f-4187-93f5-37ca71bc67ac",
-      "title": "AI Value Creation Engineer",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8109722003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-value-creation-engineer-private-equity-insights-9d04cd?utm_source=reddit",
-      "postedAt": "2026-10-30T20:47:14.000Z",
       "notable": 4
     }
   ],
