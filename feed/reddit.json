@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-03T05:23:01.599Z",
+  "generatedAt": "2026-11-03T05:42:01.259Z",
   "jobs": [
+    {
+      "id": "21c7b005-210c-4fc0-97f2-a01db693c5a6",
+      "title": "Deal Desk Analyst",
+      "company": "Informa Group Plc.",
+      "place": "Georgetown, Malaysia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159294719-deal-desk-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/deal-desk-analyst-informa-group-plc-511b28?utm_source=reddit",
+      "postedAt": "2026-11-03T04:53:19.729Z",
+      "notable": 3
+    },
     {
       "id": "623d4797-11d5-4487-a5e4-3c196716c076",
       "title": "Territory Sales Representative",
@@ -57,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ubisoft2/dev-tester-ubisoft-a093ae?utm_source=reddit",
       "postedAt": "2026-11-03T02:15:55.872Z",
       "notable": 3
+    },
+    {
+      "id": "26854eb3-a08c-428d-864b-90dd754f5779",
+      "title": "French LQA Games Tester - Remote (Freelance)",
+      "company": "TransPerfect",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://transperfect.com/o/french-lqa-games-tester-remote-freelance",
+      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/french-lqa-games-tester-remote-freelance-transperfect-a7cb1b?utm_source=reddit",
+      "postedAt": "2026-11-03T01:57:13.000Z",
+      "notable": 2
     },
     {
       "id": "cd89dbf8-41af-4392-9cd1-5ce901404ef1",
@@ -2124,7 +2162,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000159261519-associate-customer-success-manager-french",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000159261519",
       "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/associate-customer-success-manager-french-servicenow-90bb53?utm_source=reddit",
       "postedAt": "2026-11-02T23:11:56.990Z",
       "notable": 3
@@ -3587,7 +3625,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Experian/744000159239330-sales-account-manager",
+      "applyUrl": "https://jobs.smartrecruiters.com/experian/744000159239330",
       "firstJobbyUrl": "https://firstjobby.com/companies/experian/sales-account-manager-experian-f44fbb?utm_source=reddit",
       "postedAt": "2026-11-02T21:17:00.859Z",
       "notable": 3
@@ -3606,7 +3644,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159243449-operational-support-associate-tampa-downtown-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159243449",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/operational-support-associate-tampa-downtown-sixt-b215cd?utm_source=reddit",
       "postedAt": "2026-11-02T21:16:53.087Z",
       "notable": 3
@@ -3758,7 +3796,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016569126-cad-designer",
+      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016569126",
       "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/cad-designer-mission-critical-group-23f5c5?utm_source=reddit",
       "postedAt": "2026-11-02T20:51:20.238Z",
       "notable": 3
@@ -4879,7 +4917,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016565976-research-associate-quantitative-and-or-qualitative-division-of-research-and-faculty-development",
+      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016565976",
       "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-associate-quantitative-andor-qualitative-division-of-research-and-facul-1f1dbe?utm_source=reddit",
       "postedAt": "2026-11-02T19:38:14.118Z",
       "notable": 4
@@ -4917,7 +4955,7 @@
       "pay": "$15/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159226629-rental-sales-agent-orlando-international-airport-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159226629",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-orlando-international-airport-sixt-fd8594?utm_source=reddit",
       "postedAt": "2026-11-02T19:36:51.622Z",
       "notable": 6
@@ -5791,7 +5829,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AmericanIronandMetal/744000159214600-procurement-support-coordinator",
+      "applyUrl": "https://jobs.smartrecruiters.com/AmericanIronandMetal/744000159214600",
       "firstJobbyUrl": "https://firstjobby.com/companies/americanironandmetal/procurement-support-coordinator-american-iron-and-metal-ac1a7a?utm_source=reddit",
       "postedAt": "2026-11-02T18:14:24.978Z",
       "notable": 3
@@ -6684,7 +6722,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159208067-rental-sales-agent-milano-centrale-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159208067",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-milano-centrale-sixt-b2f53b?utm_source=reddit",
       "postedAt": "2026-11-02T17:28:12.607Z",
       "notable": 3
@@ -7026,7 +7064,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ALTEN/744000159206269-embedded-software-engineer-",
+      "applyUrl": "https://jobs.smartrecruiters.com/alten/744000159206269",
       "firstJobbyUrl": "https://firstjobby.com/companies/alten/embedded-software-engineer-alten-87a70d?utm_source=reddit",
       "postedAt": "2026-11-02T17:16:18.357Z",
       "notable": 3
@@ -7140,7 +7178,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016560272-electrical-tester",
+      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016560272",
       "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/electrical-tester-mission-critical-group-654642?utm_source=reddit",
       "postedAt": "2026-11-02T17:13:09.179Z",
       "notable": 3
@@ -7216,7 +7254,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159205359-marketing-internship",
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159205359",
       "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/marketing-internship-informa-group-plc-a21992?utm_source=reddit",
       "postedAt": "2026-11-02T17:10:50.116Z",
       "notable": 3
@@ -7254,7 +7292,7 @@
       "pay": null,
       "minYears": null,
       "season": "Feb 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159204709-data-analyst-internship",
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159204709",
       "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/data-analyst-internship-informa-group-plc-f4093f?utm_source=reddit",
       "postedAt": "2026-11-02T17:08:48.645Z",
       "notable": 3
@@ -7482,7 +7520,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000159202034-industrial-projects-coordinator-quotations-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000159202034",
       "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/industrial-projects-coordinator-and-quotations-specialist-rexel-c37924?utm_source=reddit",
       "postedAt": "2026-11-02T16:59:15.943Z",
       "notable": 3
@@ -7577,7 +7615,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159201989-strategic-insights-research-internship",
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159201989",
       "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/strategic-insights-and-research-internship-informa-group-plc-0ac438?utm_source=reddit",
       "postedAt": "2026-11-02T16:56:08.483Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lgcgroup/customer-service-executive-mfd-lgc-group-6beafb?utm_source=reddit",
       "postedAt": "2026-11-02T15:30:06.457Z",
       "notable": 3
-    },
-    {
-      "id": "eed28200-ca53-4c12-888a-73361a900dcb",
-      "title": "Application & IT Support Engineer",
-      "company": "Lalamove",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K-$90.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/lalamove/d19288b5-119c-477e-8409-81455f5a2211",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lalamove/application-and-it-support-engineer-lalamove-ca52df?utm_source=reddit",
-      "postedAt": "2026-11-02T15:29:47.202Z",
-      "notable": 5
-    },
-    {
-      "id": "209d792a-9adb-4499-99e1-1a5637e45e21",
-      "title": "Prüftechniker Inspektionsstelle (m/w/d)",
-      "company": "ENERTRAG SE",
-      "place": "Edemissen, Germany",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/enertrag/744000159174001",
-      "firstJobbyUrl": "https://firstjobby.com/companies/enertrag/pruftechniker-inspektionsstelle-mwd-enertrag-se-df57c2?utm_source=reddit",
-      "postedAt": "2026-11-02T15:27:17.631Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
