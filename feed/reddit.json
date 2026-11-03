@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:03:45.357Z",
+  "generatedAt": "2026-11-03T09:07:41.002Z",
   "jobs": [
     {
       "id": "db1bb570-0ece-4fe1-bc75-f28fa99cb7f4",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveroo/account-manager-liguria-grocery-deliveroo-88668c?utm_source=reddit",
       "postedAt": "2026-11-03T08:00:53.000Z",
       "notable": 5
+    },
+    {
+      "id": "a0cd8a5c-483d-4372-be24-cb2231909b48",
+      "title": "Sales Administrator",
+      "company": "Sourceability",
+      "place": "Shanghai, China",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://sourceability.com/careers?gh_jid=5282828007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sourceability/sales-administrator-sourceability-05e5ee?utm_source=reddit",
+      "postedAt": "2026-11-03T07:48:31.000Z",
+      "notable": 1
     },
     {
       "id": "a057e26b-dedc-4d2a-b5de-cb944078ded7",
@@ -1235,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/analyst-global-mdm-fin-service-delivery-johnson-and-johnson-3347ac?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "ff81ea99-7124-4d02-966c-387f4ec91d7a",
+      "title": "Sales Development Representative, Enterprise AI",
+      "company": "CodeNinja",
+      "place": "Dallas, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$55.0K-$65.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/5788C0434F",
+      "firstJobbyUrl": "https://firstjobby.com/companies/codeninjapk/sales-development-representative-enterprise-ai-codeninja-88549c?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "ff1b0575-af92-4d34-b9c8-0b2da944e157",
@@ -3306,6 +3344,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/duty-engineer-jll-51eb8a?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "2b34770f-ce3e-417e-bc52-47dce3fe3a10",
+      "title": "Account Executive, AI Infrastructure",
+      "company": "CodeNinja",
+      "place": "Dallas, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K-$85.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/827CE14434",
+      "firstJobbyUrl": "https://firstjobby.com/companies/codeninjapk/account-executive-ai-infrastructure-codeninja-02f9e7?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "2a93c4b8-26e8-468f-ae06-540a41cb7edb",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/commission-based-inside-sales-representative-jobgether-edb1bc?utm_source=reddit",
       "postedAt": "2026-11-02T16:57:39.755Z",
       "notable": 5
-    },
-    {
-      "id": "d91ca376-588a-49f7-b6c9-7f33e8119cdc",
-      "title": "Customer Service Representative-Patient Access and Support Services",
-      "company": "Luminis Health",
-      "place": "Annapolis, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$18-$26/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/luminishealth/jobs/5462502008?gh_jid=5462502008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/luminishealth/customer-service-representative-patient-access-and-support-services-luminis-heal-279947?utm_source=reddit",
-      "postedAt": "2026-11-02T16:56:36.000Z",
-      "notable": 4
-    },
-    {
-      "id": "4e51389e-2df7-400c-86dd-5148bb4e9f92",
-      "title": "Account Executive",
-      "company": "Xero",
-      "place": "Milton Keynes, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/xero/dd32d572-ca4b-4459-be88-9469e2b41c31",
-      "firstJobbyUrl": "https://firstjobby.com/companies/xero-ashby/account-executive-xero-bbeb46?utm_source=reddit",
-      "postedAt": "2026-11-02T16:56:10.226Z",
-      "notable": 3
-    },
-    {
-      "id": "99742707-3a35-4c43-8da9-bab791e601a7",
-      "title": "Strategic Insights & Research Internship",
-      "company": "Informa Group Plc.",
-      "place": "Amsterdam, Netherlands",
-      "category": "Research",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159201989",
-      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/strategic-insights-and-research-internship-informa-group-plc-0ac438?utm_source=reddit",
-      "postedAt": "2026-11-02T16:56:08.483Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
