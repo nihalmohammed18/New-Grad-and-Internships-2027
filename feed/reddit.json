@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:42:01.259Z",
+  "generatedAt": "2026-11-03T05:44:16.234Z",
   "jobs": [
     {
       "id": "21c7b005-210c-4fc0-97f2-a01db693c5a6",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/french-lqa-games-tester-remote-freelance-transperfect-a7cb1b?utm_source=reddit",
       "postedAt": "2026-11-03T01:57:13.000Z",
       "notable": 2
+    },
+    {
+      "id": "0db7d3e2-c205-4442-9422-351fe0e92586",
+      "title": "Digital Sales Representative - Expansion",
+      "company": "Twilio",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35-$49/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/twilio/jobs/8327942",
+      "firstJobbyUrl": "https://firstjobby.com/companies/twilio/digital-sales-representative-expansion-twilio-59546c?utm_source=reddit",
+      "postedAt": "2026-11-03T01:43:06.000Z",
+      "notable": 5
     },
     {
       "id": "cd89dbf8-41af-4392-9cd1-5ce901404ef1",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dotfile/sales-development-representative-dotfile-7361b1?utm_source=reddit",
       "postedAt": "2026-11-02T15:33:39.045Z",
       "notable": 1
-    },
-    {
-      "id": "aa0ca60d-a266-4c25-8ae6-2939f8f88918",
-      "title": "Customer Service Executive (m/f/d)",
-      "company": "LGC Group",
-      "place": "Łomianki, Poland",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/LGCGroup/744000159171724",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lgcgroup/customer-service-executive-mfd-lgc-group-6beafb?utm_source=reddit",
-      "postedAt": "2026-11-02T15:30:06.457Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
