@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T04:17:20.455Z",
+  "generatedAt": "2026-11-03T04:27:58.484Z",
   "jobs": [
     {
       "id": "623d4797-11d5-4487-a5e4-3c196716c076",
@@ -667,6 +667,25 @@
       "notable": 4
     },
     {
+      "id": "d158efdf-f566-4cc6-9a8b-50b50167673b",
+      "title": "Customer Service Representative (Fixed-Term Contract)",
+      "company": "Vantive",
+      "place": "North Sydney, Australia",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vantive.wd108.myworkdayjobs.com/Vantive/job/North-Sydney-New-South-Wales/Customer-Service-Representative--Fixed-Term-Contract-_JR-198879",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vantiveorwd108orvantive/customer-service-representative-fixed-term-contract-vantive-bdfc12?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "d0eeaf80-7ade-4bb8-a9b0-79c9d5ae6439",
       "title": "[2027 GMTCK 동계인턴십] Body, Exterior, Chassis and After Service Engineering",
       "company": "General Motors",
@@ -1313,6 +1332,25 @@
       "notable": 2
     },
     {
+      "id": "3c5758f4-43c2-4c6e-8825-f494c8985bbf",
+      "title": "IT Administrator II",
+      "company": "Varex Imaging",
+      "place": "Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Calamba-9/IT-Administrator-II_R0006106",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vareximagingorwd103orexternalcareersite/it-administrator-ii-varex-imaging-627051?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "3b2f6171-0bda-461c-a1e3-05f36d561932",
       "title": "Service Engineer",
       "company": "Thermo Fisher Scientific",
@@ -1349,6 +1387,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/2027-gmtck-vehicle-performance-controls-and-validation-integration-engineer-gene-0fe548?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "3a035fbc-d547-4e07-81c1-29d4bb3c0e35",
+      "title": "Third Party Risk Analyst",
+      "company": "Genesys",
+      "place": "Manila, Philippines",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Manila-Flexible/Third-Party-Risk-Analyst_JR112882-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/genesysorwd1orgenesys/third-party-risk-analyst-genesys-5c00bb?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "37a4837b-45ba-4d84-8047-fb445160beea",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/m-kopa-ashby/sales-executive-amasaman-m-kopa-bbc3c6?utm_source=reddit",
       "postedAt": "2026-11-02T15:18:48.764Z",
       "notable": 3
-    },
-    {
-      "id": "652a5c07-740d-4a32-9c0f-0d3b9bd1acd4",
-      "title": "Project Coordinator, Media Group Decision Sciences",
-      "company": "NBCUniversal",
-      "place": "New York, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$80.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000159170845",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nbcuniversal3/project-coordinator-media-group-decision-sciences-nbcuniversal-1ff406?utm_source=reddit",
-      "postedAt": "2026-11-02T15:18:47.607Z",
-      "notable": 5
-    },
-    {
-      "id": "a44fdd47-098c-4325-aa1d-0b726b3ff125",
-      "title": "Internal Sales Executive",
-      "company": "REXEL",
-      "place": "Oxford, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000159170830",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/internal-sales-executive-rexel-529af8?utm_source=reddit",
-      "postedAt": "2026-11-02T15:17:38.700Z",
-      "notable": 3
-    },
-    {
-      "id": "ddd4b878-9c17-4a91-bb13-721a63c04f10",
-      "title": "Growth Marketing Specialist",
-      "company": "MaintainX (An Autodesk Company)",
-      "place": "Montreal, Canada",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$91.0K-$133.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/maintainx/4b83a78d-1e1b-4ebf-996b-e14703a4c198",
-      "firstJobbyUrl": "https://firstjobby.com/companies/maintainx-ashby/growth-marketing-specialist-maintainx-an-autodesk-company-341694?utm_source=reddit",
-      "postedAt": "2026-11-02T15:17:03.102Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
