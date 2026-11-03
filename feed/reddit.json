@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T04:27:58.484Z",
+  "generatedAt": "2026-11-03T05:09:31.594Z",
   "jobs": [
     {
       "id": "623d4797-11d5-4487-a5e4-3c196716c076",
@@ -456,6 +456,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/moomoo/brokerage-services-support-specialist-moomoo-dc55e4?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "ece733e1-c8ba-4a3d-a426-759cdce81f0c",
+      "title": "Customer Insights Analyst, Institutional and Business Banking",
+      "company": "Westpac",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://westpacnz.wd105.myworkdayjobs.com/Westpac_Careers/job/Westpac-on-Takutai-Square/Customer-Insights-Analyst--Institutional-and-Business-Banking_JR108193",
+      "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orwestpaccareers/customer-insights-analyst-institutional-and-business-banking-westpac-d15602?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "ecd00555-c380-499a-8c5f-1ad8da1903b4",
@@ -1104,6 +1123,25 @@
       "notable": 2
     },
     {
+      "id": "6779e77f-f915-4477-b0ef-c08e2df0f629",
+      "title": "Structural Engineer",
+      "company": "Thornton Tomasetti",
+      "place": "Ho Chi Minh City, Vietnam",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/Ho-Chi-Minh-City-Vietnam/Structural-Engineer_R7178",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ttorwd503orthorntontomasetti/structural-engineer-thornton-tomasetti-cbcd16?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "64b9f8f4-e34f-4aaf-8a68-5437a439f96d",
       "title": "Procurement and Supply Chain Coordinator",
       "company": "Cushman & Wakefield",
@@ -1539,6 +1577,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bakerhughesorwd5orbakerhughes/applications-engineering-drill-bits-baker-hughes-290a32?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "105a7826-cd6f-47a7-ae75-e5ce7bed9f1e",
+      "title": "Research Assistant",
+      "company": "University of Queensland",
+      "place": "Australia",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "A$79.1K-A$83.9K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://uq.wd3.myworkdayjobs.com/uqcareers/job/Dutton-Park/Research-Assistant_R-70585",
+      "firstJobbyUrl": "https://firstjobby.com/companies/uqorwd3oruqcareers/research-assistant-university-of-queensland-845919?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "0a72cbd0-ac60-4a21-8e95-53a1c70e8b35",
@@ -3739,7 +3796,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Averna1/744000159236949-mechanical-designer-english-version-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Averna1/744000159236949",
       "firstJobbyUrl": "https://firstjobby.com/companies/averna1/mechanical-designer-english-version-averna-11ad79?utm_source=reddit",
       "postedAt": "2026-11-02T20:44:47.378Z",
       "notable": 3
@@ -4271,7 +4328,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389-data-integrity-specialist-intern",
+      "applyUrl": "https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389",
       "firstJobbyUrl": "https://firstjobby.com/companies/springventuregroup1/data-integrity-specialist-intern-spring-venture-group-7ddfc5?utm_source=reddit",
       "postedAt": "2026-11-02T19:58:42.356Z",
       "notable": 1
@@ -4784,7 +4841,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159224354-b2b-sales-representative-italy",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159224354",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/b2b-sales-representative-italy-delivery-hero-3a57c7?utm_source=reddit",
       "postedAt": "2026-11-02T19:26:05.292Z",
       "notable": 3
@@ -4822,7 +4879,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159225054-sales-executive-smb-italy-milano",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159225054",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-smb-italy-milano-delivery-hero-7e6864?utm_source=reddit",
       "postedAt": "2026-11-02T19:24:38.193Z",
       "notable": 3
@@ -4841,7 +4898,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159224397-business-development-representative-smb-italy-milano",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159224397",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/business-development-representative-smb-italy-milano-delivery-hero-38c752?utm_source=reddit",
       "postedAt": "2026-11-02T19:24:23.347Z",
       "notable": 3
@@ -5297,7 +5354,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Kronospan/744000159220549-sales-representative-panels-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Kronospan/744000159220549",
       "firstJobbyUrl": "https://firstjobby.com/companies/kronospan/sales-representative-panels-kronospan-aa88b7?utm_source=reddit",
       "postedAt": "2026-11-02T18:40:15.582Z",
       "notable": 3
@@ -6779,7 +6836,7 @@
       "pay": "$60.0K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159207129-technical-support-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159207129",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityofphiladelphia/technical-support-specialist-city-of-philadelphia-82f867?utm_source=reddit",
       "postedAt": "2026-11-02T17:19:55.008Z",
       "notable": 5
@@ -7463,7 +7520,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159201339-logistics-coordinator",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159201339",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/logistics-coordinator-delivery-hero-48efc2?utm_source=reddit",
       "postedAt": "2026-11-02T16:52:42.885Z",
       "notable": 3
@@ -7501,7 +7558,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000159199433-ingenieur-developpement-cyber-embarque-industrie-le-plessis-robinson",
+      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000159199433",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/ingenieur-developpement-cyber-embarque-industrie-le-plessis-robinson-sopra-steri-84e15a?utm_source=reddit",
       "postedAt": "2026-11-02T16:51:22.612Z",
       "notable": 3
@@ -8508,7 +8565,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159186209-operations-analyst-intern",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159186209",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/operations-analyst-intern-delivery-hero-01cc4c?utm_source=reddit",
       "postedAt": "2026-11-02T16:00:34.830Z",
       "notable": 3
@@ -9442,63 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Auto1/744000159172829",
       "firstJobbyUrl": "https://firstjobby.com/companies/auto1/commercial-automobile-btob-hf-auto1-group-a84edf?utm_source=reddit",
       "postedAt": "2026-11-02T15:20:39.535Z",
-      "notable": 3
-    },
-    {
-      "id": "040c6b1f-2920-44e4-b915-ea9bc0e51e56",
-      "title": "Field Support Specialist - On Call",
-      "company": "SPS North America",
-      "place": "Irvine, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$21-$22/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/spsnorthamerica/jobs/5467957008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spsnorthamerica/field-support-specialist-on-call-sps-north-america-a5086e?utm_source=reddit",
-      "postedAt": "2026-11-02T15:20:04.000Z",
-      "notable": 5
-    },
-    {
-      "id": "9d20e17b-b21d-4aa7-8c32-806e6f3b5cd2",
-      "title": "Rental Sales Agent Linate",
-      "company": "SIXT",
-      "place": "Linate, Italy",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000159172499",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-linate-sixt-343ead?utm_source=reddit",
-      "postedAt": "2026-11-02T15:19:54.373Z",
-      "notable": 3
-    },
-    {
-      "id": "c6a08822-a634-4bbb-809f-2a8c1b7ac8cb",
-      "title": "Sales Executive - Amasaman",
-      "company": "M-KOPA",
-      "place": "Ghana",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/m-kopa/63326114-0987-467a-b634-2c0947aef27f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/m-kopa-ashby/sales-executive-amasaman-m-kopa-bbc3c6?utm_source=reddit",
-      "postedAt": "2026-11-02T15:18:48.764Z",
       "notable": 3
     }
   ],
