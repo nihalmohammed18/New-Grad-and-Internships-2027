@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:23:43.344Z",
+  "generatedAt": "2026-11-03T07:26:05.060Z",
   "jobs": [
     {
       "id": "a057e26b-dedc-4d2a-b5de-cb944078ded7",
@@ -2185,6 +2185,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/maerskorwd3ormaerskcareers/sales-support-specialist-spanish-maersk-1ec356?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4fa54c27-603b-499a-9bd8-f6a228e9725a",
+      "title": "Business Development Representative | Mid-Market & Enterprise",
+      "company": "LegalVision",
+      "place": "Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/DD7343527F",
+      "firstJobbyUrl": "https://firstjobby.com/companies/legalvision-workable/business-development-representative-or-mid-market-and-enterprise-legalvision-5b7c10?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "4eb9272f-e5cc-4713-a964-0c9b53cc4ffc",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/motorway/business-operations-associate-motorway-d5c169?utm_source=reddit",
       "postedAt": "2026-11-02T16:16:20.620Z",
       "notable": 3
-    },
-    {
-      "id": "76fee339-aa4a-4b07-80a2-9de92b43d524",
-      "title": "Junior Pricing Data Scientist",
-      "company": "marshmallow",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/marshmallow/99c302d4-2772-4e23-bc03-55bfea905f66",
-      "firstJobbyUrl": "https://firstjobby.com/companies/marshmallow/junior-pricing-data-scientist-marshmallow-c29f31?utm_source=reddit",
-      "postedAt": "2026-11-02T16:16:02.090Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
