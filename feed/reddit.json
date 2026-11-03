@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-03T11:59:52.446Z",
+  "generatedAt": "2026-11-03T12:04:48.651Z",
   "jobs": [
+    {
+      "id": "69c624ef-2440-4d90-9bbb-98bd76b50420",
+      "title": "Full-Stack Software Enginer (.NET, Angular)",
+      "company": "Exadel",
+      "place": "Bulgaria",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/externaljobboards/jobs/6241803004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/externaljobboards/full-stack-software-enginer-net-angular-exadel-05812e?utm_source=reddit",
+      "postedAt": "2026-11-03T11:44:39.000Z",
+      "notable": 3
+    },
     {
       "id": "0912b903-b144-47cf-849a-a6df8f84852c",
       "title": "Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet - Interinidad",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spacex/business-operations-analyst-starlink-spacex-4e2482?utm_source=reddit",
       "postedAt": "2026-11-02T20:35:56.000Z",
       "notable": 4
-    },
-    {
-      "id": "ef204f71-1839-42a2-b5c9-b3fbae254706",
-      "title": "IT Administrator",
-      "company": "The Exploration Company",
-      "place": "Turin, Italy",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/02f0201a-2141-47a0-b6cb-461edd1afa1d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/the-exploration-company/it-administrator-the-exploration-company-bd647d?utm_source=reddit",
-      "postedAt": "2026-11-02T20:34:16.471Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
