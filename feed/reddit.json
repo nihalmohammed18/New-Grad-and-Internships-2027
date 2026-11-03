@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:54:19.049Z",
+  "generatedAt": "2026-11-03T07:58:32.824Z",
   "jobs": [
     {
       "id": "a057e26b-dedc-4d2a-b5de-cb944078ded7",
@@ -1370,6 +1370,25 @@
       "notable": 2
     },
     {
+      "id": "e14ebafa-11d7-470c-82fd-c1be431b87bd",
+      "title": "Territory Account Executive (Hybrid, Austin)",
+      "company": "CrowdStrike",
+      "place": "Austin, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$24-$38/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Territory-Account-Executive--Hybrid--Austin-_R30709",
+      "firstJobbyUrl": "https://firstjobby.com/companies/crowdstrikeorwd5orcrowdstrikecareers/territory-account-executive-hybrid-austin-crowdstrike-b934b3?utm_source=reddit",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "dd0a89e3-ddd1-4675-9871-cfadd3387310",
       "title": "Associate Designer",
       "company": "International Rescue Committee",
@@ -2181,7 +2200,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://cw.wd1.myworkdayjobs.com/External/job/Melbourne-Australia/Procurement-and-Supply-Chain-Coordinator_R342223",
+      "applyUrl": "https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Procurement-and-Supply-Chain-Coordinator_R342223",
       "firstJobbyUrl": "https://firstjobby.com/companies/cworwd1orexternal/procurement-and-supply-chain-coordinator-cushman-and-wakefield-070c8f?utm_source=reddit",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/auctane/sales-development-representative-auctane-fd68c8?utm_source=reddit",
       "postedAt": "2026-11-02T16:26:51.000Z",
       "notable": 2
-    },
-    {
-      "id": "01036cae-68af-473d-aed0-cb22a163aefc",
-      "title": "Biomedical Engineer (Regional Clinical Specialist)",
-      "company": "Brainlab",
-      "place": "Raleigh, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$65.0K-$75.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Brainlab/744000159194309",
-      "firstJobbyUrl": "https://firstjobby.com/companies/brainlab/biomedical-engineer-regional-clinical-specialist-brainlab-f62526?utm_source=reddit",
-      "postedAt": "2026-11-02T16:25:35.393Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
