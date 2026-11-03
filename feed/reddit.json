@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-03T06:46:01.735Z",
+  "generatedAt": "2026-11-03T06:52:13.295Z",
   "jobs": [
+    {
+      "id": "2eaa6fa4-142e-4c53-9f48-d7994512e13b",
+      "title": "IT Network Hardware Asset & Logistics Analyst",
+      "company": "New Era Technology",
+      "place": "Auburn Hills, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/neweratech/jobs/8881611002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/neweratech/it-network-hardware-asset-and-logistics-analyst-new-era-technology-031e6b?utm_source=reddit",
+      "postedAt": "2026-11-03T06:00:21.000Z",
+      "notable": 5
+    },
     {
       "id": "8f1b67cb-2b5f-4eed-8e79-0f0c4e1e257c",
       "title": "Sales Administration, Majors",
@@ -228,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aura798/sales-specialist-upsell-aura-f0e61b?utm_source=reddit",
       "postedAt": "2026-11-03T01:32:37.000Z",
       "notable": 3
+    },
+    {
+      "id": "64265d42-06d9-4e93-89a5-81b2622688de",
+      "title": "Integration & Test - Mechanical Engineering Intern [Winter 2027]",
+      "company": "Figure",
+      "place": "San Jose, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$40-$45/hr",
+      "minYears": 2,
+      "season": "Winter 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/figureai/jobs/4726631006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/figureai/integration-and-test-mechanical-engineering-intern-winter-2027-figure-d540cf?utm_source=reddit",
+      "postedAt": "2026-11-03T01:32:05.000Z",
+      "notable": 5
     },
     {
       "id": "e7edff61-5b66-4064-bf82-95f4735cb0aa",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/perk/junior-account-manager-uki-perk-21a26d?utm_source=reddit",
       "postedAt": "2026-11-02T15:48:28.980Z",
       "notable": 3
-    },
-    {
-      "id": "649f2141-698c-4e55-84d3-13f8fb0d87b0",
-      "title": "Marketing Engagement Specialist",
-      "company": "HelloKindred",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HelloKindred/3743990016556214-marketing-engagement-specialist",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hellokindred/marketing-engagement-specialist-hellokindred-aaf652?utm_source=reddit",
-      "postedAt": "2026-11-02T15:47:30.662Z",
-      "notable": 3
-    },
-    {
-      "id": "46b45f43-72c9-4acd-a025-d45f223ceea7",
-      "title": "Associate Marketing Manager",
-      "company": "Versant",
-      "place": "Englewood Cliffs, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Versant3/744000159181817",
-      "firstJobbyUrl": "https://firstjobby.com/companies/versant3/associate-marketing-manager-versant-2d98da?utm_source=reddit",
-      "postedAt": "2026-11-02T15:47:12.641Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
