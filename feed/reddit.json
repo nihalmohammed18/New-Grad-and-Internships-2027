@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:43:04.839Z",
+  "generatedAt": "2026-11-04T12:48:38.350Z",
   "jobs": [
     {
       "id": "962f12b0-ef93-46f5-a35a-c7674d19a148",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/devoteam/business-development-representative-bdr-sector-it-devoteam-82711e?utm_source=reddit",
       "postedAt": "2026-11-04T11:47:22.826Z",
       "notable": 3
+    },
+    {
+      "id": "2d1a8597-adaf-490a-860a-f726a75e9ab3",
+      "title": "Wearables Marketing Expert",
+      "company": "Toogeza",
+      "place": "Remote",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/toogeza/f6c70eb5-a4f9-40df-9c6d-c347ff620eef",
+      "firstJobbyUrl": "https://firstjobby.com/companies/toogeza/wearables-marketing-expert-toogeza-f821dd?utm_source=reddit",
+      "postedAt": "2026-11-04T11:42:24.956Z",
+      "notable": 0
     },
     {
       "id": "c251c97d-a865-47ac-b616-30f10b27bbcc",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Account-Executive---Agentforce-Operations_JR367225",
       "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/account-executive-agentforce-operations-salesforce-ca8a8d?utm_source=reddit",
-      "postedAt": "2026-11-04T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "396d42f3-3b50-45f4-b924-f25e0ad0b5ce",
-      "title": "Hardware Electrical Component Engineer I",
-      "company": "Hewlett Packard Enterprise",
-      "place": "Taipei, Taiwan",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Taipei-Taipei-City-Taiwan/Hardware-Electrical-Component-Engineer-I_1214435-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orjobsathpe/hardware-electrical-component-engineer-i-hewlett-packard-enterprise-f9c420?utm_source=reddit",
       "postedAt": "2026-11-04T00:00:00.000Z",
       "notable": 2
     }
