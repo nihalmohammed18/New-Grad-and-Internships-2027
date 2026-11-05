@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:20:23.913Z",
+  "generatedAt": "2026-11-05T10:26:18.563Z",
   "jobs": [
     {
       "id": "7faac460-f437-4f8b-8659-42581cc135e6",
@@ -6633,6 +6633,25 @@
       "notable": 2
     },
     {
+      "id": "30b39346-d5b5-43a1-9285-4f92d0fa9b5a",
+      "title": "Shopify Developer",
+      "company": "YETI",
+      "place": "Ho Chi Minh City, Vietnam",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://yeticoolers.wd5.myworkdayjobs.com/YETI/job/Ho-Chi-Minh-City-Vietnam/Shopify-Developer_JR102494",
+      "firstJobbyUrl": "https://firstjobby.com/companies/yeticoolersorwd5oryeti/shopify-developer-yeti-a81bcc?utm_source=reddit",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "2fa73615-2c4d-457f-a68f-c645a4e5ab94",
       "title": "NOC Support Engineer II",
       "company": "Mrisoftware",
@@ -6745,6 +6764,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/account-executive-conference-sales-gartner-54902b?utm_source=reddit",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "211a86b7-5417-4efc-bb0a-b7b7f1a1a0d5",
+      "title": "Account Executive Mid Market Slovakia | Libra | AI Workspace",
+      "company": "Wolters Kluwer",
+      "place": "Bratislava, El Salvador",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://wk.wd3.myworkdayjobs.com/External/job/SVK---Bratislava/Account-Executive-Mid-Market-Slovakia---Libra---AI-Workspace_R0061051-3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wkorwd3orexternal/account-executive-mid-market-slovakia-or-libra-or-ai-workspace-wolters-kluwer-ec3f9d?utm_source=reddit",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "2097799e-80fc-4bc9-b86c-8e9dc90b2482",
@@ -7106,6 +7144,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/field-robotics-systems-engineer-analog-devices-759f0c?utm_source=reddit",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "0759bd0c-1c3c-448a-9708-d48511cb3114",
+      "title": "Renewable Cost Analyst",
+      "company": "Wood Mackenzie",
+      "place": "Boston, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Renewable-Cost-Analyst_JR3417",
+      "firstJobbyUrl": "https://firstjobby.com/companies/woodmacorwd3orwoodmaccareers/renewable-cost-analyst-wood-mackenzie-26a953?utm_source=reddit",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "074e6ceb-f654-406b-b03c-0aa5c60f865d",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/turfmasters/outside-sales-consultant-hybrid-turf-masters-lawn-care-turf-masters-brands-033670?utm_source=reddit",
       "postedAt": "2026-11-04T20:45:55.000Z",
       "notable": 5
-    },
-    {
-      "id": "f808c43c-facc-4f78-a010-9616ad47da3d",
-      "title": "Undergraduate IT Student",
-      "company": "Bosch Group",
-      "place": "Clayton, Australia",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000159723623",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/undergraduate-it-student-bosch-group-22cc24?utm_source=reddit",
-      "postedAt": "2026-11-04T20:45:36.778Z",
-      "notable": 3
-    },
-    {
-      "id": "d4e5675c-05ba-4be8-b493-cd305136648d",
-      "title": "Talent Acquisiton Analyst",
-      "company": "Delivery Hero",
-      "place": "Peru",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000159724639",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/talent-acquisiton-analyst-delivery-hero-4f84fc?utm_source=reddit",
-      "postedAt": "2026-11-04T20:44:43.902Z",
-      "notable": 3
-    },
-    {
-      "id": "485ac5e7-6ec7-4d85-a148-80fedd1c19f5",
-      "title": "Customer Service Specialist",
-      "company": "German American Bank",
-      "place": "Louisville, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/germanamerican/96bd039f-4d9b-40fe-8367-1af82fe82855",
-      "firstJobbyUrl": "https://firstjobby.com/companies/germanamerican/customer-service-specialist-german-american-bank-4e165c?utm_source=reddit",
-      "postedAt": "2026-11-04T20:43:59.765Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
