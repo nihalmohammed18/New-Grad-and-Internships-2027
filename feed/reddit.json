@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:57:34.861Z",
+  "generatedAt": "2026-11-05T22:31:10.281Z",
   "jobs": [
     {
       "id": "efa8416c-79f8-49a9-805c-cac0b1d395a4",
@@ -1254,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/celonis/tum-project-study-ai-powered-learning-content-creator-celonis-b6bfd2?utm_source=reddit",
       "postedAt": "2026-11-05T17:58:19.000Z",
       "notable": 2
+    },
+    {
+      "id": "87455e2d-a175-4a83-a667-c0fc03749be7",
+      "title": "Fullstack Software Engineer",
+      "company": "Scowtt Inc",
+      "place": "Kirkland, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$110.0K-$150.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/scowtt/jobs/4482602009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/scowtt/fullstack-software-engineer-scowtt-inc-11f3ba?utm_source=reddit",
+      "postedAt": "2026-11-05T17:56:33.000Z",
+      "notable": 3
     },
     {
       "id": "cdec7fd1-c2eb-4f19-b1f0-eaa10c563fcb",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8355182",
       "firstJobbyUrl": "https://firstjobby.com/companies/capco/copy-of-copy-of-business-analyst-capital-markets-middle-and-back-office-operatio-e9eb23?utm_source=reddit",
       "postedAt": "2026-11-05T10:57:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "2b5bdc85-19ce-4b66-ba4d-f3a473290dbc",
-      "title": "Copy of Business Analyst* – Capital Markets (Middle & Back Office Operations)",
-      "company": "Capco",
-      "place": "Frankfurt am Main, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8355178",
-      "firstJobbyUrl": "https://firstjobby.com/companies/capco/copy-of-business-analyst-capital-markets-middle-and-back-office-operations-capco-883c36?utm_source=reddit",
-      "postedAt": "2026-11-05T10:57:16.000Z",
       "notable": 3
     }
   ],
