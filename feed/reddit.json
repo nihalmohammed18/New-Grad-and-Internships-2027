@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:39:19.067Z",
+  "generatedAt": "2026-11-05T11:53:38.925Z",
   "jobs": [
     {
       "id": "c29065d2-f16a-4558-8311-d0b0aa313f02",
@@ -931,6 +931,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pennylane-ashby/account-executive-steuerkanzleien-mwd-or-b2b-saas-fintech-berlin-pennylane-sas-4f3b2d?utm_source=reddit",
       "postedAt": "2026-11-05T07:47:30.840Z",
       "notable": 3
+    },
+    {
+      "id": "e5cf5991-b5a8-4404-9be6-04e2d005bfa7",
+      "title": "Customer Experience Specialist",
+      "company": "Trust Bank",
+      "place": "Singapore",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/trustbank/jobs/8196389003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/trustbank/customer-experience-specialist-trust-bank-f8f26f?utm_source=reddit",
+      "postedAt": "2026-11-05T07:46:05.000Z",
+      "notable": 1
     },
     {
       "id": "d1e4dfab-c604-4931-84d7-205eedc43760",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/xplor/customer-success-coordinator-xplor-557c32?utm_source=reddit",
       "postedAt": "2026-11-04T23:09:13.164Z",
       "notable": 4
-    },
-    {
-      "id": "254b60cf-d6bb-4dbc-8fbf-b9e7ed785ab5",
-      "title": "Software Engineer - Applied AI",
-      "company": "Deepgram",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$173.8K-$212.4K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deepgram-ashby/software-engineer-applied-ai-deepgram-eaeb52?utm_source=reddit",
-      "postedAt": "2026-11-04T23:05:33.697Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
