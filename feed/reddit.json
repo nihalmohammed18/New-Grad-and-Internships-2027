@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:35:37.345Z",
+  "generatedAt": "2026-11-05T11:39:19.067Z",
   "jobs": [
     {
       "id": "c29065d2-f16a-4558-8311-d0b0aa313f02",
@@ -132,6 +132,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000159825991--sales-development-representative-nordics-",
       "firstJobbyUrl": "https://firstjobby.com/companies/linkedin3/sales-development-representative-nordics-linkedin-9a40d6?utm_source=reddit",
       "postedAt": "2026-11-05T10:17:16.587Z",
+      "notable": 3
+    },
+    {
+      "id": "5f62e1a6-0ae1-4740-a637-296d8a2b7e88",
+      "title": "RMA Quality Analyst",
+      "company": "Toradex",
+      "place": "Horw, Switzerland",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/toradex/jobs/8196415003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/toradex/rma-quality-analyst-toradex-7641ac?utm_source=reddit",
+      "postedAt": "2026-11-05T10:09:06.000Z",
       "notable": 3
     },
     {
@@ -7317,6 +7336,25 @@
       "notable": 4
     },
     {
+      "id": "68c9fd03-e2c5-482a-a1a3-9ef545e0a8c2",
+      "title": "Process Engineer (x|w|m)",
+      "company": "Sartorius",
+      "place": "Göttingen, Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Goettingen/Process-Engineer--x-w-m--_R42284",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sartoriusorwd3orsartoriuscareers/process-engineer-xorworm-sartorius-45cbe5?utm_source=reddit",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "68ad123f-6069-4edf-979f-a1b3173df725",
       "title": "Data Scientist - A27005",
       "company": "Activate Interactive Pte Ltd",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deepgram-ashby/software-engineer-applied-ai-deepgram-eaeb52?utm_source=reddit",
       "postedAt": "2026-11-04T23:05:33.697Z",
       "notable": 5
-    },
-    {
-      "id": "083202e2-7b81-4eb7-a07e-6559773f2986",
-      "title": "Quality Assurance Coordinator",
-      "company": "Crestwood Behavioral Health",
-      "place": "Perris, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$27-$31/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/8196197003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/crestwoodcareers/quality-assurance-coordinator-crestwood-behavioral-health-d3e87c?utm_source=reddit",
-      "postedAt": "2026-11-04T23:03:59.000Z",
-      "notable": 3
-    },
-    {
-      "id": "d52defc6-ef6e-424d-8132-f85fba46ce56",
-      "title": "Hardware Systems Engineer, Hardware Tools / Firmware",
-      "company": "Cloudflare",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€54.0K-€68.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cloudflare/hardware-systems-engineer-hardware-tools-firmware-cloudflare-cbcede?utm_source=reddit",
-      "postedAt": "2026-11-04T23:03:21.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
