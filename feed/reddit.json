@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:34:30.911Z",
+  "generatedAt": "2026-11-05T14:39:07.649Z",
   "jobs": [
     {
       "id": "4c944230-b136-4a51-84cd-320d92838c59",
@@ -7849,6 +7849,25 @@
       "notable": 2
     },
     {
+      "id": "b327079c-b466-4157-85de-201ee5ecee1d",
+      "title": "Software Development Engineer",
+      "company": "IQVIA",
+      "place": "Noida, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Noida-Uttar-Pradesh-India/Software-Development-Engineer_R1558462-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/iqviaorwd1oriqvia/software-development-engineer-iqvia-b288a9?utm_source=reddit",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "b260f314-d5c6-4ef8-9438-65b2f3c7c217",
       "title": "Account Executive, CONNECT Platform, Japan",
       "company": "AVEVA",
@@ -9477,27 +9496,8 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Taipei--Taipei-City-Taiwan/Analyst--RWS_R1567479",
+      "applyUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Taipei--Taipei-City-Taiwan/Analyst--RWS_R1567479",
       "firstJobbyUrl": "https://firstjobby.com/companies/iqviaorwd1oriqvia/analyst-rws-iqvia-95667b?utm_source=reddit",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "826e5549-5dff-4442-9ad8-3ee7bf80d22d",
-      "title": "Safety Engineer",
-      "company": "Ecolab",
-      "place": "Shanghai, Switzerland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/CHN---Shanghai---Shanghai/Safety-Engineer_R00309882",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/safety-engineer-ecolab-df5650?utm_source=reddit",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "notable": 2
     }
