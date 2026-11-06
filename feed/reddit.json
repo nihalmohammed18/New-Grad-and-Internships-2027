@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:02:36.227Z",
+  "generatedAt": "2026-11-06T13:09:23.296Z",
   "jobs": [
     {
       "id": "7868ac1e-3576-4aa3-b2b8-ea0f6a9a9363",
@@ -6646,7 +6646,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Bangalore-India/Energy-Market-Researcher--Power_R2603731",
+      "applyUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Bangalore-India/Energy-Market-Researcher--Power_R2603731",
       "firstJobbyUrl": "https://firstjobby.com/companies/icforwd5oricfexternalcareersite/energy-market-researcher-power-icf-next-9e37b3?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 2
@@ -9160,6 +9160,25 @@
       "notable": 3
     },
     {
+      "id": "2f18f1a3-ff11-4ff5-9abb-4ae72edd4603",
+      "title": "Data Scientist II",
+      "company": "IFF",
+      "place": "Cairo, Egypt",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Cairo-Egypt/Data-Scientist-II_R23229",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ifforwd5oriffcareers/data-scientist-ii-iff-60f040?utm_source=reddit",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "2ef5c60f-a5a6-44ec-affd-3f41567a583b",
       "title": "Medicare Field Sales- Raleigh",
       "company": "Humana",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Cincinnati-OH/Medicare-Field-Sales--Cincinnati_R-436126",
       "firstJobbyUrl": "https://firstjobby.com/companies/humanaorwd5orhumanaexternalcareersite/medicare-field-sales-cincinnati-humana-29c261?utm_source=reddit",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "1e5d20f1-9ea2-4157-8667-cf5148fd1170",
-      "title": "Sales Representative",
-      "company": "Convatec",
-      "place": "Warsaw, Poland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "PLN 113.4K-PLN 155.9K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://convatec.wd1.myworkdayjobs.com/ConvaTec/job/Warsaw-Poland/Sales-Representative_JR00021900",
-      "firstJobbyUrl": "https://firstjobby.com/companies/convatecorwd1orconvatec/sales-representative-convatec-a962da?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 4
     }
