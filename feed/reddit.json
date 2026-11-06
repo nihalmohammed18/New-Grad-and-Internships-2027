@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:16:37.600Z",
+  "generatedAt": "2026-11-06T17:28:29.959Z",
   "jobs": [
     {
       "id": "34b109eb-4ea2-4b23-a2ea-4643bd94303e",
@@ -8470,7 +8470,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Design-Quality-Engineer-2_R91630",
+      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/external/job/IND---NonGBS-Pune-Kharadi/Design-Quality-Engineer-2_R91630",
       "firstJobbyUrl": "https://firstjobby.com/companies/smithnepheworwd5orexternal/design-quality-engineer-2-smithnephew-2ddeb7?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 2
@@ -8588,6 +8588,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-0b465a?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "d865d770-36aa-4b40-8890-1bec91220340",
+      "title": "Software Engineer (Cyber Security) Early Career Entry Program 2027",
+      "company": "State Street Investment Management",
+      "place": "Kilkenny, Ireland",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Software-Engineer--Cyber-Security--Early-Career-Entry-Program-2027_R-800609-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/statestreetorwd1orglobal/software-engineer-cyber-security-early-career-entry-program-2027-state-street-in-7fea72?utm_source=reddit",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "d843a5eb-e221-4c05-a393-da049a853238",
@@ -8835,6 +8854,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jabilorwd5orjabilcareers/test-technician-jabil-c73763?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "d1abe34b-f078-4c87-8bb0-b875aa1f057d",
+      "title": "Inside Sales Representative",
+      "company": "Thyssenkruppmaterialsna",
+      "place": "Northwood, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$50.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Northwood-Ohio-USA/Inside-Sales-Representative_JR106331",
+      "firstJobbyUrl": "https://firstjobby.com/companies/thyssenkruppmaterialsnaorwd12or1/inside-sales-representative-thyssenkruppmaterialsna-0e406b?utm_source=reddit",
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "d1a390a7-d3a3-4a38-adb2-284d3fccdcdd",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/heidelbergmaterialsorwd3orglobalhmcareersite/concrete-tester-fifo-heidelberg-materials-44dc6b?utm_source=reddit",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "c719b1d5-8ded-4bfe-9a5a-2e8fea6c8223",
-      "title": "Rental Sales Agent",
-      "company": "Europcar",
-      "place": "Australia",
-      "category": "Sales",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://europcar.wd103.myworkdayjobs.com/EuropcarCareerPage/job/Broome/Rental-Sales-Agent_JR115995",
-      "firstJobbyUrl": "https://firstjobby.com/companies/europcarorwd103oreuropcarcareerpage/rental-sales-agent-europcar-4c3822?utm_source=reddit",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "c6d44795-3c1d-4ba6-9531-b78bfa208c88",
-      "title": "Medicare Field Sales- Charlotte",
-      "company": "Humana",
-      "place": "Charlotte, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$31.8K-$123.8K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Charlotte-NC/Medicare-Field-Sales--Charlotte_R-436419",
-      "firstJobbyUrl": "https://firstjobby.com/companies/humanaorwd5orhumanaexternalcareersite/medicare-field-sales-charlotte-humana-43b996?utm_source=reddit",
-      "postedAt": "2026-11-06T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
