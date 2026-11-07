@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:02:49.196Z",
+  "generatedAt": "2026-11-07T11:25:47.286Z",
   "jobs": [
     {
       "id": "f1918624-3c37-4c0f-be0c-783447407191",
@@ -1556,6 +1556,25 @@
       "season": null,
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/system-software-engineer-intern-autonomous-vehicles-2027-nvidia-381140?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "ace7d0bb-e354-4540-957a-e3a1104fc8b6",
+      "title": "Trading Operations - FT",
+      "company": "Ocbc",
+      "place": "Singapore",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Trading-Operations---FT_JR00011885",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ocbcorwd102orexternal/trading-operations-ft-ocbc-b8030a?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/civitta/sales-support-specialist-civitta-951c5c?utm_source=reddit",
       "postedAt": "2026-11-06T15:46:33.637Z",
       "notable": 1
-    },
-    {
-      "id": "c0ff2d38-cf16-4449-8197-b8f56a71dbed",
-      "title": "Customer Success & Sales Specialist - Fluent in Ukrainian",
-      "company": "Payoneer",
-      "place": "Kyiv, Ukraine",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.payoneer.com/careers/position/8359222/?gh_jid=8359222",
-      "firstJobbyUrl": "https://firstjobby.com/companies/payoneer/customer-success-and-sales-specialist-fluent-in-ukrainian-payoneer-e9e17c?utm_source=reddit",
-      "postedAt": "2026-11-06T15:46:30.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
