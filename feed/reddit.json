@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:01:31.790Z",
+  "generatedAt": "2026-11-07T18:16:31.414Z",
   "jobs": [
     {
       "id": "3a16cc1c-de7b-4bee-8043-21767a54ba30",
@@ -1975,7 +1975,7 @@
       "applyUrl": "https://ri.wd5.myworkdayjobs.com/RI/job/ORS-VR-DDS-Office-Bldg-Lease/DATA-CONTROL-CLERK_JR104057",
       "firstJobbyUrl": "https://firstjobby.com/companies/riorwd5orri/data-control-clerk-ri-4d2c45?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
-      "notable": 4
+      "notable": 2
     },
     {
       "id": "a245bf34-3516-4cf2-a4dc-8307f4df5f75",
@@ -2470,6 +2470,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/cashflow-modeling-analyst-abs-toronto-ca-or-denver-co-kensho-6a17f3?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "110dd9db-ecc9-454d-897b-e191f211f156",
+      "title": "Customer Operations Service SMA/Neuromuscular",
+      "company": "Novartis",
+      "place": "Italy",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Milano/Customer-Operations-Service-SMA-Neuromuscular_REQ-10080316-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/novartisorwd3ornovartiscareers/customer-operations-service-smaneuromuscular-novartis-0b2e9c?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "0aae9309-5d6b-499c-a49e-161fe3f30adf",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000160248762",
       "firstJobbyUrl": "https://firstjobby.com/companies/talan/stage-supply-chain-and-logistique-hf-talan-030a24?utm_source=reddit",
       "postedAt": "2026-11-06T16:10:08.414Z",
-      "notable": 3
-    },
-    {
-      "id": "2ea50e29-6fc8-4924-b679-2fa88738cc43",
-      "title": "Smart Start Mechanical Design Engineer",
-      "company": "Bosch Group",
-      "place": "Bursa, Turkey",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160249358",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/smart-start-mechanical-design-engineer-bosch-group-938176?utm_source=reddit",
-      "postedAt": "2026-11-06T16:09:58.967Z",
       "notable": 3
     }
   ],
