@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:51:37.546Z",
+  "generatedAt": "2026-11-07T00:18:30.440Z",
   "jobs": [
     {
       "id": "b2f3c88c-ea1a-4b49-986c-e1f86d52ce96",
@@ -97,6 +97,25 @@
       "notable": 2
     },
     {
+      "id": "9a3bed25-ba52-4123-b24c-093bc08d18cf",
+      "title": "Systems Engineer 1",
+      "company": "K Group Companies",
+      "place": "Grand Rapids, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/kgroupcompanies/8387f3ad-b35d-43ee-9204-2f18c227d8cc",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kgroupcompanies/systems-engineer-1-k-group-companies-6799af?utm_source=reddit",
+      "postedAt": "2026-11-06T21:46:55.351Z",
+      "notable": 0
+    },
+    {
       "id": "dd700c35-5a4e-4834-970d-eb1a481e035e",
       "title": "Manufacturing Engineer I",
       "company": "Senior plc",
@@ -114,6 +133,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/seniorplc1/manufacturing-engineer-i-senior-plc-712b44?utm_source=reddit",
       "postedAt": "2026-11-06T21:45:07.617Z",
       "notable": 5
+    },
+    {
+      "id": "cf02ce53-b387-4934-8761-a33841fef33b",
+      "title": "Account Executive – Commercial Security Systems",
+      "company": "K Group Companies",
+      "place": "Grand Rapids, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/kgroupcompanies/96228cd3-41c5-4325-a845-df61c522b380",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kgroupcompanies/account-executive-commercial-security-systems-k-group-companies-8226e3?utm_source=reddit",
+      "postedAt": "2026-11-06T21:40:59.183Z",
+      "notable": 0
     },
     {
       "id": "bd806907-4976-44fd-9ff3-d79faa82ff7f",
@@ -3112,7 +3150,7 @@
       "pay": "$59.0K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000160257749-technical-support-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000160257749",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityofphiladelphia/technical-support-specialist-city-of-philadelphia-745be9?utm_source=reddit",
       "postedAt": "2026-11-06T16:46:05.964Z",
       "notable": 5
@@ -6513,7 +6551,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/bew/744000160215380--junior-it-governance-risk-compliance-manager-",
+      "applyUrl": "https://jobs.smartrecruiters.com/bew/744000160215380",
       "firstJobbyUrl": "https://firstjobby.com/companies/bew/junior-it-governance-risk-and-compliance-manager-bew-berliner-energie-und-warme--ed0f62?utm_source=reddit",
       "postedAt": "2026-11-06T14:20:46.837Z",
       "notable": 3
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160177409",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/development-engineer-materials-fmdiv-bosch-group-54b16f?utm_source=reddit",
       "postedAt": "2026-11-06T11:27:23.813Z",
-      "notable": 3
-    },
-    {
-      "id": "ad938d0e-45ef-4ffa-b228-e6b337f2eacd",
-      "title": "Mechanical Designer - Packaging (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Portugal",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160176939",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/mechanical-designer-packaging-fmdiv-bosch-group-1cfc75?utm_source=reddit",
-      "postedAt": "2026-11-06T11:25:25.769Z",
-      "notable": 3
-    },
-    {
-      "id": "a6c9419c-b02f-4757-a1bd-b21a063a5f9d",
-      "title": "Account Executive - Financials - Europe",
-      "company": "Kpler",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/kpler/5ce9f173-8621-4c92-873f-156516db8c44",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kpler/account-executive-financials-europe-kpler-772a24?utm_source=reddit",
-      "postedAt": "2026-11-06T11:21:50.521Z",
       "notable": 3
     }
   ],
