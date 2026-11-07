@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:16:31.414Z",
+  "generatedAt": "2026-11-07T18:23:28.340Z",
   "jobs": [
     {
       "id": "3a16cc1c-de7b-4bee-8043-21767a54ba30",
@@ -1955,6 +1955,25 @@
       "season": null,
       "applyUrl": "https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-Singapore/Trading-Operations---FT_JR00011885",
       "firstJobbyUrl": "https://firstjobby.com/companies/ocbcorwd102orexternal/trading-operations-ft-ocbc-b8030a?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a89c5cfd-05da-40cd-9f79-299e705b0f92",
+      "title": "Supervisor - Operations",
+      "company": "Maersk",
+      "place": "Taoyuan City, Taiwan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Taiwan-Taoyuan-City-Taoyuan-338013/Supervisor---Operations_R196178",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maerskorwd3ormaerskcareers/supervisor-operations-maersk-b28bc8?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.samsara.com/company/careers/roles/8353158?gh_jid=8353158",
       "firstJobbyUrl": "https://firstjobby.com/companies/samsara/customer-success-account-manager-digital-french-samsara-0ac87e?utm_source=reddit",
       "postedAt": "2026-11-06T16:11:37.000Z",
-      "notable": 3
-    },
-    {
-      "id": "41567955-ba0b-4178-8b6d-0dfda8064204",
-      "title": "Stage Supply Chain & Logistique (H/F)",
-      "company": "Talan",
-      "place": "Casablanca, Morocco",
-      "category": "Operations",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000160248762",
-      "firstJobbyUrl": "https://firstjobby.com/companies/talan/stage-supply-chain-and-logistique-hf-talan-030a24?utm_source=reddit",
-      "postedAt": "2026-11-06T16:10:08.414Z",
       "notable": 3
     }
   ],
