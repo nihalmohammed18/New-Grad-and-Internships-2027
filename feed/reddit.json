@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:10:09.963Z",
+  "generatedAt": "2026-11-07T19:18:55.442Z",
   "jobs": [
     {
       "id": "3a16cc1c-de7b-4bee-8043-21767a54ba30",
@@ -2333,7 +2333,7 @@
       "pay": "$53.0K-$77.0K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Client-Success-Associate_115604-1",
+      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Client-Success-Associate_115604-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/client-success-associate-gartner-b5bc8f?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 4
@@ -2466,7 +2466,7 @@
       "pay": "$62.0K-$87.0K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Client-Success-Partner_114687",
+      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Irving-TX/Client-Success-Partner_114687",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/client-success-partner-gartner-e74868?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 4
@@ -2487,6 +2487,25 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Learning-Operations-Associate_AIOC-S01667494-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/learning-operations-associate-accenture-3fe44d?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "52451680-c773-49c9-b85a-26eacd833548",
+      "title": "Outside Sales Representative",
+      "company": "Core & Main",
+      "place": "Houston, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Houston-TX-77038/Outside-Sales-Representative_46699",
+      "firstJobbyUrl": "https://firstjobby.com/companies/coreandmainorwd1orcoreandmain/outside-sales-representative-core-and-main-9698e6?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/crb/project-engineer-ii-crb-20d9bd?utm_source=reddit",
       "postedAt": "2026-11-06T16:24:10.934Z",
       "notable": 3
-    },
-    {
-      "id": "721cdc59-fa9c-4093-8805-aecdbc881143",
-      "title": "OSP Engineer",
-      "company": "Pearce Services",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$30-$35/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/pearceservices/jobs/5474405008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pearceservices/osp-engineer-pearce-services-a3b436?utm_source=reddit",
-      "postedAt": "2026-11-06T16:23:19.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
