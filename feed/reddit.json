@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:08:41.830Z",
+  "generatedAt": "2026-11-07T05:17:32.519Z",
   "jobs": [
     {
       "id": "4486e571-f5d9-40eb-b0b9-e19124fc95a8",
@@ -439,6 +439,25 @@
       "notable": 5
     },
     {
+      "id": "faaac723-7a5e-46fe-bb3c-05601291e616",
+      "title": "Account Executive",
+      "company": "EdSights",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$200.0K-$250.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/edsights/dfdf0065-7ec9-4c1c-a534-c4e54c897f58",
+      "firstJobbyUrl": "https://firstjobby.com/companies/edsights/account-executive-edsights-14de7e?utm_source=reddit",
+      "postedAt": "2026-11-07T00:20:13.997Z",
+      "notable": 3
+    },
+    {
       "id": "7d347d47-725a-4ac9-abd8-08590948231a",
       "title": "Sales Development Representative",
       "company": "HeyGen",
@@ -623,7 +642,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Barcelona/Account-Executive--Croatia-_115895",
+      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Barcelona/Account-Executive--Croatia-_115895",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/account-executive-croatia-gartner-bc1698?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
@@ -722,6 +741,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/data-engineer-ecolab-0ab331?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6072a101-7943-425f-81a2-3149ee5fd09e",
+      "title": "Planning Coordinator",
+      "company": "GDIT",
+      "place": "Atlanta, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$55.8K-$72.1K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_Empl_Ref/job/USA-GA-Atlanta/Planning-Coordinator_RQ231431",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orgditemplref/planning-coordinator-gdit-9434bb?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "56b768b9-b605-4045-aba4-d26cbb717159",
@@ -4939,6 +4977,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8350618",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/account-coordinator-paid-search-deptr-ff940a?utm_source=reddit",
       "postedAt": "2026-11-06T18:49:28.000Z",
+      "notable": 3
+    },
+    {
+      "id": "c541fb87-8b8b-43bc-8fa1-b986dd0a1ff0",
+      "title": "Brand Coordinator - Entertainment",
+      "company": "Authentic Brands Group",
+      "place": "Los Angeles, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/authenticbrandsgroup/jobs/6251709004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/authenticbrandsgroup/brand-coordinator-entertainment-authentic-brands-group-d7d0b5?utm_source=reddit",
+      "postedAt": "2026-11-06T18:48:20.000Z",
       "notable": 3
     },
     {
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ubisoft2/combat-game-designer-fmnb-ubisoft-9e32cf?utm_source=reddit",
       "postedAt": "2026-11-06T14:57:16.687Z",
       "notable": 3
-    },
-    {
-      "id": "6d2146a2-fb8e-450c-b75c-45a511e398ec",
-      "title": "Field Sales Communication Specialist (H/F)",
-      "company": "Red Bull",
-      "place": "Paris, France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RedBull/744000160225461",
-      "firstJobbyUrl": "https://firstjobby.com/companies/redbull/field-sales-communication-specialist-hf-red-bull-08eeea?utm_source=reddit",
-      "postedAt": "2026-11-06T14:57:02.180Z",
-      "notable": 3
-    },
-    {
-      "id": "3e0b33c6-15a9-4b4b-bc88-f810f1b87816",
-      "title": "Engineering Technician",
-      "company": "Base Power Company",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/644a1922-a2c9-4b50-889e-2e984133e88e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/base-power/engineering-technician-base-power-company-5c0cda?utm_source=reddit",
-      "postedAt": "2026-11-06T14:56:59.196Z",
-      "notable": 3
-    },
-    {
-      "id": "35f34c4a-ff0c-4ec5-b5b7-4b3ebe2bdca4",
-      "title": "STAGE – Data Analyst Jr Power BI – Qualité Produit Footwear (M/F/X)",
-      "company": "Salomon",
-      "place": "Annecy, France",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€950/mo",
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000160226999",
-      "firstJobbyUrl": "https://firstjobby.com/companies/salomon/stage-data-analyst-jr-power-bi-qualite-produit-footwear-mfx-salomon-d6c1a5?utm_source=reddit",
-      "postedAt": "2026-11-06T14:56:19.229Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
