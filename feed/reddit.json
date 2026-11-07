@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:25:47.286Z",
+  "generatedAt": "2026-11-07T11:36:24.764Z",
   "jobs": [
     {
       "id": "f1918624-3c37-4c0f-be0c-783447407191",
@@ -1674,6 +1674,25 @@
       "notable": 3
     },
     {
+      "id": "9c4e2e76-f084-4651-91ff-9abe127b88dc",
+      "title": "Full Time - Sales Associate - Building Materials - Closing",
+      "company": "Lowe's",
+      "place": "Williamsburg, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$16-$17/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Williamsburg-VA-0632/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02701095",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-closing-lowes-4f35d9?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "981a962c-096a-4524-a936-41c4b83e8407",
       "title": "Automotive Support Agent - Danish Language (Remote)",
       "company": "Atlean World",
@@ -1729,6 +1748,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/ai-engineer-ecolab-e47b2d?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "72c31f48-471d-4348-acd3-513c8e11ffe0",
+      "title": "Full Time - Sales Associate - Building Materials - Closing",
+      "company": "Lowe's",
+      "place": "Williamsburg, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$16-$17/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Williamsburg-VA-0632/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02701094",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-closing-lowes-9f1231?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "67d38549-ef36-4749-9a80-619cb1e3f677",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/garage/strategic-partnerships-garage-de21b9?utm_source=reddit",
       "postedAt": "2026-11-06T15:47:24.516Z",
       "notable": 3
-    },
-    {
-      "id": "2629aadd-12c4-44b6-97e9-205f1708e9f1",
-      "title": "Engenharia ambiental - Araucária - PR",
-      "company": "Capco",
-      "place": "Araucária, Brazil",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8352702",
-      "firstJobbyUrl": "https://firstjobby.com/companies/capco/engenharia-ambiental-araucaria-pr-capco-12f12f?utm_source=reddit",
-      "postedAt": "2026-11-06T15:47:22.000Z",
-      "notable": 3
-    },
-    {
-      "id": "4f666f34-a179-44f0-be8b-6abc5118f284",
-      "title": "Sales Support Specialist",
-      "company": "Civitta",
-      "place": "Bosnia and Herzegovina",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/Civitta/3cf29ec4-810e-41a3-8653-c9e3f802a6c8",
-      "firstJobbyUrl": "https://firstjobby.com/companies/civitta/sales-support-specialist-civitta-951c5c?utm_source=reddit",
-      "postedAt": "2026-11-06T15:46:33.637Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
