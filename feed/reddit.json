@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:20:19.598Z",
+  "generatedAt": "2026-11-07T10:33:09.517Z",
   "jobs": [
     {
       "id": "f1918624-3c37-4c0f-be0c-783447407191",
@@ -1541,6 +1541,25 @@
       "notable": 2
     },
     {
+      "id": "a2b206e9-5bef-4724-879d-2fe6e3ebc5c7",
+      "title": "DATA CONTROL CLERK",
+      "company": "Ri",
+      "place": "United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$48.8K-$53.1K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ri.wd5.myworkdayjobs.com/RI/job/ORS-VR-DDS-Office-Bldg-Lease/DATA-CONTROL-CLERK_JR104057",
+      "firstJobbyUrl": "https://firstjobby.com/companies/riorwd5orri/data-control-clerk-ri-4d2c45?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "a245bf34-3516-4cf2-a4dc-8307f4df5f75",
       "title": "Account Executive (Croatia)",
       "company": "Gartner",
@@ -1860,6 +1879,25 @@
       "season": null,
       "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Toronto-CAN/Cashflow-Modeling-Analyst---ABS--Toronto--Canada_332537-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/cashflow-modeling-analyst-abs-toronto-ca-or-denver-co-kensho-6a17f3?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
+    },
+    {
+      "id": "0aae9309-5d6b-499c-a49e-161fe3f30adf",
+      "title": "Safety Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$58.9K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Safety-Engineer_R0172302-6",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/safety-engineer-amentum-90df96?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 4
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://www.payoneer.com/careers/position/8340733/?gh_jid=8340733",
       "firstJobbyUrl": "https://firstjobby.com/companies/payoneer/customer-success-and-sales-specialist-payoneer-68969f?utm_source=reddit",
       "postedAt": "2026-11-06T15:46:27.000Z",
-      "notable": 3
-    },
-    {
-      "id": "34b109eb-4ea2-4b23-a2ea-4643bd94303e",
-      "title": "Software Engineer II , Android-(Vendor)",
-      "company": "Delivery Hero",
-      "place": "Berlin, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000160238611",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/software-engineer-ii-android-vendor-delivery-hero-1a4e1c?utm_source=reddit",
-      "postedAt": "2026-11-06T15:44:51.783Z",
-      "notable": 3
-    },
-    {
-      "id": "1e9b71b7-6740-4b08-8ac5-326d76baca55",
-      "title": "Strategy & Operations Analyst - Summer 2027 Graduates",
-      "company": "Traba",
-      "place": "New York City, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85.0K/yr",
-      "minYears": 1,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/traba/374f18a8-6daf-439a-a28a-d4a09da730cd",
-      "firstJobbyUrl": "https://firstjobby.com/companies/traba-ashby/strategy-and-operations-analyst-summer-2027-graduates-traba-516a6e?utm_source=reddit",
-      "postedAt": "2026-11-06T15:44:21.826Z",
       "notable": 3
     }
   ],
