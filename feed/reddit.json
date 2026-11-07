@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-07T09:04:02.047Z",
+  "generatedAt": "2026-11-07T09:32:41.226Z",
   "jobs": [
+    {
+      "id": "f1918624-3c37-4c0f-be0c-783447407191",
+      "title": "Junior AI/ML Engineer (GenAI, AWS)",
+      "company": "Provectus",
+      "place": "Ukraine",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/provectus/92ccf747-e1a2-48b8-b0b5-9f8503480dc5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/provectus/junior-aiml-engineer-genai-aws-provectus-fbca9b?utm_source=reddit",
+      "postedAt": "2026-11-07T09:09:12.931Z",
+      "notable": 3
+    },
+    {
+      "id": "a82f3727-a25c-4e6a-bdbf-f028316d495e",
+      "title": "Commercial Account Executive",
+      "company": "Datadog",
+      "place": "Singapore",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556",
+      "firstJobbyUrl": "https://firstjobby.com/companies/datadog/commercial-account-executive-datadog-4601ef?utm_source=reddit",
+      "postedAt": "2026-11-07T04:29:49.000Z",
+      "notable": 3
+    },
     {
       "id": "6e049b0b-c8ee-4cbe-a873-a9a1c0c19166",
       "title": "Infrastructure Engineer",
@@ -832,7 +870,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016714306-engineering-structural-0-3-years-experience",
+      "applyUrl": "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016714306",
       "firstJobbyUrl": "https://firstjobby.com/companies/kpffconsultingengineers/engineering-structural-0-3-years-experience-kpff-consulting-engineers-9e033c?utm_source=reddit",
       "postedAt": "2026-11-07T00:09:57.190Z",
       "notable": 3
@@ -1478,7 +1516,7 @@
       "pay": "$121.8K-$185.5K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration",
+      "applyUrl": "https://jobs.smartrecruiters.com/LLNL/3743990016713546",
       "firstJobbyUrl": "https://firstjobby.com/companies/llnl/embedded-systems-engineer-super-intelligence-integration-llnl-e9b5f3?utm_source=reddit",
       "postedAt": "2026-11-06T23:18:34.360Z",
       "notable": 5
@@ -1782,7 +1820,7 @@
       "pay": null,
       "minYears": null,
       "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/PilotCompany/744000160309204-program-intern-logistics",
+      "applyUrl": "https://jobs.smartrecruiters.com/PilotCompany/744000160309204",
       "firstJobbyUrl": "https://firstjobby.com/companies/pilotcompany/program-intern-logistics-pilot-company-c18a3d?utm_source=reddit",
       "postedAt": "2026-11-06T22:47:53.639Z",
       "notable": 2
@@ -1877,7 +1915,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Brainlab/744000160308469-biomedical-engineer-application-consultant-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Brainlab/744000160308469",
       "firstJobbyUrl": "https://firstjobby.com/companies/brainlab/biomedical-engineer-application-consultant-brainlab-aaabc6?utm_source=reddit",
       "postedAt": "2026-11-06T22:35:12.982Z",
       "notable": 3
@@ -3150,7 +3188,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160299369-fullstack-software-engineer-mid-level-",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160299369",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/fullstack-software-engineer-mid-level-nielseniq-78113d?utm_source=reddit",
       "postedAt": "2026-11-06T21:02:20.465Z",
       "notable": 3
@@ -3378,7 +3416,7 @@
       "pay": "$120.0K-$180.0K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000160298114-thermal-mechanical-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000160298114",
       "firstJobbyUrl": "https://firstjobby.com/companies/aristanetworks/thermal-mechanical-engineer-arista-networks-fdcadb?utm_source=reddit",
       "postedAt": "2026-11-06T20:54:19.879Z",
       "notable": 5
@@ -3739,7 +3777,7 @@
       "pay": "$28-$31/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000160296329-analyst-ii-chemistry-laboratory-wet-chemistry-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000160296329",
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/analyst-ii-chemistry-laboratory-wet-chemistry-sgs-bbb0c5?utm_source=reddit",
       "postedAt": "2026-11-06T20:37:46.589Z",
       "notable": 5
@@ -3834,7 +3872,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/LLNL/3743990016705681-technical-communications-specialist-",
+      "applyUrl": "https://jobs.smartrecruiters.com/LLNL/3743990016705681",
       "firstJobbyUrl": "https://firstjobby.com/companies/llnl/technical-communications-specialist-llnl-f8ced0?utm_source=reddit",
       "postedAt": "2026-11-06T20:29:56.855Z",
       "notable": 3
@@ -3853,7 +3891,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160295189-data-scientist",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160295189",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-scientist-nielseniq-8ea807?utm_source=reddit",
       "postedAt": "2026-11-06T20:28:28.093Z",
       "notable": 3
@@ -4024,7 +4062,7 @@
       "pay": null,
       "minYears": null,
       "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/O-I/744000160294169-supply-chain-procurement-internship-summer-2027",
+      "applyUrl": "https://jobs.smartrecruiters.com/O-I/744000160294169",
       "firstJobbyUrl": "https://firstjobby.com/companies/o-i/supply-chain-procurement-internship-summer-2027-o-i-e2419c?utm_source=reddit",
       "postedAt": "2026-11-06T20:19:04.655Z",
       "notable": 3
@@ -4081,7 +4119,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160293306-fullstack-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160293306",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/fullstack-engineer-bosch-group-d47a7b?utm_source=reddit",
       "postedAt": "2026-11-06T20:13:07.553Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-roma-sixt-56a678?utm_source=reddit",
       "postedAt": "2026-11-06T15:13:03.482Z",
       "notable": 3
-    },
-    {
-      "id": "a2b5fde7-d9c0-4461-94e6-1e10634a0d97",
-      "title": "Rental Sales Agent (Verona)",
-      "company": "SIXT",
-      "place": "Verona, Italy",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000160231051",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-verona-sixt-c9ddab?utm_source=reddit",
-      "postedAt": "2026-11-06T15:12:35.568Z",
-      "notable": 3
-    },
-    {
-      "id": "36dc7f4c-4846-4ba2-b64f-f5aee2cbf9ab",
-      "title": "Predoctoral Research Associate (Summer 2027), Division of Research and Faculty Development",
-      "company": "Harvard University",
-      "place": "Boston, United States",
-      "category": "Research",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016692666",
-      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/predoctoral-research-associate-summer-2027-division-of-research-and-faculty-deve-9cd2fd?utm_source=reddit",
-      "postedAt": "2026-11-06T15:11:56.044Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
