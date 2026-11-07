@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:55:22.405Z",
+  "generatedAt": "2026-11-07T11:02:49.196Z",
   "jobs": [
     {
       "id": "f1918624-3c37-4c0f-be0c-783447407191",
@@ -1442,6 +1442,25 @@
       "season": null,
       "applyUrl": "https://solenis.wd1.myworkdayjobs.com/Solenis/job/Terrassa-Spain/Quality-Laboratory-Analyst_R0033947",
       "firstJobbyUrl": "https://firstjobby.com/companies/solenisorwd1orsolenis/quality-laboratory-analyst-solenis-327e77?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "d4875461-889f-4238-848f-4ffa4e86dc61",
+      "title": "Customer Service Representative II",
+      "company": "Integrity Marketing",
+      "place": "Clearwater, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Clearwater-FL/Customer-Service-Representative-II_JR5037-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/integritymarketingorwd1orintegrity/customer-service-representative-ii-integrity-marketing-f6cd36?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.payoneer.com/careers/position/8359222/?gh_jid=8359222",
       "firstJobbyUrl": "https://firstjobby.com/companies/payoneer/customer-success-and-sales-specialist-fluent-in-ukrainian-payoneer-e9e17c?utm_source=reddit",
       "postedAt": "2026-11-06T15:46:30.000Z",
-      "notable": 3
-    },
-    {
-      "id": "a4aaf543-9449-4e2d-b497-749f8be20e86",
-      "title": "Customer Success & Sales Specialist",
-      "company": "Payoneer",
-      "place": "Kyiv, Ukraine",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.payoneer.com/careers/position/8340733/?gh_jid=8340733",
-      "firstJobbyUrl": "https://firstjobby.com/companies/payoneer/customer-success-and-sales-specialist-payoneer-68969f?utm_source=reddit",
-      "postedAt": "2026-11-06T15:46:27.000Z",
       "notable": 3
     }
   ],
