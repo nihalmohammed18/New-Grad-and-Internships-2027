@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T05:49:31.508Z",
+  "generatedAt": "2026-11-08T06:09:07.528Z",
   "jobs": [
     {
       "id": "11f6b78d-490a-4cf9-84d8-db9ddfbfe6d6",
@@ -319,7 +319,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160450189-fullstack-software-engineer-mid-level-",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160450189",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/fullstack-software-engineer-mid-level-nielseniq-3c223b?utm_source=reddit",
       "postedAt": "2026-11-07T19:35:47.980Z",
       "notable": 3
@@ -5398,25 +5398,6 @@
       "notable": 2
     },
     {
-      "id": "3c6d571f-0a19-4653-aa9b-19cdef5ee0a8",
-      "title": "Fullstack Software Engineer (Mid Level)",
-      "company": "NielsenIQ",
-      "place": "Mexico City, Mexico",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000160299369",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/fullstack-software-engineer-mid-level-nielseniq-78113d?utm_source=reddit",
-      "postedAt": "2026-11-06T21:02:20.465Z",
-      "notable": 3
-    },
-    {
       "id": "204dd6e9-7bbf-4434-bef6-af6594ed2c39",
       "title": "Part-Time Radio Host / Multimedia Content Creator & Brand Influencer - KEEL",
       "company": "Townsquare Media",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/adult-testing-neuropsychologist-phdpsyd-lifestance-health-cba8d6?utm_source=reddit",
       "postedAt": "2026-11-06T16:59:42.374Z",
       "notable": 5
+    },
+    {
+      "id": "96d6acb9-71ca-41f1-a220-44fdd7d36145",
+      "title": "Full Stack Developer (f/m/div.)",
+      "company": "Bosch Group",
+      "place": "Aveiro, Portugal",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160260769",
+      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/full-stack-developer-fmdiv-bosch-group-4fc7ca?utm_source=reddit",
+      "postedAt": "2026-11-06T16:59:30.246Z",
+      "notable": 3
     }
   ],
   "fakeEntryLevel": {
