@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-08T00:23:25.292Z",
+  "generatedAt": "2026-11-08T00:54:06.191Z",
   "jobs": [
+    {
+      "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
+      "title": "Production Coordinator",
+      "company": "SpaceX",
+      "place": "Long Beach, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8934413002?gh_jid=8934413002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/production-coordinator-spacex-adf804?utm_source=reddit",
+      "postedAt": "2026-11-07T21:14:42.000Z",
+      "notable": 2
+    },
     {
       "id": "1d4e0c6b-9ecd-4c76-9f17-5e1a2a119845",
       "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
@@ -1782,7 +1801,7 @@
       "pay": "$70.3K-$85.0K/yr",
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AgileIT/744000160313479-channel-operations-coordinator-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AgileIT/744000160313479",
       "firstJobbyUrl": "https://firstjobby.com/companies/agileit/channel-operations-coordinator-agile-it-16660e?utm_source=reddit",
       "postedAt": "2026-11-07T00:26:19.033Z",
       "notable": 3
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/octoenergy/170151a9-a548-484f-9d31-4d4df419fa21",
       "firstJobbyUrl": "https://firstjobby.com/companies/octoenergy/operations-specialist-octoenergy-af3082?utm_source=reddit",
       "postedAt": "2026-11-06T16:43:47.471Z",
-      "notable": 3
-    },
-    {
-      "id": "8b6682eb-bd2a-4ffb-904e-fa2416ecd29f",
-      "title": "People Operations Analyst",
-      "company": "Flock Safety",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$72.0K-$90.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Flock%20Safety/e686b9c2-e5e0-4e61-a388-1942b064ee0e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flock-safety/people-operations-analyst-flock-safety-3511f3?utm_source=reddit",
-      "postedAt": "2026-11-06T16:41:03.224Z",
       "notable": 3
     }
   ],
