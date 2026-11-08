@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:00:40.118Z",
+  "generatedAt": "2026-11-08T16:50:29.674Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -1634,6 +1634,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/provectus/junior-aiml-engineer-genai-aws-provectus-fbca9b?utm_source=reddit",
       "postedAt": "2026-11-07T09:09:12.931Z",
       "notable": 3
+    },
+    {
+      "id": "f6a08973-78f8-4c93-93aa-727722819415",
+      "title": "Project Commercial & Cost Coordinator (6-Month Project | Potential Extension)",
+      "company": "GRADION",
+      "place": "Hanoi, Vietnam",
+      "category": "Operations",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gradion/7afde8ee-2a5c-481c-86fe-b54669d7bd87",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gradion/project-commercial-and-cost-coordinator-6-month-project-or-potential-extension-g-1818f9?utm_source=reddit",
+      "postedAt": "2026-11-07T06:22:30.559Z",
+      "notable": 1
     },
     {
       "id": "c2de7826-3cfe-4728-8743-b7ae847872cb",
@@ -9293,6 +9312,25 @@
       "notable": 4
     },
     {
+      "id": "4c207800-c1b6-49f1-bc01-ed2b47b750f2",
+      "title": "Research Engineer",
+      "company": "Gauntlet",
+      "place": "Remote from United States, Canada",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$175.0K-$195.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gauntlet/2fe54b1d-0111-4df8-bb98-d3ae3821fc3c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gauntlet/research-engineer-gauntlet-e18c41?utm_source=reddit",
+      "postedAt": "2026-11-06T17:53:49.696Z",
+      "notable": 3
+    },
+    {
       "id": "822712c2-4342-47e4-b9ca-36e55c97806d",
       "title": "JUNIOR ANALYST - STRATEGY & M&A",
       "company": "Inter Carreiras",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wachter/firesecurity-alarm-installation-technician-wachter-inc-4bef8a?utm_source=reddit",
       "postedAt": "2026-11-06T17:46:37.496Z",
       "notable": 5
-    },
-    {
-      "id": "35e9a1fb-7480-4e59-a32d-fc3b3d7e66db",
-      "title": "Implementation Consultant - Accounts",
-      "company": "Keyloop",
-      "place": "Montreal, Canada",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/keyloop/ed2595f3-67b8-47f1-b91e-b287efe21954",
-      "firstJobbyUrl": "https://firstjobby.com/companies/keyloop/implementation-consultant-accounts-keyloop-d05e8c?utm_source=reddit",
-      "postedAt": "2026-11-06T17:45:16.210Z",
-      "notable": 3
-    },
-    {
-      "id": "f2efd056-ca98-4e62-a137-8d4cb6ca9d00",
-      "title": "Machine Learning Scientist II, Drug Discovery Analytics",
-      "company": "Revolution Medicines",
-      "place": "Redwood City, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$202.0K-$238.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.revmed.com/careers-list/?gh_jid=8196790003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/revolutionmedicines/machine-learning-scientist-ii-drug-discovery-analytics-revolution-medicines-feef4c?utm_source=reddit",
-      "postedAt": "2026-11-06T17:42:36.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
