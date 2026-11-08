@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-08T20:17:19.651Z",
+  "generatedAt": "2026-11-08T20:23:35.919Z",
   "jobs": [
+    {
+      "id": "d62e5153-f7e3-4246-ba22-c5d713332c8d",
+      "title": "Associate, Portfolio Strategy, Brio India",
+      "company": "Revantage",
+      "place": "Bengaluru, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Bengaluru/Associate--Portfolio-Strategy--Brio-India_JR104556",
+      "firstJobbyUrl": "https://firstjobby.com/companies/revantageorwd1orrevantage/associate-portfolio-strategy-brio-india-revantage-3b18ef?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "7ae1b501-7268-47e5-819d-6276ae23cf1d",
       "title": "Procurement Intern (m/f/d)",
@@ -190,6 +209,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-product-designer-clera-ceab65?utm_source=reddit",
       "postedAt": "2026-11-08T17:02:46.840Z",
       "notable": 6
+    },
+    {
+      "id": "a80eef45-a228-4592-8c05-4de4249e1b9b",
+      "title": "Engineer, CPU Performance Verification",
+      "company": "Tenstorrent",
+      "place": "Austin, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$100.0K-$500.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/tenstorrent/jobs/5284404007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tenstorrent/engineer-cpu-performance-verification-tenstorrent-7bb551?utm_source=reddit",
+      "postedAt": "2026-11-08T16:21:02.000Z",
+      "notable": 5
     },
     {
       "id": "e51cac75-a8e9-49a8-91c2-839f212c45a9",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/account-representative-industrial-water-treatment-veolia-environnement-sa-726139?utm_source=reddit",
       "postedAt": "2026-11-06T18:04:01.411Z",
       "notable": 4
-    },
-    {
-      "id": "8fb6580a-f00a-4daa-b282-3c82278bfc77",
-      "title": "Database Designer I",
-      "company": "ClinChoice",
-      "place": "Yerevan, Armenia",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/5030074101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clinchoice/database-designer-i-clinchoice-2b2527?utm_source=reddit",
-      "postedAt": "2026-11-06T18:01:30.000Z",
-      "notable": 3
-    },
-    {
-      "id": "23b3eb63-f978-4c63-9f36-eb72141cb91c",
-      "title": "Associate Wetland Scientist - Energy Market",
-      "company": "Olsson",
-      "place": "Lincoln, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5475614008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/olsson/associate-wetland-scientist-energy-market-olsson-d3899d?utm_source=reddit",
-      "postedAt": "2026-11-06T18:01:26.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
