@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:45:19.692Z",
+  "generatedAt": "2026-11-08T03:34:02.293Z",
   "jobs": [
     {
       "id": "e67b2634-e50d-4ccd-8be9-af90b80e1778",
@@ -2719,25 +2719,6 @@
       "notable": 1
     },
     {
-      "id": "9d1c4dcb-f9d6-4291-bfde-b17f744ec6ec",
-      "title": "Engineer, Embedded Software",
-      "company": "Analog Devices",
-      "place": "Bangalore, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Engineer--Embedded-Software_R267367",
-      "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/engineer-embedded-software-analog-devices-de6a11?utm_source=reddit",
-      "postedAt": "2026-11-07T00:00:00.000Z",
-      "notable": 3
-    },
-    {
       "id": "9c4e2e76-f084-4651-91ff-9abe127b88dc",
       "title": "Full Time - Sales Associate - Building Materials - Closing",
       "company": "Lowe's",
@@ -3173,6 +3154,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-paint-day-lowes-67687d?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3ac77c98-a0b1-4d3d-b303-efaa2ccb27e1",
+      "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
+      "company": "Applied Materials",
+      "place": "Gloucester, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$47-$50/hr",
+      "minYears": null,
+      "season": "Spring 2027",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-process-engineer-co-op-doctorate-gloucester-ma-applied-materials-bbef4f?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "385b13f3-fdaf-4009-84a7-e2a114e84180",
