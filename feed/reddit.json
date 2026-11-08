@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:59:00.524Z",
+  "generatedAt": "2026-11-08T23:47:28.773Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -1615,6 +1615,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-rleandm-executive-project-engineer-rail-control-singapore-public-service-a4d850?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "10ddaf8f-e6df-4615-97e4-928c0eacae22",
+      "title": "Parts Coordinator",
+      "company": "Gerber Collision & Glass",
+      "place": "Colorado Springs, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$16-$23/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/CO-Colorado-Springs-Boulder-St---120032/Parts-Coordinator_R067887",
+      "firstJobbyUrl": "https://firstjobby.com/companies/boydgrouporwd1orboydcareers/parts-coordinator-gerber-collision-and-glass-de0962?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "10855e6f-5ed4-4aa9-8929-91e3b0d0aad8",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/jellyfishcareers/c93a9385-8e36-4a1b-9717-aff41dd61296",
       "firstJobbyUrl": "https://firstjobby.com/companies/jellyfishcareers/ai-developer-for-learning-products-jellyfishcareers-f3e250?utm_source=reddit",
       "postedAt": "2026-11-06T18:35:12.667Z",
-      "notable": 3
-    },
-    {
-      "id": "ee308b0d-f6d7-4c77-846c-3c0eff8c8d73",
-      "title": "ECM Care Coordinator",
-      "company": "Akido Companies Internal Job Board",
-      "place": "Pomona, United States",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$28/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/akidointernal/jobs/4727984006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/akidointernal/ecm-care-coordinator-akido-companies-internal-job-board-a1e001?utm_source=reddit",
-      "postedAt": "2026-11-06T18:33:16.000Z",
       "notable": 3
     }
   ],
