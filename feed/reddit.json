@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:04:55.556Z",
+  "generatedAt": "2026-11-08T08:11:50.917Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -2358,25 +2358,6 @@
       "notable": 3
     },
     {
-      "id": "fd39fd86-2c1a-4240-9482-bc840ecebebd",
-      "title": "Procurement Operations Associate",
-      "company": "Accenture",
-      "place": "Bengaluru, India",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Bengaluru/Procurement-Operations-Associate_AIOC-S01665651-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procurement-operations-associate-accenture-f2f5e1?utm_source=reddit",
-      "postedAt": "2026-11-07T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "f5368d02-03be-42ca-b500-78954fdeb488",
       "title": "Customer Engineer-CMP",
       "company": "Applied Materials",
@@ -2468,25 +2449,6 @@
       "season": null,
       "applyUrl": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/IND---Karnataka---Bangalore---EDC/AI-Engineer_R00301458",
       "firstJobbyUrl": "https://firstjobby.com/companies/ecolaborwd1orecolabexternal/ai-engineer-ecolab-cd4590?utm_source=reddit",
-      "postedAt": "2026-11-07T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "e7926790-2cf5-4559-aff0-6ed5c0f9be20",
-      "title": "Record to Report Ops Associate",
-      "company": "Accenture",
-      "place": "Mumbai, India",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Mumbai/Record-to-Report-Ops-Associate_AIOC-S01634361-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/record-to-report-ops-associate-accenture-f394e6?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9499,6 +9461,44 @@
       "applyUrl": "https://jobs.ashbyhq.com/optro/7ca5460e-93da-4fce-9d64-816c8327e17c",
       "firstJobbyUrl": "https://firstjobby.com/companies/optro/business-development-representative-emea-hybrid-optro-7daa93?utm_source=reddit",
       "postedAt": "2026-11-06T17:01:57.600Z",
+      "notable": 3
+    },
+    {
+      "id": "e6a9e095-9bfc-40c0-95fe-d2e1315f7c7e",
+      "title": "Adult Testing Neuropsychologist (PhD/PsyD)",
+      "company": "LifeStance Health",
+      "place": "Greenville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$119.0K-$136.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/lifestance/a2b6ce14-aa9c-4862-9158-9f113ebba81c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/adult-testing-neuropsychologist-phdpsyd-lifestance-health-7c41a5?utm_source=reddit",
+      "postedAt": "2026-11-06T17:01:39.182Z",
+      "notable": 5
+    },
+    {
+      "id": "6ba8a541-b778-4288-9db8-c92af73a1d5f",
+      "title": "Software Engineer Intern",
+      "company": "Back Market",
+      "place": "Barcelona, Spain",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Spring 2027",
+      "applyUrl": "https://jobs.ashbyhq.com/backmarket/09ecb805-3072-4e44-a66b-17c4bdb738f5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/backmarket-ashby/software-engineer-intern-back-market-0346dc?utm_source=reddit",
+      "postedAt": "2026-11-06T17:01:22.973Z",
       "notable": 3
     }
   ],
