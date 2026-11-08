@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T20:45:55.281Z",
+  "generatedAt": "2026-11-08T20:56:10.478Z",
   "jobs": [
     {
       "id": "d62e5153-f7e3-4246-ba22-c5d713332c8d",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Bengaluru/Associate--Portfolio-Strategy--Brio-India_JR104556",
       "firstJobbyUrl": "https://firstjobby.com/companies/revantageorwd1orrevantage/associate-portfolio-strategy-brio-india-revantage-3b18ef?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "7ab08ce5-39b5-4755-be3c-8126894fdb8b",
+      "title": "FullStack Developer - Python Django Javascript",
+      "company": "Theapexgroup",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/FullStack-Developer---Python-Django-Javascript_JR-0027626",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/fullstack-developer-python-django-javascript-theapexgroup-5aaeba?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/rain/34a3f837-7fb5-492d-bf28-003e9dd26277",
       "firstJobbyUrl": "https://firstjobby.com/companies/rain-ashby/associate-account-manager-rain-a96a72?utm_source=reddit",
       "postedAt": "2026-11-06T18:19:56.581Z",
-      "notable": 3
-    },
-    {
-      "id": "fc10cbfd-6fae-4792-86d3-a93f635ca091",
-      "title": "IT Support Technician  L1 & L2 (m/w/d)",
-      "company": "EVERIENCE",
-      "place": "Amsterdam, Netherlands",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EVERIENCE/744000160274449",
-      "firstJobbyUrl": "https://firstjobby.com/companies/everience/it-support-technician-l1-and-l2-mwd-everience-bc343a?utm_source=reddit",
-      "postedAt": "2026-11-06T18:19:38.467Z",
       "notable": 3
     }
   ],
