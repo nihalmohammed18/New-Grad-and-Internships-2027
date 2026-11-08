@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:16:46.116Z",
+  "generatedAt": "2026-11-08T01:32:08.459Z",
   "jobs": [
     {
       "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
@@ -3135,6 +3135,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cambiahealthorwd504orexternal/temporary-customer-service-professional-i-cambia-a57dc9?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0872a674-9d23-4f03-9e44-cdccdd7b4451",
+      "title": "Usability Designer",
+      "company": "Philips",
+      "place": "Cambridge, United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$129.0K-$205.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Usability-Designer_583407",
+      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/usability-designer-philips-dbfa0f?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "06e02158-dae3-423f-8f6a-92eb71a7cb89",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000160257350",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/forensic-soc-dna-laboratory-analyst-eurofins-528e53?utm_source=reddit",
       "postedAt": "2026-11-06T16:44:55.237Z",
-      "notable": 3
-    },
-    {
-      "id": "1a706855-96d6-46ee-a5b5-b7df6e48dafb",
-      "title": "Technical Routing Analyst",
-      "company": "Vonage",
-      "place": "Remote from Mexico",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/vonage/jobs/8910909002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vonage/technical-routing-analyst-vonage-8f6a56?utm_source=reddit",
-      "postedAt": "2026-11-06T16:44:54.000Z",
       "notable": 3
     }
   ],
