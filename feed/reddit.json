@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:19:54.146Z",
+  "generatedAt": "2026-11-08T02:31:41.778Z",
   "jobs": [
     {
       "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
@@ -2377,6 +2377,25 @@
       "notable": 2
     },
     {
+      "id": "b268c2db-efe0-4d6b-b213-424db9b91ecf",
+      "title": "Full Time - Sales Associate - Flooring - Day",
+      "company": "Lowe's",
+      "place": "Waipahu, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Waipahu-HI-0119/Full-Time---Sales-Associate---Flooring---Day_JR-02701433",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-flooring-day-lowes-345f09?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "ace7d0bb-e354-4540-957a-e3a1104fc8b6",
       "title": "Trading Operations - FT",
       "company": "Ocbc",
@@ -3055,8 +3074,27 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Engineering-Tools---Automation-Specialist_R-01373844",
+      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Brno-Czechia/Engineering-Tools---Automation-Specialist_R-01373844",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/engineering-tools-and-automation-specialist-thermo-fisher-scientific-46cfc3?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "31379793-7c1c-4e70-a887-077ccaa9e60b",
+      "title": "Full Time - Sales Associate - Building Materials - Day",
+      "company": "Lowe's",
+      "place": "Milwaukie, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Milwaukie-OR-Clackamas-County-1824/Full-Time---Sales-Associate---Building-Materials---Day_JR-02701420",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-day-lowes-0ecffc?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/distilled-recruitee/data-engineer-ii-distilled-80e9df?utm_source=reddit",
       "postedAt": "2026-11-06T16:48:15.000Z",
       "notable": 0
-    },
-    {
-      "id": "89342bbb-1d30-44a0-bb5b-997fbec885e2",
-      "title": "Test Automation Engineer (m/w/d)",
-      "company": "Qualysoft",
-      "place": "Vienna, Austria",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€400-€440/day",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/qualysoft/4de17963-90a2-4d06-aec1-8483a71da2b7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/qualysoft/test-automation-engineer-mwd-qualysoft-6dbbac?utm_source=reddit",
-      "postedAt": "2026-11-06T16:47:30.727Z",
-      "notable": 5
-    },
-    {
-      "id": "3d78df5b-202b-44c8-932c-5156ed94b7d8",
-      "title": "Operations Technology Specialist - Michels Energy Group, Inc.",
-      "company": "Michels Corporation",
-      "place": "United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$63.0K-$77.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5030059101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/michelscorporation/operations-technology-specialist-michels-energy-group-inc-michels-corporation-3a891d?utm_source=reddit",
-      "postedAt": "2026-11-06T16:47:08.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
