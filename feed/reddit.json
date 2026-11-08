@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:27:12.348Z",
+  "generatedAt": "2026-11-08T08:41:13.085Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -173,6 +173,25 @@
       "notable": 2
     },
     {
+      "id": "da2b415c-3da7-4755-b031-73830a1a40e1",
+      "title": "Sustainability Specialist: Circular Design",
+      "company": "Cisco",
+      "place": "United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$93.5K-$125.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Sustainability-Specialist--Circular-Design_2030435",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/sustainability-specialist-circular-design-cisco-a8cd9f?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "b6b858e5-e4c1-4584-a9b5-5a4a8b644190",
       "title": "Onsite Application Engineer",
       "company": "Flowserve",
@@ -188,6 +207,25 @@
       "season": null,
       "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/Onsite-Application-Engineer_R-21913",
       "firstJobbyUrl": "https://firstjobby.com/companies/flowserveorwd1orapplied/onsite-application-engineer-flowserve-20d748?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b6558a9d-8362-45de-950c-1ef14431a352",
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "place": "Bangalore, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer_2028523-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-737659?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/account-manager-transperfect-f29f55?utm_source=reddit",
       "postedAt": "2026-11-06T17:02:03.000Z",
       "notable": 2
-    },
-    {
-      "id": "c4ad71ba-c90a-4f91-85e1-75dc234c68dc",
-      "title": "Business Development Representative, EMEA (Hybrid)",
-      "company": "Optro",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£31.4K-£56.8K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/optro/7ca5460e-93da-4fce-9d64-816c8327e17c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/optro/business-development-representative-emea-hybrid-optro-7daa93?utm_source=reddit",
-      "postedAt": "2026-11-06T17:01:57.600Z",
-      "notable": 3
-    },
-    {
-      "id": "e6a9e095-9bfc-40c0-95fe-d2e1315f7c7e",
-      "title": "Adult Testing Neuropsychologist (PhD/PsyD)",
-      "company": "LifeStance Health",
-      "place": "Greenville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$119.0K-$136.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/lifestance/a2b6ce14-aa9c-4862-9158-9f113ebba81c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/adult-testing-neuropsychologist-phdpsyd-lifestance-health-7c41a5?utm_source=reddit",
-      "postedAt": "2026-11-06T17:01:39.182Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
