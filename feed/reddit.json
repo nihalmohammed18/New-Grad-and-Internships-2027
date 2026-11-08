@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:27:45.688Z",
+  "generatedAt": "2026-11-08T13:37:02.707Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -344,6 +344,25 @@
       "notable": 2
     },
     {
+      "id": "d5b9bf32-0ab0-4cd8-97fc-c4613a2ceef5",
+      "title": "[LTA-RLE&M] ASSISTANT PROJECT ENGINEER, RAIL CONTROL",
+      "company": "Singapore Public Service",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/XMLNAME--LTA-RLE-M--ASSISTANT-PROJECT-ENGINEER--CONTROL_JR-10000052235",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-rleandm-assistant-project-engineer-rail-control-singapore-public-service-af6129?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "cf29174d-10ba-4826-be97-d80b6f168dea",
       "title": "Agent, Inside Sales Support - Pet (Remote)",
       "company": "Nationwide",
@@ -646,6 +665,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/euromonitor/data-scientist-euromonitor-cab860?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "138573c8-14e7-4a47-9d60-fb924e9ea5a3",
+      "title": "[LTA-RLE&M] EXECUTIVE / PROJECT ENGINEER, RAIL CONTROL",
+      "company": "Singapore Public Service",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/XMLNAME--LTA-RLE-M--EXECUTIVE---PROJECT-ENGINEER--RAIL-CONTROL_JR-10000057307",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-rleandm-executive-project-engineer-rail-control-singapore-public-service-a4d850?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "0b79e548-e59a-4c2f-90e7-b7817ff37ad6",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coast/operations-engineer-coast-6cfe9f?utm_source=reddit",
       "postedAt": "2026-11-06T17:20:51.000Z",
       "notable": 5
-    },
-    {
-      "id": "792cb5a7-93d9-46be-99af-69695eafa7c4",
-      "title": "Junior Operations Manager",
-      "company": "Clera",
-      "place": "Berlin, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "€40.0K-€60.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/067437a8-c912-42eb-92fe-e3ab5695f371",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/junior-operations-manager-clera-7b7072?utm_source=reddit",
-      "postedAt": "2026-11-06T17:19:21.512Z",
-      "notable": 6
-    },
-    {
-      "id": "02b06595-a14a-4274-8c73-0e055a4a8a1b",
-      "title": "Stage de fin d’études en ingénierie logicielle embarquée, virtualisation et jumeau numérique automobile",
-      "company": "Lucid Motors",
-      "place": "Toulouse, France",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://lucidmotors.com/careers/search/5287204007?gh_jid=5287204007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/stage-de-fin-detudes-en-ingenierie-logicielle-embarquee-virtualisation-et-jumeau-d2b66b?utm_source=reddit",
-      "postedAt": "2026-11-06T17:19:06.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
