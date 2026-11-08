@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:48:54.275Z",
+  "generatedAt": "2026-11-08T08:57:51.056Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/operations-associate-clera-b41ab2?utm_source=reddit",
       "postedAt": "2026-11-08T02:18:25.443Z",
       "notable": 6
+    },
+    {
+      "id": "ea954f6b-c006-4e1e-9bc8-eff7587e8a40",
+      "title": "Systems Analyst",
+      "company": "GDIT",
+      "place": "Sterling, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$81.3K-$103.5K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Sterling/Systems-Analyst_RQ231922",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orexternalcareersite/systems-analyst-gdit-ed7a20?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "e67b2634-e50d-4ccd-8be9-af90b80e1778",
@@ -300,7 +319,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01888013",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Analyst---Digital-Software-Contracts_01888013",
       "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/analyst-digital-software-contracts-rtx-24e630?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SyngentaGroup/744000160261389",
       "firstJobbyUrl": "https://firstjobby.com/companies/syngentagroup/sales-representative-cp-syngenta-group-cbf182?utm_source=reddit",
       "postedAt": "2026-11-06T17:02:04.731Z",
-      "notable": 3
-    },
-    {
-      "id": "256a63eb-9c4b-4fbb-af33-bfdcaeb9b2b3",
-      "title": "Business Development Representative, EMEA (Hybrid)",
-      "company": "Optro",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£31.4K-£56.8K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/optro/8e5e44e7-ec81-434d-a8bb-d9b8e6866319",
-      "firstJobbyUrl": "https://firstjobby.com/companies/optro/business-development-representative-emea-hybrid-optro-c28a67?utm_source=reddit",
-      "postedAt": "2026-11-06T17:02:03.051Z",
       "notable": 3
     }
   ],
