@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:51:35.546Z",
+  "generatedAt": "2026-11-08T18:17:04.165Z",
   "jobs": [
     {
       "id": "672878e3-ac9a-49db-bdc3-7cba268f6fe3",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-product-designer-clera-ceab65?utm_source=reddit",
       "postedAt": "2026-11-08T17:02:46.840Z",
       "notable": 6
+    },
+    {
+      "id": "e51cac75-a8e9-49a8-91c2-839f212c45a9",
+      "title": "PSM and Energy Engineer - PSM -הנדסאי.ת / מהנדס.ת אנרגיה ו",
+      "company": "Avery Dennison",
+      "place": "Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000160488439-psm-and-energy-engineer-psm-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/psm-and-energy-engineer-psm-avery-dennison-3789cd?utm_source=reddit",
+      "postedAt": "2026-11-08T15:15:23.967Z",
+      "notable": 3
     },
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/gauntlet/2fe54b1d-0111-4df8-bb98-d3ae3821fc3c",
       "firstJobbyUrl": "https://firstjobby.com/companies/gauntlet/research-engineer-gauntlet-e18c41?utm_source=reddit",
       "postedAt": "2026-11-06T17:53:49.696Z",
-      "notable": 3
-    },
-    {
-      "id": "822712c2-4342-47e4-b9ca-36e55c97806d",
-      "title": "JUNIOR ANALYST - STRATEGY & M&A",
-      "company": "Inter Carreiras",
-      "place": "Belo Horizonte, Brazil",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/inter/jobs/4748832005?gh_jid=4748832005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inter/junior-analyst-strategy-and-manda-inter-carreiras-621da4?utm_source=reddit",
-      "postedAt": "2026-11-06T17:51:08.000Z",
       "notable": 3
     }
   ],
