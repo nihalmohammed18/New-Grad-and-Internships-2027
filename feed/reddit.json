@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:11:50.917Z",
+  "generatedAt": "2026-11-08T08:27:12.348Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -169,6 +169,25 @@
       "season": null,
       "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Modeling---Simulation-Machine-Learning-Engineer_R000161635",
       "firstJobbyUrl": "https://firstjobby.com/companies/pgorwd5or1000/modeling-and-simulation-machine-learning-engineer-pandg-2b7c70?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b6b858e5-e4c1-4584-a9b5-5a4a8b644190",
+      "title": "Onsite Application Engineer",
+      "company": "Flowserve",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/Onsite-Application-Engineer_R-21913",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flowserveorwd1orapplied/onsite-application-engineer-flowserve-20d748?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/adult-testing-neuropsychologist-phdpsyd-lifestance-health-7c41a5?utm_source=reddit",
       "postedAt": "2026-11-06T17:01:39.182Z",
       "notable": 5
-    },
-    {
-      "id": "6ba8a541-b778-4288-9db8-c92af73a1d5f",
-      "title": "Software Engineer Intern",
-      "company": "Back Market",
-      "place": "Barcelona, Spain",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Spring 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/backmarket/09ecb805-3072-4e44-a66b-17c4bdb738f5",
-      "firstJobbyUrl": "https://firstjobby.com/companies/backmarket-ashby/software-engineer-intern-back-market-0346dc?utm_source=reddit",
-      "postedAt": "2026-11-06T17:01:22.973Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
