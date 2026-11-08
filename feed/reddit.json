@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:23:14.252Z",
+  "generatedAt": "2026-11-08T11:44:41.028Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -2453,6 +2453,25 @@
       "notable": 3
     },
     {
+      "id": "fb4dd475-d136-4e1c-b606-e819b55f9ac4",
+      "title": "Buyer - Supply Chain",
+      "company": "Blue Origin",
+      "place": "United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$64.5K-$90.4K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Buyer---Supply-Chain_R74544",
+      "firstJobbyUrl": "https://firstjobby.com/companies/blueoriginorwd5orblueorigin/buyer-supply-chain-blue-origin-267149?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "f5368d02-03be-42ca-b500-78954fdeb488",
       "title": "Customer Engineer-CMP",
       "company": "Applied Materials",
@@ -2620,6 +2639,25 @@
       "season": null,
       "applyUrl": "https://solenis.wd1.myworkdayjobs.com/Solenis/job/Terrassa-Spain/Quality-Laboratory-Analyst_R0033947",
       "firstJobbyUrl": "https://firstjobby.com/companies/solenisorwd1orsolenis/quality-laboratory-analyst-solenis-327e77?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "dbfe72ac-c391-4ad3-9762-48b56428f684",
+      "title": "Buyer II — Integrated Supply Chain",
+      "company": "Blue Origin",
+      "place": "Seattle, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Buyer-II---Integrated-Supply-Chain_R74370",
+      "firstJobbyUrl": "https://firstjobby.com/companies/blueoriginorwd5orblueorigin/buyer-ii-integrated-supply-chain-blue-origin-743988?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000160261140",
       "firstJobbyUrl": "https://firstjobby.com/companies/talan/consultant-junior-supply-chain-and-logistique-hf-talan-30b7e1?utm_source=reddit",
       "postedAt": "2026-11-06T17:06:03.124Z",
-      "notable": 3
-    },
-    {
-      "id": "f626d209-bef0-4534-a412-585609cdc803",
-      "title": "Solutions Consultant, Commercial, MEA (Middle East Africa)",
-      "company": "Notion",
-      "place": "Ireland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/notion/10760f33-dd07-4343-ad30-3f26db7f8eee",
-      "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/solutions-consultant-commercial-mea-middle-east-africa-notion-753acf?utm_source=reddit",
-      "postedAt": "2026-11-06T17:05:22.706Z",
-      "notable": 3
-    },
-    {
-      "id": "e2e7531f-97f7-4026-9579-3efe70937c5c",
-      "title": "Product Support Specialist",
-      "company": "EDF UK",
-      "place": "Gloucester, United Kingdom",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£32.0K-£55.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EDF-UK/744000160261604",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edf-uk/product-support-specialist-edf-uk-77f529?utm_source=reddit",
-      "postedAt": "2026-11-06T17:04:43.918Z",
       "notable": 3
     }
   ],
