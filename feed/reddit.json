@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:36:44.409Z",
+  "generatedAt": "2026-11-08T14:45:05.365Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -475,6 +475,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/dutch-speaker-or-car-brand-specialist-atlean-world-5ccf24?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "9e284a1a-c233-4b07-abf4-76576d35e80d",
+      "title": "Specialist Sales Representative (G.D. Luxembourg)",
+      "company": "GSK",
+      "place": "Wavre, Belgium",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€68.9K-€114.8K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Belgium-Wavre/Specialist-Sales-Representative--GD-Luxembourg-_450779-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gskorwd5orgskcareers/specialist-sales-representative-gd-luxembourg-gsk-d4d9dd?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "9a8ab569-ac36-4f8e-bb82-ab1638ca977a",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bigblue/technical-product-manager-junior-bigblue-5107de?utm_source=reddit",
       "postedAt": "2026-11-06T17:25:52.690Z",
       "notable": 3
-    },
-    {
-      "id": "6db726df-bd14-4b8e-897f-b166ff014b84",
-      "title": "Mid-Level Product Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$150.0K-$300.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/822acf23-d584-4b97-8c86-55146c01b269",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-63a8d6?utm_source=reddit",
-      "postedAt": "2026-11-06T17:24:57.708Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
