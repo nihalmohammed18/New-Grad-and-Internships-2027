@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:28:48.426Z",
+  "generatedAt": "2026-11-08T21:32:12.534Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -74,6 +74,25 @@
       "season": null,
       "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/FullStack-Developer---Python-Django-Javascript_JR-0027626",
       "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/fullstack-developer-python-django-javascript-theapexgroup-5aaeba?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "28d36b9b-34fb-4d4c-925a-110a6283e65d",
+      "title": "Operator I, Quality Operations",
+      "company": "Alcon",
+      "place": "Malaysia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Johor-Malaysia/Operator-I--Quality-Operations_R-2026-50765-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alconorwd5orcareersalcon/operator-i-quality-operations-alcon-e50980?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/akidointernal/ecm-care-coordinator-akido-companies-internal-job-board-a1e001?utm_source=reddit",
       "postedAt": "2026-11-06T18:33:16.000Z",
       "notable": 3
-    },
-    {
-      "id": "64b2d161-fff9-4b30-893f-3329cc481bb6",
-      "title": "Analyst, Open Source Intelligence (OSINT)",
-      "company": "House of Commons (Canada) / Chambre des communes (Canada)",
-      "place": "Ottawa, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000160274987",
-      "firstJobbyUrl": "https://firstjobby.com/companies/houseofcommonscanadachambredescommunescanada/analyst-open-source-intelligence-osint-house-of-commons-canada-chambre-des-commu-299f79?utm_source=reddit",
-      "postedAt": "2026-11-06T18:31:57.875Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
