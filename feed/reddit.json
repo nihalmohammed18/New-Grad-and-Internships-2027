@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-08T12:31:56.904Z",
+  "generatedAt": "2026-11-08T12:51:07.708Z",
   "jobs": [
+    {
+      "id": "fbc216fe-ed78-475e-84f6-fbbdeb67c12b",
+      "title": "3D Product Visualisation Designer",
+      "company": "Reolink",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/reolink/jobs/4473685009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/reolink/3d-product-visualisation-designer-reolink-b8c5be?utm_source=reddit",
+      "postedAt": "2026-11-08T07:00:28.000Z",
+      "notable": 3
+    },
     {
       "id": "40f94109-7f2f-4455-8021-aaea817c09c9",
       "title": "Associate Legal Engineer",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/platform-engineer-biotech-clera-d93d92?utm_source=reddit",
       "postedAt": "2026-11-06T17:11:02.681Z",
       "notable": 6
-    },
-    {
-      "id": "ef241a7e-2747-4af0-a657-e01324567721",
-      "title": "Security Operations Engineer",
-      "company": "Samsara",
-      "place": "Remote from United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8355097?gh_jid=8355097",
-      "firstJobbyUrl": "https://firstjobby.com/companies/samsara/security-operations-engineer-samsara-eac1e8?utm_source=reddit",
-      "postedAt": "2026-11-06T17:10:28.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
