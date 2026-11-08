@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-08T06:27:30.834Z",
+  "generatedAt": "2026-11-08T06:35:24.669Z",
   "jobs": [
+    {
+      "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
+      "title": "Support Engineer, PAYGO",
+      "company": "Exa",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": "$115.0K-$225.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/exa/support-engineer-paygo-exa-5e2a13?utm_source=reddit",
+      "postedAt": "2026-11-08T04:57:15.133Z",
+      "notable": 6
+    },
     {
       "id": "11f6b78d-490a-4cf9-84d8-db9ddfbfe6d6",
       "title": "Operations Intern",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spoton/territory-sales-representative-restaurant-specialist-south-milwaukee-wi-spoton-95e45c?utm_source=reddit",
       "postedAt": "2026-11-06T17:00:14.529Z",
       "notable": 6
-    },
-    {
-      "id": "7582907b-26a1-4648-9b7d-6507175b98c6",
-      "title": "Adult Testing Neuropsychologist (PhD/PsyD)",
-      "company": "LifeStance Health",
-      "place": "Mt. Pleasant, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$119.0K-$136.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/lifestance/31507272-dda9-441f-b474-1c913b566fcc",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/adult-testing-neuropsychologist-phdpsyd-lifestance-health-cba8d6?utm_source=reddit",
-      "postedAt": "2026-11-06T16:59:42.374Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
