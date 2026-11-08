@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:35:24.669Z",
+  "generatedAt": "2026-11-08T07:16:52.270Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -228,6 +228,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/customer-issue-resolution-analyst-3m-f201ce?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1c24174f-1b9c-4fdf-88c1-b20ec04f051b",
+      "title": "Data Scientist",
+      "company": "Euromonitor",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/9BD973118D",
+      "firstJobbyUrl": "https://firstjobby.com/companies/euromonitor/data-scientist-euromonitor-cab860?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "07cc8934-ba60-467e-9075-e0b4ebd4facd",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciandt/job-32550-ai-orchestrator-brazil-ciandt-430118?utm_source=reddit",
       "postedAt": "2026-11-06T17:00:15.173Z",
       "notable": 3
-    },
-    {
-      "id": "c44416b9-a12f-4c53-9c8e-415a2578ebb4",
-      "title": "Territory Sales Representative / Restaurant Specialist - South Milwaukee, WI",
-      "company": "SpotOn",
-      "place": "South Milwaukee, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$120.0K-$275.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/spoton/afc665b4-b5a4-4c4a-9e07-e9623fe48e5f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spoton/territory-sales-representative-restaurant-specialist-south-milwaukee-wi-spoton-95e45c?utm_source=reddit",
-      "postedAt": "2026-11-06T17:00:14.529Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
