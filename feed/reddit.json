@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:12:41.329Z",
+  "generatedAt": "2026-11-08T21:17:28.348Z",
   "jobs": [
     {
       "id": "d62e5153-f7e3-4246-ba22-c5d713332c8d",
@@ -532,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/web-uiux-development-engineer-ge-vernova-7b7e79?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "f16fa9de-a914-422f-ad85-ed073f2dcd36",
+      "title": "Account Executive",
+      "company": "Quirchfoods",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://quirchfoods.wd12.myworkdayjobs.com/Quirch_Foods/job/Missouri-Remote/Account-Executive_JR103105",
+      "firstJobbyUrl": "https://firstjobby.com/companies/quirchfoodsorwd12orquirchfoods/account-executive-quirchfoods-3e9e09?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "ea954f6b-c006-4e1e-9bc8-eff7587e8a40",
@@ -1539,6 +1558,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/customer-service-representative-3m-65e9d6?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "003e0b20-b14f-4a0d-8255-9138073495be",
+      "title": "Test Stand Operator - 1st shift",
+      "company": "Daikin Applied",
+      "place": "Faribault, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$32/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Faribault-MN-55021/Test-Stand-Operator---1st-shift_R004674",
+      "firstJobbyUrl": "https://firstjobby.com/companies/daikinappliedorwd1ordaikin-careers/test-stand-operator-1st-shift-daikin-applied-46dd09?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trace3/managed-services-engineer-on-site-trace3-e336f3?utm_source=reddit",
       "postedAt": "2026-11-06T18:22:35.000Z",
       "notable": 6
-    },
-    {
-      "id": "28ee386a-bf11-4209-b556-894991524213",
-      "title": "Delinea/PAM Engineer - Active TS/SCI",
-      "company": "GuidePoint Security",
-      "place": "United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/guidepointsecurity/jobs/6251674004?gh_jid=6251674004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/guidepointsecurity/delineapam-engineer-active-tssci-guidepoint-security-faea0b?utm_source=reddit",
-      "postedAt": "2026-11-06T18:22:28.000Z",
-      "notable": 2
-    },
-    {
-      "id": "5b9e753c-017a-41d0-b9e6-55c02031e51a",
-      "title": "IT Applicaties / Digitale Applicatietrainer (m/w/x)",
-      "company": "EVERIENCE",
-      "place": "Delft, Netherlands",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EVERIENCE/744000160272590",
-      "firstJobbyUrl": "https://firstjobby.com/companies/everience/it-applicaties-digitale-applicatietrainer-mwx-everience-d4b8b2?utm_source=reddit",
-      "postedAt": "2026-11-06T18:21:18.734Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
