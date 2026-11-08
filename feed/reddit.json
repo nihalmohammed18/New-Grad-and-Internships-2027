@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:41:13.085Z",
+  "generatedAt": "2026-11-08T08:48:54.275Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/sustainability-specialist-circular-design-cisco-a8cd9f?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "d77ebf65-6bbc-4719-adae-94456dbd3858",
+      "title": "Intern for Operations & Sales - Fresh University graduates",
+      "company": "Hitachi",
+      "place": "Lahore, Pakistan",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lahore-Punjab-Pakistan/Intern-for-Operations---Sales---Fresh-University-graduates_R0147523",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/intern-for-operations-and-sales-fresh-university-graduates-hitachi-80c45c?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "b6b858e5-e4c1-4584-a9b5-5a4a8b644190",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/optro/business-development-representative-emea-hybrid-optro-c28a67?utm_source=reddit",
       "postedAt": "2026-11-06T17:02:03.051Z",
       "notable": 3
-    },
-    {
-      "id": "5b3ae475-f1e9-407f-963d-ed7ac17ae7b7",
-      "title": "Account Manager",
-      "company": "TransPerfect",
-      "place": "Washington DC, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://transperfect.com/o/account-manager-74",
-      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/account-manager-transperfect-f29f55?utm_source=reddit",
-      "postedAt": "2026-11-06T17:02:03.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
