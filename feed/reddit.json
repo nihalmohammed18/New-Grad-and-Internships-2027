@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T20:04:45.195Z",
+  "generatedAt": "2026-11-08T20:17:19.651Z",
   "jobs": [
     {
       "id": "7ae1b501-7268-47e5-819d-6276ae23cf1d",
@@ -857,6 +857,25 @@
       "notable": 3
     },
     {
+      "id": "6768b55f-4a95-401f-9b30-6aeea6ee3bba",
+      "title": "Sentinel - Systems Engineer (20086)",
+      "company": "Northrop Grumman",
+      "place": "Roy, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$79.3K-$118.9K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer--20086-_R10259540",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/sentinel-systems-engineer-20086-northrop-grumman-423c1c?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "62c34638-8120-432e-a6f0-5ce504009e86",
       "title": "Associate Test Engineer - Product Development",
       "company": "Analog Devices",
@@ -946,7 +965,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/software-engineer-cloud-platforms-nvidia-4fb2ab?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
@@ -1178,6 +1197,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/maharahjobs/qa-analyst-maharah-human-resources-company-66d95b?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "145dc344-a125-4030-8f8a-a06929898ab2",
+      "title": "Supply Chain Planning Specialist",
+      "company": "Northrop Grumman",
+      "place": "Magna, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$65.5K-$98.3K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Supply-Chain-Planning-Specialist_R10237829",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/supply-chain-planning-specialist-northrop-grumman-df7b87?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "138573c8-14e7-4a47-9d60-fb924e9ea5a3",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5475614008",
       "firstJobbyUrl": "https://firstjobby.com/companies/olsson/associate-wetland-scientist-energy-market-olsson-d3899d?utm_source=reddit",
       "postedAt": "2026-11-06T18:01:26.000Z",
-      "notable": 3
-    },
-    {
-      "id": "8ac4de7a-745e-49ef-90bc-10030850f1d1",
-      "title": "Quality Assurance Associate",
-      "company": "Career Team",
-      "place": "Terrell, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$45.0K-$55.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/careerteam/jobs/4751900005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/careerteam/quality-assurance-associate-career-team-f24a4e?utm_source=reddit",
-      "postedAt": "2026-11-06T18:00:54.000Z",
-      "notable": 5
-    },
-    {
-      "id": "454b37d7-ea9a-442e-8e81-4adb0e00aa13",
-      "title": "Maintenance Engineer I - Limelight Denver",
-      "company": "Aspen Skiing Company",
-      "place": "Denver, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AspenSkiingCompany/744000160271210",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aspenskiingcompany/maintenance-engineer-i-limelight-denver-aspen-skiing-company-7e8407?utm_source=reddit",
-      "postedAt": "2026-11-06T18:00:46.098Z",
       "notable": 3
     }
   ],
