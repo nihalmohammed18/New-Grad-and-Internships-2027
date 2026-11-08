@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:32:12.534Z",
+  "generatedAt": "2026-11-08T21:43:31.296Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -1155,7 +1155,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Test-Engineer---Product-Development_R266527",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/Philippines-Cavite-GTC/Associate-Test-Engineer---Product-Development_R266527",
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-test-engineer-product-development-analog-devices-bb52f7?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 3
@@ -3781,25 +3781,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/blueoriginorwd5orblueorigin/buyer-supply-chain-blue-origin-267149?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "f5368d02-03be-42ca-b500-78954fdeb488",
-      "title": "Customer Engineer-CMP",
-      "company": "Applied Materials",
-      "place": "Shenzhen, Switzerland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/ShenzhenCHN/Customer-Engineer-CMP_R2630311",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-engineer-cmp-applied-materials-774af9?utm_source=reddit",
-      "postedAt": "2026-11-07T00:00:00.000Z",
-      "notable": 3
     },
     {
       "id": "f4fb8a50-d11a-41a6-bdc0-e1fd86f41731",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/akidointernal/ecm-care-coordinator-akido-companies-internal-job-board-a1e001?utm_source=reddit",
       "postedAt": "2026-11-06T18:33:16.000Z",
       "notable": 3
+    },
+    {
+      "id": "64b2d161-fff9-4b30-893f-3329cc481bb6",
+      "title": "Analyst, Open Source Intelligence (OSINT)",
+      "company": "House of Commons (Canada) / Chambre des communes (Canada)",
+      "place": "Ottawa, Canada",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000160274987",
+      "firstJobbyUrl": "https://firstjobby.com/companies/houseofcommonscanadachambredescommunescanada/analyst-open-source-intelligence-osint-house-of-commons-canada-chambre-des-commu-299f79?utm_source=reddit",
+      "postedAt": "2026-11-06T18:31:57.875Z",
+      "notable": 1
     }
   ],
   "fakeEntryLevel": {
