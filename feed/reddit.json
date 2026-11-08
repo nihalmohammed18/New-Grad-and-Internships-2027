@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:24:41.418Z",
+  "generatedAt": "2026-11-08T15:39:28.990Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -589,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medlineorwd5ormedline/front-line-care-sales-representative-salt-lake-city-ut-medline-d1f792?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "62c34638-8120-432e-a6f0-5ce504009e86",
+      "title": "Associate Test Engineer - Product Development",
+      "company": "Analog Devices",
+      "place": "Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Test-Engineer---Product-Development_R266527",
+      "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-test-engineer-product-development-analog-devices-bb52f7?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "626370f0-a412-44de-a609-d1aaf8d77d45",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000160268848",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/full-stack-engineer-fleet-management-mfd-sixt-7f22c2?utm_source=reddit",
       "postedAt": "2026-11-06T17:42:22.582Z",
-      "notable": 3
-    },
-    {
-      "id": "7518f810-4772-4dcd-acfc-04bc0c8616ce",
-      "title": "Sales Executive",
-      "company": "Arrive",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/arrive/152b662c-c5ea-447e-8c76-8246352e4ac3",
-      "firstJobbyUrl": "https://firstjobby.com/companies/arrive-ashby/sales-executive-arrive-6aacab?utm_source=reddit",
-      "postedAt": "2026-11-06T17:39:45.525Z",
       "notable": 3
     }
   ],
