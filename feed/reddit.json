@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:37:46.248Z",
+  "generatedAt": "2026-11-08T10:23:14.252Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -5550,6 +5550,25 @@
       "notable": 4
     },
     {
+      "id": "7a300c66-82d3-4f4f-9340-95f9b52488f1",
+      "title": "People & Workplace Operations Associate",
+      "company": "AllTrails",
+      "place": "San Francisco, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$88.0K-$110.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/alltrails/805e6a85-336b-4718-80c1-f6bb3cd17225",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alltrails/people-and-workplace-operations-associate-alltrails-8964b4?utm_source=reddit",
+      "postedAt": "2026-11-06T21:04:18.755Z",
+      "notable": 4
+    },
+    {
       "id": "44896959-5d8c-42ad-bdb7-694dd16ba2be",
       "title": "Part Time Producer & Digital Content Creator - WKXW-FM",
       "company": "Townsquare Media",
@@ -6365,6 +6384,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/npv/frontend-engineer-npv-labs-c17df8?utm_source=reddit",
       "postedAt": "2026-11-06T20:24:06.569Z",
       "notable": 2
+    },
+    {
+      "id": "73196d88-2401-40f5-9b89-ed9ebd9b71d7",
+      "title": "Base Experience Coordinator",
+      "company": "Aero",
+      "place": "Teterboro, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$26/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/aero/c812a977-1b4d-414f-9ca0-82d66733da5a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aero/base-experience-coordinator-aero-679671?utm_source=reddit",
+      "postedAt": "2026-11-06T20:23:59.613Z",
+      "notable": 3
     },
     {
       "id": "19d4d194-1efc-4d92-b2a6-153df106fd3e",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/EDF-UK/744000160261604",
       "firstJobbyUrl": "https://firstjobby.com/companies/edf-uk/product-support-specialist-edf-uk-77f529?utm_source=reddit",
       "postedAt": "2026-11-06T17:04:43.918Z",
-      "notable": 3
-    },
-    {
-      "id": "1aadc39e-74df-4221-abc9-85eb9bfae070",
-      "title": "Product Support Specialist",
-      "company": "EDF UK",
-      "place": "London, United Kingdom",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£32.0K-£55.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EDF-UK/744000160261789",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edf-uk/product-support-specialist-edf-uk-1c57c7?utm_source=reddit",
-      "postedAt": "2026-11-06T17:03:47.432Z",
-      "notable": 3
-    },
-    {
-      "id": "37309977-2dbb-45f7-8299-d6d852369d54",
-      "title": "Sales Representative CP",
-      "company": "Syngenta Group",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SyngentaGroup/744000160261389",
-      "firstJobbyUrl": "https://firstjobby.com/companies/syngentagroup/sales-representative-cp-syngenta-group-cbf182?utm_source=reddit",
-      "postedAt": "2026-11-06T17:02:04.731Z",
       "notable": 3
     }
   ],
