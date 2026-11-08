@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:26:56.902Z",
+  "generatedAt": "2026-11-08T14:36:44.409Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -475,6 +475,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/dutch-speaker-or-car-brand-specialist-atlean-world-5ccf24?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "9a8ab569-ac36-4f8e-bb82-ab1638ca977a",
+      "title": "Facilities Coordinator",
+      "company": "JLL",
+      "place": "Netanya, Iceland",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Netanya-ISR/Facilities-Coordinator_REQ546180",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/facilities-coordinator-jll-f42663?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "75950b28-3c94-407f-a921-926a42def984",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-63a8d6?utm_source=reddit",
       "postedAt": "2026-11-06T17:24:57.708Z",
       "notable": 6
-    },
-    {
-      "id": "dd434829-6a5b-4b04-ba86-b7f77080a213",
-      "title": "Brand Marketing Intern",
-      "company": "Red Bull",
-      "place": "Milan, Italy",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€800/mo",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RedBull/744000160265899",
-      "firstJobbyUrl": "https://firstjobby.com/companies/redbull/brand-marketing-intern-red-bull-dfd49e?utm_source=reddit",
-      "postedAt": "2026-11-06T17:24:23.844Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
