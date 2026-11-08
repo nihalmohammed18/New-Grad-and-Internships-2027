@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:38:12.816Z",
+  "generatedAt": "2026-11-08T07:53:34.465Z",
   "jobs": [
     {
       "id": "d9294a63-e302-4297-ab76-e240f4a3e6e3",
@@ -150,6 +150,25 @@
       "season": null,
       "applyUrl": "https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/Customer-Service-Representative--German-_R01173444",
       "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/customer-service-representative-german-3m-5607b7?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "dcc06858-c4d8-4b5e-bb20-42cc8f8f2587",
+      "title": "Modeling & Simulation Machine Learning Engineer",
+      "company": "P&G",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-APAC-PSC-GDOP/Modeling---Simulation-Machine-Learning-Engineer_R000161635",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pgorwd5or1000/modeling-and-simulation-machine-learning-engineer-pandg-2b7c70?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/backmarket-ashby/software-engineer-intern-back-market-0346dc?utm_source=reddit",
       "postedAt": "2026-11-06T17:01:22.973Z",
       "notable": 3
-    },
-    {
-      "id": "7fcb34d9-96cd-4a1d-b0dd-cef456f7d5c9",
-      "title": "Account Executive (Dutch)",
-      "company": "fonio",
-      "place": "Vienna, Austria",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€70.0K-€100.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/fonio/0846a314-4631-43b3-ad0f-57e089fefd1e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fonio/account-executive-dutch-fonio-135daa?utm_source=reddit",
-      "postedAt": "2026-11-06T17:00:26.077Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
