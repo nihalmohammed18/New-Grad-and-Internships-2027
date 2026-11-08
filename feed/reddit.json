@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:43:31.296Z",
+  "generatedAt": "2026-11-08T21:59:00.524Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alconorwd5orcareersalcon/operator-i-quality-operations-alcon-e50980?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3865b2d0-8ec4-4d0a-a07d-15c8b92d5d7f",
+      "title": "Research Assistant II",
+      "company": "Harvard University",
+      "place": "Boston, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016720266-research-assistant-ii",
+      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-assistant-ii-harvard-university-3a8225?utm_source=reddit",
+      "postedAt": "2026-11-08T20:42:18.707Z",
+      "notable": 4
     },
     {
       "id": "7ae1b501-7268-47e5-819d-6276ae23cf1d",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/akidointernal/ecm-care-coordinator-akido-companies-internal-job-board-a1e001?utm_source=reddit",
       "postedAt": "2026-11-06T18:33:16.000Z",
       "notable": 3
-    },
-    {
-      "id": "64b2d161-fff9-4b30-893f-3329cc481bb6",
-      "title": "Analyst, Open Source Intelligence (OSINT)",
-      "company": "House of Commons (Canada) / Chambre des communes (Canada)",
-      "place": "Ottawa, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000160274987",
-      "firstJobbyUrl": "https://firstjobby.com/companies/houseofcommonscanadachambredescommunescanada/analyst-open-source-intelligence-osint-house-of-commons-canada-chambre-des-commu-299f79?utm_source=reddit",
-      "postedAt": "2026-11-06T18:31:57.875Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
