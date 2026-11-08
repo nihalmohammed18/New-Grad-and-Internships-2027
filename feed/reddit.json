@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:39:28.990Z",
+  "generatedAt": "2026-11-08T16:00:40.118Z",
   "jobs": [
     {
       "id": "ed773452-8111-4edd-aa1a-da36569d7e26",
@@ -589,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medlineorwd5ormedline/front-line-care-sales-representative-salt-lake-city-ut-medline-d1f792?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "7404cc46-6372-42c0-b0bb-52b0ac3537e7",
+      "title": "Physiotherapist | Mixed community & private practice",
+      "company": "Mediix",
+      "place": "Melbourne, Australia",
+      "category": "Marketing",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$75.0K-A$100.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/209B6652F4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mediix-recruitment/physiotherapist-or-mixed-community-and-private-practice-mediix-096c8e?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "62c34638-8120-432e-a6f0-5ce504009e86",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.revmed.com/careers-list/?gh_jid=8196790003",
       "firstJobbyUrl": "https://firstjobby.com/companies/revolutionmedicines/machine-learning-scientist-ii-drug-discovery-analytics-revolution-medicines-feef4c?utm_source=reddit",
       "postedAt": "2026-11-06T17:42:36.000Z",
-      "notable": 3
-    },
-    {
-      "id": "9ee3caed-8aa1-4d2e-9d91-88b19e95cb48",
-      "title": "Full Stack Engineer — Fleet Management (m/f/d)",
-      "company": "SIXT",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000160268848",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/full-stack-engineer-fleet-management-mfd-sixt-7f22c2?utm_source=reddit",
-      "postedAt": "2026-11-06T17:42:22.582Z",
       "notable": 3
     }
   ],
