@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:17:04.165Z",
+  "generatedAt": "2026-11-08T18:22:29.100Z",
   "jobs": [
     {
       "id": "672878e3-ac9a-49db-bdc3-7cba268f6fe3",
@@ -1026,6 +1026,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/parsonsorwd5orsearch/project-controls-engineer-saudi-national-parsons-5c7b04?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "167e83b4-1095-4cc0-961b-d73ba17c534c",
+      "title": "QA Analyst",
+      "company": "Maharah Human Resources Company",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/12DFFDDAB0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maharahjobs/qa-analyst-maharah-human-resources-company-66d95b?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "138573c8-14e7-4a47-9d60-fb924e9ea5a3",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/chemist-environment-testing-2nd-shift-sun-thurs-eurofins-eaf478?utm_source=reddit",
       "postedAt": "2026-11-06T17:55:26.214Z",
       "notable": 4
-    },
-    {
-      "id": "4c207800-c1b6-49f1-bc01-ed2b47b750f2",
-      "title": "Research Engineer",
-      "company": "Gauntlet",
-      "place": "Remote from United States, Canada",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$175.0K-$195.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/gauntlet/2fe54b1d-0111-4df8-bb98-d3ae3821fc3c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gauntlet/research-engineer-gauntlet-e18c41?utm_source=reddit",
-      "postedAt": "2026-11-06T17:53:49.696Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
