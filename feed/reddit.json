@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:50:27.575Z",
+  "generatedAt": "2026-11-08T12:17:36.246Z",
   "jobs": [
     {
       "id": "40f94109-7f2f-4455-8021-aaea817c09c9",
@@ -9103,6 +9103,25 @@
       "notable": 3
     },
     {
+      "id": "c4c88323-8fbe-434f-be58-dfe6dea909ce",
+      "title": "Technical Product Manager - Junior",
+      "company": "Bigblue",
+      "place": "Paris, France",
+      "category": "Product",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€45.0K-€50.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/bigblue/8168376b-dd3d-4bd9-91ef-88c9024a8f33",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bigblue/technical-product-manager-junior-bigblue-5107de?utm_source=reddit",
+      "postedAt": "2026-11-06T17:25:52.690Z",
+      "notable": 3
+    },
+    {
       "id": "6db726df-bd14-4b8e-897f-b166ff014b84",
       "title": "Mid-Level Product Engineer",
       "company": "Clera",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fonio/business-operations-associate-fonio-ac8a8a?utm_source=reddit",
       "postedAt": "2026-11-06T17:08:18.242Z",
       "notable": 3
-    },
-    {
-      "id": "95dc7890-bdac-4482-b6eb-94f19476b1f3",
-      "title": "Founding Engineer (Full-Stack/AI)",
-      "company": "Clera",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "€60.0K-€90.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/20549897-9c4b-4650-aa05-f7ef443e6cae",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-full-stackai-clera-6ab53a?utm_source=reddit",
-      "postedAt": "2026-11-06T17:07:58.907Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
