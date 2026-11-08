@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:07:02.186Z",
+  "generatedAt": "2026-11-08T02:19:54.146Z",
   "jobs": [
     {
       "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
@@ -2054,6 +2054,25 @@
       "notable": 3
     },
     {
+      "id": "f3ea3cca-30a1-4bec-a0e8-733ef3c4d9f8",
+      "title": "UX Designer Intern (Canada)",
+      "company": "Workday",
+      "place": "Vancouver, Canada",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "CA",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "CA$66.4K-CA$99.6K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500",
+      "firstJobbyUrl": "https://firstjobby.com/companies/workdayorwd5orworkdayearlycareer/ux-designer-intern-canada-workday-e65c86?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "f10c372e-8d00-4465-a2cf-39d59db5f004",
       "title": "Estonian Digital Content Review Specialist",
       "company": "Atlean World",
@@ -2413,6 +2432,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-closing-lowes-6d9fea?utm_source=reddit",
       "postedAt": "2026-11-07T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "a34c3d9f-195f-4700-a5b7-fe542babac63",
+      "title": "Sales Supervisor",
+      "company": "Capri",
+      "place": "Canada",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://capri.wd1.myworkdayjobs.com/Michael_Kors/job/Kanata/Sales-Supervisor_R_787744",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capriorwd1ormichaelkors/sales-supervisor-capri-704871?utm_source=reddit",
+      "postedAt": "2026-11-07T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "a2b206e9-5bef-4724-879d-2fe6e3ebc5c7",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5030059101",
       "firstJobbyUrl": "https://firstjobby.com/companies/michelscorporation/operations-technology-specialist-michels-energy-group-inc-michels-corporation-3a891d?utm_source=reddit",
       "postedAt": "2026-11-06T16:47:08.000Z",
-      "notable": 5
-    },
-    {
-      "id": "be3f5660-42ac-48f5-b95c-ce5a8bb65d84",
-      "title": "Founding Sales Development Representative",
-      "company": "Teya",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£40.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/teya/0eff43e6-c938-4654-9138-91357d1a7d6e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/teya/founding-sales-development-representative-teya-53516c?utm_source=reddit",
-      "postedAt": "2026-11-06T16:46:46.973Z",
-      "notable": 5
-    },
-    {
-      "id": "d0b4187e-8534-415c-9050-0efa7a9e88ca",
-      "title": "Technical Support Specialist",
-      "company": "City of Philadelphia",
-      "place": "Philadelphia, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$59.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000160257749",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cityofphiladelphia/technical-support-specialist-city-of-philadelphia-745be9?utm_source=reddit",
-      "postedAt": "2026-11-06T16:46:05.964Z",
       "notable": 5
     }
   ],
