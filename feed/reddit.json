@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:32:08.459Z",
+  "generatedAt": "2026-11-08T02:07:02.186Z",
   "jobs": [
     {
       "id": "62b21a3e-c31c-4ca1-b765-f41f6bb1f562",
@@ -304,6 +304,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityofnewyork/it-systems-engineer-city-of-new-york-f2ecbc?utm_source=reddit",
       "postedAt": "2026-11-07T15:59:13.698Z",
       "notable": 3
+    },
+    {
+      "id": "03e17c5a-b929-48a3-b5a5-c1ab896bbe0a",
+      "title": "Performance Marketing Analyst, Paid Acquisition",
+      "company": "Turing",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/turing/jobs/6252156004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/turing/performance-marketing-analyst-paid-acquisition-turing-c93a57?utm_source=reddit",
+      "postedAt": "2026-11-07T13:46:41.000Z",
+      "notable": 1
+    },
+    {
+      "id": "a86fe87c-298b-45a6-81d2-c814d26291a2",
+      "title": "Growth Analyst (Paid Acquisition)",
+      "company": "Turing",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/turing/jobs/6252155004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/turing/growth-analyst-paid-acquisition-turing-19b7ff?utm_source=reddit",
+      "postedAt": "2026-11-07T13:44:09.000Z",
+      "notable": 1
     },
     {
       "id": "18a501f0-5fe8-4be2-af13-183559fca6ca",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityofphiladelphia/technical-support-specialist-city-of-philadelphia-745be9?utm_source=reddit",
       "postedAt": "2026-11-06T16:46:05.964Z",
       "notable": 5
-    },
-    {
-      "id": "557a6fbc-e267-441a-86a5-840a1f33e17e",
-      "title": "Data Scientist - Credit Risk Modelling",
-      "company": "Iwoca Co Uk",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£60.0K-£90.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/iwoca.co.uk/778ac542-07d8-471d-9a6c-e4780131a8d2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/iwocacouk/data-scientist-credit-risk-modelling-iwoca-co-uk-33db05?utm_source=reddit",
-      "postedAt": "2026-11-06T16:45:11.824Z",
-      "notable": 5
-    },
-    {
-      "id": "a376c5ba-ecd4-4fef-9ac8-f591b5d2eb36",
-      "title": "Forensic SoC DNA Laboratory Analyst",
-      "company": "Eurofins",
-      "place": "Warrington, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000160257350",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/forensic-soc-dna-laboratory-analyst-eurofins-528e53?utm_source=reddit",
-      "postedAt": "2026-11-06T16:44:55.237Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
