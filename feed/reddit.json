@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:45:48.663Z",
+  "generatedAt": "2026-11-09T00:51:34.288Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -116,6 +116,25 @@
       "notable": 2
     },
     {
+      "id": "d6299158-71fd-40dd-8462-2d49192734dc",
+      "title": "Growth Associate",
+      "company": "Encord",
+      "place": "London, United Kingdom",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/encord/554d188d-47fa-4701-8041-21cc1975a7a4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/encord/growth-associate-encord-366950?utm_source=reddit",
+      "postedAt": "2026-11-08T22:59:39.123Z",
+      "notable": 3
+    },
+    {
       "id": "24512a82-edc4-4c18-8f05-760bc49c00ed",
       "title": "Social Content Creator",
       "company": "Gorgias",
@@ -227,6 +246,25 @@
       "applyUrl": "https://flix.careers/job/8934518002?gh_jid=8934518002",
       "firstJobbyUrl": "https://firstjobby.com/companies/flix/procurement-intern-mfd-flix-0386e2?utm_source=reddit",
       "postedAt": "2026-11-08T19:56:00.000Z",
+      "notable": 3
+    },
+    {
+      "id": "072bf325-48c8-4fa2-9f35-cdc1a1ecedd7",
+      "title": "Software Engineer, Growth",
+      "company": "Garage",
+      "place": "New York City, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$150.0K-$250.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8",
+      "firstJobbyUrl": "https://firstjobby.com/companies/garage/software-engineer-growth-garage-1220ef?utm_source=reddit",
+      "postedAt": "2026-11-08T19:55:52.284Z",
       "notable": 3
     },
     {
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8350618",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/account-coordinator-paid-search-deptr-ff940a?utm_source=reddit",
       "postedAt": "2026-11-06T18:49:28.000Z",
-      "notable": 3
-    },
-    {
-      "id": "c541fb87-8b8b-43bc-8fa1-b986dd0a1ff0",
-      "title": "Brand Coordinator - Entertainment",
-      "company": "Authentic Brands Group",
-      "place": "Los Angeles, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/authenticbrandsgroup/jobs/6251709004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/authenticbrandsgroup/brand-coordinator-entertainment-authentic-brands-group-d7d0b5?utm_source=reddit",
-      "postedAt": "2026-11-06T18:48:20.000Z",
-      "notable": 3
-    },
-    {
-      "id": "287e90db-6cda-4f79-8e2c-2c2eb04ce939",
-      "title": "Scientist II - LC-MS/MS Bioanalysis (Method Development)",
-      "company": "KCAS Bio",
-      "place": "Kansas City, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/kcasbio/0c6470c5-7751-40b4-8fbe-7df8185fd817",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kcasbio/scientist-ii-lc-msms-bioanalysis-method-development-kcas-bio-a0428e?utm_source=reddit",
-      "postedAt": "2026-11-06T18:46:31.175Z",
       "notable": 3
     }
   ],
