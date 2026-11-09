@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:51:34.288Z",
+  "generatedAt": "2026-11-09T01:34:43.397Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unimelborwd105oruomexternalcareer/post-doctoral-researcher-university-of-melbourne-061c95?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "3135f2cc-760f-4f42-aeb0-1ef62db5f9e3",
+      "title": "Product Sales Specialist",
+      "company": "Smith+Nephew",
+      "place": "Seoul, South Korea",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/External/job/KOR---Seoul/Product-Sales-Specialist_R93060",
+      "firstJobbyUrl": "https://firstjobby.com/companies/smithnepheworwd5orexternal/product-sales-specialist-smithnephew-17016d?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "28d36b9b-34fb-4d4c-925a-110a6283e65d",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/communications-coordinator-anduril-industries-dd7e6a?utm_source=reddit",
       "postedAt": "2026-11-06T18:51:36.000Z",
       "notable": 5
-    },
-    {
-      "id": "7e01c5c3-f70e-4745-a0dc-f86fd645168f",
-      "title": "Account Coordinator, Paid Search",
-      "company": "DEPT®",
-      "place": "Denver, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8350618",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dept/account-coordinator-paid-search-deptr-ff940a?utm_source=reddit",
-      "postedAt": "2026-11-06T18:49:28.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
