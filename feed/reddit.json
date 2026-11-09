@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:56:02.232Z",
+  "generatedAt": "2026-11-09T08:06:38.929Z",
   "jobs": [
     {
       "id": "6b7f5fb0-6ab5-4288-a525-e67f8f7e8bdd",
@@ -363,6 +363,25 @@
       "notable": 2
     },
     {
+      "id": "b8a6e54f-c402-4eb0-b677-d4577724a846",
+      "title": "Sales Coordinator",
+      "company": "JCDecaux Australia",
+      "place": "Sydney, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/jcdecaux/jobs/8922916002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jcdecaux/sales-coordinator-jcdecaux-australia-5495d2?utm_source=reddit",
+      "postedAt": "2026-11-09T03:59:14.000Z",
+      "notable": 2
+    },
+    {
       "id": "a300daa9-5f7b-4d56-aa72-00d58f4d9174",
       "title": "[Summer Internship 2027] Supply Operations Intern",
       "company": "Agoda",
@@ -702,6 +721,25 @@
       "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8932471002?gh_jid=8932471002",
       "firstJobbyUrl": "https://firstjobby.com/companies/spacex/hardware-reliability-technician-starlink-spacex-4b108b?utm_source=reddit",
       "postedAt": "2026-11-09T02:59:58.000Z",
+      "notable": 2
+    },
+    {
+      "id": "d1df7276-5d1b-4f0d-9a1b-f00cdfde88a9",
+      "title": "Account Manager",
+      "company": "JCDecaux Australia",
+      "place": "Sydney, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/jcdecaux/jobs/8922911002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jcdecaux/account-manager-jcdecaux-australia-2ebdc4?utm_source=reddit",
+      "postedAt": "2026-11-09T02:57:17.000Z",
       "notable": 2
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sonicautomotive/product-specialist-land-rover-sw-houston-sonic-automotive-66d92a?utm_source=reddit",
       "postedAt": "2026-11-06T21:08:07.444Z",
       "notable": 0
-    },
-    {
-      "id": "0bd147e9-a6d0-49b2-8bf3-913ef9244a95",
-      "title": "Account Executive, SMB - Base44",
-      "company": "Wix",
-      "place": "Salt Lake City, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000160299629",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/account-executive-smb-base44-wix-00ecad?utm_source=reddit",
-      "postedAt": "2026-11-06T21:05:36.723Z",
-      "notable": 2
-    },
-    {
-      "id": "7eb7988e-bc1f-418a-ac1c-88665253be4a",
-      "title": "Account Executive, SMB (Mountain)",
-      "company": "SentinelOne",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$104.0K-$143.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.sentinelone.com/jobs/?gh_jid=8181989003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sentinellabs/account-executive-smb-mountain-sentinelone-2acf9a?utm_source=reddit",
-      "postedAt": "2026-11-06T21:04:52.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
