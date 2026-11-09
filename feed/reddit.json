@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-09T02:07:43.288Z",
+  "generatedAt": "2026-11-09T02:13:14.685Z",
   "jobs": [
+    {
+      "id": "306fcfa5-593f-44bf-9b66-72b05413a37c",
+      "title": "Growth and CRM Analyst",
+      "company": "AppLovin",
+      "place": "Remote from United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$110.9K-CA$160.9K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/applovin/jobs/4728116006?gh_jid=4728116006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/applovin/growth-and-crm-analyst-applovin-367f86?utm_source=reddit",
+      "postedAt": "2026-11-09T01:56:12.000Z",
+      "notable": 4
+    },
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
       "title": "Procurement / Contracts Specialist",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/rws/48e18e31-8f8f-4c36-9a8d-90100ebe3505",
       "firstJobbyUrl": "https://firstjobby.com/companies/rws/ai-conversation-recording-contributor-nepali-rws-trainai-6d1928?utm_source=reddit",
       "postedAt": "2026-11-06T19:03:22.485Z",
-      "notable": 5
-    },
-    {
-      "id": "4f348e02-9e86-481d-893a-a13fb99ff769",
-      "title": "Security Coordinator, Guest Reception",
-      "company": "NBCUniversal",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$23-$27/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160282359",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nbcuniversal3/security-coordinator-guest-reception-nbcuniversal-fe8cdb?utm_source=reddit",
-      "postedAt": "2026-11-06T19:02:52.497Z",
       "notable": 5
     }
   ],
