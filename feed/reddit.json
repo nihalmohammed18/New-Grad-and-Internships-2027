@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:22:21.511Z",
+  "generatedAt": "2026-11-09T00:27:44.540Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-inside-lawn-and-garden-day-lowes-d8ac9c?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "586f31ea-6a22-4631-bc47-fa383c280fec",
+      "title": "Order Fulfillment Coordinator",
+      "company": "SWTCH Energy Inc.",
+      "place": "Toronto, Canada",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/54499EA751",
+      "firstJobbyUrl": "https://firstjobby.com/companies/swtch-energy/order-fulfillment-coordinator-swtch-energy-inc-91bff5?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "4fce70c8-7427-4e46-9c83-828f2562728e",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
       "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/software-engineering-intern-frontend-summer-2027-notion-13d82a?utm_source=reddit",
       "postedAt": "2026-11-06T18:42:11.019Z",
-      "notable": 5
-    },
-    {
-      "id": "676cbb6f-8b52-4a2c-a062-ebeb8b24ccf0",
-      "title": "Software Engineering Intern, iOS (Summer 2027)",
-      "company": "Notion",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$57-$61/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
-      "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/software-engineering-intern-ios-summer-2027-notion-95c20d?utm_source=reddit",
-      "postedAt": "2026-11-06T18:41:27.009Z",
       "notable": 5
     }
   ],
