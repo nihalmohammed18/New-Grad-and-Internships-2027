@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:10:06.145Z",
+  "generatedAt": "2026-11-09T00:22:21.511Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -154,6 +154,25 @@
       "notable": 3
     },
     {
+      "id": "445934af-c436-4678-a9a7-b07c0c11cfa1",
+      "title": "Software Engineer - Directed Energy",
+      "company": "GRVTY",
+      "place": "Albuquerque, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/grvty/jobs/4482808009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/grvty/software-engineer-directed-energy-grvty-bbbe48?utm_source=reddit",
+      "postedAt": "2026-11-08T19:47:36.000Z",
+      "notable": 2
+    },
+    {
       "id": "87002b98-592f-451b-aafd-4e405157dd46",
       "title": "Software Engineer, Backend - Factory Software",
       "company": "Base Power Company",
@@ -189,6 +208,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/base-power/02ca6e34-9827-4183-b05c-b73d06038640",
       "firstJobbyUrl": "https://firstjobby.com/companies/base-power/software-engineer-backend-member-software-base-power-company-5960e2?utm_source=reddit",
       "postedAt": "2026-11-08T19:16:34.996Z",
+      "notable": 3
+    },
+    {
+      "id": "6b7f73fa-fa5a-457d-917b-e254db82b408",
+      "title": "Associate Client Partner (Digital Ads Sales) - Criteo",
+      "company": "Aleph",
+      "place": "Buenos Aires, Argentina",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/aleph/04e7b9f1-0229-4501-9d95-b0ade4b16606",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aleph/associate-client-partner-digital-ads-sales-criteo-aleph-a0b1ff?utm_source=reddit",
+      "postedAt": "2026-11-08T18:50:37.620Z",
       "notable": 3
     },
     {
@@ -376,7 +414,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000160488439-psm-and-energy-engineer-psm-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000160488439",
       "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/psm-and-energy-engineer-psm-avery-dennison-3789cd?utm_source=reddit",
       "postedAt": "2026-11-08T15:15:23.967Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/software-engineering-intern-ios-summer-2027-notion-95c20d?utm_source=reddit",
       "postedAt": "2026-11-06T18:41:27.009Z",
       "notable": 5
-    },
-    {
-      "id": "ce7da35c-63e1-44d1-bea6-ec9f449ee382",
-      "title": "Entry-Level Electronics Technician (UPS Field Engineer)",
-      "company": "Pearce Services",
-      "place": "Fontana, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24-$32/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/pearceservices/jobs/5475627008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pearceservices/entry-level-electronics-technician-ups-field-engineer-pearce-services-42503a?utm_source=reddit",
-      "postedAt": "2026-11-06T18:36:59.000Z",
-      "notable": 5
-    },
-    {
-      "id": "a3fdba56-5273-4acd-83d6-8a2cc2d58ed8",
-      "title": "Facilities Operations Associate",
-      "company": "WHOOP",
-      "place": "Boston, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$50.0K-$90.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/whoop/e9c53109-cff8-406f-bcc1-aa420ed783fe",
-      "firstJobbyUrl": "https://firstjobby.com/companies/whoop-ashby/facilities-operations-associate-whoop-628522?utm_source=reddit",
-      "postedAt": "2026-11-06T18:36:34.585Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
