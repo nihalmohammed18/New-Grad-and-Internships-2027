@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:28:28.805Z",
+  "generatedAt": "2026-11-09T06:41:17.215Z",
   "jobs": [
     {
       "id": "efbd5f81-96d1-4139-8732-dac3cc088d01",
@@ -817,6 +817,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/adtranorwd3oradtran/engineer-advanced-technology-adtran-de25a8?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "aacd55f2-9733-4799-ac7f-f6b24e1d0f85",
+      "title": "Patient Services Coordinator - US Healthcare | EST Hours | Remote",
+      "company": "ISTA Personnel Solutions",
+      "place": "Remote",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/EB5E7DA27E",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ista-2/patient-services-coordinator-us-healthcare-or-est-hours-or-remote-ista-personnel-cc9da1?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "a9e72131-ca78-4a28-aa61-4d343ff62be2",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/meter-ashby/sales-channel-regional-partners-rockies-meter-0e543d?utm_source=reddit",
       "postedAt": "2026-11-06T20:28:17.440Z",
       "notable": 5
-    },
-    {
-      "id": "b0a9f1e9-aa65-4f9a-af8f-1bb2c7d3950d",
-      "title": "GNC Engineer (Dragon)",
-      "company": "SpaceX",
-      "place": "Hawthorne, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$125.0K-$160.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8933642002?gh_jid=8933642002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/gnc-engineer-dragon-spacex-09c99b?utm_source=reddit",
-      "postedAt": "2026-11-06T20:24:43.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
