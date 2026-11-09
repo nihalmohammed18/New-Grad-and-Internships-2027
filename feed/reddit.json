@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:53:39.437Z",
+  "generatedAt": "2026-11-09T00:10:06.145Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -722,6 +722,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/3morwd1orsearch/customer-service-representative-french-speaker-3m-ba952c?utm_source=reddit",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "e4ce8d31-ea7b-4127-bf37-b980c6f4051f",
+      "title": "Project Analyst",
+      "company": "Visa",
+      "place": "Foster City, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$110.0K-$171.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Project-Analyst_REF090240W",
+      "firstJobbyUrl": "https://firstjobby.com/companies/visaorwd5orvisa/project-analyst-visa-aa083d?utm_source=reddit",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "e18afed9-0cc5-4c08-9239-d96f9236d606",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/whoop/e9c53109-cff8-406f-bcc1-aa420ed783fe",
       "firstJobbyUrl": "https://firstjobby.com/companies/whoop-ashby/facilities-operations-associate-whoop-628522?utm_source=reddit",
       "postedAt": "2026-11-06T18:36:34.585Z",
-      "notable": 3
-    },
-    {
-      "id": "21445826-5024-47a0-ac29-cb5827044042",
-      "title": "Entry Level Microbiology Data Review",
-      "company": "Eurofins",
-      "place": "Lancaster, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000160275390",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/entry-level-microbiology-data-review-eurofins-f37bd5?utm_source=reddit",
-      "postedAt": "2026-11-06T18:36:20.873Z",
       "notable": 3
     }
   ],
