@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:00:00.189Z",
+  "generatedAt": "2026-11-09T03:06:35.238Z",
   "jobs": [
     {
       "id": "306fcfa5-593f-44bf-9b66-72b05413a37c",
@@ -247,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unimelborwd105oruomexternalcareer/post-doctoral-researcher-university-of-melbourne-061c95?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "4138fc9b-77e0-4994-9983-b3fd55223085",
+      "title": "Real Time Analyst",
+      "company": "Acquireai",
+      "place": "Philippines",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://acquireai.wd102.myworkdayjobs.com/Acquire/job/Pasig-City/Real-Time-Analyst_R13134",
+      "firstJobbyUrl": "https://firstjobby.com/companies/acquireaiorwd102oracquire/real-time-analyst-acquireai-2a0c52?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "3fd865c9-1c11-4c35-9ed8-ef8da4cceb3d",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5028267101",
       "firstJobbyUrl": "https://firstjobby.com/companies/mangroup/analyst-corporate-actions-man-group-7ce509?utm_source=reddit",
       "postedAt": "2026-11-06T19:15:43.000Z",
-      "notable": 5
-    },
-    {
-      "id": "226ab5a0-df8d-41b8-818b-f6defb30e4dd",
-      "title": "AI Conversation Recording Contributor -  Swedish",
-      "company": "RWS TrainAI",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/rws/50373eb2-a64d-4512-be3b-781e57621d32",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rws/ai-conversation-recording-contributor-swedish-rws-trainai-fab10e?utm_source=reddit",
-      "postedAt": "2026-11-06T19:15:31.076Z",
       "notable": 5
     }
   ],
