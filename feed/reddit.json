@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:19:35.082Z",
+  "generatedAt": "2026-11-09T12:25:36.932Z",
   "jobs": [
     {
       "id": "69dd0fad-5516-47ce-9788-c2a4ef6d4121",
@@ -151,6 +151,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/rivianvw.tech/d4fe028f-08a0-4251-8eb9-ef8a017a620d",
       "firstJobbyUrl": "https://firstjobby.com/companies/rivianvwtech/software-engineer-ii-system-integration-rivian-and-vw-group-technology-8d95e2?utm_source=reddit",
       "postedAt": "2026-11-09T10:09:23.866Z",
+      "notable": 3
+    },
+    {
+      "id": "37f3897e-bcd1-4715-af4b-7dbf101b9179",
+      "title": "Customer Service Agent, French Speakers",
+      "company": "Wheely",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "AED 9.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/wheely/jobs/8198774003?gh_jid=8198774003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wheely/customer-service-agent-french-speakers-wheely-757356?utm_source=reddit",
+      "postedAt": "2026-11-09T10:05:44.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/endex/8e6e8446-8e77-456e-8676-7351d36526f7",
       "firstJobbyUrl": "https://firstjobby.com/companies/endex/customer-success-generalist-endex-396f0c?utm_source=reddit",
       "postedAt": "2026-11-07T04:22:31.899Z",
-      "notable": 3
-    },
-    {
-      "id": "2b0c803b-31b9-45c1-9817-35454e921170",
-      "title": "Customer Success Operations",
-      "company": "Endex",
-      "place": "New York City, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/endex/c4220a6b-a7d7-4941-8b75-67c0b92adf54",
-      "firstJobbyUrl": "https://firstjobby.com/companies/endex/customer-success-operations-endex-362670?utm_source=reddit",
-      "postedAt": "2026-11-07T04:21:38.963Z",
       "notable": 3
     }
   ],
