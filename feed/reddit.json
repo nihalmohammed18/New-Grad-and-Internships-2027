@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:36:10.902Z",
+  "generatedAt": "2026-11-09T03:45:01.196Z",
   "jobs": [
     {
       "id": "306fcfa5-593f-44bf-9b66-72b05413a37c",
@@ -266,6 +266,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/entegrisorwd1orentegriscareers/engineer-i-solutions-engineering-entegris-3a72d0?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "84c0783c-99a9-4dad-a8e7-1422fc3f9b12",
+      "title": "Customer Support Technician-EPI",
+      "company": "Applied Materials",
+      "place": "Shanghai, Switzerland",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Support-Technician-EPI_R2631444",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-support-technician-epi-applied-materials-616bcc?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "8282e974-6b44-4198-a471-72753a14ff46",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/sales-operations-coordinator-informa-group-plc-e895cb?utm_source=reddit",
       "postedAt": "2026-11-06T19:36:46.117Z",
       "notable": 5
-    },
-    {
-      "id": "838e4ad1-c962-48a2-a7c1-c49ded3fd03a",
-      "title": "Internal Sales Executive",
-      "company": "REXEL",
-      "place": "Leeds, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000160287089",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/internal-sales-executive-rexel-42d682?utm_source=reddit",
-      "postedAt": "2026-11-06T19:36:03.389Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
