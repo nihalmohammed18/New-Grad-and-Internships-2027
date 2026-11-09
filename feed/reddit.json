@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:25:27.698Z",
+  "generatedAt": "2026-11-09T02:37:48.211Z",
   "jobs": [
     {
       "id": "306fcfa5-593f-44bf-9b66-72b05413a37c",
@@ -93,6 +93,25 @@
       "season": null,
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Analyst_115505",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/data-analyst-gartner-775089?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c06de7d3-e042-4d4a-abb9-ce4e3ee1f298",
+      "title": "Custom Software Engineer",
+      "company": "Accenture",
+      "place": "Manila, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Custom-Software-Engineer_ATCP-1568612-S449116",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/custom-software-engineer-accenture-85545c?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/convenientmd/laboratory-systems-technical-analyst-convenientmd-5830f7?utm_source=reddit",
       "postedAt": "2026-11-06T19:05:01.000Z",
       "notable": 1
-    },
-    {
-      "id": "097e0bd8-ddc7-4e52-8dc7-07a391830daf",
-      "title": "AI Conversation Recording Contributor -  Nepali",
-      "company": "RWS TrainAI",
-      "place": "Remote from Nepal",
-      "category": "Data",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$8/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/rws/48e18e31-8f8f-4c36-9a8d-90100ebe3505",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rws/ai-conversation-recording-contributor-nepali-rws-trainai-6d1928?utm_source=reddit",
-      "postedAt": "2026-11-06T19:03:22.485Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
