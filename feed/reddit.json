@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-09T03:45:01.196Z",
+  "generatedAt": "2026-11-09T03:50:33.589Z",
   "jobs": [
+    {
+      "id": "1c5450c2-2b69-4834-b203-948791e0eb4a",
+      "title": "Customer Service Officer/Receptionist",
+      "company": "MedHealth",
+      "place": "Australia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/MedHealth3/744000160530080-customer-service-officer-receptionist",
+      "firstJobbyUrl": "https://firstjobby.com/companies/medhealth3/customer-service-officerreceptionist-medhealth-42347c?utm_source=reddit",
+      "postedAt": "2026-11-09T03:31:30.447Z",
+      "notable": 1
+    },
     {
       "id": "306fcfa5-593f-44bf-9b66-72b05413a37c",
       "title": "Growth and CRM Analyst",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/engineering-internship-program-chemical-electromechanical-data-science-ai-abbvie-665791?utm_source=reddit",
       "postedAt": "2026-11-06T19:39:54.402Z",
       "notable": 3
-    },
-    {
-      "id": "32a6988b-1588-4e83-982c-988337fcd14d",
-      "title": "Sales Operations Coordinator",
-      "company": "Informa Group Plc.",
-      "place": "Boulder, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$50.0K-$60.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000160285416",
-      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/sales-operations-coordinator-informa-group-plc-e895cb?utm_source=reddit",
-      "postedAt": "2026-11-06T19:36:46.117Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
