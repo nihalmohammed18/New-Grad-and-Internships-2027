@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-09T10:29:36.464Z",
+  "generatedAt": "2026-11-09T11:40:47.779Z",
   "jobs": [
+    {
+      "id": "9788de45-1998-46aa-817a-1710cd3e161c",
+      "title": "Social Media Intern, AR",
+      "company": "MUBI",
+      "place": "Buenos Aires, Argentina",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/MUBI/670bc538-0c29-4f04-a5dd-ad8f5f53ba0e",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mubi/social-media-intern-ar-mubi-9b18ae?utm_source=reddit",
+      "postedAt": "2026-11-09T11:30:30.143Z",
+      "notable": 1
+    },
     {
       "id": "fc4c9e7a-fc92-49be-bdcf-a0b235e01d73",
       "title": "Support Engineer, PAYGO",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/spacexglobal/jobs/8934210002",
       "firstJobbyUrl": "https://firstjobby.com/companies/spacexglobal/field-sales-specialist-starlink-spacexglobal-666fdd?utm_source=reddit",
       "postedAt": "2026-11-07T02:28:47.000Z",
-      "notable": 5
-    },
-    {
-      "id": "0d1de14c-3b90-42b0-837e-8ba639280767",
-      "title": "Field Sales Specialist (Starlink)",
-      "company": "SpaceX_Global",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$12.5K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/spacexglobal/jobs/8934206002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacexglobal/field-sales-specialist-starlink-spacexglobal-2f7d86?utm_source=reddit",
-      "postedAt": "2026-11-07T02:25:40.000Z",
       "notable": 5
     }
   ],
