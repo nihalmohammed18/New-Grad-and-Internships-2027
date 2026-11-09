@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:50:27.681Z",
+  "generatedAt": "2026-11-09T06:59:58.109Z",
   "jobs": [
     {
       "id": "3920f27d-576b-4f90-940c-90f8413193f5",
@@ -876,6 +876,25 @@
       "notable": 2
     },
     {
+      "id": "cffb7fdc-04cf-4187-970b-cba29119a94f",
+      "title": "Research Support Coordinator",
+      "company": "University of Melbourne",
+      "place": "Australia",
+      "category": "Operations",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "A$100.8K-A$109.2K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://unimelb.wd105.myworkdayjobs.com/UoM_External_Career/job/Parkville/Research-Support-Coordinator_JR-019927",
+      "firstJobbyUrl": "https://firstjobby.com/companies/unimelborwd105oruomexternalcareer/research-support-coordinator-university-of-melbourne-3bf814?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "cb510deb-0607-4967-b785-e4a5aaafc5be",
       "title": "Education Design and Delivery Officer",
       "company": "Usyd",
@@ -931,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/test-technician-rtx-fd6e30?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "b7eb4246-e23c-47d5-b8db-bb1010a15177",
+      "title": "Research Assistant in Crop Agronomy",
+      "company": "University of Melbourne",
+      "place": "Dookie, Australia",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "A$80.4K-A$85.3K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://unimelb.wd105.myworkdayjobs.com/UoM_External_Career/job/Dookie-Victoria/Research-Assistant-in-Crop-Agronomy_JR-019846",
+      "firstJobbyUrl": "https://firstjobby.com/companies/unimelborwd105oruomexternalcareer/research-assistant-in-crop-agronomy-university-of-melbourne-b0d2a0?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "b55ce95e-9f8e-4337-a650-7f29620b3dcd",
@@ -1348,7 +1386,7 @@
       "applyUrl": "https://unimelb.wd105.myworkdayjobs.com/UoM_External_Career/job/Parkville/Post-doctoral-Researcher_JR-019490",
       "firstJobbyUrl": "https://firstjobby.com/companies/unimelborwd105oruomexternalcareer/post-doctoral-researcher-university-of-melbourne-061c95?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
-      "notable": 3
+      "notable": 5
     },
     {
       "id": "4d641e58-3cb2-4a1e-904c-560f786a3efb",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ekarobotics/business-operations-analyst-ekarobotics-165ab4?utm_source=reddit",
       "postedAt": "2026-11-06T20:44:22.910Z",
       "notable": 1
-    },
-    {
-      "id": "a8cfd9ad-f003-4e00-84b1-f47e404068c9",
-      "title": "Product Compliance Engineer",
-      "company": "Base Power Company",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/a2249db8-1ea6-4c55-b125-b7c9a0ff6986",
-      "firstJobbyUrl": "https://firstjobby.com/companies/base-power/product-compliance-engineer-base-power-company-ab11c3?utm_source=reddit",
-      "postedAt": "2026-11-06T20:42:25.721Z",
-      "notable": 3
-    },
-    {
-      "id": "8956221a-3b95-461a-bfc6-a7d82ca722f7",
-      "title": "Regulatory Compliance Engineer",
-      "company": "Base Power Company",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/b91bcea4-5527-41fd-a437-be91d846c285",
-      "firstJobbyUrl": "https://firstjobby.com/companies/base-power/regulatory-compliance-engineer-base-power-company-4df216?utm_source=reddit",
-      "postedAt": "2026-11-06T20:42:23.637Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
