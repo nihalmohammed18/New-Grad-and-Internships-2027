@@ -1,4 +1,4 @@
-<!-- updated 2026-11-08 -->
+<!-- updated 2026-11-09 -->
 # New grad jobs and internships 2027: US, Canada and Europe (updated daily)
 
 Entry-level jobs and internships in every field (software, data, business, finance, marketing, design and more),
@@ -7,22 +7,25 @@ level" are filtered out, and the Visa column shows what the posting says about s
 company career pages by [FirstJobby](https://firstjobby.com/?utm_source=github), where you can filter by country, pay and visa,
 or get new matches by email.
 
-- [Internships: United States](#internships-united-states) (2,312)
-- [Internships: Canada](#internships-canada) (249)
-- [Internships: Europe](#internships-europe) (1,473)
-- [New grad and entry-level jobs: United States](#new-grad-and-entry-level-jobs-united-states) (12,376)
-- [New grad and entry-level jobs: Canada](#new-grad-and-entry-level-jobs-canada) (942)
-- [New grad and entry-level jobs: Europe](#new-grad-and-entry-level-jobs-europe) (6,294)
+- [Internships: United States](#internships-united-states) (2,275)
+- [Internships: Canada](#internships-canada) (245)
+- [Internships: Europe](#internships-europe) (1,444)
+- [New grad and entry-level jobs: United States](#new-grad-and-entry-level-jobs-united-states) (12,203)
+- [New grad and entry-level jobs: Canada](#new-grad-and-entry-level-jobs-canada) (913)
+- [New grad and entry-level jobs: Europe](#new-grad-and-entry-level-jobs-europe) (6,155)
 
 ## Internships: United States
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Clera** | [Strategic Operations Intern](https://firstjobby.com/companies/clera/strategic-operations-intern-clera-62653b?utm_source=github) | Operations | San Francisco |  | ❌ No | Nov 8 |
+| **Clera** | [Strategy & Operations Working Student](https://firstjobby.com/companies/clera/strategy-and-operations-working-student-clera-35db37?utm_source=github) | Operations | Remote, San Francisco |  | ❌ No | Nov 8 |
+| **Clera** | [Operations Intern](https://firstjobby.com/companies/clera/operations-intern-clera-f0cf32?utm_source=github) | Operations | Salt Lake City, Lehi | $20-$25/hr | ❌ No | Nov 8 |
 | **Terac** | [Healthcare RCM Professionals: Interview on AI Integration Workflows](https://firstjobby.com/companies/terac/healthcare-rcm-professionals-interview-on-ai-integration-workflows-terac-9aa2d0?utm_source=github) | Data | Remote from United States | $350/hr |  | Nov 7 |
 | **Clera** | [Growth & Marketing Intern / New Grad](https://firstjobby.com/companies/clera/growth-and-marketing-intern-new-grad-clera-697dd5?utm_source=github) | Marketing | San Francisco |  | ✅ Sponsors | Nov 7 |
-| **Clera** | [Operations Intern](https://firstjobby.com/companies/clera/operations-intern-clera-1c2e1c?utm_source=github) | Operations | Salt Lake City, Lehi | $20-$25/hr | ❌ No | Nov 7 |
 | **Shield AI** | [2027 Summer Intern - Supplier Development Engineer - 6463](https://firstjobby.com/companies/shieldai/2027-summer-intern-supplier-development-engineer-6463-shield-ai-9be03c?utm_source=github) | Engineering | Dallas | $35-$45/hr |  | Nov 7 |
 | **Zoox** | [AI Workflows & Safety Decision Making Intern [2027]](https://firstjobby.com/companies/zoox/ai-workflows-and-safety-decision-making-intern-2027-zoox-a0ed99?utm_source=github) | Data | Foster City | $5.5K-$9.5K/mo |  | Nov 7 |
+| **Applied Materials** | [2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)](https://firstjobby.com/companies/amatorwd1orexternal/2027-spring-process-engineer-co-op-doctorate-gloucester-ma-applied-materials-bbef4f?utm_source=github) | Engineering | Gloucester | $47-$50/hr |  | Nov 7 |
 | **Nory Co** | [Program Development & Operations Intern (Boston)](https://firstjobby.com/companies/nory-co/program-development-and-operations-intern-boston-nory-co-c9bc1b?utm_source=github) | Operations | Brookline | $20/hr |  | Nov 6 |
 | **Varda Space Industries** | [Site Reliability Internship - Summer 2027](https://firstjobby.com/companies/vardaspace/site-reliability-internship-summer-2027-varda-space-industries-8eee80?utm_source=github) | Engineering | El Segundo | $33/hr |  | Nov 6 |
 | **Zoox** | [Data Science Intern [Summer 2027]](https://firstjobby.com/companies/zoox/data-science-intern-summer-2027-zoox-37c9a9?utm_source=github) | Data | Foster City, Boston | $6.5K-$9.5K/mo |  | Nov 6 |
@@ -165,14 +168,12 @@ or get new matches by email.
 | **Palantir Technologies** | [Software Engineer, Internship - Sovereign AI Systems](https://firstjobby.com/companies/palantir/software-engineer-internship-sovereign-ai-systems-palantir-technologies-2756e0?utm_source=github) | Engineering | New York | $10.5K/mo |  | Nov 5 |
 | **Apex Technology, Inc.** | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://firstjobby.com/companies/apex-technology-inc/software-engineering-internship-embedded-systems-spring-or-summer-2027-apex-tech-8ef501?utm_source=github) | Engineering | Los Angeles | $45/hr |  | Nov 5 |
 | **Formlabs** | [Marketing Strategy MBA Intern (Summer 2027)](https://firstjobby.com/companies/formlabs/marketing-strategy-mba-intern-summer-2027-formlabs-2cfbf5?utm_source=github) | Marketing | Somerville |  |  | Nov 5 |
-| **Shield AI** | [June 2027 Co-Op - Software Engineer Intern](https://firstjobby.com/companies/shieldai/june-2027-co-op-software-engineer-intern-shield-ai-a0ca32?utm_source=github) | Engineering | Dallas, Washington, Seattle +1 | $37-$97/hr |  | Nov 5 |
-| **AECOM** | [Water/Wastewater Engineering Intern](https://firstjobby.com/companies/aecom2/waterwastewater-engineering-intern-aecom-8d8071?utm_source=github) | Engineering | Buffalo |  | ❌ No | Nov 5 |
-| **Lumbermen's** | [Industrial Engineer Internship](https://firstjobby.com/companies/lumbermens/industrial-engineer-internship-lumbermens-945142?utm_source=github) | Engineering | Byron Center |  |  | Nov 5 |
 
 ## Internships: Canada
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Workday** | [UX Designer Intern (Canada)](https://firstjobby.com/companies/workdayorwd5orworkdayearlycareer/ux-designer-intern-canada-workday-e65c86?utm_source=github) | Design | Vancouver | CA$66.4K-CA$99.6K/yr | ❌ No | Nov 7 |
 | **Sony Music Global Job Board** | [Intern, Commercial Partnerships](https://firstjobby.com/companies/sonymusicentertainment/intern-commercial-partnerships-sony-music-global-job-board-b2b429?utm_source=github) | Sales | Toronto |  |  | Nov 6 |
 | **NBCUniversal** | [Hayu Marketing Intern](https://firstjobby.com/companies/nbcuniversal3/hayu-marketing-intern-nbcuniversal-f6120f?utm_source=github) | Marketing | Toronto |  |  | Nov 6 |
 | **Rivian and VW Group Technology** | [Mechatronics Lab Engineering Intern (January - August 2027)](https://firstjobby.com/companies/rivianvwtech/mechatronics-lab-engineering-intern-january-august-2027-rivian-and-vw-group-tech-e16ab6?utm_source=github) | Engineering | Vancouver | CA$30-CA$34/hr |  | Nov 6 |
@@ -209,6 +210,8 @@ or get new matches by email.
 | **Global Relay** | [Co-op Java Developer - Winter 2027](https://firstjobby.com/companies/globalrelay/co-op-java-developer-winter-2027-global-relay-c10332?utm_source=github) | Engineering | Halifax, Vancouver | CA$42.0K-CA$66.0K/yr |  | Nov 3 |
 | **Global Relay** | [Co-op DevOps - Winter 2027](https://firstjobby.com/companies/globalrelay/co-op-devops-winter-2027-global-relay-9e0a70?utm_source=github) | Engineering | Halifax | CA$36.0K-CA$56.0K/yr |  | Nov 3 |
 | **Global Relay** | [Co-op Software Development Engineer in Test (SDET) - Winter 2027](https://firstjobby.com/companies/globalrelay/co-op-software-development-engineer-in-test-sdet-winter-2027-global-relay-f6b5c3?utm_source=github) | Engineering | Halifax, Vancouver | CA$42.0K-CA$56.4K/yr |  | Nov 3 |
+| **Kabam** | [Operations Product Manager Co-Op](https://firstjobby.com/companies/kabam/operations-product-manager-co-op-kabam-e7c96a?utm_source=github) | Product | Vancouver | CA$20-CA$25/hr |  | Nov 3 |
+| **Kabam** | [Game Project Coordinator Co-Op](https://firstjobby.com/companies/kabam/game-project-coordinator-co-op-kabam-57da33?utm_source=github) | Operations | Vancouver | CA$20-CA$25/hr |  | Nov 3 |
 | **Huawei Technologies Canada Co., Ltd.** | [Intern Researcher- Computer Vision](https://firstjobby.com/companies/huaweicanada/intern-researcher-computer-vision-huawei-technologies-canada-co-ltd-a2a626?utm_source=github) | Research | Markham | $58.0K-$104.0K/yr |  | Nov 3 |
 | **Arlo** | [Firmware Developer Co-op](https://firstjobby.com/companies/arloorwd12orexternalcareers/firmware-developer-co-op-arlo-035131?utm_source=github) | Engineering | Richmond | CA$3.7K-CA$4.0K/mo |  | Nov 3 |
 | **Arlo** | [Hardware Engineer Co-op](https://firstjobby.com/companies/arloorwd12orexternalcareers/hardware-engineer-co-op-arlo-1eb210?utm_source=github) | Engineering | Richmond |  |  | Nov 3 |
@@ -250,7 +253,6 @@ or get new matches by email.
 | **Huawei Technologies Canada Co., Ltd.** | [Intern Researcher- AI Agents](https://firstjobby.com/companies/huaweicanada/intern-researcher-ai-agents-huawei-technologies-canada-co-ltd-d66d13?utm_source=github) | Research | Markham | $58.0K-$104.0K/yr |  | Oct 29 |
 | **Southbow** | [System Operations Engineering Student](https://firstjobby.com/companies/southboworwd10orsouthbow/system-operations-engineering-student-southbow-2c29cc?utm_source=github) | Engineering | Calgary |  |  | Oct 29 |
 | **RTX** | [Stagiaire en logistique d'entreposage - Hiver 2027 / Operations Logistics Internship – Winter 2027](https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/stagiaire-en-logistique-dentreposage-hiver-2027-or-operations-logistics-internsh-c9d953?utm_source=github) | Operations | Longueuil |  |  | Oct 29 |
-| **ABB** | [Manufacturing Engineering Intern-Winter 2027](https://firstjobby.com/companies/abborwd3orexternalcareerpage/manufacturing-engineering-intern-winter-2027-abb-4ee3f3?utm_source=github) | Engineering | Dorval |  |  | Oct 29 |
 | **KION Group** | [CMS and Web Administrator Co-op](https://firstjobby.com/companies/kiongrouporwd3orkiongroup/cms-and-web-administrator-co-op-kion-group-c20aa1?utm_source=github) | Engineering | Waterloo | $21-$30/hr |  | Oct 29 |
 | **Southbow** | [Supply Chain Summer Student](https://firstjobby.com/companies/southboworwd10orsouthbow/supply-chain-summer-student-southbow-b82c94?utm_source=github) | Operations | Calgary |  |  | Oct 29 |
 | **Altera** | [Software Engineer - Factory Apps - Intern](https://firstjobby.com/companies/alteraorwd1oraltera/software-engineer-factory-apps-intern-altera-138b7b?utm_source=github) | Engineering | Toronto |  |  | Oct 29 |
@@ -321,15 +323,15 @@ or get new matches by email.
 | **Rivian and VW Group Technology** | [Software Engineering Intern - Embedded Platforms (Summer 2027)](https://firstjobby.com/companies/rivianvwtech/software-engineering-intern-embedded-platforms-summer-2027-rivian-and-vw-group-t-68f7cb?utm_source=github) | Engineering | Vancouver | CA$30-CA$34/hr |  | Oct 22 |
 | **Rivian and VW Group Technology** | [Software Engineering Intern - Connected Systems (Summer 2027)](https://firstjobby.com/companies/rivianvwtech/software-engineering-intern-connected-systems-summer-2027-rivian-and-vw-group-te-4a46bc?utm_source=github) | Engineering | Vancouver | CA$30-CA$34/hr |  | Oct 22 |
 | **Rivian and VW Group Technology** | [Software Engineering Intern - Applications (Summer 2027)](https://firstjobby.com/companies/rivianvwtech/software-engineering-intern-applications-summer-2027-rivian-and-vw-group-technol-ccb2c6?utm_source=github) | Engineering | Vancouver, Toronto | CA$30-CA$34/hr |  | Oct 22 |
-| **Rivian and VW Group Technology** | [Electromechanical Design Engineering Intern (Summer 2027)](https://firstjobby.com/companies/rivianvwtech/electromechanical-design-engineering-intern-summer-2027-rivian-and-vw-group-tech-938742?utm_source=github) | Engineering | Vancouver | CA$30-CA$34/hr |  | Oct 22 |
-| **EQ Bank** | [Intern - Acquisition Strategy, Winter 2027](https://firstjobby.com/companies/eqbank/intern-acquisition-strategy-winter-2027-eq-bank-7e144e?utm_source=github) | Operations | Toronto |  |  | Oct 22 |
 
 ## Internships: Europe
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Flix** | [Procurement Intern (m/f/d)](https://firstjobby.com/companies/flix/procurement-intern-mfd-flix-ca3fdc?utm_source=github) | Operations | München, Germany |  |  | Nov 8 |
 | **Silicon Labs** | [Validation Engineering Summer Internship 2027](https://firstjobby.com/companies/silabsorwd1orsiliconlabscareers/validation-engineering-summer-internship-2027-silicon-labs-28f8e5?utm_source=github) | Engineering | Oslo, Norway | NOK 315/hr |  | Nov 7 |
 | **Mistral AI** | [AI Scientist Intern - (Internship, Masters or Phd)](https://firstjobby.com/companies/mistralai/ai-scientist-intern-internship-masters-or-phd-mistral-ai-16568a?utm_source=github) | Data | Paris, France, London, United Kingdom, Zurich, Switzerland +1 |  |  | Nov 6 |
+| **Bigblue** | [Technical Product Manager - Junior](https://firstjobby.com/companies/bigblue/technical-product-manager-junior-bigblue-5107de?utm_source=github) | Product | Paris, France | €45.0K-€50.0K/yr |  | Nov 6 |
 | **Red Bull** | [Brand Marketing Intern](https://firstjobby.com/companies/redbull/brand-marketing-intern-red-bull-dfd49e?utm_source=github) | Marketing | Milan, Italy | €800/mo |  | Nov 6 |
 | **Lucid Motors** | [Stage de fin d’études en ingénierie logicielle embarquée, virtualisation et jumeau numérique automobile](https://firstjobby.com/companies/lucidmotors/stage-de-fin-detudes-en-ingenierie-logicielle-embarquee-virtualisation-et-jumeau-d2b66b?utm_source=github) | Engineering | Toulouse, France |  |  | Nov 6 |
 | **Lucid Motors** | [Stage de fin d’études en ingénierie logicielle et IA appliquée aux tests automobiles](https://firstjobby.com/companies/lucidmotors/stage-de-fin-detudes-en-ingenierie-logicielle-et-ia-appliquee-aux-tests-automobi-ece800?utm_source=github) | Engineering | Toulouse, France |  |  | Nov 6 |
@@ -476,13 +478,47 @@ or get new matches by email.
 | **Saab** | [Master Thesis, 30 hp: Multi-Channel IQ Data Generation with Angle of Arrival](https://firstjobby.com/companies/saabgrouporwd116orsaabcareers/master-thesis-30-hp-multi-channel-iq-data-generation-with-angle-of-arrival-saab-677bf8?utm_source=github) | Data | Stockholm, Sweden |  |  | Nov 5 |
 | **Barcelo** | [Prácticas en SEM y Travel ads](https://firstjobby.com/companies/barceloorwd3orbarcelocareers/practicas-en-sem-y-travel-ads-barcelo-da4834?utm_source=github) | Marketing | Spain |  |  | Nov 5 |
 | **RTX** | [Systems Certification Engineer](https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/systems-certification-engineer-rtx-b05d5f?utm_source=github) | Engineering | Harlow, United Kingdom |  |  | Nov 5 |
-| **Airbus** | [Internship in Satellite On-Board Data Handling: Integration of Data Handling Unit (d/f/m)](https://firstjobby.com/companies/agorwd3orairbus/internship-in-satellite-on-board-data-handling-integration-of-data-handling-unit-7c39e8?utm_source=github) | Data | Germany |  |  | Nov 5 |
-| **Adobe** | [2027 Intern - Business Development Representative (Adobe Sales Academy)](https://firstjobby.com/companies/adobeorwd5orexternalexperienced/2027-intern-business-development-representative-adobe-sales-academy-adobe-1bfafd?utm_source=github) | Sales | London, United Kingdom | £32.0K/yr |  | Nov 5 |
 
 ## New grad and entry-level jobs: United States
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Harvard University** | [Research Assistant II](https://firstjobby.com/companies/harvarduniversity/research-assistant-ii-harvard-university-3a8225?utm_source=github) | Research | Boston |  | ❌ No | Nov 8 |
+| **Base Power Company** | [Software Engineer, Backend - Factory Software](https://firstjobby.com/companies/base-power/software-engineer-backend-factory-software-base-power-company-e0fe21?utm_source=github) | Engineering | Austin |  |  | Nov 8 |
+| **Base Power Company** | [Software Engineer, Backend - Member Software](https://firstjobby.com/companies/base-power/software-engineer-backend-member-software-base-power-company-5960e2?utm_source=github) | Engineering | Austin |  |  | Nov 8 |
+| **Clera** | [Sales Development Representative](https://firstjobby.com/companies/clera/sales-development-representative-clera-591cf6?utm_source=github) | Sales | San Francisco, Salt Lake City |  | ❌ No | Nov 8 |
+| **Clera** | [Mid-Level AI Engineer](https://firstjobby.com/companies/clera/mid-level-ai-engineer-clera-6bac06?utm_source=github) | Engineering | San Francisco | $150.0K-$180.0K/yr | ❌ No | Nov 8 |
+| **Clera** | [Founding Product Designer](https://firstjobby.com/companies/clera/founding-product-designer-clera-ceab65?utm_source=github) | Design | San Francisco | $150.0K-$250.0K/yr | ✅ Sponsors | Nov 8 |
+| **Tenstorrent** | [Engineer, CPU Performance Verification](https://firstjobby.com/companies/tenstorrent/engineer-cpu-performance-verification-tenstorrent-7bb551?utm_source=github) | Engineering | Austin, Santa Clara | $100.0K-$500.0K/yr |  | Nov 8 |
+| **Harvey** | [Associate Legal Engineer](https://firstjobby.com/companies/harvey/associate-legal-engineer-harvey-04e84e?utm_source=github) | Engineering | Dallas, Chicago, Boston +2 | $180.0K-$250.0K/yr |  | Nov 8 |
+| **Exa** | [Support Engineer, PAYGO](https://firstjobby.com/companies/exa/support-engineer-paygo-exa-5e2a13?utm_source=github) | Engineering | Remote from United States | $115.0K-$225.0K/yr | ✅ Sponsors | Nov 8 |
+| **Clera** | [Account Executive](https://firstjobby.com/companies/clera/account-executive-clera-5d30d1?utm_source=github) | Sales | Salt Lake City | $100.0K-$180.0K/yr | ❌ No | Nov 8 |
+| **Clera** | [Operations Associate](https://firstjobby.com/companies/clera/operations-associate-clera-b41ab2?utm_source=github) | Operations | Salt Lake City | $55.0K-$65.0K/yr | ❌ No | Nov 8 |
+| **Daikin Applied** | [Test Stand Operator - 1st shift](https://firstjobby.com/companies/daikinappliedorwd1ordaikin-careers/test-stand-operator-1st-shift-daikin-applied-46dd09?utm_source=github) | Engineering | Faribault | $32/hr | ❌ No | Nov 8 |
+| **Amentum** | [Rendezvous and Proximity Operations Oversight Software Engineer](https://firstjobby.com/companies/paeorwd1oramentumcareers/rendezvous-and-proximity-operations-oversight-software-engineer-amentum-0db961?utm_source=github) | Engineering | Houston | $64.6K/yr |  | Nov 8 |
+| **Gerber Collision & Glass** | [Parts Coordinator](https://firstjobby.com/companies/boydgrouporwd1orboydcareers/parts-coordinator-gerber-collision-and-glass-de0962?utm_source=github) | Operations | Colorado Springs, Pittsburgh, Salem +1 | $16-$23/hr |  | Nov 8 |
+| **Northrop Grumman** | [Supply Chain Planning Specialist](https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/supply-chain-planning-specialist-northrop-grumman-df7b87?utm_source=github) | Operations | Magna, Corinne, Salt Lake City +1 | $65.5K-$98.3K/yr |  | Nov 8 |
+| **Amentum** | [Project Engineer for the EVA Remote Observation Camera](https://firstjobby.com/companies/paeorwd1oramentumcareers/project-engineer-for-the-eva-remote-observation-camera-amentum-ecc795?utm_source=github) | Engineering | Remote, Houston | $83.7K/yr |  | Nov 8 |
+| **Adient** | [Inventory/Material Analyst](https://firstjobby.com/companies/adientorwd3orexternal/inventorymaterial-analyst-adient-8c237e?utm_source=github) | Data | United States |  |  | Nov 8 |
+| **Abbott** | [Account Executive - Phoenix Point of Care Diagnostics - Outpatient](https://firstjobby.com/companies/abbottorwd5orabbottcareers/account-executive-phoenix-point-of-care-diagnostics-outpatient-abbott-152dda?utm_source=github) | Sales | Remote from United States | $68.0K-$136.0K/yr |  | Nov 8 |
+| **Americanglobal** | [Account Manager, Surety - Houston, TX](https://firstjobby.com/companies/americanglobalorwd108oramericanglobalcareers/account-manager-surety-houston-tx-americanglobal-088b0a?utm_source=github) | Sales | United States |  |  | Nov 8 |
+| **Lowe's** | [Full Time - Sales Associate - Building Materials - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-day-lowes-7a46f9?utm_source=github) | Sales | Wetumpka, Milwaukie, Arden +21 |  |  | Nov 8 |
+| **Lowe's** | [Full Time - Sales Associate - Inside Lawn & Garden - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-inside-lawn-and-garden-day-lowes-d8ac9c?utm_source=github) | Sales | Wetumpka, Katy, Jefferson +10 |  |  | Nov 8 |
+| **Verizon** | [Account Manager- SMB Business Sales](https://firstjobby.com/companies/verizonorwd12orverizon-careers/account-manager-smb-business-sales-verizon-055b90?utm_source=github) | Sales | Dedham, United States, Houston +55 | $37.0K-$64.0K/yr |  | Nov 8 |
+| **Northrop Grumman** | [Sentinel - Systems Engineer (20086)](https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/sentinel-systems-engineer-20086-northrop-grumman-423c1c?utm_source=github) | Engineering | Roy | $79.3K-$118.9K/yr |  | Nov 8 |
+| **Medline** | [Front Line Care Sales Representative - Salt Lake City, UT](https://firstjobby.com/companies/medlineorwd5ormedline/front-line-care-sales-representative-salt-lake-city-ut-medline-d1f792?utm_source=github) | Sales | Salt Lake City | $100.0K/yr |  | Nov 8 |
+| **Abbott** | [Account Executive - N. CA, NV, S. OR - Point of Care Diagnostics - Outpatient](https://firstjobby.com/companies/abbottorwd5orabbottcareers/account-executive-n-ca-nv-s-or-point-of-care-diagnostics-outpatient-abbott-f92b62?utm_source=github) | Sales | United States | $68.0K-$136.0K/yr |  | Nov 8 |
+| **Medline** | [Front Line Care Sales Representative - Honolulu, HI](https://firstjobby.com/companies/medlineorwd5ormedline/front-line-care-sales-representative-honolulu-hi-medline-fccec2?utm_source=github) | Sales | Honolulu | $100.0K/yr |  | Nov 8 |
+| **Land O'Lakes** | [Quality Assurance Technician](https://firstjobby.com/companies/landolakesorwd1orlandolakes/quality-assurance-technician-land-olakes-ac4ac6?utm_source=github) | Engineering | Websterville |  |  | Nov 8 |
+| **Kensho** | [Analyst, Research – CERAWeek Program Team](https://firstjobby.com/companies/spgiorwd5orspgicareers/analyst-research-ceraweek-program-team-kensho-fc7fbd?utm_source=github) | Data | Washington | $85.0K-$93.0K/yr |  | Nov 8 |
+| **Abbott** | [Quality Engineer I](https://firstjobby.com/companies/abbottorwd5orabbottcareers2/quality-engineer-i-abbott-61cac5?utm_source=github) | Engineering | Scarborough, San Diego | $50.7K-$101.3K/yr |  | Nov 8 |
+| **Nationwide** | [Agent, Inside Sales Support - Pet (Remote)](https://firstjobby.com/companies/nationwideorwd1ornationwidecareer/agent-inside-sales-support-pet-remote-nationwide-4f5926?utm_source=github) | Sales | Remote from United States | $46.3K-$80.7K/yr |  | Nov 8 |
+| **Cisco** | [Sustainability Specialist: Circular Design](https://firstjobby.com/companies/ciscoorwd5orciscocareers/sustainability-specialist-circular-design-cisco-a8cd9f?utm_source=github) | Design | United States | $93.5K-$125.5K/yr |  | Nov 8 |
+| **Kensho** | [Analyst, Investor Relations](https://firstjobby.com/companies/spgiorwd5orspgicareers/analyst-investor-relations-kensho-6170f7?utm_source=github) | Data | New York | $70.8K-$125.0K/yr |  | Nov 8 |
+| **GDIT** | [Systems Analyst](https://firstjobby.com/companies/gditorwd5orexternalcareersite/systems-analyst-gdit-ed7a20?utm_source=github) | Data | Sterling | $81.3K-$103.5K/yr |  | Nov 8 |
+| **Quirchfoods** | [Account Executive](https://firstjobby.com/companies/quirchfoodsorwd12orquirchfoods/account-executive-quirchfoods-3e9e09?utm_source=github) | Sales | Remote from United States |  |  | Nov 8 |
+| **SpaceX** | [Production Coordinator](https://firstjobby.com/companies/spacex/production-coordinator-spacex-adf804?utm_source=github) | Operations | Long Beach |  |  | Nov 7 |
+| **Local Infusion** | [Business Development Executive - Cleveland, OH](https://firstjobby.com/companies/local-infusion/business-development-executive-cleveland-oh-local-infusion-52da52?utm_source=github) | Sales | Cleveland, Warrensville Heights, Avon +1 | $200.0K-$235.0K/yr |  | Nov 7 |
 | **Perplexity** | [Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)](https://firstjobby.com/companies/perplexity/member-of-technical-staff-software-engineer-ai-policy-and-strategic-initiatives--863be8?utm_source=github) | Engineering | San Francisco, United States | $220.0K-$405.0K/yr |  | Nov 7 |
 | **Clera** | [Platform Engineer (Kubernetes)](https://firstjobby.com/companies/clera/platform-engineer-kubernetes-clera-01dacd?utm_source=github) | Engineering | San Francisco | $180.0K-$210.0K/yr | ✅ Sponsors | Nov 7 |
 | **Clera** | [GTM Associate, RL & Physical AI](https://firstjobby.com/companies/clera/gtm-associate-rl-and-physical-ai-clera-9a90cb?utm_source=github) | Data | San Francisco |  |  | Nov 7 |
@@ -519,7 +555,6 @@ or get new matches by email.
 | **Quantum Space** | [Manufacturing Engineer](https://firstjobby.com/companies/quantumspacellc/manufacturing-engineer-quantum-space-66f66f?utm_source=github) | Engineering | Hawthorne, Tulsa | $100.0K-$130.0K/yr |  | Nov 7 |
 | **Northwood Space** | [Electrical Engineer (New Grad)](https://firstjobby.com/companies/northwoodspace/electrical-engineer-new-grad-northwood-space-14d9df?utm_source=github) | Engineering | Torrance | $104.0K-$121.0K/yr |  | Nov 7 |
 | **42dot** | [Calibration, Mapping & Localization Engineer](https://firstjobby.com/companies/42dot-ashby/calibration-mapping-and-localization-engineer-42dot-f2de28?utm_source=github) | Engineering | Sunnyvale | $150.0K-$205.0K/yr |  | Nov 7 |
-| **Harvey** | [Associate Legal Engineer](https://firstjobby.com/companies/harvey/associate-legal-engineer-harvey-724b69?utm_source=github) | Engineering | San Francisco, New York | $180.0K-$250.0K/yr |  | Nov 7 |
 | **AbbVie** | [Associate Software Engineer I](https://firstjobby.com/companies/abbvie/associate-software-engineer-i-abbvie-3481fa?utm_source=github) | Engineering | North Chicago |  |  | Nov 7 |
 | **SpaceX** | [Loads & Dynamics Engineer (Starshield)](https://firstjobby.com/companies/spacex/loads-and-dynamics-engineer-starshield-spacex-512d85?utm_source=github) | Engineering | Hawthorne | $100.0K-$160.0K/yr |  | Nov 7 |
 | **Domino's** | [Coordinator - Franchise Contracts](https://firstjobby.com/companies/dominos/coordinator-franchise-contracts-dominos-2343ac?utm_source=github) | Operations | Ann Arbor |  |  | Nov 7 |
@@ -534,13 +569,14 @@ or get new matches by email.
 | **EdSights** | [Account Executive](https://firstjobby.com/companies/edsights/account-executive-edsights-14de7e?utm_source=github) | Sales | Remote from United States | $200.0K-$250.0K/yr |  | Nov 7 |
 | **HeyGen** | [Sales Development Representative](https://firstjobby.com/companies/heygen/sales-development-representative-heygen-e1644b?utm_source=github) | Sales | Los Angeles, San Francisco |  |  | Nov 7 |
 | **KPFF Consulting Engineers** | [Engineering - Structural - 0-3 Years Experience](https://firstjobby.com/companies/kpffconsultingengineers/engineering-structural-0-3-years-experience-kpff-consulting-engineers-9e033c?utm_source=github) | Engineering | Eugene, Portland |  |  | Nov 7 |
+| **Philips** | [Usability Designer](https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/usability-designer-philips-dbfa0f?utm_source=github) | Design | Cambridge | $129.0K-$205.0K/yr |  | Nov 7 |
 | **Cambia** | [Temporary Customer Service Professional I](https://firstjobby.com/companies/cambiahealthorwd504orexternal/temporary-customer-service-professional-i-cambia-a57dc9?utm_source=github) | Customer Support | Remote from United States | $19-$22/hr |  | Nov 7 |
 | **Amentum** | [Safety Engineer](https://firstjobby.com/companies/paeorwd1oramentumcareers/safety-engineer-amentum-90df96?utm_source=github) | Engineering | Houston | $58.9K/yr |  | Nov 7 |
 | **Lowe's** | [Full Time - Sales Associate - Outside Lawn & Garden - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-day-lowes-cd09da?utm_source=github) | Sales | Cincinnati, Lees Summit, Murphy +22 |  |  | Nov 7 |
 | **Kensho** | [Cashflow Modeling Analyst – ABS, Toronto, CA or Denver, CO](https://firstjobby.com/companies/spgiorwd5orspgicareers/cashflow-modeling-analyst-abs-toronto-ca-or-denver-co-kensho-6a17f3?utm_source=github) | Data | Toronto, Denver | CA$62.0K-CA$102.0K/yr |  | Nov 7 |
 | **Global Payments** | [Inside Sales Representative](https://firstjobby.com/companies/tsysorwd1ortsys/inside-sales-representative-global-payments-17cf86?utm_source=github) | Sales | Denver, Cincinnati | $23-$26/hr |  | Nov 7 |
 | **Lowe's** | [Full Time - Sales Associate - Paint - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-paint-day-lowes-67687d?utm_source=github) | Sales | Gibsonia, Lancaster, Upland +9 |  |  | Nov 7 |
-| **Core & Main** | [Outside Sales Representative](https://firstjobby.com/companies/coreandmainorwd1orcoreandmain/outside-sales-representative-core-and-main-9698e6?utm_source=github) | Sales | Houston, Sacramento, Bakersfield +7 |  |  | Nov 7 |
+| **Core & Main** | [Outside Sales Representative](https://firstjobby.com/companies/coreandmainorwd1orcoreandmain/outside-sales-representative-core-and-main-9698e6?utm_source=github) | Sales | Houston, Bakersfield, Las Vegas +6 |  |  | Nov 7 |
 | **Gartner** | [Client Success Partner](https://firstjobby.com/companies/gartnerorwd5orext/client-success-partner-gartner-e74868?utm_source=github) | Customer Support | Irving | $62.0K-$87.0K/yr |  | Nov 7 |
 | **Purple** | [Inside Sales Representative (Remote in Utah)](https://firstjobby.com/companies/purpleorwd1orpurplecareers/inside-sales-representative-remote-in-utah-purple-23b41b?utm_source=github) | Sales | Remote from United States |  |  | Nov 7 |
 | **GDIT** | [Planning Coordinator](https://firstjobby.com/companies/gditorwd5orgditemplref/planning-coordinator-gdit-9434bb?utm_source=github) | Operations | Atlanta | $55.8K-$72.1K/yr |  | Nov 7 |
@@ -554,12 +590,14 @@ or get new matches by email.
 | **Pyramid Global Hospitality** | [Sales Coordinator](https://firstjobby.com/companies/benchmarkorwd1orpghcareers/sales-coordinator-pyramid-global-hospitality-af6c78?utm_source=github) | Sales | Cleveland, United States | $18-$21/hr |  | Nov 7 |
 | **ARCHIMED** | [Customer Service Specialist (SeqCenter)](https://firstjobby.com/companies/archimed/customer-service-specialist-seqcenter-archimed-bfb632?utm_source=github) | Customer Support | Pittsburgh |  |  | Nov 7 |
 | **Ri** | [DATA CONTROL CLERK](https://firstjobby.com/companies/riorwd5orri/data-control-clerk-ri-4d2c45?utm_source=github) | Data | United States | $48.8K-$53.1K/yr |  | Nov 7 |
+| **Lowe's** | [Full Time - Sales Associate - Flooring - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-flooring-day-lowes-345f09?utm_source=github) | Sales | Waipahu, Cordova, Charlotte |  |  | Nov 7 |
 | **ServiceTitan** | [Data Quality Analyst](https://firstjobby.com/companies/servicetitanorwd1orservicetitan/data-quality-analyst-servicetitan-7743df?utm_source=github) | Data | Glendale | $70.5K-$105.7K/yr |  | Nov 7 |
-| **Lowe's** | [Full Time - Sales Associate - Building Materials - Day](https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-day-lowes-2a54cc?utm_source=github) | Sales | Arden, Willoughby, St. Augustine +19 |  |  | Nov 7 |
 | **Integrity Marketing** | [Customer Service Representative II](https://firstjobby.com/companies/integritymarketingorwd1orintegrity/customer-service-representative-ii-integrity-marketing-f6cd36?utm_source=github) | Customer Support | Clearwater |  |  | Nov 7 |
 | **Stryker** | [Associate Sales Representative - JR- Boston North Shore](https://firstjobby.com/companies/strykerorwd1orstrykercareers/associate-sales-representative-jr-boston-north-shore-stryker-9e2ee8?utm_source=github) | Sales | Peabody, Salem | $72.0K-$90.0K/yr |  | Nov 7 |
+| **Blue Origin** | [Buyer II — Integrated Supply Chain](https://firstjobby.com/companies/blueoriginorwd5orblueorigin/buyer-ii-integrated-supply-chain-blue-origin-743988?utm_source=github) | Operations | Seattle |  |  | Nov 7 |
 | **Kobalt Music** | [Associate, Customer Success](https://firstjobby.com/companies/kobalt-music/associate-customer-success-kobalt-music-6ff7fa?utm_source=github) | Customer Support | Nashville |  |  | Nov 7 |
 | **Crystalia Glass** | [Inbound Sales Closer (Remote, US Market)](https://firstjobby.com/companies/crystalia-glass/inbound-sales-closer-remote-us-market-crystalia-glass-1e2489?utm_source=github) | Sales | Remote from United States |  |  | Nov 7 |
+| **Blue Origin** | [Buyer - Supply Chain](https://firstjobby.com/companies/blueoriginorwd5orblueorigin/buyer-supply-chain-blue-origin-267149?utm_source=github) | Operations | United States | $64.5K-$90.4K/yr |  | Nov 7 |
 | **FanDuel** | [Customer Marketing Associate, Promotional Strategy](https://firstjobby.com/companies/fanduel/customer-marketing-associate-promotional-strategy-fanduel-c1e8b2?utm_source=github) | Marketing | New York |  |  | Nov 6 |
 | **Vast** | [Manufacturing Engineering, Thermal Control](https://firstjobby.com/companies/vast/manufacturing-engineering-thermal-control-vast-339e79?utm_source=github) | Engineering | Long Beach | $86.1K-$122.2K/yr |  | Nov 6 |
 | **Infisical** | [Full Stack Engineer](https://firstjobby.com/companies/infisical/full-stack-engineer-infisical-39344f?utm_source=github) | Engineering | Remote, United States, United Kingdom +2 |  |  | Nov 6 |
@@ -595,51 +633,15 @@ or get new matches by email.
 | **Blossom Health** | [Software Engineer](https://firstjobby.com/companies/blossom-health/software-engineer-blossom-health-cc9c54?utm_source=github) | Engineering | New York City | $150.0K-$220.0K/yr |  | Nov 6 |
 | **Point72** | [Quantitative Analyst, Private Credit](https://firstjobby.com/companies/point72/quantitative-analyst-private-credit-point72-11019b?utm_source=github) | Data | New York | $140.0K-$160.0K/yr |  | Nov 6 |
 | **K Group Companies** | [Systems Engineer 1](https://firstjobby.com/companies/kgroupcompanies/systems-engineer-1-k-group-companies-6799af?utm_source=github) | Engineering | Grand Rapids |  |  | Nov 6 |
-| **Senior plc** | [Manufacturing Engineer I](https://firstjobby.com/companies/seniorplc1/manufacturing-engineer-i-senior-plc-712b44?utm_source=github) | Engineering | Burbank | $75.0K/yr |  | Nov 6 |
-| **EOS IT Solutions** | [Data Center Field Operations Technician (Jeffersonville, IN)](https://firstjobby.com/companies/eositsolutions/data-center-field-operations-technician-jeffersonville-in-eos-d99046?utm_source=github) | Data | Jeffersonville | $23-$30/hr |  | Nov 6 |
-| **Townsquare Media** | [Multi-Media Account Executive](https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-9d0f15?utm_source=github) | Sales | Albany, Abilene, Twin Falls +54 | $45.0K-$60.0K/yr |  | Nov 6 |
-| **EquipmentShare** | [Customer Support Billing Specialist l](https://firstjobby.com/companies/equipmentsharecom/customer-support-billing-specialist-l-equipmentshare-f25bf0?utm_source=github) | Customer Support | Columbia |  |  | Nov 6 |
-| **mthree Recruiting Portal** | [Java Developer](https://firstjobby.com/companies/mthreerecruitingportal/java-developer-mthree-recruiting-portal-caf859?utm_source=github) | Engineering | Boston | $66.3K/yr | ❌ No | Nov 6 |
-| **K Group Companies** | [Account Executive – Commercial Security Systems](https://firstjobby.com/companies/kgroupcompanies/account-executive-commercial-security-systems-k-group-companies-8226e3?utm_source=github) | Engineering | Grand Rapids |  |  | Nov 6 |
-| **Eurofins** | [Sample Registration Support Technician (Unpacking) - M-F, 3rd Shift - Environment Testing](https://firstjobby.com/companies/eurofins/sample-registration-support-technician-unpacking-m-f-3rd-shift-environment-testi-7f1619?utm_source=github) | Engineering | Lancaster | $18/hr |  | Nov 6 |
-| **Form Energy** | [Electrical Engineer II, Advanced Product Development](https://firstjobby.com/companies/formenergy-ashby/electrical-engineer-ii-advanced-product-development-form-energy-ae72d1?utm_source=github) | Engineering | Somerville | $97.2K-$127.6K/yr |  | Nov 6 |
-| **Townsquare Media** | [Multi-Media Account Executive - 94.5 PST](https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-945-pst-townsquare-media-d191fb?utm_source=github) | Sales | Princeton | $30.0K-$150.0K/yr |  | Nov 6 |
-| **Meriton** | [IT Field Solutions Engineer II](https://firstjobby.com/companies/meriton/it-field-solutions-engineer-ii-meriton-f04719?utm_source=github) | Engineering | Hillside, Columbus | $75.0K-$105.0K/yr |  | Nov 6 |
-| **Eurofins** | [Sample Registration Support Specialist - Data Entry - Environment Testing - Tues-Sat, 2nd Shift](https://firstjobby.com/companies/eurofins/sample-registration-support-specialist-data-entry-environment-testing-tues-sat-2-ae400f?utm_source=github) | Data | Lancaster | $18/hr |  | Nov 6 |
-| **Eurofins** | [Sample Storage Support Specialist - Environment Testing - Sun-Thurs, 8pm - 6:30am](https://firstjobby.com/companies/eurofins/sample-storage-support-specialist-environment-testing-sun-thurs-8pm-630am-eurofi-58a81c?utm_source=github) | Engineering | Lancaster | $18/hr |  | Nov 6 |
-| **SpaceX** | [Propulsion Engineer, Avionics Manufacturing (Raptor)](https://firstjobby.com/companies/spacex/propulsion-engineer-avionics-manufacturing-raptor-spacex-aabe7e?utm_source=github) | Engineering | Hawthorne | $100.0K-$130.0K/yr |  | Nov 6 |
-| **Eurofins** | [Laboratory Logistics -Sample Splitter (2nd Shift) - Eurofins Environment Testing - 2 Shifts Available](https://firstjobby.com/companies/eurofins/laboratory-logistics-sample-splitter-2nd-shift-eurofins-environment-testing-2-sh-576676?utm_source=github) | Engineering | Lancaster | $18/hr |  | Nov 6 |
-| **Eurofins** | [Sample Registration Specialist - Data Entry - Tues-Sat 2nd Shift- Environment Testing](https://firstjobby.com/companies/eurofins/sample-registration-specialist-data-entry-tues-sat-2nd-shift-environment-testing-774d56?utm_source=github) | Data | Lancaster | $18/hr |  | Nov 6 |
-| **All Turf** | [Outside Sales Consultant (Hybrid)](https://firstjobby.com/companies/allturf/outside-sales-consultant-hybrid-all-turf-611a63?utm_source=github) | Sales | Winder, United States, Hiram +3 | $55.0K-$100.0K/yr |  | Nov 6 |
-| **Leavitt Group** | [Commercial Lines Customer Service Agent](https://firstjobby.com/companies/leavitt/commercial-lines-customer-service-agent-leavitt-group-862f9e?utm_source=github) | Customer Support | Remote from United States | $50.0K-$55.0K/yr |  | Nov 6 |
-| **SpaceX** | [Propulsion Engineer, Components Manufacturing (Raptor)](https://firstjobby.com/companies/spacex/propulsion-engineer-components-manufacturing-raptor-spacex-4999a2?utm_source=github) | Engineering | Hawthorne | $100.0K-$130.0K/yr |  | Nov 6 |
-| **Eurofins** | [Sample Registration Specialist - Data Entry - Tues-Sat 3rd shift - Environment Testing](https://firstjobby.com/companies/eurofins/sample-registration-specialist-data-entry-tues-sat-3rd-shift-environment-testing-67e666?utm_source=github) | Data | Lancaster | $18/hr |  | Nov 6 |
-| **Stripe** | [Account Executive, SMB (Hunter)](https://firstjobby.com/companies/stripe/account-executive-smb-hunter-stripe-44b439?utm_source=github) | Sales | United States |  |  | Nov 6 |
-| **IronMountain Solutions** | [Army Launched Effects Software Safety Engineer](https://firstjobby.com/companies/ironmountainsolutions/army-launched-effects-software-safety-engineer-ironmountain-solutions-49885c?utm_source=github) | Engineering | Huntsville |  |  | Nov 6 |
-| **SEAKR Engineering** | [Space Electronics Systems Engineer II](https://firstjobby.com/companies/seakrengineering/space-electronics-systems-engineer-ii-seakr-engineering-cc8cfa?utm_source=github) | Engineering | Centennial | $90.0K-$130.0K/yr |  | Nov 6 |
-| **ATOMS Careers page** | [Operations Specialist](https://firstjobby.com/companies/cssmerge/operations-specialist-atoms-careers-page-339816?utm_source=github) | Operations | New York | $18-$20/hr |  | Nov 6 |
-| **SOCOTEC** | [Construction Materials Testing Laboratory Technician](https://firstjobby.com/companies/socotec/construction-materials-testing-laboratory-technician-socotec-657683?utm_source=github) | Engineering | Phoenix |  |  | Nov 6 |
-| **Dexmate** | [Motor Electromagnetic Design Engineer, Robotics](https://firstjobby.com/companies/dexmate/motor-electromagnetic-design-engineer-robotics-dexmate-33e5a6?utm_source=github) | Engineering | Fremont |  |  | Nov 6 |
-| **Abnormal** | [Software Engineer II, Attack Detection](https://firstjobby.com/companies/abnormalsecurity/software-engineer-ii-attack-detection-abnormal-1826bb?utm_source=github) | Engineering | Remote from United States | $149.2K-$214.5K/yr |  | Nov 6 |
-| **Cornerstone Building Brands** | [Sales Support Coordinator](https://firstjobby.com/companies/cornerstonebuildingbrandscareers/sales-support-coordinator-cornerstone-building-brands-c8d665?utm_source=github) | Sales | Waxahachie, Scott City, Oak Grove |  |  | Nov 6 |
-| **TechnologyAdvice** | [Client Success Coordinator, Avani](https://firstjobby.com/companies/technologyadvice/client-success-coordinator-avani-technologyadvice-8a5ff5?utm_source=github) | Customer Support | United States | $55.0K-$60.0K/yr | ❌ No | Nov 6 |
-| **Cornerstone Building Brands** | [Outside Sales Representative](https://firstjobby.com/companies/cornerstonebuildingbrandscareers/outside-sales-representative-cornerstone-building-brands-e9759d?utm_source=github) | Sales | Jacksonville | $60.0K-$70.0K/yr |  | Nov 6 |
-| **SEAKR Engineering** | [Mission Operations Engineer I](https://firstjobby.com/companies/seakrengineering/mission-operations-engineer-i-seakr-engineering-5c5f2b?utm_source=github) | Engineering | Colorado Springs | $80.0K-$95.0K/yr |  | Nov 6 |
-| **Canals** | [Business Development Representative](https://firstjobby.com/companies/canals/business-development-representative-canals-0fd74c?utm_source=github) | Sales | Remote, Lehi |  |  | Nov 6 |
-| **SPS North America** | [Client Services Associate](https://firstjobby.com/companies/spsnorthamerica/client-services-associate-sps-north-america-b1358f?utm_source=github) | Customer Support | Chattanooga, United States, Seattle +2 |  |  | Nov 6 |
-| **Cornerstone Building Brands** | [Inside Sales Representative](https://firstjobby.com/companies/cornerstonebuildingbrandscareers/inside-sales-representative-cornerstone-building-brands-954caa?utm_source=github) | Sales | Benton, New Braunfels |  |  | Nov 6 |
-| **Marksman Security LLC** | [Security Account Manager](https://firstjobby.com/companies/marksman/security-account-manager-marksman-security-llc-4a66c2?utm_source=github) | Engineering | United States |  |  | Nov 6 |
-| **Wix** | [Account Executive, SMB - Base44](https://firstjobby.com/companies/wix2/account-executive-smb-base44-wix-5afa43?utm_source=github) | Sales | San Diego, Salt Lake City, New York | $60.0K-$85.0K/yr |  | Nov 6 |
-| **Sonic Automotive** | [Product Specialist - Land Rover SW Houston](https://firstjobby.com/companies/sonicautomotive/product-specialist-land-rover-sw-houston-sonic-automotive-66d92a?utm_source=github) | Product | Houston |  |  | Nov 6 |
-| **SentinelOne** | [Account Executive, SMB (Mountain)](https://firstjobby.com/companies/sentinellabs/account-executive-smb-mountain-sentinelone-2acf9a?utm_source=github) | Sales | Remote from United States | $104.0K-$143.0K/yr |  | Nov 6 |
-| **Eurofins** | [Asbestos PLM Analyst - Eurofins Built Environment Testing - Portland, OR](https://firstjobby.com/companies/eurofins/asbestos-plm-analyst-eurofins-built-environment-testing-portland-or-eurofins-1d57d0?utm_source=github) | Data | Portland | $22-$26/hr | ❌ No | Nov 6 |
 
 ## New grad and entry-level jobs: Canada
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **HUB International** | [Insurance Advisor, Mobile Auto](https://firstjobby.com/companies/hubinternationalorwd1orhubinternational/insurance-advisor-mobile-auto-hub-international-4a293b?utm_source=github) | Engineering | Langley, Richmond | CA$42.0K-CA$55.0K/yr |  | Nov 8 |
 | **Reitmans (Canada) Ltée/Ltd** | [Designer - Accessories](https://firstjobby.com/companies/reitmanscanadalteltd/designer-accessories-reitmans-canada-lteeltd-474392?utm_source=github) | Design | Montreal |  |  | Nov 7 |
 | **Kensho** | [Cashflow Modeling Analyst – ABS, Toronto, CA or Denver, CO](https://firstjobby.com/companies/spgiorwd5orspgicareers/cashflow-modeling-analyst-abs-toronto-ca-or-denver-co-kensho-6a17f3?utm_source=github) | Data | Toronto, Denver | CA$62.0K-CA$102.0K/yr |  | Nov 7 |
+| **Capri** | [Sales Supervisor](https://firstjobby.com/companies/capriorwd1ormichaelkors/sales-supervisor-capri-704871?utm_source=github) | Sales | Canada |  | ❌ No | Nov 7 |
 | **Infisical** | [Full Stack Engineer](https://firstjobby.com/companies/infisical/full-stack-engineer-infisical-39344f?utm_source=github) | Engineering | Remote, United States, United Kingdom +2 |  |  | Nov 6 |
 | **FanDuel** | [SEO Marketing Associate](https://firstjobby.com/companies/fanduel/seo-marketing-associate-fanduel-91b3ab?utm_source=github) | Marketing | United States, Los Angeles, Atlanta +7 |  |  | Nov 6 |
 | **Affirm** | [Software Engineer II, Backend](https://firstjobby.com/companies/affirm/software-engineer-ii-backend-affirm-c1eabe?utm_source=github) | Engineering | Remote from Canada | CA$133.0K-CA$183.0K/yr |  | Nov 6 |
@@ -651,6 +653,7 @@ or get new matches by email.
 | **House of Commons (Canada) / Chambre des communes (Canada)** | [Training and Quality Assurance Coordinator](https://firstjobby.com/companies/houseofcommonscanadachambredescommunescanada/training-and-quality-assurance-coordinator-house-of-commons-canada-chambre-des-c-d3bacd?utm_source=github) | Engineering | Ottawa |  |  | Nov 6 |
 | **Docebo** | [Technical Support Analyst, Tier 1](https://firstjobby.com/companies/docebo-ashby/technical-support-analyst-tier-1-docebo-a309bf?utm_source=github) | Data | Toronto | CA$40.9K-CA$54.5K/yr |  | Nov 6 |
 | **House of Commons (Canada) / Chambre des communes (Canada)** | [Analyst, Open Source Intelligence (OSINT)](https://firstjobby.com/companies/houseofcommonscanadachambredescommunescanada/analyst-open-source-intelligence-osint-house-of-commons-canada-chambre-des-commu-299f79?utm_source=github) | Data | Ottawa |  |  | Nov 6 |
+| **Gauntlet** | [Research Engineer](https://firstjobby.com/companies/gauntlet/research-engineer-gauntlet-e18c41?utm_source=github) | Research | Remote from United States | $175.0K-$195.0K/yr |  | Nov 6 |
 | **Keyloop** | [Implementation Consultant - Accounts](https://firstjobby.com/companies/keyloop/implementation-consultant-accounts-keyloop-d05e8c?utm_source=github) | Customer Support | Montreal |  |  | Nov 6 |
 | **Ubisoft** | [UI Programmer](https://firstjobby.com/companies/ubisoft2/ui-programmer-ubisoft-de84b6?utm_source=github) | Engineering | Saguenay |  |  | Nov 6 |
 | **Ubisoft** | [Game Economy Designer](https://firstjobby.com/companies/ubisoft2/game-economy-designer-ubisoft-8496ee?utm_source=github) | Design | Montreal |  |  | Nov 6 |
@@ -670,7 +673,7 @@ or get new matches by email.
 | **JLL** | [Research Analyst](https://firstjobby.com/companies/jllorwd1orjllcareers/research-analyst-jll-e28a8e?utm_source=github) | Data | Calgary |  |  | Nov 6 |
 | **Live Nation** | [Paid Media Coordinator](https://firstjobby.com/companies/livenationorwd503orlnexternalsite/paid-media-coordinator-live-nation-84ee35?utm_source=github) | Operations | Vancouver | CA$62.0K-CA$67.0K/yr |  | Nov 6 |
 | **Cnx** | [WFM Real Time Management Analyst (Onsite)](https://firstjobby.com/companies/cnxorwd1orexternalglobal/wfm-real-time-management-analyst-onsite-cnx-79214d?utm_source=github) | Data | Mississauga | CA$60.0K-CA$65.0K/yr |  | Nov 6 |
-| **TD Bank** | [Customer Experience Associate - Vaudreuil](https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-vaudreuil-td-bank-401ea0?utm_source=github) | Customer Support | Vaudreuil-Dorion, North Battleford, Winnipeg +41 |  |  | Nov 6 |
+| **TD Bank** | [Customer Experience Associate - Vaudreuil](https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-vaudreuil-td-bank-401ea0?utm_source=github) | Customer Support | Vaudreuil-Dorion, North Battleford, Winnipeg +38 |  |  | Nov 6 |
 | **Sanofi** | [Patient Support Specialist](https://firstjobby.com/companies/sanofiorwd3orsanoficareers/patient-support-specialist-sanofi-734e46?utm_source=github) | Customer Support | Toronto | CA$100.5K-CA$150.5K/yr |  | Nov 6 |
 | **Valsoft Corporation** | [Business Development Representative](https://firstjobby.com/companies/valsoft-corp/business-development-representative-valsoft-corporation-84c02c?utm_source=github) | Sales | Remote from CAN | CA$50.0K/yr |  | Nov 6 |
 | **The Home Depot** | [Community Enablement Specialist, Video (Askuity division)](https://firstjobby.com/companies/homedepotorwd5orcareerdepotcanada/community-enablement-specialist-video-askuity-division-the-home-depot-9b1fd9?utm_source=github) | Marketing | Toronto | $43.9K-$49.5K/yr |  | Nov 6 |
@@ -785,14 +788,26 @@ or get new matches by email.
 | **Toast** | [Field Implementation Technician I](https://firstjobby.com/companies/toast/field-implementation-technician-i-toast-53ebee?utm_source=github) | Customer Support | Canada | CA$54.0K-CA$86.0K/yr |  | Nov 4 |
 | **Zynga** | [Software Developer 1](https://firstjobby.com/companies/zyngacareers/software-developer-1-zynga-06c271?utm_source=github) | Engineering | Toronto | CA$73.9K-CA$109.4K/yr |  | Nov 4 |
 | **Beedie** | [Civil Design Coordinator](https://firstjobby.com/companies/beedie/civil-design-coordinator-beedie-372f40?utm_source=github) | Design | Burnaby | CA$70.0K-CA$85.0K/yr |  | Nov 4 |
-| **Ramp** | [Fraud Operations Specialist](https://firstjobby.com/companies/ramp-ashby/fraud-operations-specialist-ramp-29e62c?utm_source=github) | Operations | Remote from United States | $80.0K-$155.0K/yr |  | Nov 4 |
-| **Alveole** | [Executive Support & Workplace Experience Coordinator / Coordonnateur·trice – Soutien exécutif et expérience au travail](https://firstjobby.com/companies/alveole/executive-support-and-workplace-experience-coordinator-or-coordonnateurtrice-sou-8cd778?utm_source=github) | Operations | Montreal | CA$65.0K-CA$75.0K/yr |  | Nov 4 |
-| **University Health Network** | [Digital Technician (IT Service Desk Agent)](https://firstjobby.com/companies/universityhealthnetwork/digital-technician-it-service-desk-agent-university-health-network-af4fb5?utm_source=github) | Engineering | Toronto | CA$33-CA$41/hr |  | Nov 4 |
 
 ## New grad and entry-level jobs: Europe
 
 | Company | Role | Field | Location | Pay | Visa | Posted |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Clera** | [Account Manager](https://firstjobby.com/companies/clera/account-manager-clera-167b33?utm_source=github) | Sales | Vienna, Austria | €65.0K-€95.0K/yr | ❌ No | Nov 8 |
+| **Clera** | [Founding Sales Development Representative (SDR/BDR)](https://firstjobby.com/companies/clera/founding-sales-development-representative-sdrbdr-clera-3fed9c?utm_source=github) | Sales | Berlin, Germany | €75.0K-€85.0K/yr | ❌ No | Nov 8 |
+| **Clera** | [Product Engineer](https://firstjobby.com/companies/clera/product-engineer-clera-212240?utm_source=github) | Engineering | Berlin, Germany | €70.0K-€110.0K/yr | ✅ Sponsors | Nov 8 |
+| **Tipico** | [Customer Service Specialist - Quality & Content (m/f/x)](https://firstjobby.com/companies/tipico/customer-service-specialist-quality-and-content-mfx-tipico-61ea14?utm_source=github) | Customer Support | San Ġiljan, Malta, Malta |  |  | Nov 8 |
+| **Capri** | [Virtual sales/Omnichannel associate](https://firstjobby.com/companies/capriorwd1ormichaelkors/virtual-salesomnichannel-associate-capri-db15d7?utm_source=github) | Sales | Netherlands |  |  | Nov 8 |
+| **GE Vernova** | [Web UI/UX Development Engineer](https://firstjobby.com/companies/gevernovaorwd5oronlyconfidentialexecutiverecruiting/web-uiux-development-engineer-ge-vernova-2802be?utm_source=github) | Engineering | Spain |  |  | Nov 8 |
+| **IG Group** | [Client Executive Sales Trading](https://firstjobby.com/companies/igorwd103orextig/client-executive-sales-trading-ig-group-6dbb4f?utm_source=github) | Sales | City of London, United Kingdom |  |  | Nov 8 |
+| **Saab** | [Junior Data Analyst](https://firstjobby.com/companies/saabgrouporwd116orsaabcareers/junior-data-analyst-saab-a83f1c?utm_source=github) | Data | Stockholm, Sweden |  |  | Nov 8 |
+| **ABB** | [Automation Engineer - B&R Automation](https://firstjobby.com/companies/abborwd3orexternalcareerpage/automation-engineer-bandr-automation-abb-1cee06?utm_source=github) | Engineering | Krakow, Poland |  |  | Nov 8 |
+| **Atlean World** | [Health Services Support Agent (German Speaker)](https://firstjobby.com/companies/atleanworld/health-services-support-agent-german-speaker-atlean-world-7846ea?utm_source=github) | Customer Support | Porto, Portugal |  |  | Nov 8 |
+| **Iagloyalty** | [Copywriter Executive](https://firstjobby.com/companies/iagloyaltyorwd3oriagloyalty/copywriter-executive-iagloyalty-77270e?utm_source=github) | Marketing | United Kingdom |  |  | Nov 8 |
+| **Atlean World** | [Online Security Sales Agent - Danish Speaker](https://firstjobby.com/companies/atleanworld/online-security-sales-agent-danish-speaker-atlean-world-8ec52e?utm_source=github) | Engineering | Lisbon, Portugal |  |  | Nov 8 |
+| **JLL** | [Facilities Coordinator](https://firstjobby.com/companies/jllorwd1orjllcareers/facilities-coordinator-jll-f42663?utm_source=github) | Operations | Netanya, Iceland, Istanbul, Turkey, Paris, France |  |  | Nov 8 |
+| **GSK** | [Specialist Sales Representative (G.D. Luxembourg)](https://firstjobby.com/companies/gskorwd5orgskcareers/specialist-sales-representative-gd-luxembourg-gsk-d4d9dd?utm_source=github) | Sales | Wavre, Belgium | €68.9K-€114.8K/yr |  | Nov 8 |
+| **KLA** | [Customer Service Engineer for SPTS](https://firstjobby.com/companies/klaorwd1orsearch/customer-service-engineer-for-spts-kla-87db04?utm_source=github) | Engineering | France |  |  | Nov 8 |
 | **Clera** | [Business Development Representative, German-Speaking](https://firstjobby.com/companies/clera/business-development-representative-german-speaking-clera-a375cc?utm_source=github) | Sales | Munich, Germany |  | ❌ No | Nov 7 |
 | **Clera** | [Founding Account Executive, US](https://firstjobby.com/companies/clera/founding-account-executive-us-clera-6ce524?utm_source=github) | Sales | Vienna, Austria | $100.0K-$150.0K/yr | ❌ No | Nov 7 |
 | **Clera** | [Guest Operations Associate](https://firstjobby.com/companies/clera/guest-operations-associate-clera-6e00de?utm_source=github) | Operations | Berlin, Germany | €40.0K-€45.0K/yr | ❌ No | Nov 7 |
@@ -821,7 +836,6 @@ or get new matches by email.
 | **Solenis** | [Quality Laboratory Analyst](https://firstjobby.com/companies/solenisorwd1orsolenis/quality-laboratory-analyst-solenis-327e77?utm_source=github) | Data | Terrassa, Spain |  |  | Nov 7 |
 | **Atlean World** | [Estonian Digital Content Review Specialist](https://firstjobby.com/companies/atleanworld/estonian-digital-content-review-specialist-atlean-world-e3e53e?utm_source=github) | Marketing | Lisbon, Portugal |  |  | Nov 7 |
 | **Atlean World** | [Digital Ads Sales Specialist - Dutch Market](https://firstjobby.com/companies/atleanworld/digital-ads-sales-specialist-dutch-market-atlean-world-3acf74?utm_source=github) | Sales | Lisbon, Portugal |  |  | Nov 7 |
-| **Applied Materials** | [Customer Engineer-CMP](https://firstjobby.com/companies/amatorwd1orexternal/customer-engineer-cmp-applied-materials-774af9?utm_source=github) | Engineering | Shenzhen, Switzerland |  |  | Nov 7 |
 | **Infisical** | [Full Stack Engineer](https://firstjobby.com/companies/infisical/full-stack-engineer-infisical-39344f?utm_source=github) | Engineering | Remote, United States, United Kingdom +2 |  |  | Nov 6 |
 | **Pulse Healthcare** | [Locum Biomedical Scientist - Histology - Yorkshire](https://firstjobby.com/companies/pulse/locum-biomedical-scientist-histology-yorkshire-pulse-healthcare-02eea2?utm_source=github) | Data | United Kingdom | £22-£26/hr |  | Nov 6 |
 | **FanDuel** | [SEO Marketing Associate](https://firstjobby.com/companies/fanduel/seo-marketing-associate-fanduel-91b3ab?utm_source=github) | Marketing | United States, Los Angeles, United States, Atlanta, United States +7 |  |  | Nov 6 |
@@ -885,7 +899,6 @@ or get new matches by email.
 | **SGS** | [Engineer Kabels & Leidingen](https://firstjobby.com/companies/sgs-smartrecruiters/engineer-kabels-and-leidingen-sgs-496e60?utm_source=github) | Engineering | Spijkenisse, Netherlands |  |  | Nov 6 |
 | **AECOM** | [Electrical Engineer](https://firstjobby.com/companies/aecom2/electrical-engineer-aecom-4d581a?utm_source=github) | Engineering | Belfast, United Kingdom |  |  | Nov 6 |
 | **Akur8** | [Product Engineer](https://firstjobby.com/companies/akur8/product-engineer-akur8-73f751?utm_source=github) | Engineering | Paris, France |  | ✅ Sponsors | Nov 6 |
-| **ecosio** | [Quality Assurance Engineer (m/f/d)](https://firstjobby.com/companies/ecosio/quality-assurance-engineer-mfd-ecosio-cd108d?utm_source=github) | Engineering | Remote, Vienna, Austria, Croatia +6 |  |  | Nov 6 |
 | **Delivery Hero** | [Account Manager Regions Spain](https://firstjobby.com/companies/deliveryhero/account-manager-regions-spain-delivery-hero-423963?utm_source=github) | Sales | Madrid, Spain, Barcelona, Spain, Milano, Italy +1 |  |  | Nov 6 |
 | **Veolia** | [Operations Analyst](https://firstjobby.com/companies/veoliaenvironnementsa/operations-analyst-veolia-environnement-sa-99a294?utm_source=github) | Data | Peterborough, United Kingdom, Manchester, United Kingdom |  |  | Nov 6 |
 | **Netcompany** | [Junior IT Support Specialist - endpoint management (f/m)](https://firstjobby.com/companies/netcompany1/junior-it-support-specialist-endpoint-management-fm-netcompany-1ae20a?utm_source=github) | Engineering | Warsaw, Poland |  |  | Nov 6 |
@@ -930,19 +943,6 @@ or get new matches by email.
 | **Qube Research & Technologies** | [Global Mobility and Immigration Coordinator](https://firstjobby.com/companies/quberesearchandtechnologies/global-mobility-and-immigration-coordinator-qube-research-and-technologies-cc6329?utm_source=github) | Operations | London, United Kingdom |  |  | Nov 6 |
 | **SIXT** | [Agent Customer Services (m/f/d)](https://firstjobby.com/companies/sixt/agent-customer-services-mfd-sixt-b509b9?utm_source=github) | Customer Support | Barcelona, Spain, Palma, Spain, Madrid, Spain +6 |  |  | Nov 6 |
 | **AJ Bell** | [Software Engineer (GenAI)](https://firstjobby.com/companies/ajbell1/software-engineer-genai-aj-bell-52040a?utm_source=github) | Engineering | Manchester, United Kingdom |  |  | Nov 6 |
-| **SIXT** | [Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet - Interinidad](https://firstjobby.com/companies/sixt/rental-sales-agent-mfd-barcelona-fira-hospitalet-interinidad-sixt-671403?utm_source=github) | Sales | L'Hospitalet de Llobregat, Spain |  |  | Nov 6 |
-| **SIXT** | [Sales & Service Trainer (m/w/d)](https://firstjobby.com/companies/sixt/sales-and-service-trainer-mwd-sixt-7f9fe9?utm_source=github) | Sales | Berlin, Germany, Mannheim, Germany |  |  | Nov 6 |
-| **SIXT** | [Sales Support Mitarbeiter (m/w/d)](https://firstjobby.com/companies/sixt/sales-support-mitarbeiter-mwd-sixt-ba139c?utm_source=github) | Sales | Germany, Rostock, Germany, Berlin, Germany |  |  | Nov 6 |
-| **Bosch Group** | [Data Engineer](https://firstjobby.com/companies/boschgroup/data-engineer-bosch-group-79db7d?utm_source=github) | Data | Cluj, Romania, Jucu, Romania |  |  | Nov 6 |
-| **Devoteam** | [Analytics engineer H/F](https://firstjobby.com/companies/devoteam/analytics-engineer-hf-devoteam-f62d39?utm_source=github) | Data | Marcq-en-Barœul, France |  |  | Nov 6 |
-| **Devoteam** | [Analytics engineer F/H](https://firstjobby.com/companies/devoteam/analytics-engineer-fh-devoteam-6927e8?utm_source=github) | Data | Marcq-en-Barœul, France |  |  | Nov 6 |
-| **Standard Bank Group** | [Data Graduate Trainee](https://firstjobby.com/companies/standardbankgroup/data-graduate-trainee-standard-bank-group-2677ef?utm_source=github) | Data | Douglas, Isle of Man |  |  | Nov 6 |
-| **STX Group** | [Trade Operations Excellence Specialist (Tickets)](https://firstjobby.com/companies/stxgroup/trade-operations-excellence-specialist-tickets-stx-group-49f860?utm_source=github) | Operations | Netherlands |  |  | Nov 6 |
-| **FeverUp** | [IT Support Specialist](https://firstjobby.com/companies/feverup/it-support-specialist-feverup-517c52?utm_source=github) | Engineering | London, United Kingdom |  |  | Nov 6 |
-| **Tipico** | [Customer Service Specialist - Quality & Content (m/f/x)](https://firstjobby.com/companies/tipico/customer-service-specialist-quality-and-content-mfx-tipico-8e65a3?utm_source=github) | Customer Support | Malta |  |  | Nov 6 |
-| **Vonage** | [Technical Routing Analyst](https://firstjobby.com/companies/vonage/technical-routing-analyst-vonage-c0690e?utm_source=github) | Data | Wrocław, Poland |  |  | Nov 6 |
-| **NexGen Cloud** | [Support Engineer](https://firstjobby.com/companies/nexgencloud/support-engineer-nexgen-cloud-198806?utm_source=github) | Engineering | Nottingham, United Kingdom |  | ❌ No | Nov 6 |
-| **Drees & Sommer SE** | [AI Engineer (w/m/d)](https://firstjobby.com/companies/dreessommerse/ai-engineer-wmd-drees-and-sommer-se-424703?utm_source=github) | Engineering | Hamburg, Germany, Berlin, Germany, Leipzig, Germany +5 |  |  | Nov 6 |
 
 Showing the newest 150 in each section. Found a job that isn't entry-level, or one that's closed? Use "Report" on its
 page and it's reviewed. ⭐ Star the repo to find it again.
