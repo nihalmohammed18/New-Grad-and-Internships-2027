@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:27:44.540Z",
+  "generatedAt": "2026-11-09T00:40:16.692Z",
   "jobs": [
     {
       "id": "f50bed97-b3d5-4d90-90f7-66f06fb411b4",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alconorwd5orcareersalcon/operator-i-quality-operations-alcon-e50980?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "e38c0d44-932f-40ff-b59d-2e96f950651c",
+      "title": "2027 Graduate | Digital Assurance - Analytics | Auckland",
+      "company": "Deloitte NZ",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteNZ/6000000001557987-2027-graduate-digital-assurance-analytics-auckland",
+      "firstJobbyUrl": "https://firstjobby.com/companies/deloittenz/2027-graduate-or-digital-assurance-analytics-or-auckland-deloitte-nz-170957?utm_source=reddit",
+      "postedAt": "2026-11-08T21:10:51.093Z",
+      "notable": 3
     },
     {
       "id": "3865b2d0-8ec4-4d0a-a07d-15c8b92d5d7f",
@@ -433,10 +452,10 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Tipico/744000160487869-customer-service-specialist-quality-content-m-f-x-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Tipico/744000160487869",
       "firstJobbyUrl": "https://firstjobby.com/companies/tipico/customer-service-specialist-quality-and-content-mfx-tipico-61ea14?utm_source=reddit",
       "postedAt": "2026-11-08T14:34:00.759Z",
-      "notable": 2
+      "notable": 0
     },
     {
       "id": "40b4a9c7-50e9-4f85-8f9f-b14a44db492e",
@@ -452,7 +471,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000160487039-coordinator-ii",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000160487039",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/coordinator-ii-aecom-b31519?utm_source=reddit",
       "postedAt": "2026-11-08T13:51:19.189Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/caredxinc/clinical-lab-scientist-i-caredx-inc-f05ca2?utm_source=reddit",
       "postedAt": "2026-11-06T18:43:21.000Z",
       "notable": 2
-    },
-    {
-      "id": "2f1aa478-2307-4988-9a49-56c581d3e473",
-      "title": "Software Engineering Intern, Frontend (Summer 2027)",
-      "company": "Notion",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$57-$61/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
-      "firstJobbyUrl": "https://firstjobby.com/companies/notion-ashby/software-engineering-intern-frontend-summer-2027-notion-13d82a?utm_source=reddit",
-      "postedAt": "2026-11-06T18:42:11.019Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
