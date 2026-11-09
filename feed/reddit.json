@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:03:14.540Z",
+  "generatedAt": "2026-11-09T04:10:07.713Z",
   "jobs": [
     {
       "id": "6a17c6e5-7df0-4350-a985-dcefad90532d",
@@ -1045,6 +1045,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/encord/growth-associate-encord-366950?utm_source=reddit",
       "postedAt": "2026-11-08T22:59:39.123Z",
       "notable": 3
+    },
+    {
+      "id": "e208fb66-dd0a-4f16-8545-946aa7c91674",
+      "title": "Overnight Rental Sales Agent (Miami International Airport)",
+      "company": "SIXT",
+      "place": "Miami, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$15/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000160495389-overnight-rental-sales-agent-miami-international-airport-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/overnight-rental-sales-agent-miami-international-airport-sixt-de051d?utm_source=reddit",
+      "postedAt": "2026-11-08T22:02:20.224Z",
+      "notable": 6
     },
     {
       "id": "24512a82-edc4-4c18-8f05-760bc49c00ed",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8358807",
       "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/territory-account-manager-equipmentshare-c4e5d9?utm_source=reddit",
       "postedAt": "2026-11-06T19:59:23.000Z",
-      "notable": 5
-    },
-    {
-      "id": "36adf43b-d8b8-4c02-9938-668c1a7c5c4c",
-      "title": "Territory Account Manager",
-      "company": "EquipmentShare",
-      "place": "Akron, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8354597",
-      "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/territory-account-manager-equipmentshare-7da715?utm_source=reddit",
-      "postedAt": "2026-11-06T19:57:17.000Z",
       "notable": 5
     }
   ],
