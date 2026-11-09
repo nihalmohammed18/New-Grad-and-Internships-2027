@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:53:09.153Z",
+  "generatedAt": "2026-11-09T11:57:13.997Z",
   "jobs": [
     {
       "id": "9788de45-1998-46aa-817a-1710cd3e161c",
@@ -5018,6 +5018,25 @@
       "notable": 2
     },
     {
+      "id": "43529278-ce1e-4b69-a980-b4d3ef3ab731",
+      "title": "Customer Care Representative - Warehousing & Logistics",
+      "company": "Onelineage",
+      "place": "Australia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://onelineage.wd1.myworkdayjobs.com/External/job/Dandenong-South-Melbourne/Customer-Care-Representative---Warehousing---Logistics_R0111268",
+      "firstJobbyUrl": "https://firstjobby.com/companies/onelineageorwd1orexternal/customer-care-representative-warehousing-and-logistics-onelineage-fd53a0?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "431c26f3-bbae-483e-812c-a1df13b60a3b",
       "title": "Field Sales Trainee",
       "company": "Medtronic",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/spacexglobal/jobs/8934225002",
       "firstJobbyUrl": "https://firstjobby.com/companies/spacexglobal/field-sales-specialist-starlink-spacexglobal-fad3a9?utm_source=reddit",
       "postedAt": "2026-11-07T02:36:09.000Z",
-      "notable": 5
-    },
-    {
-      "id": "73ad3230-6c03-48b6-b2e7-00368fee81bd",
-      "title": "Field Sales Specialist (Starlink)",
-      "company": "SpaceX_Global",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$10.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/spacexglobal/jobs/8934222002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spacexglobal/field-sales-specialist-starlink-spacexglobal-172294?utm_source=reddit",
-      "postedAt": "2026-11-07T02:36:08.000Z",
       "notable": 5
     }
   ],
