@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:10:07.713Z",
+  "generatedAt": "2026-11-09T05:59:48.397Z",
   "jobs": [
     {
       "id": "6a17c6e5-7df0-4350-a985-dcefad90532d",
@@ -325,6 +325,25 @@
       "notable": 4
     },
     {
+      "id": "766efcc7-cc64-4c58-8ea8-4f9020f45bde",
+      "title": "Software Engineer, Backend - Deployments",
+      "company": "Base Power Company",
+      "place": "Austin, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/base-power/9ed279a2-a39d-4b75-bbee-bff898b448c3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/base-power/software-engineer-backend-deployments-base-power-company-2f5f0d?utm_source=reddit",
+      "postedAt": "2026-11-09T01:01:37.850Z",
+      "notable": 3
+    },
+    {
       "id": "ffe02083-2c45-400a-9f4b-05ad06b34a71",
       "title": "CRM_CIED_Technical Sales Representative_Beijing",
       "company": "Medtronic",
@@ -513,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/iberdrolaorwd3oriberdrola/programa-practicas-alumni-2027-avangrid-354c6e?utm_source=reddit",
       "postedAt": "2026-11-09T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "a162fc8f-548c-407f-96a5-d0ca57e4b334",
+      "title": "Technical Support Coach",
+      "company": "Octal Philippines Inc.",
+      "place": "Pasig, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/05281D2ABB",
+      "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/technical-support-coach-octal-philippines-inc-fd5eda?utm_source=reddit",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "9945a093-b4b1-4483-918c-4755d07e8715",
@@ -1238,7 +1276,7 @@
     },
     {
       "id": "36b43854-fcfb-42df-a1e2-f8f48f2dfb2c",
-      "title": "Software Engineer, Backend - Member Software",
+      "title": "Software Engineer, Backend - Core Experience",
       "company": "Base Power Company",
       "place": "Austin, United States",
       "category": "Engineering",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/gomotive/jobs/8890306002",
       "firstJobbyUrl": "https://firstjobby.com/companies/gomotive/product-support-specialist-motive-0ae997?utm_source=reddit",
       "postedAt": "2026-11-06T20:10:54.000Z",
-      "notable": 5
-    },
-    {
-      "id": "cccd9a85-e0d5-4d23-9754-e0f62dc560a2",
-      "title": "Vulnerability Researcher",
-      "company": "Two Six Technologies",
-      "place": "Arlington, United States",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$112.3K-$168.4K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6251721004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/twosixtechnologies/vulnerability-researcher-two-six-technologies-702720?utm_source=reddit",
-      "postedAt": "2026-11-06T20:09:07.000Z",
-      "notable": 5
-    },
-    {
-      "id": "308a6f8d-cd65-455c-8c3a-5d799d4f59e7",
-      "title": "Territory Account Manager",
-      "company": "EquipmentShare",
-      "place": "Mandan, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8358807",
-      "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/territory-account-manager-equipmentshare-c4e5d9?utm_source=reddit",
-      "postedAt": "2026-11-06T19:59:23.000Z",
       "notable": 5
     }
   ],
