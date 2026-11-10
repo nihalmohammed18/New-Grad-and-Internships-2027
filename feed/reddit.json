@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:59:46.603Z",
+  "generatedAt": "2026-11-10T00:12:07.428Z",
   "jobs": [
     {
       "id": "e47f6a41-6217-4ccd-940d-c3a7132b2bbe",
@@ -21,6 +21,25 @@
       "notable": 4
     },
     {
+      "id": "5ca05cee-6edb-4000-b5bd-b0145d6337cd",
+      "title": "Falcon Complete Analyst Intern Graduate (Remote, AUS)",
+      "company": "CrowdStrike",
+      "place": "Remote from Australia",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-VC/Falcon-Complete-Analyst-Intern-Graduate--Remote--AUS-_R30825",
+      "firstJobbyUrl": "https://firstjobby.com/companies/crowdstrikeorwd5orcrowdstrikecareers/falcon-complete-analyst-intern-graduate-remote-aus-crowdstrike-00d87e?utm_source=reddit",
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "44d5c1a3-710b-453f-9ba5-daed76e3fa37",
       "title": "Support Specialist - German",
       "company": "Acronis",
@@ -36,6 +55,25 @@
       "season": null,
       "applyUrl": "https://acronis.wd502.myworkdayjobs.com/acronis_careers/job/Bulgaria/Support-Specialist---German_R-101355-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/acronisorwd502oracroniscareers/support-specialist-german-acronis-89fbd0?utm_source=reddit",
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "3946e7e2-469f-4eca-baf5-dd70c4a87fae",
+      "title": "Falcon Complete Analyst Intern Graduate (Remote, AUS)",
+      "company": "CrowdStrike",
+      "place": "Remote from Australia",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Australia---Remote-VC/Falcon-Complete-Analyst-Intern-Graduate--Remote--AUS-_R30826",
+      "firstJobbyUrl": "https://firstjobby.com/companies/crowdstrikeorwd5orcrowdstrikecareers/falcon-complete-analyst-intern-graduate-remote-aus-crowdstrike-fa27cf?utm_source=reddit",
       "postedAt": "2026-11-10T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/extenteam/office-coordinator-extenteam-client-roles-b9651e?utm_source=reddit",
       "postedAt": "2026-11-09T12:32:47.000Z",
       "notable": 1
-    },
-    {
-      "id": "5df276ee-8557-441e-9086-69ea1facf786",
-      "title": "Internal Sales Executive",
-      "company": "REXEL",
-      "place": "Dudley, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/REXEL1/744000160602529",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rexel1/internal-sales-executive-rexel-0afa4a?utm_source=reddit",
-      "postedAt": "2026-11-09T12:31:59.408Z",
-      "notable": 3
-    },
-    {
-      "id": "1b6cd14c-8446-4fed-b546-6033180eca49",
-      "title": "AI Engineer / AI Agent Developer",
-      "company": "Zelh",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://zelh.recruitee.com/o/ai-engineer-ai-agent-developer",
-      "firstJobbyUrl": "https://firstjobby.com/companies/zelh/ai-engineer-ai-agent-developer-zelh-20f624?utm_source=reddit",
-      "postedAt": "2026-11-09T12:31:22.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
