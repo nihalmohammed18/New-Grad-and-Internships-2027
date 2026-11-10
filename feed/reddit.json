@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:38:00.002Z",
+  "generatedAt": "2026-11-10T09:59:01.904Z",
   "jobs": [
     {
       "id": "6bdd12c9-981e-430c-a423-e99a01f7683f",
@@ -1558,6 +1558,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/regent-ashby/systems-engineering-intern-safety-analysis-summer-regent-77b007?utm_source=reddit",
       "postedAt": "2026-11-10T02:32:33.137Z",
       "notable": 3
+    },
+    {
+      "id": "3a59aa7f-440f-4544-85b7-1c2c83662e69",
+      "title": "Quality Analyst",
+      "company": "Referrals Only",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8370303",
+      "firstJobbyUrl": "https://firstjobby.com/companies/thoughtworksreferral/quality-analyst-referrals-only-0cc8b8?utm_source=reddit",
+      "postedAt": "2026-11-10T02:32:19.000Z",
+      "notable": 1
     },
     {
       "id": "ee5e3c10-9a02-4ff2-aa6a-856fc65b7400",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/sunrise/jobs/5477224008",
       "firstJobbyUrl": "https://firstjobby.com/companies/sunrise/community-manager-new-construction-lease-up-textur-sunrise-management-5e9362?utm_source=reddit",
       "postedAt": "2026-11-09T19:19:12.000Z",
-      "notable": 3
-    },
-    {
-      "id": "4c5a8d4c-7544-4aed-a7aa-6e0ed087d2d7",
-      "title": "Customer Experience Specialist at Autumn Ridge Apartments",
-      "company": "Cottonwood Residential",
-      "place": "Raleigh, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cottonwoodresidential/jobs/6253255004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cottonwoodresidential/customer-experience-specialist-at-autumn-ridge-apartments-cottonwood-residential-997a88?utm_source=reddit",
-      "postedAt": "2026-11-09T19:16:35.000Z",
       "notable": 3
     }
   ],
