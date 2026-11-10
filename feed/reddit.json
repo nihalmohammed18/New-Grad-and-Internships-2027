@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:57:40.094Z",
+  "generatedAt": "2026-11-10T11:04:35.543Z",
   "jobs": [
     {
       "id": "ed838e7d-90bb-4788-aaa2-2e203e29b915",
@@ -4235,6 +4235,25 @@
       "season": null,
       "applyUrl": "https://ghr.wd1.myworkdayjobs.com/lateral-apac/job/Singapore/Regulatory-Reporting-Operations-Professional_26040871-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/ghrorwd1orlateral-apac/regulatory-reporting-operations-professional-bank-of-america-441fdf?utm_source=reddit",
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "8388a4ab-df07-4eb1-b1d4-364e9ff7480c",
+      "title": "Project Sales Specialist",
+      "company": "VELUX",
+      "place": "Hørsholm, Denmark",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/velux/Velux_Residential/job/Breeltevej-18-Hrsholm/Project-Sales-Specialist_R1071260",
+      "firstJobbyUrl": "https://firstjobby.com/companies/veluxorwd3orveluxresidential/project-sales-specialist-velux-ac1400?utm_source=reddit",
       "postedAt": "2026-11-10T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tenableinc/sales-development-representative-latam-tenable-inc-8e55fb?utm_source=reddit",
       "postedAt": "2026-11-09T19:50:24.000Z",
       "notable": 5
-    },
-    {
-      "id": "c8fa974a-0654-4285-9dcb-d22e46f0e0a4",
-      "title": "Embedded Security Operator",
-      "company": "Sibylline Ltd",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/sibyllineltd/744000160712780",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sibyllineltd/embedded-security-operator-sibylline-ltd-282859?utm_source=reddit",
-      "postedAt": "2026-11-09T19:49:54.079Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
