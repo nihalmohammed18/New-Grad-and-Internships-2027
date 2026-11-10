@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:25:57.043Z",
+  "generatedAt": "2026-11-10T13:32:42.204Z",
   "jobs": [
     {
       "id": "f9da1f53-d9a8-4fea-a02e-8b9c1b90a1cb",
@@ -151,6 +151,25 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/feverup/jobs/5032241101",
       "firstJobbyUrl": "https://firstjobby.com/companies/feverup/product-operations-specialist-backoffice-feverup-dae707?utm_source=reddit",
       "postedAt": "2026-11-10T11:59:44.000Z",
+      "notable": 3
+    },
+    {
+      "id": "9a62374f-dcda-4791-919d-f29d71de875f",
+      "title": "L0 Service Desk Onboarding & Support Specialist",
+      "company": "EXANTE",
+      "place": "Remote from Armenia, Georgia, Kazakhstan",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/xntltd/jobs/5012918101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/xntltd/l0-service-desk-onboarding-and-support-specialist-exante-34d229?utm_source=reddit",
+      "postedAt": "2026-11-10T11:39:13.000Z",
       "notable": 3
     },
     {
@@ -931,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/celonis/associate-deployment-engineer-galaxy-graduate-program-spanishportuguese-speaking-809866?utm_source=reddit",
       "postedAt": "2026-11-10T08:51:53.000Z",
       "notable": 2
+    },
+    {
+      "id": "e0233428-3ed5-4460-9fd1-d3baa37f303a",
+      "title": "Junior DevOps Engineer",
+      "company": "Formlabs",
+      "place": "Budapest, Hungary",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://careers.formlabs.com/job/8370709/apply/?gh_jid=8370709",
+      "firstJobbyUrl": "https://firstjobby.com/companies/formlabs/junior-devops-engineer-formlabs-5f8621?utm_source=reddit",
+      "postedAt": "2026-11-10T08:45:37.000Z",
+      "notable": 3
     },
     {
       "id": "b6f425ab-6d7d-4fd8-988a-f14f6ec556ff",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Supply-Chain-Operations-Associate_AIOC-S01674164-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/supply-chain-operations-associate-accenture-3a99f1?utm_source=reddit",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "0679d257-9c79-4513-ba11-711c6f34b94a",
-      "title": "Software Developer - Networking",
-      "company": "NVIDIA",
-      "place": "Yokneam, Israel",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Developer---Networking_JR2024804",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/software-developer-networking-nvidia-68560f?utm_source=reddit",
-      "postedAt": "2026-11-10T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "04d79a4d-5a2d-487d-b538-48f1dfa6114b",
-      "title": "Job Completion Coordinator",
-      "company": "Acquireai",
-      "place": "Philippines",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://acquireai.wd102.myworkdayjobs.com/Acquire/job/Pasig-City/Job-Completion-Coordinator_R13156",
-      "firstJobbyUrl": "https://firstjobby.com/companies/acquireaiorwd102oracquire/job-completion-coordinator-acquireai-898354?utm_source=reddit",
       "postedAt": "2026-11-10T00:00:00.000Z",
       "notable": 2
     }
