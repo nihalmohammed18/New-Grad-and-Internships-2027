@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:26:10.030Z",
+  "generatedAt": "2026-11-11T18:55:47.785Z",
   "jobs": [
     {
       "id": "7bae7bca-d254-4a2c-a278-95b5d143e4fd",
@@ -9255,6 +9255,25 @@
       "notable": 4
     },
     {
+      "id": "f63e6b58-ac24-40a1-829f-e1b2d2d84cd5",
+      "title": "Surgical Solutions Sales Representative - New Orleans",
+      "company": "Medline",
+      "place": "New Orleans, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://medline.wd5.myworkdayjobs.com/Medline/job/New-Orleans-Louisiana/Sales-Rep-Surgical-Solutions_R2621788",
+      "firstJobbyUrl": "https://firstjobby.com/companies/medlineorwd5ormedline/surgical-solutions-sales-representative-new-orleans-medline-e80699?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f5b9263a-9fe9-4773-b973-5c9b10fabdc9",
       "title": "Associate Technician Production Operations",
       "company": "Danaher",
@@ -9369,6 +9388,25 @@
       "notable": 2
     },
     {
+      "id": "f2502544-d3db-4f1e-9975-5a156907d46f",
+      "title": "Oracle Fusion Integration / API Developer",
+      "company": "DXC Technology",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "us_citizen",
+      "pay": "$97.1K-$180.3K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---DC---WASHINGTON/Oracle-Fusion-Integration---API-Developer_51594344",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dxctechnologyorwd1ordxcjobs/oracle-fusion-integration-api-developer-dxc-technology-c0d31c?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "f1b1d01e-1fd9-454a-bd5c-2b51096fe8a2",
       "title": "Technological Development Testing Technician",
       "company": "Nextpower",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boeingorwd1orintern/software-engineer-intern-boeing-35453e?utm_source=reddit",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "f0b0c576-b173-439b-92d4-6dcd948ac77c",
-      "title": "Fidelity Strategic Advisors Inc, Investment Trading Research Internship",
-      "company": "Fidelity",
-      "place": "Dublin, Ireland",
-      "category": "Research",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Dublin-Ireland/Intern_2136759",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fmrorwd1ortargeted/fidelity-strategic-advisors-inc-investment-trading-research-internship-fidelity-5557e8?utm_source=reddit",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "f0687e30-904e-4157-bfd9-ccae1972419c",
-      "title": "Sales Representative I",
-      "company": "Medtronic",
-      "place": "Seoul, South Korea",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Seoul-Seoul-Korea/Sales-Representative-I_R81289-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/sales-representative-i-medtronic-d34d96?utm_source=reddit",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
