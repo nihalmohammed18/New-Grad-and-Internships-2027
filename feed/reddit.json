@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:07:47.878Z",
+  "generatedAt": "2026-11-11T09:23:08.627Z",
   "jobs": [
     {
       "id": "2791e0c6-9077-4e81-9364-1222f55c1143",
@@ -3684,6 +3684,25 @@
       "season": null,
       "applyUrl": "https://tollgroup.wd5.myworkdayjobs.com/TollGroup/job/West-Meadows-Victoria-Australia/Corporate-Services-Coordinator_R000077208-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/tollgrouporwd5ortollgroup/corporate-services-coordinator-toll-group-264c54?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "704313b3-6007-4a1c-8aa5-64a960d8a27f",
+      "title": "IT Operations Analyst I",
+      "company": "Sabre",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/IT-Operations-Analyst-I_JR108845",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sabreorwd1orsabrejobs/it-operations-analyst-i-sabre-c822a3?utm_source=reddit",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dodmg/mechanical-engineer-rf-subsystems-dodmg-46a1e2?utm_source=reddit",
       "postedAt": "2026-11-10T19:15:46.772Z",
       "notable": 5
-    },
-    {
-      "id": "4f584ab8-7522-4363-ad9f-551fbbc1ba02",
-      "title": "Inside Sales Specialist - Industrial Supplies",
-      "company": "EquipmentShare",
-      "place": "Deer Park, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8374124",
-      "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/inside-sales-specialist-industrial-supplies-equipmentshare-7ae9fc?utm_source=reddit",
-      "postedAt": "2026-11-10T19:14:51.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
