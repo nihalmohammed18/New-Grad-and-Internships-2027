@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:17:13.124Z",
+  "generatedAt": "2026-11-11T08:20:27.920Z",
   "jobs": [
     {
       "id": "82f7c9a7-9ea3-4a46-9ec3-8dae1ab8fe8b",
@@ -532,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/project-engineer-mechanical-veolia-environnement-sa-f8a28c?utm_source=reddit",
       "postedAt": "2026-11-11T02:08:50.759Z",
       "notable": 5
+    },
+    {
+      "id": "b1ab4e46-79b4-47b4-a011-36da153c80c6",
+      "title": "Founding Sales Development Representative",
+      "company": "Monaco",
+      "place": "San Francisco, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$100.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/monaco/2c62f82d-2794-46f4-babb-468caf73e62d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/monaco/founding-sales-development-representative-monaco-0b856f?utm_source=reddit",
+      "postedAt": "2026-11-11T02:08:14.910Z",
+      "notable": 3
     },
     {
       "id": "c561c36e-0437-438d-9c19-4e3facc5308f",
@@ -3021,6 +3040,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/ivvq-engineer-12-months-contract-hitachi-d4963c?utm_source=reddit",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "50fc0312-375c-4d73-9337-68ac9de4ec0d",
+      "title": "Technical Support Coach",
+      "company": "Octal Philippines Inc.",
+      "place": "Pasig, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/748686AFB2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/octal-philippines-inc-4/technical-support-coach-octal-philippines-inc-1010ee?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "50659792-89d2-41dc-a131-a126f69e5376",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/final-year-internship-marketing-data-scientist-sia-22b0c6?utm_source=reddit",
       "postedAt": "2026-11-10T17:48:58.888Z",
       "notable": 3
-    },
-    {
-      "id": "80078291-3c72-4bdf-bf42-b9da115b21c7",
-      "title": "Workforce Management - Real Time Analyst",
-      "company": "Clipboard",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$12.0K-$26.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/clipboard/2dfae75c-66e8-4243-aa46-2f1c7238d942",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clipboard-ashby/wfm-central-real-time-analyst-clipboard-75573b?utm_source=reddit",
-      "postedAt": "2026-11-10T17:44:14.152Z",
-      "notable": 5
-    },
-    {
-      "id": "401b54f3-2e02-4a44-9b1c-79a855d47c3d",
-      "title": "Territory Account Manager",
-      "company": "EquipmentShare",
-      "place": "Seekonk, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8373043",
-      "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/territory-account-manager-equipmentshare-51f523?utm_source=reddit",
-      "postedAt": "2026-11-10T17:43:30.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
