@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:42:57.376Z",
+  "generatedAt": "2026-11-11T14:47:23.126Z",
   "jobs": [
     {
       "id": "49a6d7bb-a173-43bf-81fc-41ba42165ed3",
@@ -7108,6 +7108,25 @@
       "notable": 3
     },
     {
+      "id": "b58b290d-7ded-47d3-af6c-0e0b94186d5c",
+      "title": "Associate Data Quality Analyst",
+      "company": "ServiceTitan",
+      "place": "Yerevan, Armenia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Associate-Data-Quality-Analyst_JR116297",
+      "firstJobbyUrl": "https://firstjobby.com/companies/servicetitanorwd1orservicetitan/associate-data-quality-analyst-servicetitan-1b2f76?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "b57153cf-a56e-4170-b100-3b05229bca0d",
       "title": "Account Manager",
       "company": "Ecolab",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/corpayorwd103orext001/business-development-associate-corpay-d8ddcb?utm_source=reddit",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "61afcb88-7730-42e7-b1d5-3ca20b7bff62",
-      "title": "FBS Assoc Data Engineer",
-      "company": "Capgemini",
-      "place": "Pune, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/85C8035E1C",
-      "firstJobbyUrl": "https://firstjobby.com/companies/capgemini-insurance/fbs-assoc-data-engineer-capgemini-927d1e?utm_source=reddit",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
