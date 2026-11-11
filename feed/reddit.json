@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:13:32.122Z",
+  "generatedAt": "2026-11-11T12:16:04.775Z",
   "jobs": [
     {
       "id": "b5b5a794-5fac-406f-9a2c-4fc0971acbb6",
@@ -4923,6 +4923,25 @@
       "notable": 2
     },
     {
+      "id": "9798a2f5-8319-46d7-bc67-d222f097d276",
+      "title": "Post-Trade Services & Risk Analyst– India",
+      "company": "Cmegroup",
+      "place": "Bangalore, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Post-Trade-Services---Risk-Analyst--India_34967-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cmegrouporwd1orcmecareers/post-trade-services-and-risk-analyst-india-cmegroup-e63630?utm_source=reddit",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "97556b8a-1dac-4ffb-9e18-08adad8b77e8",
       "title": "Assistant R&D engineer",
       "company": "ABB",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hookmusic/research-scientist-ai-music-hook-music-1d78ec?utm_source=reddit",
       "postedAt": "2026-11-10T22:04:04.212Z",
       "notable": 1
-    },
-    {
-      "id": "7ced8b03-5716-4c05-9a3b-b4e3de22d5c4",
-      "title": "Topographic Aerial Sensor Operator",
-      "company": "Woolpert",
-      "place": "Remote",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4490242009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/woolpert/topographic-aerial-sensor-operator-woolpert-a65040?utm_source=reddit",
-      "postedAt": "2026-11-10T21:59:57.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
