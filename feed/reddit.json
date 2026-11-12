@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:40:50.695Z",
+  "generatedAt": "2026-11-12T05:51:46.430Z",
   "jobs": [
     {
       "id": "f2e0609e-5993-4380-8c1c-1dc584f74c66",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/site-engineer-underground-station-civil-aecom-9db9c1?utm_source=reddit",
       "postedAt": "2026-11-12T04:57:19.898Z",
       "notable": 3
+    },
+    {
+      "id": "3508d5a7-7968-4364-8cc4-26e1b92b772c",
+      "title": "Customer Service Advisor (FTC)",
+      "company": "Circular Economy Systems",
+      "place": "Sydney, Australia",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer",
+      "applyUrl": "https://jobs.ashbyhq.com/circulareconomysystems/4b2290a6-306a-4226-944c-0229fc1e546f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/circulareconomysystems/customer-service-advisor-ftc-circular-economy-systems-eb27e3?utm_source=reddit",
+      "postedAt": "2026-11-12T04:51:46.273Z",
+      "notable": 1
     },
     {
       "id": "70bda547-7d4f-4819-8de0-bb7971746b92",
@@ -75,6 +94,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161215069-field-service-engineer-upw-x",
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/field-service-engineer-upw-x-veolia-environnement-sa-0c7bcf?utm_source=reddit",
       "postedAt": "2026-11-12T03:59:43.227Z",
+      "notable": 3
+    },
+    {
+      "id": "181be821-1116-42e5-88ff-5b518bf8b1b7",
+      "title": "People Operations Coordinator",
+      "company": "Apex Technology, Inc.",
+      "place": "Los Angeles, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/ee11f2da-5d5e-464b-adc3-6e15b7c9942b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/apex-technology-inc/people-operations-coordinator-apex-technology-inc-974fa3?utm_source=reddit",
+      "postedAt": "2026-11-12T03:49:20.726Z",
       "notable": 3
     },
     {
@@ -2565,6 +2603,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/doordashusa/autonomy-simulation-engineer-doordash-usa-e3f128?utm_source=reddit",
       "postedAt": "2026-11-11T21:28:44.000Z",
       "notable": 5
+    },
+    {
+      "id": "2120305d-1a89-4355-9dae-cced4615b1ce",
+      "title": "Client & Partner Marketing Specialist",
+      "company": "Enavate",
+      "place": "Tampa, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/enavatecareers/jobs/5292886007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/enavatecareers/client-and-partner-marketing-specialist-enavate-7bf4a6?utm_source=reddit",
+      "postedAt": "2026-11-11T21:25:53.000Z",
+      "notable": 1
     },
     {
       "id": "96d15ccb-c45a-40a9-a5d8-1009b3a41102",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/flip-ashby/internship-strategy-manda-mfd-flip-gmbh-be993c?utm_source=reddit",
       "postedAt": "2026-11-11T13:15:38.649Z",
       "notable": 3
-    },
-    {
-      "id": "46b8ad29-0c05-4722-a10f-55ce24bfedf0",
-      "title": "Marketing Admin & Events Coordinator (w/ experience in Webinar event)",
-      "company": "SGS",
-      "place": "Muntinlupa, Philippines",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000161082799",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/marketing-admin-and-events-coordinator-w-experience-in-webinar-event-sgs-a53d91?utm_source=reddit",
-      "postedAt": "2026-11-11T13:14:53.862Z",
-      "notable": 3
-    },
-    {
-      "id": "149ab5a4-f40b-4695-a338-a807c935b2f3",
-      "title": "Intern AI & Data Transformation",
-      "company": "Isar Aerospace SE",
-      "place": "Parsdorf, Germany",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5033512101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/isaraerospace/intern-ai-and-data-transformation-isar-aerospace-se-e08c34?utm_source=reddit",
-      "postedAt": "2026-11-11T13:14:04.000Z",
-      "notable": 3
-    },
-    {
-      "id": "fefc506c-3c2c-4f2a-a0f3-bc0330c00e40",
-      "title": "SEO Specialist",
-      "company": "TransPerfect",
-      "place": "Remote from United States",
-      "category": "Marketing",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://transperfect.com/o/seo-specialist-19",
-      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/seo-specialist-transperfect-886f69?utm_source=reddit",
-      "postedAt": "2026-11-11T13:12:50.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
