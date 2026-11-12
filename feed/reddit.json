@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:51:46.430Z",
+  "generatedAt": "2026-11-12T06:03:42.497Z",
   "jobs": [
     {
       "id": "f2e0609e-5993-4380-8c1c-1dc584f74c66",
@@ -133,6 +133,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/data-analysis-engineer-avery-dennison-f75712?utm_source=reddit",
       "postedAt": "2026-11-12T03:40:31.506Z",
       "notable": 3
+    },
+    {
+      "id": "ca5157a7-8938-485b-bf34-32a841dbc70e",
+      "title": "Associate DevOps Engineer",
+      "company": "OPSWAT",
+      "place": "Ho Chi Minh City, Vietnam",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.opswat.com/jobs/4527452005?gh_jid=4527452005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/opswat/associate-devops-engineer-opswat-9186cb?utm_source=reddit",
+      "postedAt": "2026-11-12T03:21:31.000Z",
+      "notable": 2
     },
     {
       "id": "f2876267-8300-4221-a50b-50a852b0d279",
@@ -1368,6 +1387,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/epos/merchant-operations-executive-epos-95f4cc?utm_source=reddit",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "18627c9d-53b0-4b87-8976-cbf698ae8729",
+      "title": "Supply Chain Technician - Specialty",
+      "company": "Lehigh Valley Health Network",
+      "place": "Allentown, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://lvhn.wd1.myworkdayjobs.com/LVHN/job/Allentown-PA/Supply-Chain-Technician---Specialty_JR144166",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lvhnorwd1orlvhn/supply-chain-technician-specialty-lehigh-valley-health-network-6a461f?utm_source=reddit",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "174dd549-c55f-49f8-916d-674b23640f03",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000161082979",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/account-manager-smb-italy-milano-delivery-hero-3f0f96?utm_source=reddit",
       "postedAt": "2026-11-11T13:16:04.027Z",
-      "notable": 3
-    },
-    {
-      "id": "e8a32047-b9d8-402d-84ec-352d30d2a6ce",
-      "title": "Praktikum Strategy und M&A (m/w/d)",
-      "company": "Flip GmbH",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/flip/5c890074-a9de-4bbd-9069-3d63307a9d97",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flip-ashby/praktikum-strategy-und-manda-mwd-flip-gmbh-cea919?utm_source=reddit",
-      "postedAt": "2026-11-11T13:16:02.412Z",
-      "notable": 3
-    },
-    {
-      "id": "e8a25526-f2ca-46e6-8f37-50b718ff5049",
-      "title": "Internship Strategy M&A (m/f/d)",
-      "company": "Flip GmbH",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/flip/492ad2f2-cab3-45ed-b736-6508e2245110",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flip-ashby/internship-strategy-manda-mfd-flip-gmbh-be993c?utm_source=reddit",
-      "postedAt": "2026-11-11T13:15:38.649Z",
       "notable": 3
     }
   ],
