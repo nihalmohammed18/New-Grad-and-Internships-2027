@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-12T08:16:55.957Z",
+  "generatedAt": "2026-11-12T08:28:10.917Z",
   "jobs": [
+    {
+      "id": "87af923c-ddc2-4fe5-b4f1-04281bae5c6e",
+      "title": "Discord Community Manager",
+      "company": "OpenArt AI",
+      "place": "Remote",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/openart/62469f77-fd51-4f63-96c1-773707a2112b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/openart/discord-community-manager-openart-ai-30bbbb?utm_source=reddit",
+      "postedAt": "2026-11-12T07:50:29.247Z",
+      "notable": 3
+    },
     {
       "id": "f61d0bf7-c431-41e8-889e-28fc421a11fe",
       "title": "Customer Experience Specialist - Graveyard Shift (Kuala Lumpur)",
@@ -4126,7 +4145,7 @@
     },
     {
       "id": "f1d09cc6-2985-4b80-9d92-dbb07a54e38a",
-      "title": "AI Strategy & Operations Associate",
+      "title": "AI Maxis",
       "company": "Light Inc",
       "place": "Copenhagen, Denmark",
       "category": "Data",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/skelar/customer-support-agent-healthandwellness-app-skelar-7f52b3?utm_source=reddit",
       "postedAt": "2026-11-11T15:19:45.805Z",
       "notable": 3
-    },
-    {
-      "id": "acd5ac2f-b262-4bd6-85cb-183a87294a1c",
-      "title": "Manufacturing Engineer I",
-      "company": "ALTEN Technology USA",
-      "place": "Greenville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$70.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5292425007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/altentechnologyusa/manufacturing-engineer-i-alten-technology-usa-36236b?utm_source=reddit",
-      "postedAt": "2026-11-11T15:15:51.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
