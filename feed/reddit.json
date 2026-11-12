@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:32:55.061Z",
+  "generatedAt": "2026-11-12T13:37:07.500Z",
   "jobs": [
     {
       "id": "30f0d1b9-92ed-4033-b811-206de194706d",
@@ -5778,6 +5778,25 @@
       "notable": 3
     },
     {
+      "id": "cfb16e38-4f8b-465a-991f-d14d8f24b24d",
+      "title": "Associate Systems Analyst-4",
+      "company": "Owens & Minor",
+      "place": "India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/3609-OM-Halyard-India/Associate-Systems-Analyst-4_REQ_26_33618",
+      "firstJobbyUrl": "https://firstjobby.com/companies/owensminororwd1oromcareers/associate-systems-analyst-4-owens-and-minor-52ce8b?utm_source=reddit",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "cdbc5c0a-43f1-4b5d-a526-193872200b0c",
       "title": "Customer Engagement Applications Engineer",
       "company": "KLA",
@@ -6401,6 +6420,25 @@
       "season": null,
       "applyUrl": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/SAUDI-ARABIA-VIRTUAL-SAU/Customer-Engineer_R1155396",
       "firstJobbyUrl": "https://firstjobby.com/companies/ncratleosorwd1orextnonusalteos/customer-engineer-ncr-atleos-80f532?utm_source=reddit",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "bac0f118-0518-4fc1-97ae-01000c394102",
+      "title": "Analyst - Middle Office",
+      "company": "Theapexgroup",
+      "place": "Hyderabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad-Sy-No-53/Analyst---Middle-Office_JR-0027656",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/analyst-middle-office-theapexgroup-0a913c?utm_source=reddit",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "notable": 2
     },
@@ -7254,7 +7292,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://cw.wd1.myworkdayjobs.com/External/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/Project-Manager_R343624",
+      "applyUrl": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---SGP---Singapore---88-Market-Street-47-01/Project-Manager_R343624",
       "firstJobbyUrl": "https://firstjobby.com/companies/cworwd1orexternal/assistant-project-manager-cushman-and-wakefield-2a5d6f?utm_source=reddit",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "notable": 2
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pt-link-net-tbk-1/account-manager-medan-pt-link-net-tbk-7d29b1?utm_source=reddit",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "46329d8e-3f53-4498-b0da-c48ae3be0625",
-      "title": "Procure to Pay Operations Associate",
-      "company": "Accenture",
-      "place": "Jaipur, India",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Procure-to-Pay-Operations-Associate_AIOC-S01674543-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/procure-to-pay-operations-associate-accenture-238eca?utm_source=reddit",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "453b00a8-3265-4a20-ae86-6c49d694f107",
-      "title": "Sales Staff",
-      "company": "BIOTA Smart Home",
-      "place": "West Jakarta, Indonesia",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/E8D2688401",
-      "firstJobbyUrl": "https://firstjobby.com/companies/biota-smart-home/sales-staff-biota-smart-home-766c7d?utm_source=reddit",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
