@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:33:38.988Z",
+  "generatedAt": "2026-11-13T07:40:23.599Z",
   "jobs": [
     {
       "id": "938c3d0f-5f97-4803-aaaa-c9116ddd911d",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/seo-outreach-and-brand-marketing-specialist-jobgether-83d961?utm_source=reddit",
       "postedAt": "2026-11-13T04:49:05.640Z",
       "notable": 3
+    },
+    {
+      "id": "10cb6550-6af7-4e88-9c0a-beba8aa7d22d",
+      "title": "CX Ops Specialist",
+      "company": "Together AI",
+      "place": "San Francisco, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$140.0K-$180.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5292001007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/togetherai/cx-ops-specialist-together-ai-c49a0c?utm_source=reddit",
+      "postedAt": "2026-11-13T04:40:04.000Z",
+      "notable": 4
     },
     {
       "id": "89747ebf-8bcf-4b40-9822-7b18e360d6b1",
@@ -588,6 +607,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000161419469-data-analyst",
       "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/data-analyst-avery-dennison-d69f2a?utm_source=reddit",
       "postedAt": "2026-11-13T02:00:47.500Z",
+      "notable": 3
+    },
+    {
+      "id": "b544465d-d307-426d-bf10-39fa6b7fb0ae",
+      "title": "Operations Analyst",
+      "company": "Noble Machines, Inc",
+      "place": "Sunnyvale, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$115.0K-$150.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4480651009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/undercontrolroboticsinc/operations-analyst-noble-machines-inc-1b5ec3?utm_source=reddit",
+      "postedAt": "2026-11-13T01:53:54.000Z",
       "notable": 3
     },
     {
@@ -6101,25 +6139,6 @@
       "notable": 3
     },
     {
-      "id": "795e7c89-95ca-4bb3-9011-5a4b91a4f54e",
-      "title": "Project Operations Specialist",
-      "company": "Adyen",
-      "place": "Chicago, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$100.0K-$154.5K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/adyen/jobs/8383647",
-      "firstJobbyUrl": "https://firstjobby.com/companies/adyen/project-operations-specialist-adyen-ab25ac?utm_source=reddit",
-      "postedAt": "2026-11-12T18:26:02.000Z",
-      "notable": 5
-    },
-    {
       "id": "62fdd099-9bc5-4192-ade7-333c175d03ef",
       "title": "Multi-Media Account Executive",
       "company": "Townsquare Media",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000161321159",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/technical-engineer-for-virtual-products-at-aerospace-and-infrastructure-mwd-sopr-70dd0d?utm_source=reddit",
       "postedAt": "2026-11-12T14:56:57.911Z",
-      "notable": 3
-    },
-    {
-      "id": "e16e70c6-84bd-468b-87ef-07570874771e",
-      "title": "Career Services Coordinator",
-      "company": "Aviation Institute of Maintenance",
-      "place": "Hasbrouck Heights, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$28/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5480153008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aviationinstituteofmaintenance/career-services-coordinator-aviation-institute-of-maintenance-969dfe?utm_source=reddit",
-      "postedAt": "2026-11-12T14:56:48.000Z",
       "notable": 3
     }
   ],
