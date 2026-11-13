@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:40:23.599Z",
+  "generatedAt": "2026-11-13T07:46:45.071Z",
   "jobs": [
     {
       "id": "938c3d0f-5f97-4803-aaaa-c9116ddd911d",
@@ -968,6 +968,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/LatchBio/cc144a1e-2dd8-4566-a0b4-7c2a1e7063b6",
       "firstJobbyUrl": "https://firstjobby.com/companies/latchbio-ashby/research-engineer-biology-latchbio-1939ba?utm_source=reddit",
       "postedAt": "2026-11-13T00:13:46.471Z",
+      "notable": 2
+    },
+    {
+      "id": "057a35b2-ee9c-4a63-8975-6d8ab24f2aeb",
+      "title": "DevOps Support Engineer (Western AU)",
+      "company": "Octopus Deploy",
+      "place": "Remote from Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$100.0K-A$110.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.anz.greenhouse.io/octopusdeploy/jobs/4008870201",
+      "firstJobbyUrl": "https://firstjobby.com/companies/octopusdeploy/devops-support-engineer-western-au-octopus-deploy-62d03a?utm_source=reddit",
+      "postedAt": "2026-11-13T00:05:50.000Z",
       "notable": 2
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6256141004",
       "firstJobbyUrl": "https://firstjobby.com/companies/rushstreetinteractive/sportsbook-and-online-casino-customer-support-agent-swing-shift-rush-street-inte-7ea54e?utm_source=reddit",
       "postedAt": "2026-11-12T14:58:26.000Z",
-      "notable": 3
-    },
-    {
-      "id": "99003a29-8e7d-4dba-887f-8fc3314ffdc3",
-      "title": "Technical Engineer for Virtual Products at Aerospace & Infrastructure (m/w/d)",
-      "company": "Sopra Steria",
-      "place": "Hamburg, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000161321159",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/technical-engineer-for-virtual-products-at-aerospace-and-infrastructure-mwd-sopr-70dd0d?utm_source=reddit",
-      "postedAt": "2026-11-12T14:56:57.911Z",
       "notable": 3
     }
   ],
