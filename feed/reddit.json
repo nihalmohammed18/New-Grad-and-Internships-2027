@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:06:31.690Z",
+  "generatedAt": "2026-11-13T06:31:50.366Z",
   "jobs": [
     {
       "id": "d776c050-463c-4507-a6a4-40e60933ab1a",
@@ -819,6 +819,25 @@
       "notable": 2
     },
     {
+      "id": "f9002606-60c3-4c9f-82b9-6aa5e6ef296c",
+      "title": "IT Service Desk Specialist",
+      "company": "Genesys",
+      "place": "Manila, Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Manila-Flexible/IT-Service-Desk-Specialist_JR113077",
+      "firstJobbyUrl": "https://firstjobby.com/companies/genesysorwd1orgenesys/it-service-desk-specialist-genesys-2bf267?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f750c645-722c-4e40-8200-8d2d8e9a5d2c",
       "title": "Technical Product Marketing Intern",
       "company": "Bask Health",
@@ -1425,6 +1444,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cnxorwd1orexternalglobal/specialist-sales-development-advisor-sea-english-cnx-d30b9a?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4a7d3927-83f8-4c67-ae8d-6204a1910711",
+      "title": "Sales Dev Associate",
+      "company": "Zebra",
+      "place": "Chicago, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$30-$44/hr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Chicago-Illinois/Sales-Dev-Associate_JR104006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/zebraorwd501orzebracareers/sales-dev-associate-zebra-a6551c?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "45104115-0c7c-4507-a321-f93bc70187ca",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161311330",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/praktikum-digital-marketing-communication-bosch-group-1ee0c3?utm_source=reddit",
       "postedAt": "2026-11-12T14:23:17.709Z",
-      "notable": 3
-    },
-    {
-      "id": "43fb585e-7252-4693-823c-56afbeacb8f1",
-      "title": "Sales Executive Bulgaria",
-      "company": "Delivery Hero",
-      "place": "Varna, Bulgaria",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000161312500",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-bulgaria-delivery-hero-41b647?utm_source=reddit",
-      "postedAt": "2026-11-12T14:22:36.510Z",
-      "notable": 3
-    },
-    {
-      "id": "351e9f63-c777-4f58-ade2-44aa2aa4a21d",
-      "title": "Pflichtpraktikum im Marketing",
-      "company": "Bosch Group",
-      "place": "Ludwigsburg, Germany",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161312629",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/pflichtpraktikum-im-marketing-bosch-group-8158c2?utm_source=reddit",
-      "postedAt": "2026-11-12T14:22:23.428Z",
       "notable": 3
     }
   ],
