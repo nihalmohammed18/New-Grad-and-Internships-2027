@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:13:57.925Z",
+  "generatedAt": "2026-11-13T10:16:28.773Z",
   "jobs": [
     {
       "id": "33b3ee08-454a-48ab-9941-5aa9c6f169db",
@@ -3513,6 +3513,25 @@
       "season": null,
       "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-583497-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/analytics-consultant-wells-fargo-b2bb45?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "175158d7-e586-4f67-bd34-50bd9e318456",
+      "title": "Analyst, Newsroom Data",
+      "company": "Dow Jones",
+      "place": "New York, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": "September 2026",
+      "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Analyst--Newsroom-Data_Job_Req_55391-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dowjonesorwd1ordowjonescareer/analyst-newsroom-data-dow-jones-627fd5?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gdmsi/component-engineer-general-dynamics-missions-system-international-615b06?utm_source=reddit",
       "postedAt": "2026-11-12T16:19:25.284Z",
       "notable": 4
-    },
-    {
-      "id": "fe96110c-33c8-402e-a28a-b780ae93f4d1",
-      "title": "INTERNSHIP - CMF Designer M/F/X",
-      "company": "Salomon",
-      "place": "Annecy, France",
-      "category": "Design",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€700/mo",
-      "minYears": null,
-      "season": "January/February 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/Salomon/744000161340859",
-      "firstJobbyUrl": "https://firstjobby.com/companies/salomon/internship-cmf-designer-mfx-salomon-c24edb?utm_source=reddit",
-      "postedAt": "2026-11-12T16:18:15.150Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
