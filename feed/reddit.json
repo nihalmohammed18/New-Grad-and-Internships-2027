@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:36:19.833Z",
+  "generatedAt": "2026-11-13T05:41:49.360Z",
   "jobs": [
     {
       "id": "d776c050-463c-4507-a6a4-40e60933ab1a",
@@ -1180,6 +1180,25 @@
       "notable": 2
     },
     {
+      "id": "588860bd-b701-421f-96f4-e3ece32d1444",
+      "title": "Software Engineer",
+      "company": "Barclays",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000121951-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/barclaysorwd3orexternalcareersitebarclays/software-engineer-barclays-470605?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "56a6f4c3-3c60-49f2-af41-f8acb2b6f5b5",
       "title": "Vaccine Sales North 桃園 CVRM",
       "company": "GSK",
@@ -1596,6 +1615,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/globalfoundriesorwd1orexternal/associate-engineer-contamination-free-manufacturing-cfm-globalfoundries-3492db?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "293c48f3-9120-4b0c-909d-f8994b5cb0b3",
+      "title": "Software Engineer",
+      "company": "Barclays",
+      "place": "Pune, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Software-Engineer_JR-0000121952-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/barclaysorwd3orexternalcareersitebarclays/software-engineer-barclays-2179d9?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "2766c3ad-0ac6-4993-a122-5e328cdf137f",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000161310687",
       "firstJobbyUrl": "https://firstjobby.com/companies/universityhealthnetwork/analyst-ukg-workforce-management-university-health-network-fd96a4?utm_source=reddit",
       "postedAt": "2026-11-12T14:16:08.055Z",
-      "notable": 5
-    },
-    {
-      "id": "e57eb3ff-2269-4f9d-927e-edb33c3c60bd",
-      "title": "Werkstudent*in in People, Operations & Sales Support (m/w/d)",
-      "company": "Wacom Europe GmbH",
-      "place": "Düsseldorf, Germany",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://careersineurope.wacom.com/o/werkstudentin-in-people-operations-sales-support-mwd",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wacomeurope/werkstudentin-in-people-operations-and-sales-support-mwd-wacom-europe-gmbh-94a0a2?utm_source=reddit",
-      "postedAt": "2026-11-12T14:12:56.000Z",
-      "notable": 1
-    },
-    {
-      "id": "4e88e782-b19a-458c-a151-31f35214ce2d",
-      "title": "Summer 2027: Data Science Intern (May to August)",
-      "company": "SharkNinja",
-      "place": "Needham, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$26-$33/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sharkninjaoperatingllc/summer-2027-data-science-intern-may-to-august-sharkninja-b93fd3?utm_source=reddit",
-      "postedAt": "2026-11-12T14:12:52.000Z",
       "notable": 5
     }
   ],
