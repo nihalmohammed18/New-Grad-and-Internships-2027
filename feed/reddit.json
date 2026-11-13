@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-13T14:44:33.280Z",
+  "generatedAt": "2026-11-13T14:49:54.855Z",
   "jobs": [
+    {
+      "id": "ddc8de76-da2c-4c09-b8bc-44362e0e9155",
+      "title": "Research Scientist – Foundation Models and Multimodal AI",
+      "company": "Owkin",
+      "place": "Paris, France",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/owkin/9de3763d-8987-47dc-988d-1fa6a82d52a2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/owkin-ashby/research-scientist-foundation-models-and-multimodal-ai-owkin-e445a5?utm_source=reddit",
+      "postedAt": "2026-11-13T14:20:50.414Z",
+      "notable": 1
+    },
     {
       "id": "15d32661-c1c7-4544-a2f1-73c2d291e6f7",
       "title": "Engineering Analyst - Magnetic Engineering",
@@ -2279,6 +2298,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b",
       "firstJobbyUrl": "https://firstjobby.com/companies/openai-ashby/onboarding-coordinator-apac-openai-ae5f8d?utm_source=reddit",
       "postedAt": "2026-11-13T08:50:39.477Z",
+      "notable": 3
+    },
+    {
+      "id": "5bcfea25-5833-4c9b-8ae8-0329a358c9e8",
+      "title": "Sales Development Representative, Japanese-speaker",
+      "company": "AlphaSense",
+      "place": "Singapore, Singapore",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8940861002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alphasense/sales-development-representative-japanese-speaker-alphasense-19f3f4?utm_source=reddit",
+      "postedAt": "2026-11-13T08:47:51.000Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-or-distributed-system-fullstack-pythongo-java-ai-4-years-cisco-9b76fe?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "09d9c467-55f0-4a39-ab87-43d74475b0e7",
-      "title": "Engineer Sales HMS",
-      "company": "Plansee Group",
-      "place": "Ghaziabad, India",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://myhr.wd3.myworkdayjobs.com/PlanseeGroup_Career/job/Ghaziabad-India/Engineer-Sales-HMS_JR-12911",
-      "firstJobbyUrl": "https://firstjobby.com/companies/myhrorwd3orplanseegroupcareer/engineer-sales-hms-plansee-group-afbd8a?utm_source=reddit",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "099d9b19-0da1-426d-9603-960abaebf39b",
-      "title": "Product Security Engineer",
-      "company": "Rapsodo",
-      "place": "İzmir, Turkey",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/AC6EA2EC00",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rapsodo/product-security-engineer-rapsodo-da3c63?utm_source=reddit",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
