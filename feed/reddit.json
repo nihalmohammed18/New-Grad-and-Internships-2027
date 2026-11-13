@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-13T07:25:42.273Z",
+  "generatedAt": "2026-11-13T07:33:38.988Z",
   "jobs": [
+    {
+      "id": "938c3d0f-5f97-4803-aaaa-c9116ddd911d",
+      "title": "Intern, Compiler Engineer",
+      "company": "Samsung Semiconductor",
+      "place": "San Jose, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$28-$68/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/samsungsemiconductor/intern-compiler-engineer-samsung-semiconductor-3bb533?utm_source=reddit",
+      "postedAt": "2026-11-13T06:23:34.000Z",
+      "notable": 5
+    },
     {
       "id": "34afc503-1976-4042-bcd6-d26f51701e15",
       "title": "SDE I -ServiceNow",
@@ -399,6 +418,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/performance-analyst-jobgether-7fbed4?utm_source=reddit",
       "postedAt": "2026-11-13T03:08:11.322Z",
       "notable": 3
+    },
+    {
+      "id": "667e55ba-6800-42d1-b8b7-1faa90ffe375",
+      "title": "Data Engineer, Security Analytics",
+      "company": "Wayve",
+      "place": "Sunnyvale, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": "$186.1K-$243.3K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wayve-ashby/data-engineer-security-analytics-wayve-7a970c?utm_source=reddit",
+      "postedAt": "2026-11-13T03:06:25.528Z",
+      "notable": 6
     },
     {
       "id": "da28cd6a-e581-4fd5-aae6-c7865602b8a8",
@@ -3989,7 +4027,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/khaerospace/jobs/4753781005",
       "firstJobbyUrl": "https://firstjobby.com/companies/khaerospace/engineering-technician-kh-aerospace-9fe15b?utm_source=reddit",
       "postedAt": "2026-11-12T20:58:19.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "b6fa9c3c-1d22-4ae9-ac42-eac6b7e95ed2",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5480153008",
       "firstJobbyUrl": "https://firstjobby.com/companies/aviationinstituteofmaintenance/career-services-coordinator-aviation-institute-of-maintenance-969dfe?utm_source=reddit",
       "postedAt": "2026-11-12T14:56:48.000Z",
-      "notable": 3
-    },
-    {
-      "id": "e2405102-df54-4ca1-98b3-1100ee81b3dd",
-      "title": "Data Analyst",
-      "company": "Viseven",
-      "place": "Bucharest, Romania",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/viseven/ecb4d58c-d8f7-40be-b359-c8faef089b1e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/viseven/data-analyst-viseven-f54761?utm_source=reddit",
-      "postedAt": "2026-11-12T14:55:52.656Z",
-      "notable": 1
-    },
-    {
-      "id": "c2b9f514-baf2-4356-b847-a5a47492278e",
-      "title": "Customer Support (Working Student) (m/f/d)",
-      "company": "voize",
-      "place": "Berlin, Germany",
-      "category": "Customer Support",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/voize/11065aea-43c0-4d09-9f25-85eecb91f038",
-      "firstJobbyUrl": "https://firstjobby.com/companies/voize/customer-support-working-student-mfd-voize-93e9f2?utm_source=reddit",
-      "postedAt": "2026-11-12T14:55:39.618Z",
       "notable": 3
     }
   ],
