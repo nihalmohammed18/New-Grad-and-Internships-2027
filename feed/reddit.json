@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-13T06:56:45.910Z",
+  "generatedAt": "2026-11-13T07:14:41.218Z",
   "jobs": [
+    {
+      "id": "34afc503-1976-4042-bcd6-d26f51701e15",
+      "title": "SDE I -ServiceNow",
+      "company": "Entain",
+      "place": "Hyderabad, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Entain/744000161428530-sde-i-servicenow",
+      "firstJobbyUrl": "https://firstjobby.com/companies/entain/sde-i-servicenow-entain-c486fb?utm_source=reddit",
+      "postedAt": "2026-11-13T05:54:23.468Z",
+      "notable": 3
+    },
     {
       "id": "d776c050-463c-4507-a6a4-40e60933ab1a",
       "title": "Marketing and Commercial Specialist",
@@ -629,6 +648,25 @@
       "notable": 3
     },
     {
+      "id": "5ba71788-58c3-4970-9a44-0b4d04f03998",
+      "title": "Laboratory Technician I - Organic Prep (Multiple Shifts) Eurofins Environment Testing Southwest, Calscience, Tustin, CA",
+      "company": "Eurofins",
+      "place": "Tustin, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$18-$22/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161398769-laboratory-technician-i-organic-prep-multiple-shifts-eurofins-environment-testing-southwest-calscience-tustin-ca",
+      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-technician-i-organic-prep-multiple-shifts-eurofins-environment-testin-58c6ad?utm_source=reddit",
+      "postedAt": "2026-11-13T00:54:12.721Z",
+      "notable": 6
+    },
+    {
       "id": "1e33a37f-659f-4223-99cf-aa373fb793f8",
       "title": "Business Development Representative (New York, NY)",
       "company": "Box",
@@ -680,7 +718,7 @@
       "pay": "$18-$22/hr",
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161398409-chemist-i-gcms-m-f-1p-10p-eurofins-environment-testing-southwest-calscience-tustin-ca",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161398409",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/chemist-i-gcms-m-f-1p-10p-eurofins-environment-testing-southwest-calscience-tust-37cf98?utm_source=reddit",
       "postedAt": "2026-11-13T00:41:54.823Z",
       "notable": 5
@@ -1368,6 +1406,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/entegrisorwd1orentegriscareers/engineer-ii-electrical-engineering-entegris-61ca8c?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7ec3aa03-9c89-4fcf-9ef0-bf543279bae5",
+      "title": "Account Executive",
+      "company": "blueAPACHE",
+      "place": "Sydney, Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/4D6AA83E71",
+      "firstJobbyUrl": "https://firstjobby.com/companies/blueapache-pty-ltd/account-executive-blueapache-61f8b0?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "6f3ab597-03c5-498d-bd93-509385cfc53d",
@@ -2656,7 +2713,7 @@
       "pay": "$90.0K-$115.0K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SEAKREngineering/744000161391534-hardware-integration-test-engineer-ii",
+      "applyUrl": "https://jobs.smartrecruiters.com/SEAKREngineering/744000161391534",
       "firstJobbyUrl": "https://firstjobby.com/companies/seakrengineering/hardware-integration-and-test-engineer-ii-seakr-engineering-f266b9?utm_source=reddit",
       "postedAt": "2026-11-12T22:32:16.913Z",
       "notable": 2
@@ -2827,7 +2884,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/UmdaschGroup/744000161390589-customer-service-representative",
+      "applyUrl": "https://jobs.smartrecruiters.com/UmdaschGroup/744000161390589",
       "firstJobbyUrl": "https://firstjobby.com/companies/umdaschgroup/customer-service-representative-umdasch-group-32a1d3?utm_source=reddit",
       "postedAt": "2026-11-12T22:18:38.252Z",
       "notable": 3
@@ -2903,7 +2960,7 @@
       "pay": "CA$22-CA$25/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161390089-procurement-co-op",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161390089",
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/procurement-co-op-veolia-environnement-sa-942d9e?utm_source=reddit",
       "postedAt": "2026-11-12T22:13:33.510Z",
       "notable": 6
@@ -3036,7 +3093,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Ubisoft2/744000161389089-casting-production-coordinator",
+      "applyUrl": "https://jobs.smartrecruiters.com/Ubisoft2/744000161389089",
       "firstJobbyUrl": "https://firstjobby.com/companies/ubisoft2/casting-production-coordinator-ubisoft-cbd25c?utm_source=reddit",
       "postedAt": "2026-11-12T22:01:49.606Z",
       "notable": 3
@@ -3264,7 +3321,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161386719-account-representative-industrial-water-treatment",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161386719",
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/account-representative-industrial-water-treatment-veolia-environnement-sa-575fbf?utm_source=reddit",
       "postedAt": "2026-11-12T21:41:26.444Z",
       "notable": 4
@@ -4670,7 +4727,7 @@
       "pay": "$18-$20/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161372839-sample-receiving-technician-2nd-shift-eurofins-environment-testing-northeast-north-kingstown-ri",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161372839",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/sample-receiving-technician-2nd-shift-eurofins-environment-testing-northeast-nor-de11a0?utm_source=reddit",
       "postedAt": "2026-11-12T19:45:16.917Z",
       "notable": 6
@@ -4936,7 +4993,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000161371009-assistente-de-marketing-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000161371009",
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/assistente-de-marketing-accorhotel-ae4841?utm_source=reddit",
       "postedAt": "2026-11-12T19:27:56.942Z",
       "notable": 3
@@ -7849,25 +7906,6 @@
       "notable": 3
     },
     {
-      "id": "96bd6d7d-2c49-40ee-a523-bb8bebbfb0ea",
-      "title": "Associate Electrical, Instrumentation & Controls Engineer - Water Technologies",
-      "company": "Veolia",
-      "place": "Oakville, Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$70.0K-CA$85.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161340179-associate-electrical-instrumentation-controls-engineer-water-technologies",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/associate-electrical-instrumentation-and-controls-engineer-water-technologies-ve-cef404?utm_source=reddit",
-      "postedAt": "2026-11-12T16:16:10.415Z",
-      "notable": 5
-    },
-    {
       "id": "cba247c8-e338-4c47-8a72-86c018a5a8b1",
       "title": "B2B Subscriptions, Marketing Intern",
       "company": "The New York Times",
@@ -9462,52 +9500,14 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sonicwall/renewals-inside-sales-rep-sonicwall-329dc8?utm_source=reddit",
       "postedAt": "2026-11-12T14:45:01.000Z",
       "notable": 1
-    },
-    {
-      "id": "ea9c03a6-13b6-4323-bdb7-2ef9a7e6ba1e",
-      "title": "Inside Sales Representative",
-      "company": "Bosch Home Comfort",
-      "place": "Elmhurst, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Bosch-HomeComfort/744000161314986",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bosch-homecomfort/inside-sales-representative-bosch-homecomfort-38d350?utm_source=reddit",
-      "postedAt": "2026-11-12T14:43:54.249Z",
-      "notable": 3
-    },
-    {
-      "id": "391bddff-4918-4b11-8dba-f2c9b5d2eced",
-      "title": "Digital Marketing Executive - Premier League FTC 12 months)",
-      "company": "Wearebeyondsports",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/wearebeyondsports/62765123-d682-425b-bb37-beb6b6c51bda",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wearebeyondsports/digital-marketing-executive-premier-league-ftc-12-months-wearebeyondsports-d8c965?utm_source=reddit",
-      "postedAt": "2026-11-12T14:42:09.568Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
-    "title": "Junior Road and Drainage Designer (for projects in Sweden)",
-    "company": "AFRY",
-    "place": "Łódź, Łódź Voivodeship, Poland",
+    "title": "Junior Strategic Procurement (SEA)- Chemical background",
+    "company": "Veolia",
+    "place": "Bangkok, , Thailand",
     "minYears": 4,
-    "applyUrl": "https://jobs.smartrecruiters.com/AFRY/744000161280979",
-    "firstJobbyUrl": "https://firstjobby.com/companies/afry/junior-road-and-drainage-designer-for-projects-in-sweden-afry-d7f2b2?utm_source=reddit"
+    "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161430158-junior-strategic-procurement-sea-chemical-background",
+    "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/junior-strategic-procurement-sea-chemical-background-veolia-environnement-sa-90c1a3?utm_source=reddit"
   }
 }
