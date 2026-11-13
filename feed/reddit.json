@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:11:45.668Z",
+  "generatedAt": "2026-11-13T15:16:10.258Z",
   "jobs": [
     {
       "id": "b4134903-18c0-46c3-9862-03d02d923d9c",
@@ -6215,6 +6215,25 @@
       "notable": 2
     },
     {
+      "id": "b1bb6271-4b15-476c-a8c8-91022a7897ee",
+      "title": "Named Account Manager, CLMB",
+      "company": "Palo Alto Networks",
+      "place": "Singapore",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Singapore---Singapore/Named-Account-Manager--CLMB_JR-024463",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paloaltonetworksorwd5orpanwexternalcareers/named-account-manager-clmb-palo-alto-networks-885dc4?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "b0562fe6-f23b-40c1-95f2-9af2785b452f",
       "title": "Software Developer for Lab Test Means (d/f/m)",
       "company": "Airbus",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/2FCE4A1F32",
       "firstJobbyUrl": "https://firstjobby.com/companies/stranger-soccer-1/specialist-operations-stranger-soccer-ac6720?utm_source=reddit",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "206cda4a-518b-4f55-8ac7-fefb29134866",
-      "title": "AI-Assisted Story Writer (1099 Contract)",
-      "company": "Crazy Maple Studio",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$3.0K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/E0C76EB812",
-      "firstJobbyUrl": "https://firstjobby.com/companies/crazymaplestudio/ai-assisted-story-writer-1099-contract-crazy-maple-studio-9890c2?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 3
     }
