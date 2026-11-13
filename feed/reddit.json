@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:41:49.360Z",
+  "generatedAt": "2026-11-13T06:01:56.345Z",
   "jobs": [
     {
       "id": "d776c050-463c-4507-a6a4-40e60933ab1a",
@@ -439,6 +439,25 @@
       "notable": 5
     },
     {
+      "id": "f620f7c9-38f1-44c0-af0b-779d8af5af43",
+      "title": "IT Services Technician",
+      "company": "xAI",
+      "place": "Palo Alto, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$39-$49/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5277827007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/xai/it-services-technician-spacexsi-653fa2?utm_source=reddit",
+      "postedAt": "2026-11-13T02:01:44.000Z",
+      "notable": 5
+    },
+    {
       "id": "f6969a6f-8506-4b38-8d0d-e131a23ed9b6",
       "title": "Field Marketing Specialist",
       "company": "MicroStrategy",
@@ -551,6 +570,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/benchling-ashby/solution-consultant-randd-benchling-d79a1c?utm_source=reddit",
       "postedAt": "2026-11-13T00:30:11.685Z",
       "notable": 5
+    },
+    {
+      "id": "57d993ef-cc05-45f4-ae78-87a6c1957546",
+      "title": "Academic Operations Specialist (Mandarin)",
+      "company": "Think Academy US",
+      "place": "Remote",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$25-$28/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/thinkacademyus/jobs/8201062003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/thinkacademyus/academic-operations-specialist-mandarin-think-academy-us-b4f689?utm_source=reddit",
+      "postedAt": "2026-11-13T00:28:25.000Z",
+      "notable": 4
     },
     {
       "id": "0f6ab2e0-bd8f-44ae-bf59-71f44bf25be2",
@@ -1994,7 +2032,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/zone5technologies/jobs/5478790008",
       "firstJobbyUrl": "https://firstjobby.com/companies/zone5technologies/systems-integration-and-test-technician-iii-zone-5-technologies-5ef80f?utm_source=reddit",
       "postedAt": "2026-11-12T23:18:34.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "f47dbf64-eae5-4cb5-8f6a-e411c00efd38",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/jr-security-evaluator-fault-injection-sgs-1fab9a?utm_source=reddit",
       "postedAt": "2026-11-12T14:17:17.419Z",
       "notable": 3
-    },
-    {
-      "id": "484c6c4b-1445-4e92-afcc-1b3800acbef0",
-      "title": "IT Specialist",
-      "company": "TEGNA Inc.",
-      "place": "Dallas, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/tegnainc/jobs/5290253007?gh_jid=5290253007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tegnainc/it-specialist-tegna-inc-69cf7c?utm_source=reddit",
-      "postedAt": "2026-11-12T14:16:28.000Z",
-      "notable": 2
-    },
-    {
-      "id": "f8b063f4-0149-4431-97fb-a298e0fd3ee2",
-      "title": "Analyst, UKG Workforce Management",
-      "company": "University Health Network",
-      "place": "Toronto, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$68.9K-CA$90.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000161310687",
-      "firstJobbyUrl": "https://firstjobby.com/companies/universityhealthnetwork/analyst-ukg-workforce-management-university-health-network-fd96a4?utm_source=reddit",
-      "postedAt": "2026-11-12T14:16:08.055Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
