@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:17:11.652Z",
+  "generatedAt": "2026-11-13T12:29:52.076Z",
   "jobs": [
     {
       "id": "12c6bbae-973c-4658-bef9-3873500ee525",
@@ -7013,6 +7013,25 @@
       "notable": 2
     },
     {
+      "id": "1e9eb523-6b83-4f4e-bd6a-4dec0da649d1",
+      "title": "Software Integrator Engineer",
+      "company": "BorgWarner",
+      "place": "Krakow, Poland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Krakow---Poland/Software-Integrator-Engineer_R2026-4514",
+      "firstJobbyUrl": "https://firstjobby.com/companies/borgwarnerorwd5orborgwarnercareers/software-integrator-engineer-borgwarner-121124?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "1e0a8760-2bd5-4622-9b00-ebd2731b778c",
       "title": "Education Designer - Student Leadership Project",
       "company": "Usyd",
@@ -7258,6 +7277,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/systems-engineer-ii-medtronic-633e65?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0ef2f517-0ca3-4cce-87aa-e131296dac1c",
+      "title": "Functional Safety Engineer",
+      "company": "BorgWarner",
+      "place": "Krakow, Poland",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Krakow---Poland/Functional-Safety-Engineer_R2026-4519",
+      "firstJobbyUrl": "https://firstjobby.com/companies/borgwarnerorwd5orborgwarnercareers/functional-safety-engineer-borgwarner-f9289e?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "0ea34b0a-852a-44d0-a91a-788887ba45fd",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/apexcompanies/environmental-engineer-apex-companies-cae3d0?utm_source=reddit",
       "postedAt": "2026-11-12T20:48:17.000Z",
       "notable": 4
-    },
-    {
-      "id": "5b08b6bf-16ce-4e42-a6a0-0dd1b9889067",
-      "title": "OPERATIONS ANALYST I | REAL ESTATE AFTER SALES MG",
-      "company": "Inter Carreiras",
-      "place": "Belo Horizonte, Brazil",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/inter/jobs/4746738005?gh_jid=4746738005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inter/operations-analyst-i-or-real-estate-after-sales-mg-inter-carreiras-5498ea?utm_source=reddit",
-      "postedAt": "2026-11-12T20:47:51.000Z",
-      "notable": 3
-    },
-    {
-      "id": "688e82cb-d01a-4d88-a7ac-731e71b871ae",
-      "title": "Onboarding Engineer",
-      "company": "DigitalOcean",
-      "place": "Karachi, Pakistan",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8358721",
-      "firstJobbyUrl": "https://firstjobby.com/companies/digitalocean98/onboarding-engineer-digitalocean-4a15e8?utm_source=reddit",
-      "postedAt": "2026-11-12T20:47:25.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
