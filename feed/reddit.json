@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:48:56.515Z",
+  "generatedAt": "2026-11-13T12:52:27.458Z",
   "jobs": [
     {
       "id": "12c6bbae-973c-4658-bef9-3873500ee525",
@@ -266,6 +266,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/operations-and-customer-data-coordinator-baltics-bosch-group-f91726?utm_source=reddit",
       "postedAt": "2026-11-13T11:01:02.072Z",
       "notable": 5
+    },
+    {
+      "id": "b002a1a7-72d1-4f84-8d3f-95a7a97cb8a4",
+      "title": "Field Sales Representative (München)",
+      "company": "Jack Link's Protein Snacks",
+      "place": "München, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000161461415-field-sales-representative-munchen-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jacklinksproteinsnacks/field-sales-representative-munchen-jack-links-protein-snacks-2566a6?utm_source=reddit",
+      "postedAt": "2026-11-13T10:59:34.048Z",
+      "notable": 3
     },
     {
       "id": "36fce3e2-bd2d-441a-b01d-3768c665184a",
@@ -4237,6 +4256,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thomsonreutersorwd5orexternalcareersite/software-engineer-thomson-reuters-a60307?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "bead392a-9088-43e3-95ab-457c64a4c974",
+      "title": "AI-Native Software Engineer (Palcement: PT Stella Satindo Brand BIOTA & Matrix)",
+      "company": "BIOTA Smart Home",
+      "place": "Indonesia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/F37FBDD040",
+      "firstJobbyUrl": "https://firstjobby.com/companies/biota-smart-home/ai-native-software-engineer-palcement-pt-stella-satindo-brand-biota-and-matrix-b-7447a9?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "bdc5f219-a38b-4b37-a19e-845b794f1238",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
       "firstJobbyUrl": "https://firstjobby.com/companies/shieldai/2027-summer-intern-solution-systems-engineer-6537-6540-6541-shield-ai-d6487f?utm_source=reddit",
       "postedAt": "2026-11-12T21:11:30.641Z",
-      "notable": 5
-    },
-    {
-      "id": "e6fe0881-1ce8-4d11-bf3f-929486aa18cc",
-      "title": "Customer Experience Intern - Summer 2027",
-      "company": "Veeam Software",
-      "place": "United States",
-      "category": "Customer Support",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$25/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5035360101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/veeamsoftware/customer-experience-intern-summer-2027-veeam-software-f75bf9?utm_source=reddit",
-      "postedAt": "2026-11-12T21:02:06.000Z",
-      "notable": 5
-    },
-    {
-      "id": "e447ccbf-108a-450c-81e4-e3224d0b6b4d",
-      "title": "Customer Onboarding Specialist",
-      "company": "Topline Pro",
-      "place": "Brooklyn, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/topline-pro/809f322f-9be8-4afc-be86-ff8c110fd1af",
-      "firstJobbyUrl": "https://firstjobby.com/companies/topline-pro/customer-onboarding-specialist-topline-pro-32af7d?utm_source=reddit",
-      "postedAt": "2026-11-12T20:59:33.566Z",
       "notable": 5
     }
   ],
