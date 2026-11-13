@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:21:58.479Z",
+  "generatedAt": "2026-11-13T15:26:18.404Z",
   "jobs": [
     {
       "id": "b4134903-18c0-46c3-9862-03d02d923d9c",
@@ -6538,6 +6538,25 @@
       "notable": 2
     },
     {
+      "id": "9fe09781-9cf6-4ee0-a161-abed83f76f52",
+      "title": "IS Business Intelligence Analyst I",
+      "company": "Nationwide Children's Hospital",
+      "place": "Remote",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nationwidechildrensorwd5ornchcareers/is-business-intelligence-analyst-i-nationwide-childrens-hospital-895804?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "9f87b3de-c147-4a13-bb3e-d4c9173f2755",
       "title": "External Hiring|Team Leader- Operations|International|22122026",
       "company": "Onetp",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unileverorwd3orunileverexperiencedprofessionals/shift-engineer-unilever-0b93e3?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "25d1f0e7-0756-457c-9527-ed29ac1aefdb",
-      "title": "Performance Marketing Specialist",
-      "company": "Houst",
-      "place": "Cape Town, South Africa",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/7296790F20",
-      "firstJobbyUrl": "https://firstjobby.com/companies/houst/performance-marketing-specialist-houst-a4aed7?utm_source=reddit",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
