@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:26:18.404Z",
+  "generatedAt": "2026-11-13T15:31:35.249Z",
   "jobs": [
     {
       "id": "b4134903-18c0-46c3-9862-03d02d923d9c",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/owkin-ashby/research-scientist-foundation-models-and-multimodal-ai-owkin-e445a5?utm_source=reddit",
       "postedAt": "2026-11-13T14:20:50.414Z",
       "notable": 1
+    },
+    {
+      "id": "1de070b7-0620-4272-99dd-bda7cfa6f574",
+      "title": "Strategy Intern (f/m/d)",
+      "company": "Upvest",
+      "place": "Berlin, Germany",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/upvest/d93327d3-6dfe-423a-9cff-eeb487e0020c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/upvest/strategy-intern-fmd-upvest-5d5ad0?utm_source=reddit",
+      "postedAt": "2026-11-13T14:17:26.196Z",
+      "notable": 3
     },
     {
       "id": "3b322b12-554e-42fc-806d-51ff5c286fec",
@@ -2409,10 +2428,10 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442107-data-scientist-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442107",
       "firstJobbyUrl": "https://firstjobby.com/companies/contilia1/data-scientist-mwd-contilia-8fea28?utm_source=reddit",
       "postedAt": "2026-11-13T08:54:15.925Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "25ca8444-54b9-4f96-836e-07eb0927e1d5",
@@ -2466,10 +2485,10 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442289-business-intelligence-analyst-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442289",
       "firstJobbyUrl": "https://firstjobby.com/companies/contilia1/business-intelligence-analyst-mwd-contilia-b86f6b?utm_source=reddit",
       "postedAt": "2026-11-13T08:53:37.401Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "58f1dee8-df65-4237-a3da-4ca7d029783b",
@@ -2485,10 +2504,10 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442209-data-analyst-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000161442209",
       "firstJobbyUrl": "https://firstjobby.com/companies/contilia1/data-analyst-mwd-contilia-8b550f?utm_source=reddit",
       "postedAt": "2026-11-13T08:53:18.544Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "f1804a40-fcae-430e-96b3-cb8a76f6fc65",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-India/Inside-Sales-Representative-II_R-01372915",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/inside-sales-representative-ii-thermo-fisher-scientific-9980a4?utm_source=reddit",
-      "postedAt": "2026-11-13T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "26f0874e-88c1-4bae-a9b2-2ae6d96f81c4",
-      "title": "Shift Engineer",
-      "company": "Unilever",
-      "place": "Horana, Sri Lanka",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Horana-Sri-Lanka/Shift-Engineer_R-1191550-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unileverorwd3orunileverexperiencedprofessionals/shift-engineer-unilever-0b93e3?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 2
     }
