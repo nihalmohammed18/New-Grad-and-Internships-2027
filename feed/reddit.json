@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:36:28.457Z",
+  "generatedAt": "2026-11-13T08:43:43.142Z",
   "jobs": [
     {
       "id": "938c3d0f-5f97-4803-aaaa-c9116ddd911d",
@@ -113,6 +113,25 @@
       "applyUrl": "https://jobs.lever.co/jobgether/792beda8-d36b-4e48-b314-03b171164d97",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/marketing-and-commercial-specialist-jobgether-1e72e2?utm_source=reddit",
       "postedAt": "2026-11-13T05:20:26.969Z",
+      "notable": 3
+    },
+    {
+      "id": "6a319b54-d436-48a5-b680-9663cce9cdaf",
+      "title": "Content & Brand Producer",
+      "company": "Charge Robotics",
+      "place": "San Leandro, United States",
+      "category": "Marketing",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K-$100.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/charge-robotics/bdaf0693-5e52-4787-8749-a5d3ca57f9ab",
+      "firstJobbyUrl": "https://firstjobby.com/companies/charge-robotics/content-and-brand-producer-charge-robotics-052b28?utm_source=reddit",
+      "postedAt": "2026-11-13T05:10:23.092Z",
       "notable": 3
     },
     {
@@ -1218,6 +1237,25 @@
       "notable": 2
     },
     {
+      "id": "f04b3acd-cd84-4dda-b5c7-a8c799796ade",
+      "title": "Technical Sales – End User Specialist (Eastern Java & Bali Nusra)",
+      "company": "STANLEY Engineered Fastening",
+      "place": "Jakarta, Indonesia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Jakarta-Indonesia/Technical-Sales---End-User-Specialist--Eastern-Java---Bali-Nusra-_REQ-1000053110",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sbdincorwd1orstanleyblackdeckercareersite/technical-sales-end-user-specialist-eastern-java-and-bali-nusra-stanley-engineer-08d1ff?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "e9ce47fc-e672-4891-9a2f-f58cd5b6b7cf",
       "title": "IT Domain GRC Specialist - Back-Office",
       "company": "AVEVA",
@@ -1976,6 +2014,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/barclaysorwd3orexternalcareersitebarclays/software-engineer-barclays-470605?utm_source=reddit",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "586d6bd2-06a7-4081-aab8-741aded66fa0",
+      "title": "Specialist kontrole kakovosti II – funkcionalno testiranje (m/ž/d) / QC Specialist II - Functional Testing (m/f/d)",
+      "company": "Sandoz",
+      "place": "Ljubljana, Slovenia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sandoz.wd103.myworkdayjobs.com/Sandoz_Careers/job/Ljubljana-Sandoz/Specialist-kontrole-kakovosti-II---funkcionalno-testiranje--m--d----QC-Specialist-II---Functional-Testing--m-f-d-_REQ-10033018-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sandozorwd103orsandozcareers/specialist-kontrole-kakovosti-ii-funkcionalno-testiranje-mzd-qc-specialist-ii-fu-dd4daa?utm_source=reddit",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "56a6f4c3-3c60-49f2-af41-f8acb2b6f5b5",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/opengov-ashby/sales-development-representative-opengov-0fe40d?utm_source=reddit",
       "postedAt": "2026-11-12T15:31:13.828Z",
       "notable": 5
-    },
-    {
-      "id": "3386fc36-ccd7-4ae1-b3cd-feff66a1803a",
-      "title": "Sales Development Representative",
-      "company": "OpenGov",
-      "place": "Atlanta, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$50.0K-$60.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/opengov/ac3a197a-3210-4ffa-8da5-0ccb37e11a7e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/opengov-ashby/sales-development-representative-opengov-835df9?utm_source=reddit",
-      "postedAt": "2026-11-12T15:31:00.670Z",
-      "notable": 5
-    },
-    {
-      "id": "c34f36c0-c043-44a4-b0cd-7962d2e33728",
-      "title": "Spécialiste Power BI",
-      "company": "Groupe Helios",
-      "place": "Longueuil, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/GroupeHelios/3743990016818555",
-      "firstJobbyUrl": "https://firstjobby.com/companies/groupehelios/specialiste-power-bi-groupe-helios-f64dc3?utm_source=reddit",
-      "postedAt": "2026-11-12T15:28:33.169Z",
-      "notable": 0
-    },
-    {
-      "id": "2c674c20-f55c-4a3c-ac51-35adf77d6ee9",
-      "title": "Customer Onboarding Specialist - Ontario",
-      "company": "Medfar",
-      "place": "Toronto, Canada",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Medfar/744000161328399",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medfar/customer-onboarding-specialist-ontario-medfar-3bd759?utm_source=reddit",
-      "postedAt": "2026-11-12T15:26:59.077Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
