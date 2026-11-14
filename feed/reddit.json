@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:05:00.939Z",
+  "generatedAt": "2026-11-14T15:40:09.179Z",
   "jobs": [
     {
       "id": "954db20c-07a7-46cd-836e-3f4c8cda2d91",
@@ -644,6 +644,25 @@
       "season": null,
       "applyUrl": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Manila/External-Application-Support-Analyst_R6048",
       "firstJobbyUrl": "https://firstjobby.com/companies/tporwd107ortp-icap/external-application-support-analyst-tp-icap-ef1bb8?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "49e7bd2a-a76b-45fa-9ef8-cbc9bfc8c7ab",
+      "title": "Procurement Officer, Global Procurement (Multi-Category Generalist)",
+      "company": "International Rescue Committee",
+      "place": "Remote from Kenya, Lebanon, Colombia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Nairobi-IHUB-Kenya/Procurement-Officer--Global-Procurement--Multi-Category-Generalist-_JR00006021",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theircorwd1orexternalcareers/procurement-officer-global-procurement-multi-category-generalist-international-r-000c7c?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-f96df7?utm_source=reddit",
       "postedAt": "2026-11-13T14:06:14.000Z",
       "notable": 2
-    },
-    {
-      "id": "b09c1d07-012b-4e24-bfec-53118aa7e8fe",
-      "title": "Business Development Representative",
-      "company": "Vertice",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/vertice/d3edb518-ff1b-4003-a656-e68bc6e2871b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/vertice/business-development-representative-vertice-976f5f?utm_source=reddit",
-      "postedAt": "2026-11-13T14:01:16.207Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
