@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:34:55.922Z",
+  "generatedAt": "2026-11-14T04:36:03.600Z",
   "jobs": [
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -664,6 +664,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/triumph-arcade/8863c7e0-60a5-4775-b15b-d0e46329a230",
       "firstJobbyUrl": "https://firstjobby.com/companies/triumph-arcade/data-engineer-triumph-arcade-42cf1a?utm_source=reddit",
       "postedAt": "2026-11-13T22:38:11.088Z",
+      "notable": 3
+    },
+    {
+      "id": "61ceb374-ed3b-4c0c-8955-16c2ca8384d4",
+      "title": "Bioinformatics Scientist II",
+      "company": "Veracyte",
+      "place": "Remote from United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$122.0K-$170.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://veracyte.com/job-detail?gh_jid=5283519007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/veracyte/bioinformatics-scientist-ii-veracyte-c88748?utm_source=reddit",
+      "postedAt": "2026-11-13T22:38:03.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000161486989",
       "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/ingenieur-developpement-cyber-embarque-industrie-le-plessis-robinson-sopra-steri-236f1f?utm_source=reddit",
       "postedAt": "2026-11-13T13:38:19.552Z",
-      "notable": 3
-    },
-    {
-      "id": "608b24b8-d72f-4fa6-98c8-77a596b5f13a",
-      "title": "Technical Support Analyst with French",
-      "company": "Quadient",
-      "place": "Hradec Králové, Czech Republic",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Quadient1/744000161483123",
-      "firstJobbyUrl": "https://firstjobby.com/companies/quadient1/technical-support-analyst-with-french-quadient-0ea3cd?utm_source=reddit",
-      "postedAt": "2026-11-13T13:37:40.643Z",
       "notable": 3
     }
   ],
