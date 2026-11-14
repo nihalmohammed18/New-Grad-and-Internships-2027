@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:19:12.601Z",
+  "generatedAt": "2026-11-14T01:40:00.362Z",
   "jobs": [
     {
       "id": "5965819d-ee6d-45e7-9c89-2516c57590af",
@@ -74,6 +74,25 @@
       "season": null,
       "applyUrl": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Manila/External-Application-Support-Analyst_R6048",
       "firstJobbyUrl": "https://firstjobby.com/companies/tporwd107ortp-icap/external-application-support-analyst-tp-icap-ef1bb8?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "17519a99-74ba-4970-adc7-2f65064c5f8b",
+      "title": "Business Operations Associate",
+      "company": "Accenture",
+      "place": "Philippines",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/Business-Operations-Associate_R00368234",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/business-operations-associate-accenture-f616d7?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/55595141-428e-48fc-b3b0-0f2895fe8ee4",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/data-engineer-ii-jobgether-e81030?utm_source=reddit",
       "postedAt": "2026-11-13T11:15:12.794Z",
-      "notable": 3
-    },
-    {
-      "id": "a36f6800-50cd-4d69-ba0b-a19767a31c19",
-      "title": "Junior QA Automation Engineer",
-      "company": "Evolution",
-      "place": "Sofia, Bulgaria",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Evolution/744000161464115",
-      "firstJobbyUrl": "https://firstjobby.com/companies/evolution/junior-qa-automation-engineer-evolution-ebd191?utm_source=reddit",
-      "postedAt": "2026-11-13T11:14:09.466Z",
       "notable": 3
     }
   ],
