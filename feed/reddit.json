@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-14T06:05:30.034Z",
+  "generatedAt": "2026-11-14T06:35:33.174Z",
   "jobs": [
+    {
+      "id": "357ac384-13c3-44a2-86ba-4a2203788549",
+      "title": "Analyst, Major League Strategy & Analytics",
+      "company": "Baltimore Orioles",
+      "place": "Baltimore, United States",
+      "category": "Data",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$60.0K-$80.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/6262099004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/baltimoreorioles/analyst-major-league-strategy-and-analytics-baltimore-orioles-a4ab5f?utm_source=reddit",
+      "postedAt": "2026-11-14T04:56:20.000Z",
+      "notable": 3
+    },
     {
       "id": "3b145405-d23b-4906-ab06-0c02ecd7f4ba",
       "title": "Customer Success Account Manager",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-9f34f1?utm_source=reddit",
       "postedAt": "2026-11-13T13:48:37.000Z",
       "notable": 4
-    },
-    {
-      "id": "fafba820-ab4a-4e90-ba47-940680b3a4bb",
-      "title": "Account Executive",
-      "company": "Townsquare Media",
-      "place": "Bozeman, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385465",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/account-executive-townsquare-media-14b1c7?utm_source=reddit",
-      "postedAt": "2026-11-13T13:47:01.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
