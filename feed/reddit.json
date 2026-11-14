@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:57:16.918Z",
+  "generatedAt": "2026-11-14T03:24:23.680Z",
   "jobs": [
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -8742,6 +8742,25 @@
       "notable": 2
     },
     {
+      "id": "207f3901-59d0-4af5-a3fb-fac0c32c1fc6",
+      "title": "Research Associate, Biology",
+      "company": "Stoke Therapeutics",
+      "place": "Waltham, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$85.0K-$102.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.stoketherapeutics.com/careers/job-opportunities/?gh_jid=4729379006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stoketherapeutics/research-associate-biology-stoke-therapeutics-178b2a?utm_source=reddit",
+      "postedAt": "2026-11-13T13:52:55.000Z",
+      "notable": 3
+    },
+    {
       "id": "0c79fb1c-cfa9-4b0b-8d04-54d602002233",
       "title": "Data Engineer",
       "company": "Talon.One",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000161476969",
       "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/working-student-it-solutions-management-mfx-scalable-gmbh-b7a6eb?utm_source=reddit",
       "postedAt": "2026-11-13T12:49:11.802Z",
-      "notable": 3
-    },
-    {
-      "id": "9b873285-cd42-48cb-8b6f-e0abeb0369ef",
-      "title": "Compensation Data Analyst",
-      "company": "Eurofins",
-      "place": "Katowice, Poland",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161476529",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/compensation-data-analyst-eurofins-97f1ac?utm_source=reddit",
-      "postedAt": "2026-11-13T12:46:44.546Z",
       "notable": 3
     }
   ],
