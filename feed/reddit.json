@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:35:33.174Z",
+  "generatedAt": "2026-11-14T06:48:05.964Z",
   "jobs": [
     {
       "id": "357ac384-13c3-44a2-86ba-4a2203788549",
@@ -114,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aptura/ai-operations-generalist-aptura-cdf9f3?utm_source=reddit",
       "postedAt": "2026-11-14T02:33:39.221Z",
       "notable": 2
+    },
+    {
+      "id": "809ea7ec-45fc-4210-8260-ab25e104072f",
+      "title": "Site Acceptance Testing Technician",
+      "company": "Crusoe",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$46/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/Crusoe/2b238a5d-f634-4255-8d51-c17f05dfd29f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/crusoe/site-acceptance-testing-technician-crusoe-0898ba?utm_source=reddit",
+      "postedAt": "2026-11-14T01:49:12.408Z",
+      "notable": 5
     },
     {
       "id": "64f02a03-96b5-4dbd-8545-07af26a329af",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ifs1/account-executive-install-base-ifs-bbe275?utm_source=reddit",
       "postedAt": "2026-11-13T13:50:08.723Z",
       "notable": 3
-    },
-    {
-      "id": "2a6c833c-c350-4f72-9962-cc8aae11397b",
-      "title": "Multi-Media Account Executive",
-      "company": "Townsquare Media",
-      "place": "Buffalo, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$40.0K-$45.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385470",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-9f34f1?utm_source=reddit",
-      "postedAt": "2026-11-13T13:48:37.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
