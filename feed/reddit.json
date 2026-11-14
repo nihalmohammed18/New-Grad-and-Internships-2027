@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:56:34.375Z",
+  "generatedAt": "2026-11-14T10:01:43.119Z",
   "jobs": [
     {
       "id": "ada529b4-be6e-4c1d-bba9-f83caa9dd095",
@@ -946,7 +946,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000161588548-sales-executive",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000161588548",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-delivery-hero-a055a3?utm_source=reddit",
       "postedAt": "2026-11-13T22:32:54.730Z",
       "notable": 3
@@ -9160,6 +9160,25 @@
       "notable": 3
     },
     {
+      "id": "30094b97-bda2-4027-8459-21e35b95da8c",
+      "title": "Quality Assurance Engineer",
+      "company": "Provenir Inc",
+      "place": "Bengaluru, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/ProvenirInc/589a6c56-c57e-43f0-8c7f-5dc1f4d14cb0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/provenirinc/quality-assurance-engineer-provenir-inc-257eba?utm_source=reddit",
+      "postedAt": "2026-11-13T14:09:01.694Z",
+      "notable": 1
+    },
+    {
       "id": "02da56f7-03dd-4119-962d-0dd666959ea8",
       "title": "Data Engineer",
       "company": "Sia",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/talonone/data-engineer-talonone-553a9d?utm_source=reddit",
       "postedAt": "2026-11-13T13:52:42.000Z",
       "notable": 1
-    },
-    {
-      "id": "04e2e633-3635-4dc2-a7a2-6c77064d3f97",
-      "title": "Data Engineer",
-      "company": "Talon.One LinkedIn Jobs",
-      "place": "Berlin, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/linkedinjobs/jobs/5035909101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/linkedinjobs/data-engineer-talonone-linkedin-jobs-708802?utm_source=reddit",
-      "postedAt": "2026-11-13T13:52:40.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
