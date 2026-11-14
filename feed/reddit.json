@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:23:04.824Z",
+  "generatedAt": "2026-11-14T08:56:34.375Z",
   "jobs": [
     {
       "id": "ada529b4-be6e-4c1d-bba9-f83caa9dd095",
@@ -1117,7 +1117,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161585473-materials-analyst-microscopy-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161585473",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/materials-analyst-microscopy-eurofins-19f95c?utm_source=reddit",
       "postedAt": "2026-11-13T22:15:55.369Z",
       "notable": 3
@@ -1193,7 +1193,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161586159-materials-and-process-qc-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161586159",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/materials-and-process-qc-engineer-eurofins-337156?utm_source=reddit",
       "postedAt": "2026-11-13T22:10:34.097Z",
       "notable": 3
@@ -1250,7 +1250,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161585519-upstream-process-development-engineer-entry-level-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161585519",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/upstream-process-development-engineer-entry-level-eurofins-0460db?utm_source=reddit",
       "postedAt": "2026-11-13T22:06:44.484Z",
       "notable": 4
@@ -1421,7 +1421,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161582449-hplc-scientist",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161582449",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/hplc-scientist-eurofins-aa2455?utm_source=reddit",
       "postedAt": "2026-11-13T21:52:08.527Z",
       "notable": 4
@@ -1649,7 +1649,7 @@
       "pay": "$32-$36/hr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161579359-scientist-formulation-chemistry",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161579359",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/scientist-formulation-chemistry-eurofins-04bf7c?utm_source=reddit",
       "postedAt": "2026-11-13T21:28:08.757Z",
       "notable": 6
@@ -1858,7 +1858,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161578019-scientist-ii-investigations",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161578019",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/scientist-ii-investigations-eurofins-35576b?utm_source=reddit",
       "postedAt": "2026-11-13T21:17:10.574Z",
       "notable": 3
@@ -4332,6 +4332,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/associate-engineer-civil-citywide-5207-c00474-city-and-county-of-san-francisco-31a407?utm_source=reddit",
       "postedAt": "2026-11-13T18:09:14.580Z",
       "notable": 3
+    },
+    {
+      "id": "f33b3dca-5588-42eb-924f-187cbeb9b5b1",
+      "title": "Testing Psychologist, PHD, PsyD - Outpatient",
+      "company": "LifeStance Health",
+      "place": "Pleasant Grove, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$110.0K-$145.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/lifestance/dd967394-f37d-4c34-bf14-0206443403b7",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lifestance/testing-psychologist-phd-psyd-outpatient-lifestance-health-c21af6?utm_source=reddit",
+      "postedAt": "2026-11-13T18:08:46.930Z",
+      "notable": 5
     },
     {
       "id": "4a646ae3-483b-44a9-a2ca-1db4024ec0fb",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/linkedinjobs/data-engineer-talonone-linkedin-jobs-708802?utm_source=reddit",
       "postedAt": "2026-11-13T13:52:40.000Z",
       "notable": 0
-    },
-    {
-      "id": "541ca75f-3041-4185-b011-133945abe4ac",
-      "title": "Junior Operations Engineer - endpoint management (f/m)",
-      "company": "Netcompany",
-      "place": "Warsaw, Poland",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Netcompany1/744000161489942",
-      "firstJobbyUrl": "https://firstjobby.com/companies/netcompany1/junior-operations-engineer-endpoint-management-fm-netcompany-bbbd59?utm_source=reddit",
-      "postedAt": "2026-11-13T13:52:28.831Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
