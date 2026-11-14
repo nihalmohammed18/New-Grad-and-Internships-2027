@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:05:31.495Z",
+  "generatedAt": "2026-11-14T17:22:05.765Z",
   "jobs": [
     {
       "id": "1455689b-769c-4185-b564-9ddeca2a140e",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityofnewyork/cycling-messaging-and-promotion-coordinator-cycling-and-micromobility-city-of-ne-2c21b0?utm_source=reddit",
       "postedAt": "2026-11-14T11:24:39.880Z",
       "notable": 3
+    },
+    {
+      "id": "7bb9608d-1c6b-4258-85a8-9cab9fedb674",
+      "title": "Sales Development Representative",
+      "company": "Fin",
+      "place": "Ireland",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/intercom/jobs/8383344",
+      "firstJobbyUrl": "https://firstjobby.com/companies/intercom/sales-development-representative-fin-522e19?utm_source=reddit",
+      "postedAt": "2026-11-14T11:17:03.000Z",
+      "notable": 1
     },
     {
       "id": "c2c5310e-1849-4f09-8263-1d780dbe8213",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/docplanner/ai-native-marketer-noa-notes-docplanner-4b946f?utm_source=reddit",
       "postedAt": "2026-11-13T14:12:01.855Z",
       "notable": 2
-    },
-    {
-      "id": "b72fc280-a18c-4cb7-b335-b0891cbc9c9e",
-      "title": "CapEx Procurement Specialist",
-      "company": "O-I",
-      "place": "Perrysburg, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$80.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/O-I/744000161494779",
-      "firstJobbyUrl": "https://firstjobby.com/companies/o-i/capex-procurement-specialist-o-i-5ba4f6?utm_source=reddit",
-      "postedAt": "2026-11-13T14:10:15.347Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
