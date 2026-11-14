@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:32:05.305Z",
+  "generatedAt": "2026-11-14T03:42:03.509Z",
   "jobs": [
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/test-and-evaluation-engineer-anduril-industries-b0bbfa?utm_source=reddit",
       "postedAt": "2026-11-14T00:59:08.000Z",
       "notable": 5
+    },
+    {
+      "id": "da81a949-28af-4aaf-b8a7-816fad5f8c60",
+      "title": "Sales Operations Analyst",
+      "company": "Figure Lending",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$76.6K-$100.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/figure/jobs/8937035002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/figure/sales-operations-analyst-figure-lending-3df73c?utm_source=reddit",
+      "postedAt": "2026-11-14T00:47:50.000Z",
+      "notable": 6
     },
     {
       "id": "5965819d-ee6d-45e7-9c89-2516c57590af",
@@ -797,6 +816,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000161583710-analista-de-sistemas-y-control-it-col-cam",
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/analista-de-sistemas-y-control-it-col-cam-sgs-ced3bc?utm_source=reddit",
       "postedAt": "2026-11-13T21:58:25.233Z",
+      "notable": 3
+    },
+    {
+      "id": "70a324c3-a10f-4f86-829c-d3d0df4e90e5",
+      "title": "Rental Coordinator - Tooling",
+      "company": "EquipmentShare",
+      "place": "Odessa, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8386096",
+      "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/rental-coordinator-tooling-equipmentshare-dc8143?utm_source=reddit",
+      "postedAt": "2026-11-13T21:56:07.000Z",
       "notable": 3
     },
     {
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161479679",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/graduate-specialist-program-trainee-data-driven-operations-and-supply-chain-bosc-9ef3a1?utm_source=reddit",
       "postedAt": "2026-11-13T13:01:01.599Z",
-      "notable": 3
-    },
-    {
-      "id": "5b9d4d45-3b9f-4637-a36a-10f77fc3a3ed",
-      "title": "Graduate Lighting Designer – Environmental & Planning (London)",
-      "company": "AECOM",
-      "place": "London, United Kingdom",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161478619",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/graduate-lighting-designer-environmental-and-planning-london-aecom-9b3d7e?utm_source=reddit",
-      "postedAt": "2026-11-13T12:56:26.316Z",
-      "notable": 4
-    },
-    {
-      "id": "d1892ec1-1972-462a-a5ba-c3f126003e48",
-      "title": "Serviceingenieur im Bereich Prüftechnik und Brennstoffzellen (m/w/div.)",
-      "company": "Bosch Group",
-      "place": "Germany",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161477052",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/serviceingenieur-im-bereich-pruftechnik-und-brennstoffzellen-mwdiv-bosch-group-ce681b?utm_source=reddit",
-      "postedAt": "2026-11-13T12:56:15.944Z",
       "notable": 3
     }
   ],
