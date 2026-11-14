@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:04:03.155Z",
+  "generatedAt": "2026-11-14T19:46:19.987Z",
   "jobs": [
     {
       "id": "1b8fd4d7-25c2-4ba6-8d1d-1b11004e4504",
@@ -950,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/theircorwd1orexternalcareers/procurement-officer-global-procurement-multi-category-generalist-international-r-000c7c?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "282a254a-6aac-40b8-ba27-58003ff54a94",
+      "title": "Project Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$83.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Project-Engineer_R0172787-11",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/project-engineer-amentum-f4a3a5?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "17519a99-74ba-4970-adc7-2f65064c5f8b",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000161499451",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/estimators-infrastructure-north-east-and-yorkshire-turner-and-townsend-3d41d0?utm_source=reddit",
       "postedAt": "2026-11-13T14:24:30.998Z",
-      "notable": 3
-    },
-    {
-      "id": "ba2a86b5-9aba-40ed-b8d4-a10be27ae863",
-      "title": "Cost Intelligence, Data & Benchmarking - Infrastructure",
-      "company": "Turner & Townsend",
-      "place": "Newcastle, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000161499299",
-      "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/cost-intelligence-data-and-benchmarking-infrastructure-turner-and-townsend-2545f9?utm_source=reddit",
-      "postedAt": "2026-11-13T14:23:52.013Z",
       "notable": 3
     }
   ],
