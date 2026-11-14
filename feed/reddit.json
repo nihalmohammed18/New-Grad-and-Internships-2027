@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:44:31.673Z",
+  "generatedAt": "2026-11-14T15:05:00.939Z",
   "jobs": [
     {
       "id": "954db20c-07a7-46cd-836e-3f4c8cda2d91",
@@ -151,6 +151,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/teya/654a2797-eef1-41d7-9d08-bd43e39b1026",
       "firstJobbyUrl": "https://firstjobby.com/companies/teya/field-sales-representative-doncaster-teya-c6de57?utm_source=reddit",
       "postedAt": "2026-11-14T10:01:37.483Z",
+      "notable": 5
+    },
+    {
+      "id": "7201890b-ef19-485b-be72-1f25d59152bc",
+      "title": "AI Biologist - Protein Design & Engineering",
+      "company": "LatchBio",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": "$140.0K-$180.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/LatchBio/d0a50576-fab7-488c-8250-f533a5c37bc6",
+      "firstJobbyUrl": "https://firstjobby.com/companies/latchbio-ashby/ai-biologist-protein-design-and-engineering-latchbio-228996?utm_source=reddit",
+      "postedAt": "2026-11-14T09:20:36.043Z",
       "notable": 5
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/vertice/business-development-representative-vertice-976f5f?utm_source=reddit",
       "postedAt": "2026-11-13T14:01:16.207Z",
       "notable": 1
-    },
-    {
-      "id": "0892d124-43d7-491b-8686-ba9160915523",
-      "title": "Praktikum im Bereich IT-Projektmanagement",
-      "company": "Bosch Group",
-      "place": "Stuttgart, Germany",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161491619",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/praktikum-im-bereich-it-projektmanagement-bosch-group-15b1db?utm_source=reddit",
-      "postedAt": "2026-11-13T13:58:18.581Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
