@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:57:52.094Z",
+  "generatedAt": "2026-11-14T05:11:18.210Z",
   "jobs": [
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -513,6 +513,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trace3/system-integration-engineer-c2bmc-trace3-7cabc1?utm_source=reddit",
       "postedAt": "2026-11-13T23:08:11.000Z",
       "notable": 5
+    },
+    {
+      "id": "9bf4af3d-17fb-4054-88b1-99aec9429a3c",
+      "title": "IT Support Specialist",
+      "company": "DepthFirst",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/depthfirst/76211160-4cdb-4a95-8a53-e2425aa69ba5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/depthfirst/it-support-specialist-depthfirst-2711ae?utm_source=reddit",
+      "postedAt": "2026-11-13T23:06:40.170Z",
+      "notable": 1
     },
     {
       "id": "11ec8665-99c3-4fa9-a873-291a4ff1cae8",
@@ -6779,7 +6798,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/PottersResorts/744000161524235-sound-engineer-",
+      "applyUrl": "https://jobs.smartrecruiters.com/PottersResorts/744000161524235",
       "firstJobbyUrl": "https://firstjobby.com/companies/pottersresorts/sound-engineer-potters-resorts-5b1672?utm_source=reddit",
       "postedAt": "2026-11-13T15:58:54.886Z",
       "notable": 0
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000161486862",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/final-year-internship-operations-research-consultant-sia-d7cfae?utm_source=reddit",
       "postedAt": "2026-11-13T13:41:24.564Z",
-      "notable": 3
-    },
-    {
-      "id": "a088edbd-b7ac-448e-96e5-fb5ddb62cef7",
-      "title": "Ingénieur développement cyber embarqué - Industrie  - Le Plessis Robinson",
-      "company": "Sopra Steria",
-      "place": "Le Plessis-Robinson, France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000161486989",
-      "firstJobbyUrl": "https://firstjobby.com/companies/soprasteria1/ingenieur-developpement-cyber-embarque-industrie-le-plessis-robinson-sopra-steri-236f1f?utm_source=reddit",
-      "postedAt": "2026-11-13T13:38:19.552Z",
       "notable": 3
     }
   ],
