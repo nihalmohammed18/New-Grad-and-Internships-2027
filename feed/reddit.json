@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:29:37.538Z",
+  "generatedAt": "2026-11-14T14:44:31.673Z",
   "jobs": [
     {
       "id": "954db20c-07a7-46cd-836e-3f4c8cda2d91",
@@ -570,6 +570,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/planetart/seasonal-marketplace-customer-service-specialist-planetart-223531?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 1
+    },
+    {
+      "id": "c541f42e-6f9e-4039-b57f-675c62358ce4",
+      "title": "Mobile Maintenance Technician",
+      "company": "Biffa Waste Services",
+      "place": "Edinburgh, United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£49.2K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/96CF0BE637",
+      "firstJobbyUrl": "https://firstjobby.com/companies/biffa/mobile-maintenance-technician-biffa-waste-services-1c8c3f?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "bc5ea692-e165-47ad-a69e-08daed53cd67",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161491619",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/praktikum-im-bereich-it-projektmanagement-bosch-group-15b1db?utm_source=reddit",
       "postedAt": "2026-11-13T13:58:18.581Z",
-      "notable": 3
-    },
-    {
-      "id": "332ed39a-28d7-4543-bdc8-746c95746918",
-      "title": "Confirmed Machine Learning Engineer (Jobexit)",
-      "company": "Doctrine",
-      "place": "Paris, France",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/doctrine/627bce18-a5de-4b01-8f0d-42bc247f8b3f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/doctrine/confirmed-machine-learning-engineer-jobexit-doctrine-553075?utm_source=reddit",
-      "postedAt": "2026-11-13T13:58:07.611Z",
       "notable": 3
     }
   ],
