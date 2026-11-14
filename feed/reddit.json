@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:24:23.680Z",
+  "generatedAt": "2026-11-14T03:32:05.305Z",
   "jobs": [
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -2470,6 +2470,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/carvana/customer-service-delivery-advocate-carvana-35a505?utm_source=reddit",
       "postedAt": "2026-11-13T19:23:47.000Z",
       "notable": 6
+    },
+    {
+      "id": "1cb6f6b8-1706-4ad0-ae50-edfe61e37382",
+      "title": "Software Engineer",
+      "company": "Sustainment",
+      "place": "Austin, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "us_citizen",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/sustainment/jobs/4729533006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sustainment/software-engineer-sustainment-1dde4e?utm_source=reddit",
+      "postedAt": "2026-11-13T19:21:51.000Z",
+      "notable": 2
     },
     {
       "id": "734facec-13b8-4c09-bbc4-d89903d89317",
@@ -5130,6 +5149,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/metrology-engineer-anduril-industries-474429?utm_source=reddit",
       "postedAt": "2026-11-13T17:12:23.000Z",
       "notable": 5
+    },
+    {
+      "id": "5e30e1ed-ef28-4865-a808-d98a57e29201",
+      "title": "IT Support Specialist",
+      "company": "Strive Health",
+      "place": "Denver, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$24-$28/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/strivehealth/jobs/4728436006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/strivehealth/it-support-specialist-strive-health-7af689?utm_source=reddit",
+      "postedAt": "2026-11-13T17:12:08.000Z",
+      "notable": 4
     },
     {
       "id": "45cc1125-4fd5-4109-bfe7-2b8e4d9fe9c7",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161477052",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/serviceingenieur-im-bereich-pruftechnik-und-brennstoffzellen-mwdiv-bosch-group-ce681b?utm_source=reddit",
       "postedAt": "2026-11-13T12:56:15.944Z",
-      "notable": 3
-    },
-    {
-      "id": "59c82501-4f65-4e1f-98f0-ec454f586537",
-      "title": "Customer Service Representative II (Remote)",
-      "company": "AECOM",
-      "place": "Remote",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161478119-customer-service-representative-ii-remote-",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/customer-service-representative-ii-remote-aecom-d142ea?utm_source=reddit",
-      "postedAt": "2026-11-13T12:54:32.114Z",
-      "notable": 4
-    },
-    {
-      "id": "b9fd1d3a-a0bc-44eb-b2f6-494855c4b452",
-      "title": "Working Student IT Solutions Management (m/f/x)",
-      "company": "Scalable GmbH",
-      "place": "Berlin, Germany",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000161476969",
-      "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/working-student-it-solutions-management-mfx-scalable-gmbh-b7a6eb?utm_source=reddit",
-      "postedAt": "2026-11-13T12:49:11.802Z",
       "notable": 3
     }
   ],
