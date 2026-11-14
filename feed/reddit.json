@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-14T08:17:23.233Z",
+  "generatedAt": "2026-11-14T08:23:04.824Z",
   "jobs": [
+    {
+      "id": "ada529b4-be6e-4c1d-bba9-f83caa9dd095",
+      "title": "Manufacturing Engineer",
+      "company": "Bosch Group",
+      "place": "Thailand",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161629389-manufacturing-engineer",
+      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/manufacturing-engineer-bosch-group-9600fb?utm_source=reddit",
+      "postedAt": "2026-11-14T05:33:05.425Z",
+      "notable": 3
+    },
     {
       "id": "357ac384-13c3-44a2-86ba-4a2203788549",
       "title": "Analyst, Major League Strategy & Analytics",
@@ -1307,7 +1326,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000161583710-analista-de-sistemas-y-control-it-col-cam",
+      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000161583710",
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/analista-de-sistemas-y-control-it-col-cam-sgs-ced3bc?utm_source=reddit",
       "postedAt": "2026-11-13T21:58:25.233Z",
       "notable": 3
@@ -2162,7 +2181,7 @@
       "pay": "$26-$31/hr",
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161574069-program-coordinator-dateline-contract-",
+      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161574069",
       "firstJobbyUrl": "https://firstjobby.com/companies/nbcuniversal3/program-coordinator-dateline-contract-nbcuniversal-4f680d?utm_source=reddit",
       "postedAt": "2026-11-13T20:45:35.019Z",
       "notable": 5
@@ -2181,7 +2200,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000161573899-analyst-insights-cpg",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000161573899",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/analyst-insights-cpg-nielseniq-4eddcf?utm_source=reddit",
       "postedAt": "2026-11-13T20:43:36.960Z",
       "notable": 3
@@ -2352,7 +2371,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/McWaneInc/3743990016853071-kennedy-valve-inside-sales-coordinator-trainee-",
+      "applyUrl": "https://jobs.smartrecruiters.com/McWaneInc/3743990016853071",
       "firstJobbyUrl": "https://firstjobby.com/companies/mcwaneinc/kennedy-valve-inside-sales-coordinator-trainee-mcwane-inc-822191?utm_source=reddit",
       "postedAt": "2026-11-13T20:33:49.786Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/netcompany1/junior-operations-engineer-endpoint-management-fm-netcompany-bbbd59?utm_source=reddit",
       "postedAt": "2026-11-13T13:52:28.831Z",
       "notable": 3
-    },
-    {
-      "id": "d8a93454-d232-4970-a62c-46bad3277cce",
-      "title": "Multi-Media Account Executive",
-      "company": "Townsquare Media",
-      "place": "Cedar Rapids, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385472",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-fd78e2?utm_source=reddit",
-      "postedAt": "2026-11-13T13:51:59.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
