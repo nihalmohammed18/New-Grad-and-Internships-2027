@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:37:15.581Z",
+  "generatedAt": "2026-11-14T08:17:23.233Z",
   "jobs": [
     {
       "id": "357ac384-13c3-44a2-86ba-4a2203788549",
@@ -95,6 +95,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/content-writer-project-based-jobgether-47bc5f?utm_source=reddit",
       "postedAt": "2026-11-14T03:40:52.818Z",
       "notable": 5
+    },
+    {
+      "id": "00e5136e-2fdd-4502-8f1d-9346e4a346c9",
+      "title": "Assistant Project Manager (May 2027 Grad) - Fort Collins",
+      "company": "Interstates",
+      "place": "Fort Collins, United States",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K-$85.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.interstates.com/careers/jobs?gh_jid=4507844009&gh_jid=4507844009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/interstates/assistant-project-manager-may-2027-grad-fort-collins-interstates-66e336?utm_source=reddit",
+      "postedAt": "2026-11-14T03:08:49.000Z",
+      "notable": 4
+    },
+    {
+      "id": "8502d4f1-dce4-47de-8606-519c1c15f4e2",
+      "title": "Assistant Project Manager (May 2027 Grad) - Fort Collins",
+      "company": "Interstates",
+      "place": "Fort Collins, United States",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$75.0K-$85.0K/yr",
+      "minYears": null,
+      "season": "May 2027",
+      "applyUrl": "https://www.interstates.com/careers/jobs?gh_jid=4507843009&gh_jid=4507843009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/interstates/assistant-project-manager-may-2027-grad-fort-collins-interstates-7ffeab?utm_source=reddit",
+      "postedAt": "2026-11-14T03:07:45.000Z",
+      "notable": 4
     },
     {
       "id": "365ef3b9-48c8-4a43-9893-fd916379987b",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-fd78e2?utm_source=reddit",
       "postedAt": "2026-11-13T13:51:59.000Z",
       "notable": 2
-    },
-    {
-      "id": "fd566ffc-fd7a-4519-924d-9b7b13277ba9",
-      "title": "Multi-Media Account Executive",
-      "company": "Townsquare Media",
-      "place": "Casper, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385471",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-c09bce?utm_source=reddit",
-      "postedAt": "2026-11-13T13:50:28.000Z",
-      "notable": 2
-    },
-    {
-      "id": "20c185c5-25cc-4cec-8831-c0bb4e13e41d",
-      "title": "Account Executive (install base)",
-      "company": "IFS",
-      "place": "Paris, France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/IFS1/744000161488565",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ifs1/account-executive-install-base-ifs-bbe275?utm_source=reddit",
-      "postedAt": "2026-11-13T13:50:08.723Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
