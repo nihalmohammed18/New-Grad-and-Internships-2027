@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:40:09.179Z",
+  "generatedAt": "2026-11-14T16:00:09.135Z",
   "jobs": [
     {
       "id": "954db20c-07a7-46cd-836e-3f4c8cda2d91",
@@ -684,6 +684,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/business-operations-associate-accenture-f616d7?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0e448c0e-f225-41df-bef0-a18e5cd5b1fa",
+      "title": "LQA Game Tester (Czech) - Freelance Remote",
+      "company": "Side",
+      "place": "Remote from Czech Republic",
+      "category": "Engineering",
+      "jobType": "freelance",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/92D414E410",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sideinc-workable/lqa-game-tester-czech-freelance-remote-side-ff4119?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "108564ac-0eb2-4b62-bd0d-7ea04dac1389",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/voyagertechnologiesinc/machine-learning-engineer-voyager-technologies-inc-f77720?utm_source=reddit",
       "postedAt": "2026-11-13T14:06:42.000Z",
       "notable": 5
-    },
-    {
-      "id": "69e7ce34-6659-49aa-b6cd-00b7c8ffcaf5",
-      "title": "Multi-Media Account Executive",
-      "company": "Townsquare Media",
-      "place": "Lake Charles, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385518",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-f96df7?utm_source=reddit",
-      "postedAt": "2026-11-13T14:06:14.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
