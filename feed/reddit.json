@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-14T11:22:37.998Z",
+  "generatedAt": "2026-11-14T12:47:58.763Z",
   "jobs": [
+    {
+      "id": "aa7ae9fb-45a6-4048-904d-d4a982ad8560",
+      "title": "Robotics Data Researcher",
+      "company": "Clera",
+      "place": "Barcelona, Spain",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/Clera/dac9eb17-932d-425a-ab48-2cc728cdcd54",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clera/robotics-data-researcher-clera-437272?utm_source=reddit",
+      "postedAt": "2026-11-14T07:14:55.550Z",
+      "notable": 3
+    },
     {
       "id": "ada529b4-be6e-4c1d-bba9-f83caa9dd095",
       "title": "Manufacturing Engineer",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/stoketherapeutics/research-associate-biology-stoke-therapeutics-178b2a?utm_source=reddit",
       "postedAt": "2026-11-13T13:52:55.000Z",
       "notable": 3
-    },
-    {
-      "id": "0c79fb1c-cfa9-4b0b-8d04-54d602002233",
-      "title": "Data Engineer",
-      "company": "Talon.One",
-      "place": "Berlin, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.talon.one/job-listing?gh_jid=5035728101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/talonone/data-engineer-talonone-553a9d?utm_source=reddit",
-      "postedAt": "2026-11-13T13:52:42.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
