@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:42:03.196Z",
+  "generatedAt": "2026-11-15T01:46:08.757Z",
   "jobs": [
     {
       "id": "9e4fbdac-23b0-447b-9582-d4421f1abf17",
@@ -1748,6 +1748,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/business-operations-associate-accenture-f616d7?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "131b63a0-6a0e-408f-b148-30151adf9ef6",
+      "title": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+      "company": "NVIDIA",
+      "place": "Santa Clara, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$124.0K-$195.5K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/deep-learning-framework-communications-engineer-new-college-grad-2026-nvidia-3192bc?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "0e448c0e-f225-41df-bef0-a18e5cd5b1fa",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/undergraduate-placement-year-2027-engineering-internship-in-product-reliability--999406?utm_source=reddit",
       "postedAt": "2026-11-13T15:11:13.321Z",
       "notable": 3
-    },
-    {
-      "id": "a40a24ea-6dc2-4646-8d3c-5c53f441b918",
-      "title": "Academic Coordinator, First Year Dean's Office",
-      "company": "Harvard University",
-      "place": "Cambridge, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016841246",
-      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/academic-coordinator-first-year-deans-office-harvard-university-3ed281?utm_source=reddit",
-      "postedAt": "2026-11-13T15:10:45.772Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
