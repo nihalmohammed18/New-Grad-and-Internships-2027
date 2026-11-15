@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:53:14.490Z",
+  "generatedAt": "2026-11-15T16:57:58.832Z",
   "jobs": [
     {
       "id": "be4000f2-e455-455a-9e75-9dcf143bbbc4",
@@ -7317,6 +7317,25 @@
       "notable": 4
     },
     {
+      "id": "0e2aada2-1e5b-4b37-b94b-c46d3d4983fe",
+      "title": "Test Engineer",
+      "company": "Gravis Robotics",
+      "place": "Taylor, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gravisrobotics/46e67217-a778-4e4b-9947-5d431e51c76a",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gravisrobotics/test-engineer-gravis-robotics-df06f1?utm_source=reddit",
+      "postedAt": "2026-11-13T18:15:19.068Z",
+      "notable": 1
+    },
+    {
       "id": "1ee7f570-b593-4dc2-becf-b1df455f7dba",
       "title": "Medical Device Sales Territory Account Manager",
       "company": "Tactile Medical",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-hartsfield-jackson-atlanta-international-airport-sixt-df1286?utm_source=reddit",
       "postedAt": "2026-11-13T16:41:27.943Z",
       "notable": 4
-    },
-    {
-      "id": "4cf08b68-ddf1-40f7-8e9a-65932c4dad69",
-      "title": "Entry Level Business Development Representative",
-      "company": "Bisnow",
-      "place": "Chicago, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$50.0K-$55.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/bisnow/c1ec4b98-cc31-4eed-bae3-7f8a78c025ef",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bisnow/entry-level-business-development-representative-bisnow-0dce23?utm_source=reddit",
-      "postedAt": "2026-11-13T16:40:47.689Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
