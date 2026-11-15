@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:54:03.594Z",
+  "generatedAt": "2026-11-15T22:01:36.220Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -683,6 +683,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8937825002",
       "firstJobbyUrl": "https://firstjobby.com/companies/gitlab/customer-success-engineer-emea-gitlab-f0b869?utm_source=reddit",
       "postedAt": "2026-11-15T08:00:12.000Z",
+      "notable": 3
+    },
+    {
+      "id": "ae626e11-bfca-479c-852f-f4fbb4b1e854",
+      "title": "Field Service Engineer (Contract or Intern)",
+      "company": "Eight Sleep",
+      "place": "New York, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$25-$30/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/eightsleep-ashby/field-service-engineer-contract-or-intern-eight-sleep-6ab437?utm_source=reddit",
+      "postedAt": "2026-11-15T07:55:57.179Z",
       "notable": 3
     },
     {
@@ -2145,6 +2164,25 @@
       "season": null,
       "applyUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Nanjing/Key-Account-Manager_202611-129261",
       "firstJobbyUrl": "https://firstjobby.com/companies/rocheorwd3orroche-ext/key-account-manager-roche-c213a1?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0ab390c2-8ac7-48fd-acd6-77fb38478f0b",
+      "title": "Full Time - Sales Associate - Outside Lawn & Garden - Closing",
+      "company": "Lowe's",
+      "place": "Chino Hills, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Chino-Hills-CA-0316/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02705621",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-closing-lowes-1d28ee?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/manufacturing-engineer-ii-cesiumastro-fb7898?utm_source=reddit",
       "postedAt": "2026-11-13T17:23:40.994Z",
       "notable": 3
-    },
-    {
-      "id": "3c43242d-148f-4894-8a63-2057fd2fb1cb",
-      "title": "Business development representative - Belgian Market",
-      "company": "Alan",
-      "place": "Belgium",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/alan/a40a4e21-c252-41c4-9026-adf3971801a6",
-      "firstJobbyUrl": "https://firstjobby.com/companies/alan-ashby/business-development-representative-belgian-market-alan-5b8154?utm_source=reddit",
-      "postedAt": "2026-11-13T17:22:31.007Z",
-      "notable": 3
-    },
-    {
-      "id": "fcc590e6-fbda-46b6-ab2c-7f04ecbd3e66",
-      "title": "Business Development Intern",
-      "company": "Minitab ",
-      "place": "State College, United States",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/minitab/jobs/8200493003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/minitab/business-development-intern-minitab-c9c558?utm_source=reddit",
-      "postedAt": "2026-11-13T17:20:37.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
