@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:04:13.486Z",
+  "generatedAt": "2026-11-15T01:42:03.196Z",
   "jobs": [
     {
       "id": "9e4fbdac-23b0-447b-9582-d4421f1abf17",
@@ -1444,6 +1444,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tporwd107ortp-icap/external-application-support-analyst-tp-icap-ef1bb8?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "6e5f2fc1-fe83-4d48-931c-d18a61da9a42",
+      "title": "Partnerships Intern (Summer 2027)",
+      "company": "PTC",
+      "place": "Boston, United States",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$25-$33/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Partnerships-Intern--Summer-2027-_JR112941",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ptcorwd1orptc/partnerships-intern-summer-2027-ptc-2d4bdb?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "6317247e-4b8f-42b9-9389-b00872fcf787",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/academic-coordinator-first-year-deans-office-harvard-university-3ed281?utm_source=reddit",
       "postedAt": "2026-11-13T15:10:45.772Z",
       "notable": 4
-    },
-    {
-      "id": "4c025c06-ef64-4f9e-9016-f37c2a04dacd",
-      "title": "Data Analyst",
-      "company": "TransferGo",
-      "place": "Kraków, Poland",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "PLN 12.1K-PLN 15.1K/mo",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/transfergo/jobs/6261042004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/transfergo/data-analyst-transfergo-02f14c?utm_source=reddit",
-      "postedAt": "2026-11-13T15:08:39.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
