@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:01:36.220Z",
+  "generatedAt": "2026-11-15T22:22:11.445Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -1936,6 +1936,25 @@
       "season": null,
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Jakarta/FY27---Associate-1---Risk-Assurance---IT-Governance_767821WD",
       "firstJobbyUrl": "https://firstjobby.com/companies/pwcorwd3orglobalexperiencedcareers/fy27-associate-1-risk-assurance-it-governance-pwc-0b7f0e?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "3c6db5f7-d5ee-4519-a672-46e7db1c58f5",
+      "title": "Rental Sales Agent",
+      "company": "Europcar",
+      "place": "La Laguna, Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://europcar.wd103.myworkdayjobs.com/EuropcarCareerPage/job/La-Laguna-Santa-Cruz-de-Tenerife/Rental-Sales-Agent_JR116268",
+      "firstJobbyUrl": "https://firstjobby.com/companies/europcarorwd103oreuropcarcareerpage/rental-sales-agent-europcar-b4ac7a?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/campaign-specialist-attendee-marketing-informa-group-plc-8368da?utm_source=reddit",
       "postedAt": "2026-11-13T17:24:18.107Z",
       "notable": 5
-    },
-    {
-      "id": "be2a1177-cc76-4294-90af-ed9c3cbd5184",
-      "title": "Manufacturing Engineer II",
-      "company": "CesiumAstro",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/60bc9cd9-7efe-4e8b-9648-13c24d8c204a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/manufacturing-engineer-ii-cesiumastro-fb7898?utm_source=reddit",
-      "postedAt": "2026-11-13T17:23:40.994Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
