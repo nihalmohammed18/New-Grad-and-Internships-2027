@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:22:11.445Z",
+  "generatedAt": "2026-11-15T22:26:55.953Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -133,6 +133,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trellixorwd1orenterprisecareers/associate-security-researcher-trellix-090e39?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "d03a1652-5e8c-4c89-8b69-44716d94688d",
+      "title": "Controls Engineer – MES / PLC Automation (USA Relocation – TN Visa Eligible)",
+      "company": "North Point Technology",
+      "place": "Fort Wayne, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8944190002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/northpointtechnology/controls-engineer-mes-plc-automation-usa-relocation-tn-visa-eligible-north-point-74d1d7?utm_source=reddit",
+      "postedAt": "2026-11-15T21:34:27.000Z",
+      "notable": 4
+    },
+    {
+      "id": "97ee7464-55be-47cb-8a1b-b8d2d4370901",
+      "title": "Product Design (Mechanical Engineering) Co-Op",
+      "company": "Samsara",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35-$58/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
+      "firstJobbyUrl": "https://firstjobby.com/companies/samsara/product-design-mechanical-engineering-co-op-samsara-0487d3?utm_source=reddit",
+      "postedAt": "2026-11-15T18:48:56.000Z",
+      "notable": 5
     },
     {
       "id": "a0a52d35-6d69-4f1e-b24f-8d7b5cf7b958",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/extracurricular-internship-or-functional-consulting-ai-sales-solutions-fmdiv-bos-2fd7d3?utm_source=reddit",
       "postedAt": "2026-11-13T17:27:46.809Z",
       "notable": 3
-    },
-    {
-      "id": "f14b4619-eff9-4917-8630-88674dda951f",
-      "title": "Manufacturing Engineer II (2nd Shift)",
-      "company": "CesiumAstro",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/2196ef57-c8c9-49cc-a4a4-0b6003e5ba7f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/manufacturing-engineer-ii-2nd-shift-cesiumastro-fce84d?utm_source=reddit",
-      "postedAt": "2026-11-13T17:25:46.502Z",
-      "notable": 3
-    },
-    {
-      "id": "a8b15d97-55a5-49ad-bd2a-303eac0cee6c",
-      "title": "Campaign Specialist – Attendee Marketing",
-      "company": "Informa Group Plc.",
-      "place": "New York, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$70.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000161542195",
-      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/campaign-specialist-attendee-marketing-informa-group-plc-8368da?utm_source=reddit",
-      "postedAt": "2026-11-13T17:24:18.107Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
