@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:33:47.935Z",
+  "generatedAt": "2026-11-15T16:39:36.893Z",
   "jobs": [
     {
       "id": "be4000f2-e455-455a-9e75-9dcf143bbbc4",
@@ -743,6 +743,25 @@
       "notable": 3
     },
     {
+      "id": "daf143b0-fed6-45ff-979b-7f785a06e188",
+      "title": "Sales coordinator",
+      "company": "Airbus",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Riyadh/Sales-coordinator_JR10458394",
+      "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/sales-coordinator-airbus-9f7de2?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "d9500513-b483-44ed-846c-334c304bcdb8",
       "title": "Software/Firmware Engineering Intern",
       "company": "Marvell",
@@ -931,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/product-relocation-engineer-fastswiftomdsfslsbbp-kla-3a6e18?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "8c13e15c-122f-4bb8-93c4-6e4b6d5d3095",
+      "title": "Sales Support Specialist",
+      "company": "ABB",
+      "place": "Bangalore, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00052268",
+      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/sales-support-specialist-abb-d8071f?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "84e53912-5904-4beb-8124-2fef09d31336",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5",
       "firstJobbyUrl": "https://firstjobby.com/companies/openai-ashby/technical-operations-analyst-user-safety-and-risk-operations-openai-8c95b3?utm_source=reddit",
       "postedAt": "2026-11-13T16:39:09.634Z",
-      "notable": 5
-    },
-    {
-      "id": "a19f9ec6-183a-49de-81ad-66586d5388ab",
-      "title": "Operations Associate, Chauffeur Acquisition",
-      "company": "Wheely",
-      "place": "New York, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$65.0K-$75.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/wheely/jobs/8202469003?gh_jid=8202469003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wheely/operations-associate-chauffeur-acquisition-wheely-d76b17?utm_source=reddit",
-      "postedAt": "2026-11-13T16:36:36.000Z",
-      "notable": 4
-    },
-    {
-      "id": "6a66d6b5-ef7d-4544-a674-fcbb009197c7",
-      "title": "Quality Control (QC) Associate Scientist",
-      "company": "GenScript/ProBio",
-      "place": "Piscataway, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K-$70.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/genscript/jobs/5294657007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/genscript/quality-control-qc-associate-scientist-genscript-414531?utm_source=reddit",
-      "postedAt": "2026-11-13T16:34:40.000Z",
       "notable": 5
     }
   ],
