@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T17:26:59.855Z",
+  "generatedAt": "2026-11-15T17:54:28.931Z",
   "jobs": [
+    {
+      "id": "b29fa877-6ba4-42d0-9c39-46dfa4ae54f0",
+      "title": "SCADA Controls Automation Engineer",
+      "company": "Woodard & Curran",
+      "place": "Rye Brook, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$90.0K-$105.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/woodardcurran/db95fd2c-f2bf-4e9d-9723-fd7d05aa7511",
+      "firstJobbyUrl": "https://firstjobby.com/companies/woodardcurran/scada-controls-automation-engineer-woodard-and-curran-d78ca3?utm_source=reddit",
+      "postedAt": "2026-11-15T15:35:38.473Z",
+      "notable": 3
+    },
     {
       "id": "56b80a46-7245-4fc6-b106-a26883932592",
       "title": "[Paris] Investment & Strategy Analyst",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/lab-analyst-i-semi-volatiles-sgs-73f2c7?utm_source=reddit",
       "postedAt": "2026-11-13T16:47:00.391Z",
       "notable": 3
-    },
-    {
-      "id": "3fd433e3-d4f9-43f5-92f8-63ea1c67649e",
-      "title": "Customer Support Advisor",
-      "company": "CPI Security",
-      "place": "Charlotte, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$40.0K-$50.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729457006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cpisecurity/customer-support-advisor-cpi-security-af9759?utm_source=reddit",
-      "postedAt": "2026-11-13T16:45:36.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
