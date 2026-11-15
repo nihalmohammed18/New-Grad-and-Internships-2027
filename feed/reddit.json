@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:12:19.363Z",
+  "generatedAt": "2026-11-15T15:31:16.049Z",
   "jobs": [
     {
       "id": "8dfa13a0-5866-44fd-b63e-cf6b2eaefa36",
@@ -532,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/softwarefirmware-engineering-intern-marvell-924e5b?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "b2f4f807-8e82-431f-b3d7-60b41aa63ebd",
+      "title": "IT Support Specialist",
+      "company": "TOMORROW HIRE",
+      "place": "Petersburg, United States",
+      "category": "Engineering",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$18-$38/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/FD63D528A3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tomorrow-hire/it-support-specialist-tomorrow-hire-7db92d?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 6
     },
     {
       "id": "b05cca00-c254-4bb1-832d-2c4c3188ccdd",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/auterion/it-support-specialist-auterion-c9794d?utm_source=reddit",
       "postedAt": "2026-11-13T16:09:24.000Z",
       "notable": 3
-    },
-    {
-      "id": "c96d22c2-bd5c-485b-929f-aa450aa077a5",
-      "title": "Business Development Representative",
-      "company": "Sprout Social",
-      "place": "Chicago, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://sproutsocial.com/careers/open-positions/8385825/?gh_jid=8385825",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sproutsocial/business-development-representative-sprout-social-7206db?utm_source=reddit",
-      "postedAt": "2026-11-13T16:09:15.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
