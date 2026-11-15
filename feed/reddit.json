@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T05:28:14.513Z",
+  "generatedAt": "2026-11-15T05:45:30.452Z",
   "jobs": [
+    {
+      "id": "989b111f-b60e-4ce3-be27-7b385163551f",
+      "title": "Project Coordinator",
+      "company": "TransPerfect",
+      "place": "Seoul, South Korea",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://transperfect.com/o/project-coordinator-41",
+      "firstJobbyUrl": "https://firstjobby.com/companies/transperfect/project-coordinator-transperfect-d0dffe?utm_source=reddit",
+      "postedAt": "2026-11-15T03:40:35.000Z",
+      "notable": 2
+    },
     {
       "id": "95dbee12-9f6b-46b0-a24a-2f6f3205d6bf",
       "title": "Full Stack Software Engineer (Starlink)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/llnl/mechanical-engineer-llnl-89d488?utm_source=reddit",
       "postedAt": "2026-11-13T15:32:48.032Z",
       "notable": 5
-    },
-    {
-      "id": "4a0d545c-39aa-446b-8247-79f865342b00",
-      "title": "SAR Quality assurance specialist",
-      "company": "Wise",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wise/744000161514164",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wise-smartrecruiters/sar-quality-assurance-specialist-wise-747986?utm_source=reddit",
-      "postedAt": "2026-11-13T15:29:15.324Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
