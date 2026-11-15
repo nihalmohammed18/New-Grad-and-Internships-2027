@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:13:04.403Z",
+  "generatedAt": "2026-11-15T10:31:36.324Z",
   "jobs": [
     {
       "id": "afcf0e06-dd13-4a29-bda4-da054508d57c",
@@ -186,7 +186,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Cardiff/GE-Aerospace-Supply-Chain-Business-Apprentice--Wales--2027-intake_R5043167-1",
+      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cardiff/GE-Aerospace-Supply-Chain-Business-Apprentice--Wales--2027-intake_R5043167-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/geaerospaceorwd5orgeexternalsite/ge-aerospace-supply-chain-business-apprentice-wales-2027-intake-ge-aerospace-51c84f?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
@@ -243,7 +243,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Cardiff/GE-Aerospace-Engineering-Apprenticeship--Wales--2027-intake_R5043161",
+      "applyUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cardiff/GE-Aerospace-Engineering-Apprenticeship--Wales--2027-intake_R5043161",
       "firstJobbyUrl": "https://firstjobby.com/companies/geaerospaceorwd5orgeexternalsite/ge-aerospace-engineering-apprenticeship-wales-2027-intake-ge-aerospace-1f692e?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
@@ -1801,7 +1801,7 @@
       "pay": "$37.0K-$82.0K/yr",
       "minYears": null,
       "season": "Summer/Fall 2027",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251",
       "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/lean-and-continuous-improvement-industrial-engineering-co-op-summerfall-2027-rtx-21a5ac?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 4
@@ -1972,7 +1972,7 @@
       "pay": "$37.0K-$82.0K/yr",
       "minYears": null,
       "season": "Spring/Summer 2027",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874254",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874254",
       "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/advanced-manufacturing-engineering-co-op-springsummer-2027-rtx-d5516e?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 4
@@ -2105,7 +2105,7 @@
       "pay": "$37.0K-$82.0K/yr",
       "minYears": null,
       "season": "Spring/Summer 2027",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963",
       "firstJobbyUrl": "https://firstjobby.com/companies/globalhrorwd5orrecrtxextgateway/industrial-engineering-co-op-springsummer-2027-rtx-a8f0ed?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 4
@@ -4446,6 +4446,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tailscale/developer-relations-engineer-tailscale-cf665d?utm_source=reddit",
       "postedAt": "2026-11-13T20:40:04.000Z",
       "notable": 5
+    },
+    {
+      "id": "dd7e1a26-336d-4d0d-9ca5-edf4b54bcb8b",
+      "title": "New Home Sales Consultant",
+      "company": "Adidevelopments",
+      "place": "Burlington, Canada",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$75.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/adidevelopments/8494247b-8710-49df-a2f0-b91fa63c5216",
+      "firstJobbyUrl": "https://firstjobby.com/companies/adidevelopments/new-home-sales-consultant-adidevelopments-5cd49c?utm_source=reddit",
+      "postedAt": "2026-11-13T20:35:32.874Z",
+      "notable": 3
     },
     {
       "id": "417ea0b9-dab9-45b2-85a8-d394f4601742",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/fpga-verification-engineer-ii-cesiumastro-90af6c?utm_source=reddit",
       "postedAt": "2026-11-13T15:45:19.300Z",
       "notable": 5
-    },
-    {
-      "id": "8de1de50-82ef-4f4e-92b2-581d7c157f54",
-      "title": "AI Ops Engineer",
-      "company": "SolarWinds",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.solarwinds.com/job-detail/?gh_jid=4750320005&gh_jid=4750320005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/solarwinds/ai-ops-engineer-solarwinds-19fcd6?utm_source=reddit",
-      "postedAt": "2026-11-13T15:43:57.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
