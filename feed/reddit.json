@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T05:22:14.017Z",
+  "generatedAt": "2026-11-15T05:28:14.513Z",
   "jobs": [
+    {
+      "id": "95dbee12-9f6b-46b0-a24a-2f6f3205d6bf",
+      "title": "Full Stack Software Engineer (Starlink)",
+      "company": "SpaceX",
+      "place": "Palo Alto, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$150.0K-$210.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/full-stack-software-engineer-starlink-spacex-25d9ed?utm_source=reddit",
+      "postedAt": "2026-11-15T02:59:43.000Z",
+      "notable": 4
+    },
     {
       "id": "4a038550-35f6-4b4a-be17-55274ece4475",
       "title": "Manufacturing Engineering, Propulsion",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wise-smartrecruiters/sar-quality-assurance-specialist-wise-747986?utm_source=reddit",
       "postedAt": "2026-11-13T15:29:15.324Z",
       "notable": 3
-    },
-    {
-      "id": "66a82091-ae34-4481-88c4-54aa187cc5cd",
-      "title": "Multi-Media Account Executive",
-      "company": "Townsquare Media",
-      "place": "Portland, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$45.0K-$150.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://careers.townsquaremedia.com/job-details/?gh_jid=8385703",
-      "firstJobbyUrl": "https://firstjobby.com/companies/townsquaremedia/multi-media-account-executive-townsquare-media-5f565f?utm_source=reddit",
-      "postedAt": "2026-11-13T15:29:11.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
