@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T18:34:16.621Z",
+  "generatedAt": "2026-11-15T18:48:14.162Z",
   "jobs": [
+    {
+      "id": "2159a1d1-3c1f-462a-9fea-24d785ac1b03",
+      "title": "Associate Security Researcher",
+      "company": "Trellix",
+      "place": "Remote from Singapore",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/Remote-Singapore/Associate-Security-Researcher_JR0038127",
+      "firstJobbyUrl": "https://firstjobby.com/companies/trellixorwd1orenterprisecareers/associate-security-researcher-trellix-090e39?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "b29fa877-6ba4-42d0-9c39-46dfa4ae54f0",
       "title": "SCADA Controls Automation Engineer",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/pleo/88379220-a1d2-4805-8523-e34ae1b825cb",
       "firstJobbyUrl": "https://firstjobby.com/companies/pleo-ashby/digital-onboarding-specialist-i-lisbon-madrid-pleo-114642?utm_source=reddit",
       "postedAt": "2026-11-13T16:48:29.599Z",
-      "notable": 3
-    },
-    {
-      "id": "a1aa6445-1f0b-4ceb-89e3-cbd7823d7b62",
-      "title": "Lab Analyst I - Semi-volatiles",
-      "company": "SGS",
-      "place": "Orlando, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000161537399",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/lab-analyst-i-semi-volatiles-sgs-73f2c7?utm_source=reddit",
-      "postedAt": "2026-11-13T16:47:00.391Z",
       "notable": 3
     }
   ],
