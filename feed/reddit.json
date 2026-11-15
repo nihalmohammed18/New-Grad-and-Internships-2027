@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:19:34.727Z",
+  "generatedAt": "2026-11-15T11:42:29.662Z",
   "jobs": [
     {
       "id": "afcf0e06-dd13-4a29-bda4-da054508d57c",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gitlab/customer-success-engineer-emea-gitlab-f0b869?utm_source=reddit",
       "postedAt": "2026-11-15T08:00:12.000Z",
       "notable": 3
+    },
+    {
+      "id": "1710339d-3a29-4451-bff1-b9d0845d13ea",
+      "title": "Cybersecurity Project Coordinator",
+      "company": "Cye",
+      "place": "Herzliya, Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/CYE/52b08507-4dff-42e5-a143-be5c07e7b92b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cye/cybersecurity-project-coordinator-cye-ff4867?utm_source=reddit",
+      "postedAt": "2026-11-15T07:37:15.114Z",
+      "notable": 1
     },
     {
       "id": "0c6524d4-0aa9-4389-8042-40a48cff0d12",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/serc/motor-vehicle-accident-account-manager-serc-physical-therapy-dfeae2?utm_source=reddit",
       "postedAt": "2026-11-13T15:47:31.000Z",
       "notable": 3
-    },
-    {
-      "id": "f2d3d5d9-3b0f-470f-b3ce-2be366bcb7fb",
-      "title": "EHS Coordinator",
-      "company": "Avery Dennison",
-      "place": "Dallas, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$21-$28/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000161521448",
-      "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/ehs-coordinator-avery-dennison-c570d7?utm_source=reddit",
-      "postedAt": "2026-11-13T15:47:29.005Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
