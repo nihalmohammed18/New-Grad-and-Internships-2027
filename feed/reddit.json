@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:17:34.805Z",
+  "generatedAt": "2026-11-15T14:53:01.932Z",
   "jobs": [
     {
       "id": "8dfa13a0-5866-44fd-b63e-cf6b2eaefa36",
@@ -530,6 +530,25 @@
       "season": null,
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496",
       "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/softwarefirmware-engineering-intern-marvell-924e5b?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b05cca00-c254-4bb1-832d-2c4c3188ccdd",
+      "title": "Digital Marketing Coordinator",
+      "company": "Four Seasons",
+      "place": "Doha, Qatar",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Doha/Digital-Marketing-Coordinator_REQ10398074",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fourseasonsorwd3orsearch/digital-marketing-coordinator-four-seasons-08cd2d?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sproutsocial/business-development-representative-sprout-social-7206db?utm_source=reddit",
       "postedAt": "2026-11-13T16:09:15.000Z",
       "notable": 1
-    },
-    {
-      "id": "819dde4a-c742-444b-8907-0c066cea3fc6",
-      "title": "Business Development Representative",
-      "company": "Bisnow",
-      "place": "Chicago, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$50.0K-$55.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/bisnow/cf2c8993-c82f-49c8-9197-e6450e1a1e16",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bisnow/business-development-representative-bisnow-d3cc94?utm_source=reddit",
-      "postedAt": "2026-11-13T16:07:02.920Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
