@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:10:48.832Z",
+  "generatedAt": "2026-11-15T17:26:59.855Z",
   "jobs": [
     {
       "id": "56b80a46-7245-4fc6-b106-a26883932592",
@@ -855,6 +855,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/solutions-engineer-azerbaijan-cisco-fd39b0?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "c9d72bfd-112f-4fc3-ae6e-dbbbf4fe9886",
+      "title": "Early Talent Trainee - Sales & Commercial 2027 Opportunity",
+      "company": "Baker Hughes",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bakerhughesorwd5orbakerhughes/early-talent-trainee-sales-and-commercial-2027-opportunity-baker-hughes-2ba2c1?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "b2f4f807-8e82-431f-b3d7-60b41aa63ebd",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cpisecurity/customer-support-advisor-cpi-security-af9759?utm_source=reddit",
       "postedAt": "2026-11-13T16:45:36.000Z",
       "notable": 5
-    },
-    {
-      "id": "f530acaf-136f-422d-8d77-b0beba651db1",
-      "title": "Data Clerk - MCSP (Temp)",
-      "company": "Amity Foundation",
-      "place": "United States",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$24/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/amityfdn/dfeedcfc-e074-4faa-9a0c-2734d7c4e2ef",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amityfdn/data-clerk-mcsp-temp-amity-foundation-c44715?utm_source=reddit",
-      "postedAt": "2026-11-13T16:42:04.754Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
