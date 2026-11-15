@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T02:15:31.819Z",
+  "generatedAt": "2026-11-15T02:56:09.783Z",
   "jobs": [
+    {
+      "id": "4a038550-35f6-4b4a-be17-55274ece4475",
+      "title": "Manufacturing Engineering, Propulsion",
+      "company": "Vast",
+      "place": "Long Beach, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$86.1K-$195.6K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4729654006?gh_jid=4729654006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vast/manufacturing-engineering-propulsion-vast-ada063?utm_source=reddit",
+      "postedAt": "2026-11-15T01:48:39.000Z",
+      "notable": 5
+    },
     {
       "id": "9e4fbdac-23b0-447b-9582-d4421f1abf17",
       "title": "Customer Support Engineer",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4729195006?gh_jid=4729195006",
       "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/cloud-platform-engineeror-st-louis-mo-onsite-or-weekly-travel-required-accenture-4489ec?utm_source=reddit",
       "postedAt": "2026-11-13T15:19:10.000Z",
-      "notable": 5
-    },
-    {
-      "id": "b5376cd0-bc08-4892-acf0-5e8b9a9f903b",
-      "title": "Accounts Receivable Coordinator",
-      "company": "Jack Link's Protein Snacks",
-      "place": "Minong, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$25/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000161513019",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jacklinksproteinsnacks/accounts-receivable-coordinator-jack-links-protein-snacks-0deed2?utm_source=reddit",
-      "postedAt": "2026-11-13T15:16:06.238Z",
       "notable": 5
     }
   ],
