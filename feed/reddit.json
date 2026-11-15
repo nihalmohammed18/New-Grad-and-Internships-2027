@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T16:57:58.832Z",
+  "generatedAt": "2026-11-15T17:10:48.832Z",
   "jobs": [
+    {
+      "id": "56b80a46-7245-4fc6-b106-a26883932592",
+      "title": "[Paris] Investment & Strategy Analyst",
+      "company": "Dedale Intelligence",
+      "place": "Paris, France",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/dedale-intelligence/bad21a16-1864-4573-95b4-a50c84e1f3d0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dedale-intelligence/paris-investment-and-strategy-analyst-dedale-intelligence-acd55f?utm_source=reddit",
+      "postedAt": "2026-11-15T13:38:45.475Z",
+      "notable": 3
+    },
     {
       "id": "be4000f2-e455-455a-9e75-9dcf143bbbc4",
       "title": "Summer 2027 MBA Internship - Strategy Intern",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amityfdn/data-clerk-mcsp-temp-amity-foundation-c44715?utm_source=reddit",
       "postedAt": "2026-11-13T16:42:04.754Z",
       "notable": 3
-    },
-    {
-      "id": "1bb28afa-4d19-4535-94c5-8d033540d1bd",
-      "title": "Rental Sales Agent (Hartsfield-Jackson Atlanta International Airport)",
-      "company": "SIXT",
-      "place": "College Park, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000161536158",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-hartsfield-jackson-atlanta-international-airport-sixt-df1286?utm_source=reddit",
-      "postedAt": "2026-11-13T16:41:27.943Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
