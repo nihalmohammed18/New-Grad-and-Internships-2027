@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T09:00:45.995Z",
+  "generatedAt": "2026-11-15T09:31:01.116Z",
   "jobs": [
+    {
+      "id": "528fd472-be33-45c6-a6f1-631a80100a10",
+      "title": "Sales Coordinator (Saudi National Only)",
+      "company": "AccorHotel",
+      "place": "Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000161674069-sales-coordinator-saudi-national-only-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/sales-coordinator-saudi-national-only-accorhotel-73556f?utm_source=reddit",
+      "postedAt": "2026-11-15T08:27:22.071Z",
+      "notable": 3
+    },
     {
       "id": "0c6524d4-0aa9-4389-8042-40a48cff0d12",
       "title": "Marketing and sales student",
@@ -18,6 +37,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/JobsForHumanity/744000161673519-marketing-and-sales-student",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobsforhumanity/marketing-and-sales-student-jobs-for-humanity-445065?utm_source=reddit",
       "postedAt": "2026-11-15T07:07:07.859Z",
+      "notable": 3
+    },
+    {
+      "id": "5c1a4488-fa32-44d2-96bc-c069b295dea2",
+      "title": "Assistant Engineer - Water Science (Hydro-chemistry)",
+      "company": "AECOM",
+      "place": "Remote from India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000161673339-assistant-engineer-water-science-hydro-chemistry-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/assistant-engineer-water-science-hydro-chemistry-aecom-e14c1b?utm_source=reddit",
+      "postedAt": "2026-11-15T06:59:58.903Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/technicien-de-laboratoire-preparation-dechantillons-biologiques-hf-cdd-3-mois-te-b46d73?utm_source=reddit",
       "postedAt": "2026-11-13T15:40:36.979Z",
       "notable": 3
-    },
-    {
-      "id": "56b2c4d7-3873-47cf-b17e-feb77b5535e9",
-      "title": "NLP Solution Designer (m/f/d)",
-      "company": "InPost",
-      "place": "Kraków, Poland",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/InPost/744000161519789",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inpost/nlp-solution-designer-mfd-inpost-b71de9?utm_source=reddit",
-      "postedAt": "2026-11-13T15:39:57.445Z",
-      "notable": 2
-    },
-    {
-      "id": "bb5ca90f-690c-4d9f-9762-b3366ef2b148",
-      "title": "Assistant Community Manager",
-      "company": "The Scion Group",
-      "place": "Raleigh, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8941309002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thesciongroupllc/assistant-community-manager-the-scion-group-9cc53d?utm_source=reddit",
-      "postedAt": "2026-11-13T15:38:21.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
