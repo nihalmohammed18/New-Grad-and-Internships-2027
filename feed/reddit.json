@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T06:05:50.125Z",
+  "generatedAt": "2026-11-15T06:15:35.098Z",
   "jobs": [
+    {
+      "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
+      "title": "Business Development Specialist",
+      "company": "Tamara",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/tamara/jobs/5034365101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tamara/business-development-specialist-tamara-a669df?utm_source=reddit",
+      "postedAt": "2026-11-15T05:28:19.000Z",
+      "notable": 1
+    },
     {
       "id": "989b111f-b60e-4ce3-be27-7b385163551f",
       "title": "Project Coordinator",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.mlb.com/careers/jobs/league?gh_jid=8384036",
       "firstJobbyUrl": "https://firstjobby.com/companies/majorleaguebaseball/2027-milb-data-operations-seasonal-major-league-baseball-21335e?utm_source=reddit",
       "postedAt": "2026-11-13T15:35:36.000Z",
-      "notable": 5
-    },
-    {
-      "id": "1babcdbc-489b-4e75-9e38-98e63b0d93a9",
-      "title": "Customer Service - Temporary Mon-Fri",
-      "company": "Getfivestar",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$15/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/getfivestar/353ea167-e09b-484b-a3e0-e329b91774e7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/getfivestar/customer-service-temporary-mon-fri-getfivestar-4c7780?utm_source=reddit",
-      "postedAt": "2026-11-13T15:35:11.605Z",
       "notable": 5
     }
   ],
