@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-15T08:19:59.014Z",
+  "generatedAt": "2026-11-15T09:00:45.995Z",
   "jobs": [
+    {
+      "id": "0c6524d4-0aa9-4389-8042-40a48cff0d12",
+      "title": "Marketing and sales student",
+      "company": "Jobs for Humanity",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/JobsForHumanity/744000161673519-marketing-and-sales-student",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jobsforhumanity/marketing-and-sales-student-jobs-for-humanity-445065?utm_source=reddit",
+      "postedAt": "2026-11-15T07:07:07.859Z",
+      "notable": 3
+    },
     {
       "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
       "title": "Business Development Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thesciongroupllc/assistant-community-manager-the-scion-group-9cc53d?utm_source=reddit",
       "postedAt": "2026-11-13T15:38:21.000Z",
       "notable": 2
-    },
-    {
-      "id": "e395e207-7b64-4d1f-b330-082eb31fed7c",
-      "title": "Quality Engineer",
-      "company": "Mission Critical Group",
-      "place": "Belle Chasse, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016842056",
-      "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/quality-engineer-mission-critical-group-f00978?utm_source=reddit",
-      "postedAt": "2026-11-13T15:37:19.559Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
