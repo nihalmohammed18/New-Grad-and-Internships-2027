@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:09:40.106Z",
+  "generatedAt": "2026-11-15T20:15:58.294Z",
   "jobs": [
     {
       "id": "8355a67d-c448-45a7-82f8-0efc80c3b456",
@@ -1079,7 +1079,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496",
       "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/softwarefirmware-engineering-intern-marvell-924e5b?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
@@ -1288,7 +1288,7 @@
       "pay": null,
       "minYears": null,
       "season": "2027 Calendar Year",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Yokneam/Physical-Design-Intern_2604557",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Yokneam/Physical-Design-Intern_2604557",
       "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/physical-design-intern-marvell-6e2f26?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
@@ -1499,6 +1499,25 @@
       "season": null,
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Configuration-Analyst_2643325-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/configuration-analyst-kla-487a74?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6ba6e659-0073-4e38-8011-dd26fa8ed532",
+      "title": "Network Security Engineer",
+      "company": "Accenture",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Network-Security-Engineer_14912463",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/network-security-engineer-accenture-f4df45?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cmt/software-engineer-i-cloud-cmtelematics-d4c7ee?utm_source=reddit",
       "postedAt": "2026-11-13T17:11:24.000Z",
       "notable": 3
-    },
-    {
-      "id": "93199f33-15e0-4066-b015-f61232e28fdd",
-      "title": "Care Coordinator - Manhattan - Chelsea",
-      "company": "Bond Vet",
-      "place": "Manhattan, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$17-$22/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/bondvet/jobs/6253252004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bondvet/care-coordinator-manhattan-chelsea-bond-vet-e327a5?utm_source=reddit",
-      "postedAt": "2026-11-13T17:10:56.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
