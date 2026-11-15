@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:26:55.953Z",
+  "generatedAt": "2026-11-15T22:33:07.927Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/northpointtechnology/controls-engineer-mes-plc-automation-usa-relocation-tn-visa-eligible-north-point-74d1d7?utm_source=reddit",
       "postedAt": "2026-11-15T21:34:27.000Z",
       "notable": 4
+    },
+    {
+      "id": "4f1f819c-54a1-4f09-a38d-196e3817dca4",
+      "title": "Associate Systems Engineer, Excellence Center, (Prague)",
+      "company": "Everpure",
+      "place": "Prague, Czech Republic",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8383151",
+      "firstJobbyUrl": "https://firstjobby.com/companies/purestorage/associate-systems-engineer-excellence-center-prague-everpure-f96703?utm_source=reddit",
+      "postedAt": "2026-11-15T20:06:42.000Z",
+      "notable": 3
     },
     {
       "id": "97ee7464-55be-47cb-8a1b-b8d2d4370901",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/atwellgroup/associate-project-engineer-renewable-substations-atwell-llc-5563d8?utm_source=reddit",
       "postedAt": "2026-11-13T17:31:00.000Z",
       "notable": 5
-    },
-    {
-      "id": "129b67b2-9fcd-490f-9c5f-73aab7c8367d",
-      "title": "Extracurricular Internship | Functional Consulting – AI Sales Solutions (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Lisboa, Portugal",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161544969",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/extracurricular-internship-or-functional-consulting-ai-sales-solutions-fmdiv-bos-2fd7d3?utm_source=reddit",
-      "postedAt": "2026-11-13T17:27:46.809Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
