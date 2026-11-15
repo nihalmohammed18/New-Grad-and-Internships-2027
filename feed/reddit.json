@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:15:58.294Z",
+  "generatedAt": "2026-11-15T20:19:46.233Z",
   "jobs": [
     {
       "id": "8355a67d-c448-45a7-82f8-0efc80c3b456",
@@ -1218,6 +1218,25 @@
       "notable": 2
     },
     {
+      "id": "a63af2f3-52aa-425b-8599-b7a7f1271a02",
+      "title": "Commercial Sales Executive",
+      "company": "Johnson Controls",
+      "place": "Los Angeles, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$55.3K-$80.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Los-Angeles-California-United-States-of-America/Commercial-Sales-Executive_WD30285121",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/commercial-sales-executive-johnson-controls-4c0716?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "a3f5b2ba-7c86-47a8-9ba9-41abe52d8f21",
       "title": "GTM Engineer - BARS",
       "company": "Valsoft Corporation",
@@ -1710,6 +1729,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-day-lowes-e5405c?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "2cf63700-8c33-44fd-9d11-42b3e4657181",
+      "title": "Account Executive Wound Closure (Newport Beach, CA) – Johnson & Johnson MedTech – Surgery",
+      "company": "Johnson & Johnson",
+      "place": "Newport Beach, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$95.0K-$118.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/DisplacedEmployees/job/Newport-Beach-California-United-States/Account-Executive-Wound-Closure--Newport-Beach--CA----Johnson---Johnson-MedTech---Surgery_R-110701",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5ordisplacedemployees/account-executive-wound-closure-newport-beach-ca-johnson-and-johnson-medtech-sur-5462f2?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "2bc6ed93-e04f-422b-b881-62d4bcca0081",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/strivehealth/it-support-specialist-strive-health-7af689?utm_source=reddit",
       "postedAt": "2026-11-13T17:12:08.000Z",
       "notable": 4
-    },
-    {
-      "id": "45cc1125-4fd5-4109-bfe7-2b8e4d9fe9c7",
-      "title": "Production Designer (6m FTC)",
-      "company": "DEPT®",
-      "place": "London, United Kingdom",
-      "category": "Design",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8385819",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dept/production-designer-6m-ftc-deptr-8011ae?utm_source=reddit",
-      "postedAt": "2026-11-13T17:11:31.000Z",
-      "notable": 3
-    },
-    {
-      "id": "b0d0063f-bd43-4d2e-82f8-23b31723cdf2",
-      "title": "Software Engineer I, Cloud",
-      "company": "CMTelematics",
-      "place": "Cambridge, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$92.9K-$116.1K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cmt/software-engineer-i-cloud-cmtelematics-d4c7ee?utm_source=reddit",
-      "postedAt": "2026-11-13T17:11:24.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
