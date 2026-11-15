@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:36:15.255Z",
+  "generatedAt": "2026-11-15T21:01:34.323Z",
   "jobs": [
     {
       "id": "85b44812-aab5-4009-bf99-a6065c11a085",
@@ -950,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/vast/manufacturing-engineering-propulsion-vast-ada063?utm_source=reddit",
       "postedAt": "2026-11-15T01:48:39.000Z",
       "notable": 5
+    },
+    {
+      "id": "fca4b7b8-0a21-475b-8a53-11ddc8f07e57",
+      "title": "Operations Controls Engineer - Manchester",
+      "company": "Equinix",
+      "place": "Manchester, United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://equinix.wd1.myworkdayjobs.com/External/job/Manchester/Operations-Controls-Engineer---Manchester_JR-164442",
+      "firstJobbyUrl": "https://firstjobby.com/companies/equinixorwd1orexternal/operations-controls-engineer-manchester-equinix-4e19a7?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f767a81c-125e-4eb8-bdfb-4686441f6d7b",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/kgroupcompanies/sales-representative-it-solutions-k-group-companies-76fd06?utm_source=reddit",
       "postedAt": "2026-11-13T17:14:42.595Z",
       "notable": 0
-    },
-    {
-      "id": "3fc36d39-8c47-45e8-b2ac-f84cd1917f30",
-      "title": "Junior Operations Manager",
-      "company": "Clera",
-      "place": "Berlin, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "€40.0K-€60.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/f0cbac69-ab1e-4cb0-a822-82ce042897a9",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/junior-operations-manager-clera-711c21?utm_source=reddit",
-      "postedAt": "2026-11-13T17:14:27.710Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
