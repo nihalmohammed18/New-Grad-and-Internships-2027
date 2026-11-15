@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T07:46:45.283Z",
+  "generatedAt": "2026-11-15T07:50:44.399Z",
   "jobs": [
     {
       "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
@@ -209,6 +209,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/advanced-mission-design-engineer-amentum-73885c?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "5097d1eb-754c-4e69-87f2-483bbef41f2a",
+      "title": "Consultant – Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)",
+      "company": "PATH",
+      "place": "Remote from India",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₹20.0K/day",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://path.wd1.myworkdayjobs.com/External/job/India-Remote-New-Delhi/Consultant---Data-analysis-and-Technical-writing--HIV-Hepatitis-STI--HHS-_JR2920",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pathorwd1orexternal/consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs-path-bcbfd0?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "2bc6ed93-e04f-422b-b881-62d4bcca0081",
@@ -2238,7 +2257,7 @@
       "pay": "$124.0K-$195.5K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/deep-learning-framework-communications-engineer-new-college-grad-2026-nvidia-3192bc?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 4
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/culinagroup1/operations-support-culina-group-0dcd35?utm_source=reddit",
       "postedAt": "2026-11-13T15:36:25.371Z",
       "notable": 5
-    },
-    {
-      "id": "b30823a2-4e81-404f-8f65-81981778b76a",
-      "title": "Security Compliance Analyst",
-      "company": "Masabi",
-      "place": "Remote from Romania",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/masabi/8ac4b503-ba86-4360-ad00-1b751a433933",
-      "firstJobbyUrl": "https://firstjobby.com/companies/masabi/security-compliance-analyst-masabi-36cf25?utm_source=reddit",
-      "postedAt": "2026-11-13T15:36:22.356Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
