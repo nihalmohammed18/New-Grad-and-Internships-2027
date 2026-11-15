@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:54:23.276Z",
+  "generatedAt": "2026-11-15T18:59:43.025Z",
   "jobs": [
     {
       "id": "2159a1d1-3c1f-462a-9fea-24d785ac1b03",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dedale-intelligence/paris-investment-and-strategy-analyst-dedale-intelligence-acd55f?utm_source=reddit",
       "postedAt": "2026-11-15T13:38:45.475Z",
       "notable": 3
+    },
+    {
+      "id": "fa04864b-e029-4108-a3dc-8cc34b35156a",
+      "title": "QA/QC Electrical Engineer - Data Center",
+      "company": "Decima International",
+      "place": "Dubai, United Arab Emirates",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/decimainternational/jobs/4729669006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/decimainternational/qaqc-electrical-engineer-data-center-decima-international-49ee91?utm_source=reddit",
+      "postedAt": "2026-11-15T13:34:01.000Z",
+      "notable": 1
     },
     {
       "id": "be4000f2-e455-455a-9e75-9dcf143bbbc4",
@@ -912,6 +931,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bakerhughesorwd5orbakerhughes/early-talent-trainee-sales-and-commercial-2027-opportunity-baker-hughes-2ba2c1?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "c7bcd667-a4dd-4b55-bbef-343907e81151",
+      "title": "Associate Operations",
+      "company": "SS&C",
+      "place": "Mumbai, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Mumbai-India/Associate-manager---Operations_R44163",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ssctechorwd1orssctechnologies/associate-operations-ssandc-6341fa?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "b2f4f807-8e82-431f-b3d7-60b41aa63ebd",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/materials-engineer-design-allowables-and-materials-data-anduril-industries-201b25?utm_source=reddit",
       "postedAt": "2026-11-13T16:57:16.000Z",
       "notable": 5
-    },
-    {
-      "id": "44a702cd-6a10-40e9-a2bc-26931fba40a6",
-      "title": "Care Coordinator",
-      "company": "NeueHealth",
-      "place": "Remote from United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$23-$34/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/neuehealth/jobs/6260760004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/neuehealth/care-coordinator-neuehealth-319341?utm_source=reddit",
-      "postedAt": "2026-11-13T16:53:12.000Z",
-      "notable": 3
-    },
-    {
-      "id": "6de87800-40b9-49c6-bb71-43580bb5dcc9",
-      "title": "Support Specialist",
-      "company": "Lightspeedhq",
-      "place": "Georgia",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/lightspeedhq/7277a162-4a43-4ca0-a42a-1409fd2bb504",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lightspeedhq-ashby/support-specialist-lightspeedhq-b6bd21?utm_source=reddit",
-      "postedAt": "2026-11-13T16:52:50.917Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
