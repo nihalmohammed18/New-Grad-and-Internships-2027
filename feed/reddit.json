@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:39:41.289Z",
+  "generatedAt": "2026-11-15T21:45:38.262Z",
   "jobs": [
     {
       "id": "85b44812-aab5-4009-bf99-a6065c11a085",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/sales-development-representative-business-development-representative-clera-9e21e4?utm_source=reddit",
       "postedAt": "2026-11-15T17:11:05.131Z",
       "notable": 6
+    },
+    {
+      "id": "ef810896-deb9-4f20-a02d-156e1ce705b2",
+      "title": "Solutions Engineer",
+      "company": "Certa",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/certa/2eee37a0-31f5-4302-bbaf-0e729b61c9e2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/certa/solutions-engineer-certa-f597e7?utm_source=reddit",
+      "postedAt": "2026-11-15T15:35:47.159Z",
+      "notable": 1
     },
     {
       "id": "b29fa877-6ba4-42d0-9c39-46dfa4ae54f0",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lightmatter/physical-design-intern-summer-2027-lightmatter-18e51f?utm_source=reddit",
       "postedAt": "2026-11-13T17:18:06.000Z",
       "notable": 4
-    },
-    {
-      "id": "bec8ba79-0cf2-4c61-b1a1-67be800cf3f1",
-      "title": "Technical Support Analyst (Dutch Speaker)",
-      "company": "DigiCert",
-      "place": "Cape Town, South Africa",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.digicert.com/careers/?gh_jid=8885063002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/digicert/technical-support-analyst-dutch-speaker-digicert-78c3a3?utm_source=reddit",
-      "postedAt": "2026-11-13T17:17:06.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
