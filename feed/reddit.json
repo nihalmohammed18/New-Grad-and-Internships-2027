@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:48:14.162Z",
+  "generatedAt": "2026-11-15T18:54:23.276Z",
   "jobs": [
     {
       "id": "2159a1d1-3c1f-462a-9fea-24d785ac1b03",
@@ -1180,6 +1180,25 @@
       "notable": 2
     },
     {
+      "id": "782ead2c-2c8d-4b07-8777-ab64befc00c8",
+      "title": "Java Software Engineer",
+      "company": "Global Payments",
+      "place": "Bucharest, Romania",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/BUCHAREST--ROMANIA/Java-Software-Engineer_R0076767-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tsysorwd1ortsys/java-software-engineer-global-payments-337ed9?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "6e73770a-c9ca-4d78-89ab-6861b7e1260d",
       "title": "IT Intern",
       "company": "DXC Technology",
@@ -1235,6 +1254,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/advanced-mission-design-engineer-amentum-73885c?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "605bca58-ba29-44b5-9b38-986d39a7e56e",
+      "title": "Sales Representative  Anchorage, AK",
+      "company": "Sysco",
+      "place": "Anchorage, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Ditomasos/Sales-Representative--Anchorage--AK_R275209",
+      "firstJobbyUrl": "https://firstjobby.com/companies/syscoorwd5orsyscocareers/sales-representative-anchorage-ak-sysco-2d4326?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "5ef1400c-0b08-4e17-99e8-5116f4cafa97",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/lightspeedhq/7277a162-4a43-4ca0-a42a-1409fd2bb504",
       "firstJobbyUrl": "https://firstjobby.com/companies/lightspeedhq-ashby/support-specialist-lightspeedhq-b6bd21?utm_source=reddit",
       "postedAt": "2026-11-13T16:52:50.917Z",
-      "notable": 3
-    },
-    {
-      "id": "2c737c59-47b9-4a23-be7a-e7041489dcee",
-      "title": "Logistics Specialist I - CDMX",
-      "company": "Uber Freight",
-      "place": "Mexico",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/uberfreight/jobs/5455421008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/uberfreight/logistics-specialist-i-cdmx-uber-freight-59468d?utm_source=reddit",
-      "postedAt": "2026-11-13T16:52:28.000Z",
-      "notable": 3
-    },
-    {
-      "id": "46118642-b06e-4a03-b898-dbb66f11a57c",
-      "title": "Digital Onboarding Specialist I - Lisbon / Madrid",
-      "company": "Pleo",
-      "place": "Portugal",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/pleo/88379220-a1d2-4805-8523-e34ae1b825cb",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pleo-ashby/digital-onboarding-specialist-i-lisbon-madrid-pleo-114642?utm_source=reddit",
-      "postedAt": "2026-11-13T16:48:29.599Z",
       "notable": 3
     }
   ],
