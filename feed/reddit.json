@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:01:34.323Z",
+  "generatedAt": "2026-11-15T21:39:41.289Z",
   "jobs": [
     {
       "id": "85b44812-aab5-4009-bf99-a6065c11a085",
@@ -1615,6 +1615,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/advanced-mission-design-engineer-amentum-73885c?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "6072b0c3-4b43-4da0-a30d-04548e2d05fb",
+      "title": "Software Developer Associate",
+      "company": "LRN Corporation",
+      "place": "Mumbai, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/BE0CFEEB1A",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lrn-corporation/software-developer-associate-lrn-corporation-cf434f?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "605bca58-ba29-44b5-9b38-986d39a7e56e",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/digicert/technical-support-analyst-dutch-speaker-digicert-78c3a3?utm_source=reddit",
       "postedAt": "2026-11-13T17:17:06.000Z",
       "notable": 3
-    },
-    {
-      "id": "65c55e83-657f-4767-9b3e-c31b0f63a702",
-      "title": "Sales Representative  - IT Solutions",
-      "company": "K Group Companies",
-      "place": "Grand Rapids, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/kgroupcompanies/0ef97a67-b40c-47a7-bbd5-1c435221c716",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kgroupcompanies/sales-representative-it-solutions-k-group-companies-76fd06?utm_source=reddit",
-      "postedAt": "2026-11-13T17:14:42.595Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
