@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:39:43.964Z",
+  "generatedAt": "2026-11-15T15:46:07.437Z",
   "jobs": [
     {
       "id": "41ae69bb-e084-458b-a4eb-52e59ae75c98",
@@ -553,6 +553,25 @@
       "notable": 2
     },
     {
+      "id": "cd6a6d45-3e6e-4711-84f2-ab1b62288957",
+      "title": "Solutions Engineer - Azerbaijan",
+      "company": "Cisco",
+      "place": "Baku, Azerbaijan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Baku-Azerbaijan/Solutions-Engineer---Azerbaijan_2030544",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/solutions-engineer-azerbaijan-cisco-fd39b0?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "b2f4f807-8e82-431f-b3d7-60b41aa63ebd",
       "title": "IT Support Specialist",
       "company": "TOMORROW HIRE",
@@ -737,7 +756,7 @@
       "pay": "$167.7K-$245.2K/yr",
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2028825",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2028825",
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-64f628?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/octoenergy/account-executive-octoenergy-3c2746?utm_source=reddit",
       "postedAt": "2026-11-13T16:13:14.353Z",
       "notable": 3
-    },
-    {
-      "id": "dd5387ad-e32e-43bc-98de-49febd7f88ad",
-      "title": "Research Associate (Quantitative and/or Qualitative), Division of Research and Faculty Development",
-      "company": "Harvard University",
-      "place": "Boston, United States",
-      "category": "Research",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016843366",
-      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-associate-quantitative-andor-qualitative-division-of-research-and-facul-3715da?utm_source=reddit",
-      "postedAt": "2026-11-13T16:12:29.794Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
