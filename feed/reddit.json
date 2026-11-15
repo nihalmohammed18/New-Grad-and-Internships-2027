@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T07:38:22.502Z",
+  "generatedAt": "2026-11-15T07:46:45.283Z",
   "jobs": [
     {
       "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
@@ -190,6 +190,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/customer-support-engineer-kla-463af6?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "668f85df-1ea6-4dcc-ab6a-9fe7cacfcd28",
+      "title": "Advanced Mission Design Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$83.7K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Advanced-Mission-Design-Engineer_R0173094-10",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/advanced-mission-design-engineer-amentum-73885c?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "2bc6ed93-e04f-422b-b881-62d4bcca0081",
@@ -2185,6 +2204,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/business-operations-associate-accenture-f616d7?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1733ff56-bd61-4472-a6bc-479b9bd28248",
+      "title": "Investment Banking Analyst",
+      "company": "Plante Moran",
+      "place": "United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$90.0K-$100.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Cleveland/Investment-Banking-Analyst_JR-03740",
+      "firstJobbyUrl": "https://firstjobby.com/companies/plantemoranorwd1orpmexternalcareers/investment-banking-analyst-plante-moran-ccfbfa?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "131b63a0-6a0e-408f-b148-30151adf9ef6",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/masabi/security-compliance-analyst-masabi-36cf25?utm_source=reddit",
       "postedAt": "2026-11-13T15:36:22.356Z",
       "notable": 3
-    },
-    {
-      "id": "f8dd26ae-8a42-49bc-9d2f-b5251d6962aa",
-      "title": "Quality Engineer",
-      "company": "Mission Critical Group",
-      "place": "Brookston, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016842006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/quality-engineer-mission-critical-group-086297?utm_source=reddit",
-      "postedAt": "2026-11-13T15:36:02.759Z",
-      "notable": 3
-    },
-    {
-      "id": "1dad94c6-2003-41a2-9313-aa2bf3539368",
-      "title": "Technical Sales Specialist",
-      "company": "Securitas",
-      "place": "Lausanne, Switzerland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Securitas/744000161517324",
-      "firstJobbyUrl": "https://firstjobby.com/companies/securitas/technical-sales-specialist-securitas-005e88?utm_source=reddit",
-      "postedAt": "2026-11-13T15:35:57.746Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
