@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:24:02.565Z",
+  "generatedAt": "2026-11-15T20:36:15.255Z",
   "jobs": [
     {
       "id": "85b44812-aab5-4009-bf99-a6065c11a085",
@@ -1672,6 +1672,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/muntersorwd3orexternalcareers/quality-assurance-inspector-munters-81d00e?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "56a847a1-34ad-4fff-9314-278ab12f69a4",
+      "title": "Inside Sales – Public Sector",
+      "company": "HP",
+      "place": "Las Rozas, Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Las-Rozas-Madrid-Spain/Inside-Sales---Public-Sector_3171107-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hporwd5orexternalcareersite/inside-sales-public-sector-hp-a7be88?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "50d0a2b6-0d9e-4976-be2a-4ab5af226019",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/junior-operations-manager-clera-711c21?utm_source=reddit",
       "postedAt": "2026-11-13T17:14:27.710Z",
       "notable": 6
-    },
-    {
-      "id": "64e8f241-9626-4f56-a855-b0b3223b41dc",
-      "title": "Account Executive – Commercial Security Systems",
-      "company": "K Group Companies",
-      "place": "Grand Rapids, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/kgroupcompanies/8d1d2f1a-a229-45e0-b7db-e436f9d3a52d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kgroupcompanies/account-executive-commercial-security-systems-k-group-companies-7a5d02?utm_source=reddit",
-      "postedAt": "2026-11-13T17:13:58.702Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
