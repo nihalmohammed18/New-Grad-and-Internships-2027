@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:37:13.074Z",
+  "generatedAt": "2026-11-15T03:47:39.287Z",
   "jobs": [
     {
       "id": "4a038550-35f6-4b4a-be17-55274ece4475",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/customer-support-engineer-kla-463af6?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0a03f7a6-9a81-4390-852e-8705f36e81dd",
+      "title": "Short-Term Firmware Intern",
+      "company": "Eight Sleep",
+      "place": "New York, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$30-$35/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/eightsleep-ashby/short-term-firmware-intern-eight-sleep-24dc02?utm_source=reddit",
+      "postedAt": "2026-11-14T23:35:30.058Z",
+      "notable": 3
     },
     {
       "id": "7fef1d5b-662e-473a-be09-4ec0b92c8e4d",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/sailorhealth/d4340969-a9a0-4dee-8f9a-c8791e8b486f",
       "firstJobbyUrl": "https://firstjobby.com/companies/sailorhealth/care-coordinator-remote-sailor-health-48f3c2?utm_source=reddit",
       "postedAt": "2026-11-13T15:20:04.860Z",
-      "notable": 5
-    },
-    {
-      "id": "ce2c6674-d897-4d13-83c6-3f65866b2c99",
-      "title": "Cloud Platform Engineer| St. Louis, MO (Onsite or Weekly Travel Required)",
-      "company": "Accenture Federal Services",
-      "place": "St. Louis, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$148.7K-$294.2K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4729195006?gh_jid=4729195006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accenturefederalservices/cloud-platform-engineeror-st-louis-mo-onsite-or-weekly-travel-required-accenture-4489ec?utm_source=reddit",
-      "postedAt": "2026-11-13T15:19:10.000Z",
       "notable": 5
     }
   ],
