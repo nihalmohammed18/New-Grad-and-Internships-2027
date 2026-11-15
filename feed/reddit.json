@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:38:16.494Z",
+  "generatedAt": "2026-11-15T19:49:14.451Z",
   "jobs": [
     {
       "id": "8355a67d-c448-45a7-82f8-0efc80c3b456",
@@ -1349,6 +1349,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-day-lowes-a3ec50?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "831125bb-15f8-4ac6-8b86-ba5824793794",
+      "title": "Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027",
+      "company": "Philips",
+      "place": "Bedford, United States",
+      "category": "Product",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$33-$41/hr",
+      "minYears": 2,
+      "season": "Summer 2027",
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
+      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/intern-upstream-product-management-mba-phd-bedford-ma-summer-2027-philips-cb9f00?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "7f5da986-cca5-4be0-9c7b-afbe4f87650f",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8385795",
       "firstJobbyUrl": "https://firstjobby.com/companies/dept/production-designer-6m-ftc-deptr-35c185?utm_source=reddit",
       "postedAt": "2026-11-13T17:08:19.000Z",
-      "notable": 5
-    },
-    {
-      "id": "b595c1ba-3a2c-43e0-a8fc-8e3541b02630",
-      "title": "Designer (6 month FTC)",
-      "company": "DEPT®",
-      "place": "Toronto, Canada",
-      "category": "Design",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$50.0K-CA$60.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8385972",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dept/designer-6-month-ftc-deptr-ded9a9?utm_source=reddit",
-      "postedAt": "2026-11-13T17:08:16.000Z",
       "notable": 5
     }
   ],
