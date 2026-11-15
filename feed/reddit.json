@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T07:50:44.399Z",
+  "generatedAt": "2026-11-15T08:06:39.937Z",
   "jobs": [
     {
       "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
@@ -247,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aureol-global-connections/quantity-surveyor-civil-engineer-aureol-global-connections-aa96ab?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "2829f232-f02f-4c2c-b106-64d9f8717b64",
+      "title": "Quality Assurance Team Leader",
+      "company": "Mass General Brigham",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Conversion-Only---Massachusetts/Quality-Assurance-Team-Leader_RQ4084036-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/massgeneralbrighamorwd1ormgbexternal/quality-assurance-team-leader-mass-general-brigham-ba601b?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "1cf34034-5150-41b9-a47d-40245e28d4b8",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/missioncriticalgroup/quality-engineer-mission-critical-group-f00978?utm_source=reddit",
       "postedAt": "2026-11-13T15:37:19.559Z",
       "notable": 3
-    },
-    {
-      "id": "20ed7a3e-5d0a-49d7-bd57-9cf1d1c9f656",
-      "title": "Operations Support",
-      "company": "Culina Group",
-      "place": "Blyth, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£28.3K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CulinaGroup1/744000161518759",
-      "firstJobbyUrl": "https://firstjobby.com/companies/culinagroup1/operations-support-culina-group-0dcd35?utm_source=reddit",
-      "postedAt": "2026-11-13T15:36:25.371Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
