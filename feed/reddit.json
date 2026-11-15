@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:31:01.116Z",
+  "generatedAt": "2026-11-15T09:33:58.567Z",
   "jobs": [
     {
       "id": "528fd472-be33-45c6-a6f1-631a80100a10",
@@ -247,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/customer-support-engineer-kla-463af6?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "7f5da986-cca5-4be0-9c7b-afbe4f87650f",
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "place": "Milpitas, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$167.7K-$245.2K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2028825",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-64f628?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "668f85df-1ea6-4dcc-ab6a-9fe7cacfcd28",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://sumup.com/careers/positions/8933070002?gh_jid=8933070002",
       "firstJobbyUrl": "https://firstjobby.com/companies/sumup/inbound-sales-representative-sumup-6407fe?utm_source=reddit",
       "postedAt": "2026-11-13T15:41:23.000Z",
-      "notable": 3
-    },
-    {
-      "id": "fd609d22-a27b-47f6-b2c7-f6e796b0aae9",
-      "title": "Technicien de laboratoire (préparation d'échantillons biologiques) H/F  CDD 3 mois - temps plein",
-      "company": "Eurofins",
-      "place": "Gières, France",
-      "category": "Marketing",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161520039",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/technicien-de-laboratoire-preparation-dechantillons-biologiques-hf-cdd-3-mois-te-b46d73?utm_source=reddit",
-      "postedAt": "2026-11-13T15:40:36.979Z",
       "notable": 3
     }
   ],
