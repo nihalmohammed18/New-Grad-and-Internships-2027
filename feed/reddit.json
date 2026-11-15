@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:47:39.287Z",
+  "generatedAt": "2026-11-15T04:00:35.891Z",
   "jobs": [
     {
       "id": "4a038550-35f6-4b4a-be17-55274ece4475",
@@ -1632,6 +1632,25 @@
       "season": null,
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/jj/job/Durham-North-Carolina-United-States/Account-Executive---Wound-Closure--Chapel-Hill--NC----Johnson---Johnson-MedTech---Surgery_R-110688-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/account-executive-wound-closure-chapel-hill-nc-johnson-and-johnson-medtech-surge-93efb3?utm_source=reddit",
+      "postedAt": "2026-11-14T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "571d6e4c-e2ed-4c9c-94b1-649459217995",
+      "title": "Sales Associate Part Time - 7172 Sherwood Park",
+      "company": "The Home Depot",
+      "place": "Sherwood Park, Canada",
+      "category": "Sales",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/SHERWOOD-PARK-STORE---7172/Sales-Associate-Part-Time---7172-Sherwood-Park_Req199145",
+      "firstJobbyUrl": "https://firstjobby.com/companies/homedepotorwd5orcareerdepotcanada/sales-associate-part-time-7172-sherwood-park-the-home-depot-8fd8b8?utm_source=reddit",
       "postedAt": "2026-11-14T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/leoni1/specialist-production-engineering-leoni-4e6e8d?utm_source=reddit",
       "postedAt": "2026-11-13T15:20:34.040Z",
       "notable": 3
-    },
-    {
-      "id": "5e6c7f3e-5f84-469f-9060-1afeb25ae284",
-      "title": "Care Coordinator (Remote)",
-      "company": "Sailor Health",
-      "place": "Remote from Canada",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$40.0K-CA$50.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/sailorhealth/d4340969-a9a0-4dee-8f9a-c8791e8b486f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sailorhealth/care-coordinator-remote-sailor-health-48f3c2?utm_source=reddit",
-      "postedAt": "2026-11-13T15:20:04.860Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
