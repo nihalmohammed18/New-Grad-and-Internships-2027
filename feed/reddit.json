@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:25:17.294Z",
+  "generatedAt": "2026-11-15T13:35:36.441Z",
   "jobs": [
     {
       "id": "8dfa13a0-5866-44fd-b63e-cf6b2eaefa36",
@@ -589,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-64f628?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "783eaa10-12c2-462c-bf0f-92883dbd8898",
+      "title": "Systems Engineering Associate",
+      "company": "Salesforce",
+      "place": "Hyderabad, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441",
+      "firstJobbyUrl": "https://firstjobby.com/companies/salesforceorwd12orexternalcareersite/systems-engineering-associate-salesforce-712ca8?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "668f85df-1ea6-4dcc-ab6a-9fe7cacfcd28",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pottersresorts/sound-engineer-potters-resorts-5b1672?utm_source=reddit",
       "postedAt": "2026-11-13T15:58:54.886Z",
       "notable": 0
-    },
-    {
-      "id": "bd31ef1c-9774-4201-b589-ca5d59f0a65c",
-      "title": "Field Services Coordinator (12 Month Contract)",
-      "company": "Geotab",
-      "place": "Berlin, Germany",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/geotab/jobs/5481496008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/geotab/field-services-coordinator-12-month-contract-geotab-9f4886?utm_source=reddit",
-      "postedAt": "2026-11-13T15:57:21.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
