@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:30:34.343Z",
+  "generatedAt": "2026-11-15T13:25:17.294Z",
   "jobs": [
     {
       "id": "8dfa13a0-5866-44fd-b63e-cf6b2eaefa36",
@@ -515,6 +515,25 @@
       "notable": 3
     },
     {
+      "id": "a65ff73c-924b-460b-b2b8-d0d6bcb81f10",
+      "title": "QA Line Inspector (NBL Oral)-1",
+      "company": "Kalbe",
+      "place": "Jakarta, Indonesia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kalbe.wd102.myworkdayjobs.com/External/job/Jakarta-HO/QA-Line-Inspector--NBL-Oral--1_JR26_002090",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kalbeorwd102orexternal/qa-line-inspector-nbl-oral-1-kalbe-9e731d?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "9e4fbdac-23b0-447b-9582-d4421f1abf17",
       "title": "Customer Support Engineer",
       "company": "KLA",
@@ -644,6 +663,25 @@
       "season": null,
       "applyUrl": "https://path.wd1.myworkdayjobs.com/External/job/India-Remote-New-Delhi/Consultant---Data-analysis-and-Technical-writing--HIV-Hepatitis-STI--HHS-_JR2920",
       "firstJobbyUrl": "https://firstjobby.com/companies/pathorwd1orexternal/consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs-path-bcbfd0?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "3866c7de-6acd-40af-b822-459d763b37ce",
+      "title": "DF - QC Finished Good Analyst",
+      "company": "Kalbe",
+      "place": "Jakarta, Indonesia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://kalbe.wd102.myworkdayjobs.com/External/job/Jakarta-HO/DF---QC-Finished-Good-Analyst_JR26_002122",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kalbeorwd102orexternal/df-qc-finished-good-analyst-kalbe-559099?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geotab/field-services-coordinator-12-month-contract-geotab-9f4886?utm_source=reddit",
       "postedAt": "2026-11-13T15:57:21.000Z",
       "notable": 2
-    },
-    {
-      "id": "1e44de06-e6e4-440b-8b5e-a2afe24fa2d3",
-      "title": "Graphic Design Intern",
-      "company": "Pacvue",
-      "place": "Remote from United States",
-      "category": "Design",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/pacvue/jobs/6261128004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/pacvue/graphic-design-intern-pacvue-8d8e01?utm_source=reddit",
-      "postedAt": "2026-11-13T15:57:13.000Z",
-      "notable": 3
-    },
-    {
-      "id": "54c17140-97ac-4132-b1ae-143aeb92728c",
-      "title": "Account Manager",
-      "company": "Kaseya Careers",
-      "place": "Medellin, Colombia",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.kaseya.com/careers/jobs/id/6261188004/?gh_jid=6261188004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kaseya/account-manager-kaseya-careers-11c32a?utm_source=reddit",
-      "postedAt": "2026-11-13T15:56:21.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
