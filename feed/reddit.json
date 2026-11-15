@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:33:58.567Z",
+  "generatedAt": "2026-11-15T09:47:00.600Z",
   "jobs": [
     {
       "id": "528fd472-be33-45c6-a6f1-631a80100a10",
@@ -249,6 +249,25 @@
       "notable": 2
     },
     {
+      "id": "84e53912-5904-4beb-8124-2fef09d31336",
+      "title": "Full Time - Sales Associate - Outside Lawn & Garden - Day",
+      "company": "Lowe's",
+      "place": "Goodyear, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goodyear-AZ-1553/Full-Time---Sales-Associate---Outside-Lawn---Garden---Day_JR-02705503",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-day-lowes-a3ec50?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "7f5da986-cca5-4be0-9c7b-afbe4f87650f",
       "title": "Software Engineer",
       "company": "Cisco",
@@ -302,6 +321,25 @@
       "season": null,
       "applyUrl": "https://path.wd1.myworkdayjobs.com/External/job/India-Remote-New-Delhi/Consultant---Data-analysis-and-Technical-writing--HIV-Hepatitis-STI--HHS-_JR2920",
       "firstJobbyUrl": "https://firstjobby.com/companies/pathorwd1orexternal/consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs-path-bcbfd0?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "2e6c99df-4bd0-42ae-9d7a-e212b007c0d8",
+      "title": "Full Time - Sales Associate - Outside Lawn & Garden - Day",
+      "company": "Lowe's",
+      "place": "Goodyear, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goodyear-AZ-1553/Full-Time---Sales-Associate---Outside-Lawn---Garden---Day_JR-02705505",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-day-lowes-e5405c?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/callrail/sales-development-representative-callrail-2f1665?utm_source=reddit",
       "postedAt": "2026-11-13T15:43:11.000Z",
       "notable": 1
-    },
-    {
-      "id": "f52ee991-7ba8-4a50-8aac-b0979e81a588",
-      "title": "Trainee Data Analyst - Elevation Programme",
-      "company": "Frasers Group",
-      "place": "Shirebrook, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/FrasersGroup/744000161518641",
-      "firstJobbyUrl": "https://firstjobby.com/companies/frasersgroup/trainee-data-analyst-elevation-programme-frasers-group-41366b?utm_source=reddit",
-      "postedAt": "2026-11-13T15:43:07.550Z",
-      "notable": 3
-    },
-    {
-      "id": "6ec815c1-0c6f-4e1d-80be-1bd92c486b06",
-      "title": "Inbound Sales Representative",
-      "company": "SumUp",
-      "place": "Paris, France",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://sumup.com/careers/positions/8933070002?gh_jid=8933070002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sumup/inbound-sales-representative-sumup-6407fe?utm_source=reddit",
-      "postedAt": "2026-11-13T15:41:23.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
