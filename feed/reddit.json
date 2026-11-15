@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:18:34.104Z",
+  "generatedAt": "2026-11-15T16:33:47.935Z",
   "jobs": [
     {
       "id": "be4000f2-e455-455a-9e75-9dcf143bbbc4",
@@ -1123,6 +1123,25 @@
       "notable": 2
     },
     {
+      "id": "46aba3fb-9210-465c-9e9b-1f4dc4459408",
+      "title": "FY27 - Associate 1 - Risk Assurance - IT Governance",
+      "company": "PwC",
+      "place": "Jakarta, Indonesia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Jakarta/FY27---Associate-1---Risk-Assurance---IT-Governance_767821WD",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pwcorwd3orglobalexperiencedcareers/fy27-associate-1-risk-assurance-it-governance-pwc-0b7f0e?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "3866c7de-6acd-40af-b822-459d763b37ce",
       "title": "DF - QC Finished Good Analyst",
       "company": "Kalbe",
@@ -1216,6 +1235,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/massgeneralbrighamorwd1ormgbexternal/quality-assurance-team-leader-mass-general-brigham-ba601b?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "26d2cb1e-c79c-450d-92ca-3fd4b665f3aa",
+      "title": "ETIC, Summer Internship - Quality & Testing",
+      "company": "PwC",
+      "place": "Cairo, Egypt",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2026",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pwcorwd3orglobalexperiencedcareers/etic-summer-internship-quality-and-testing-pwc-34a404?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "268285e3-f9f6-4583-aa54-da578bd0024c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/genscript/quality-control-qc-associate-scientist-genscript-414531?utm_source=reddit",
       "postedAt": "2026-11-13T16:34:40.000Z",
       "notable": 5
-    },
-    {
-      "id": "7e49bc0c-98c5-4685-a093-a48ef6a5208a",
-      "title": "Finance Builder / Engineer",
-      "company": "Tutor Intelligence",
-      "place": "Watertown, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$130.0K-$250.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/tutorintelligence/8a7c64cd-9f9a-493a-a274-5ca803c0195c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tutorintelligence/finance-builder-engineer-tutor-intelligence-25c1be?utm_source=reddit",
-      "postedAt": "2026-11-13T16:33:46.005Z",
-      "notable": 5
-    },
-    {
-      "id": "f43489e1-db50-4c24-a06f-124a38b69698",
-      "title": "Customer Support Specialist II",
-      "company": "Spectora",
-      "place": "Remote from United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$60.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/spectora/jobs/4505900009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spectora/customer-support-specialist-ii-spectora-d21505?utm_source=reddit",
-      "postedAt": "2026-11-13T16:30:13.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
