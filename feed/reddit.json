@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:15:35.098Z",
+  "generatedAt": "2026-11-15T07:38:22.502Z",
   "jobs": [
     {
       "id": "d76f7d21-f897-44bc-95c7-6739e8873ffb",
@@ -4522,6 +4522,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/apryse/business-development-representative-apryse-d77a76?utm_source=reddit",
       "postedAt": "2026-11-13T20:20:13.178Z",
       "notable": 3
+    },
+    {
+      "id": "cb28687d-9cde-48f5-bef5-8845ec87734c",
+      "title": "Sales Development Representative",
+      "company": "Pebl",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/pebl/700bcc79-ce21-454a-a55b-5512e5584861",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pebl/sales-development-representative-pebl-f57561?utm_source=reddit",
+      "postedAt": "2026-11-13T20:15:28.088Z",
+      "notable": 1
     },
     {
       "id": "b97edac8-3f6e-4a03-87d0-6ba4c058034d",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/securitas/technical-sales-specialist-securitas-005e88?utm_source=reddit",
       "postedAt": "2026-11-13T15:35:57.746Z",
       "notable": 2
-    },
-    {
-      "id": "8b3ec08c-c187-4ae8-939e-0cbbac8a4f82",
-      "title": "2027 MiLB Data Operations (Seasonal)",
-      "company": "Major League Baseball",
-      "place": "Indianapolis, United States",
-      "category": "Data",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25/hr",
-      "minYears": null,
-      "season": "2027 MiLB Season",
-      "applyUrl": "https://www.mlb.com/careers/jobs/league?gh_jid=8384036",
-      "firstJobbyUrl": "https://firstjobby.com/companies/majorleaguebaseball/2027-milb-data-operations-seasonal-major-league-baseball-21335e?utm_source=reddit",
-      "postedAt": "2026-11-13T15:35:36.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
