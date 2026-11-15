@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:46:07.437Z",
+  "generatedAt": "2026-11-15T15:57:02.751Z",
   "jobs": [
     {
       "id": "41ae69bb-e084-458b-a4eb-52e59ae75c98",
@@ -1101,25 +1101,6 @@
       "applyUrl": "https://apply.workable.com/j/404B3BCAA4",
       "firstJobbyUrl": "https://firstjobby.com/companies/aureol-global-connections/setting-out-engineer-aureol-global-connections-e53f0e?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "0a03f7a6-9a81-4390-852e-8705f36e81dd",
-      "title": "Short-Term Firmware Intern",
-      "company": "Eight Sleep",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$30-$35/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eightsleep-ashby/short-term-firmware-intern-eight-sleep-24dc02?utm_source=reddit",
-      "postedAt": "2026-11-14T23:35:30.058Z",
       "notable": 3
     },
     {
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/octoenergy/account-executive-octoenergy-3c2746?utm_source=reddit",
       "postedAt": "2026-11-13T16:13:14.353Z",
       "notable": 3
+    },
+    {
+      "id": "dd5387ad-e32e-43bc-98de-49febd7f88ad",
+      "title": "Research Associate (Quantitative and/or Qualitative), Division of Research and Faculty Development",
+      "company": "Harvard University",
+      "place": "Boston, United States",
+      "category": "Research",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990016843366",
+      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-associate-quantitative-andor-qualitative-division-of-research-and-facul-3715da?utm_source=reddit",
+      "postedAt": "2026-11-13T16:12:29.794Z",
+      "notable": 4
     }
   ],
   "fakeEntryLevel": {
