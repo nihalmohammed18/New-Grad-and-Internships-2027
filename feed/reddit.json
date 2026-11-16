@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-16T05:41:34.247Z",
+  "generatedAt": "2026-11-16T05:47:15.533Z",
   "jobs": [
+    {
+      "id": "f0bc085f-75f8-40d8-8924-dd7191d8bc10",
+      "title": "Site Reliability Engineer, GNC (Falcon)",
+      "company": "SpaceX",
+      "place": "Hawthorne, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$125.0K-$195.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8944232002?gh_jid=8944232002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spacex/site-reliability-engineer-gnc-falcon-spacex-85f0f9?utm_source=reddit",
+      "postedAt": "2026-11-16T05:39:26.000Z",
+      "notable": 4
+    },
     {
       "id": "ba5a253f-bba8-4452-bfbd-7a79cd6ec66c",
       "title": "Business Analyst, Scheduling & Trading (Allegro ETRM)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/revance/quality-assurance-specialist-ii-revance-6ab5bf?utm_source=reddit",
       "postedAt": "2026-11-13T18:55:36.000Z",
       "notable": 2
-    },
-    {
-      "id": "bcc08a2f-b79a-4ebf-9cc2-81d1a613c85c",
-      "title": "Outbound Upsells Account Executive",
-      "company": "Weave",
-      "place": "Lehi, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/weave/098f6ac9-2b2e-42d3-9107-8750d19b71c7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/weave-ashby/outbound-upsells-account-executive-weave-81f58e?utm_source=reddit",
-      "postedAt": "2026-11-13T18:51:24.987Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
