@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-16T07:12:07.020Z",
+  "generatedAt": "2026-11-16T07:18:17.675Z",
   "jobs": [
+    {
+      "id": "5c33a745-94a8-413e-bc74-b2580f236c8b",
+      "title": "Intern - Community & Documentation",
+      "company": "FourKites",
+      "place": "Chennai, India",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "₹30.0K/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/fourkites/jobs/8370603",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fourkites/intern-community-and-documentation-fourkites-d1838e?utm_source=reddit",
+      "postedAt": "2026-11-16T06:41:24.000Z",
+      "notable": 2
+    },
     {
       "id": "40d09eb2-423d-4b6e-8c85-2d1d8fff5972",
       "title": "Marketing Intern",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sonyinteractiveentertainmentglobal/software-engineer-ii-playstation-global-060f15?utm_source=reddit",
       "postedAt": "2026-11-13T19:14:53.000Z",
       "notable": 5
-    },
-    {
-      "id": "137b785e-4f24-4558-9466-36cfb7248197",
-      "title": "Frontend Engineer",
-      "company": "Airspace Intelligence Com",
-      "place": "Boston, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/airspace-intelligence.com/137579af-c726-4f28-9055-9d2f508e0bd2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/airspace-intelligencecom/frontend-engineer-airspace-intelligence-com-249f1f?utm_source=reddit",
-      "postedAt": "2026-11-13T19:13:43.270Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
