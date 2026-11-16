@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:35:58.661Z",
+  "generatedAt": "2026-11-16T07:42:32.846Z",
   "jobs": [
     {
       "id": "5c33a745-94a8-413e-bc74-b2580f236c8b",
@@ -971,6 +971,25 @@
       "notable": 2
     },
     {
+      "id": "8361b655-b142-4ab2-ae4b-4bdc97f52c5f",
+      "title": "Technical Sales – End User Specialist (Southern Kalimantan)",
+      "company": "STANLEY Engineered Fastening",
+      "place": "Jakarta, Indonesia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Jakarta-Indonesia/Technical-Sales---End-User-Specialist--Southern-Kalimantan-_REQ-1000053109-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sbdincorwd1orstanleyblackdeckercareersite/technical-sales-end-user-specialist-southern-kalimantan-stanley-engineered-faste-e8af2d?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "8355a67d-c448-45a7-82f8-0efc80c3b456",
       "title": "Enterprise Sales Development Representative",
       "company": "ServiceTitan",
@@ -1347,6 +1366,25 @@
       "season": null,
       "applyUrl": "https://kalbe.wd102.myworkdayjobs.com/External/job/Jakarta-HO/KF-BO---Analytical-Development-Scientist--PG-_JR26_002116",
       "firstJobbyUrl": "https://firstjobby.com/companies/kalbeorwd102orexternal/kf-bo-analytical-development-scientist-pg-kalbe-fbf92c?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "32909bec-03d3-4652-a1dc-f28b62162184",
+      "title": "MS&T Statistics Specialist",
+      "company": "Sandoz",
+      "place": "India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sandoz.wd103.myworkdayjobs.com/Sandoz_Careers/job/Telangana-Sandoz/MS-T-Statistics-Specialist_REQ-10033067",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sandozorwd103orsandozcareers/msandt-statistics-specialist-sandoz-52a94e?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/momsmeals/3rd-shift-fulfillment-quality-assurance-technician-moms-meals-15efdb?utm_source=reddit",
       "postedAt": "2026-11-13T19:25:10.245Z",
       "notable": 1
-    },
-    {
-      "id": "3522a30e-17a1-476a-b418-ef020c95af6b",
-      "title": "Systemspezialist (w/m/div.) Schwerpunkt IT- und Video-Systeme – Gebiet Büchel",
-      "company": "Bosch Group",
-      "place": "Wittlich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161563038",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/systemspezialist-wmdiv-schwerpunkt-it-und-video-systeme-gebiet-buchel-bosch-grou-250b40?utm_source=reddit",
-      "postedAt": "2026-11-13T19:23:47.542Z",
-      "notable": 3
-    },
-    {
-      "id": "ba1d7ca6-564d-421a-b3a9-4239ca2a82f9",
-      "title": "Customer Service Delivery Advocate",
-      "company": "Carvana",
-      "place": "Knoxville, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$19-$21/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8386286",
-      "firstJobbyUrl": "https://firstjobby.com/companies/carvana/customer-service-delivery-advocate-carvana-35a505?utm_source=reddit",
-      "postedAt": "2026-11-13T19:23:47.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
