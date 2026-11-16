@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:56:17.015Z",
+  "generatedAt": "2026-11-16T12:03:20.260Z",
   "jobs": [
     {
       "id": "2da9e780-8d44-4532-9692-01ccedcc5356",
@@ -4980,6 +4980,25 @@
       "notable": 2
     },
     {
+      "id": "63636d64-596a-4d44-8b9f-c5414e647001",
+      "title": "Intern - Social Media Manager",
+      "company": "We Are Social",
+      "place": "Amsterdam, Netherlands",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€500/mo",
+      "minYears": null,
+      "season": "February 2027",
+      "applyUrl": "https://apply.workable.com/j/AA8757B7E4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/we-are-social-1/intern-social-media-manager-we-are-social-9f5f79?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "606def04-bbce-48b4-b393-0814586d0af1",
       "title": "NVH Data Analyst",
       "company": "BorgWarner",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tutorperiniorwd12orexternal/bim-engineer-tutorperini-2786d7?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "4fc233f7-e3bc-4d16-8b6e-fbc01d5b6acc",
-      "title": "Account Executive Biosurgery (UCSF, CA) – Johnson & Johnson MedTech – Surgery",
-      "company": "Johnson & Johnson",
-      "place": "San Francisco, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$70.0K-$112.7K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jj.wd5.myworkdayjobs.com/jj/job/San-Francisco-California-United-States-of-America/Account-Executive-Biosurgery--UCSF--CA----Johnson---Johnson-MedTech---Surgery_R-110697-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/account-executive-biosurgery-ucsf-ca-johnson-and-johnson-medtech-surgery-johnson-8ae4b0?utm_source=reddit",
-      "postedAt": "2026-11-15T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
