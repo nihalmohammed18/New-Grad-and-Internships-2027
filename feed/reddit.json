@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:52:29.282Z",
+  "generatedAt": "2026-11-16T02:18:38.334Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -150,6 +150,25 @@
       "season": null,
       "applyUrl": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Australia-Remote/Enterprise-Sales-Development-Representative_JR116178",
       "firstJobbyUrl": "https://firstjobby.com/companies/servicetitanorwd1orservicetitan/enterprise-sales-development-representative-servicetitan-21ecdb?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "7f4f0c01-a4d4-4782-8b01-7ab1dc2437fc",
+      "title": "Cloud Engineer",
+      "company": "Accenture",
+      "place": "Canberra, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Canberra-65-Canberra-Avenue-Bldg/Cloud-Engineer_R00371526",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/cloud-engineer-accenture-11cc10?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -1991,7 +2010,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riyadh/Network-Security-Engineer_14912463",
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Riyadh/Network-Security-Engineer_14912463",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/network-security-engineer-accenture-f4df45?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abclegalservices/data-entry-specialist-remote-abc-legal-services-1bfec6?utm_source=reddit",
       "postedAt": "2026-11-13T17:49:53.000Z",
       "notable": 4
-    },
-    {
-      "id": "9c72bf96-51db-4547-b027-4588a5c73312",
-      "title": "Operations Associate - Part Time (Washington, DC)",
-      "company": "Serve Robotics",
-      "place": "Washington, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$22/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/serverobotics/e679069a-8dd8-455f-b004-e3af9edf061e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/serverobotics-ashby/operations-associate-part-time-washington-dc-serve-robotics-0c7ab7?utm_source=reddit",
-      "postedAt": "2026-11-13T17:48:12.909Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
