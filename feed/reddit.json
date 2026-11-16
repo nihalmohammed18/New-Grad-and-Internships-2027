@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:35:10.713Z",
+  "generatedAt": "2026-11-16T09:43:43.950Z",
   "jobs": [
     {
       "id": "d8f1a135-7eff-4266-b5ec-dd79834abea0",
@@ -113,6 +113,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000161750975-associate-data-scientist",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/associate-data-scientist-nielseniq-ad87e6?utm_source=reddit",
       "postedAt": "2026-11-16T08:54:50.194Z",
+      "notable": 3
+    },
+    {
+      "id": "5d9b7bd5-e0fb-4d09-b1d5-ab3a896d6fdb",
+      "title": "QA Engineer - Retail",
+      "company": "Qualysoft",
+      "place": "Bucharest, Romania",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/qualysoft/287edf96-fcdd-4423-898c-b4d6c062ad14",
+      "firstJobbyUrl": "https://firstjobby.com/companies/qualysoft/qa-engineer-retail-qualysoft-4222b7?utm_source=reddit",
+      "postedAt": "2026-11-16T08:50:09.906Z",
       "notable": 3
     },
     {
@@ -3116,6 +3135,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/facilities-coordinator-jll-9e6c8a?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "0feadf1f-9faf-4024-a6bd-688d42cbff0d",
+      "title": "Customer Service Specialist",
+      "company": "EPOS",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/F16E1FEF29",
+      "firstJobbyUrl": "https://firstjobby.com/companies/epos/customer-service-specialist-epos-ef6585?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "0e7a1ca0-4f58-42ea-a611-1ab3d0505add",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/convergentresearch/e11-bio-research-associate-in-vivo-convergent-research-4fb9a2?utm_source=reddit",
       "postedAt": "2026-11-13T21:52:49.333Z",
       "notable": 2
-    },
-    {
-      "id": "74a15633-4d0f-43a9-a735-0fc01a4f3ba8",
-      "title": "Software Engineer, Fullstack, Spend Controls",
-      "company": "Ramp",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$172.0K-$240.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ramp-ashby/software-engineer-fullstack-spend-controls-ramp-c392c9?utm_source=reddit",
-      "postedAt": "2026-11-13T21:52:14.463Z",
-      "notable": 5
-    },
-    {
-      "id": "e7f62d39-6ef3-4a8e-88af-095d8ee4f1e6",
-      "title": "HPLC Scientist",
-      "company": "Eurofins",
-      "place": "West Point, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000161582449",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/hplc-scientist-eurofins-aa2455?utm_source=reddit",
-      "postedAt": "2026-11-13T21:52:08.527Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
