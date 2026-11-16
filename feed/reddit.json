@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:22:53.506Z",
+  "generatedAt": "2026-11-16T01:26:50.066Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -36,6 +36,25 @@
       "season": "Summer 2027",
       "applyUrl": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Colombo-Sri-Lanka/Graduate-Associate--Software-Engineer-_R0125223",
       "firstJobbyUrl": "https://firstjobby.com/companies/lsegorwd3orgraduatecareers/graduate-associate-software-engineer-lseg-137226?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "9f23928a-98b3-4c15-ae90-6b10e1f324a4",
+      "title": "Broadcast Designer",
+      "company": "Seven West Media",
+      "place": "Sydney, Australia",
+      "category": "Design",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sevenwestmedia.wd105.myworkdayjobs.com/SWM/job/Sydney/Broadcast-Designer_JR101551",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sevenwestmediaorwd105orswm/broadcast-designer-seven-west-media-d0d5aa?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/customizedenergysolutions/renewable-compliance-analyst-customized-energy-solutions-fbd9db?utm_source=reddit",
       "postedAt": "2026-11-13T17:39:35.043Z",
       "notable": 1
-    },
-    {
-      "id": "5116102a-9e05-459e-bc2e-ce01406e7693",
-      "title": "Member Solutions Support Associate",
-      "company": "Credit Union of Colorado",
-      "place": "Denver, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$23-$27/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/creditunionofcolorado/jobs/5481693008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/creditunionofcolorado/member-solutions-support-associate-credit-union-of-colorado-36dc63?utm_source=reddit",
-      "postedAt": "2026-11-13T17:38:40.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
