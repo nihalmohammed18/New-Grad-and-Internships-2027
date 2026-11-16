@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:51:48.204Z",
+  "generatedAt": "2026-11-16T14:04:47.919Z",
   "jobs": [
     {
       "id": "d4bb821f-8e7e-4296-9d70-9096684d3cd0",
@@ -173,6 +173,25 @@
       "notable": 3
     },
     {
+      "id": "78ab71b8-49d4-4afe-a0c4-eb9563fb1661",
+      "title": "Studentermedhjælper til Sales Operations",
+      "company": "AutoProff",
+      "place": "Vejle, Denmark",
+      "category": "Sales",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/autoproff/jobs/8204752003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/autoproff/studentermedhjaelper-til-sales-operations-autoproff-bcd820?utm_source=reddit",
+      "postedAt": "2026-11-16T11:45:48.000Z",
+      "notable": 3
+    },
+    {
       "id": "2da9e780-8d44-4532-9692-01ccedcc5356",
       "title": "Enterprise Account Executive FSI Benelux",
       "company": "Celonis",
@@ -190,6 +209,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/celonis/enterprise-account-executive-fsi-benelux-celonis-d20045?utm_source=reddit",
       "postedAt": "2026-11-16T11:43:22.000Z",
       "notable": 2
+    },
+    {
+      "id": "e8ade1c0-6316-4659-8625-a106f77698ed",
+      "title": "Account Manager - Sjælland",
+      "company": "AutoProff",
+      "place": "Copenhagen, Denmark",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/autoproff/jobs/8204748003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/autoproff/account-manager-sjaelland-autoproff-356e32?utm_source=reddit",
+      "postedAt": "2026-11-16T11:40:40.000Z",
+      "notable": 3
     },
     {
       "id": "94c520f2-6696-4aaf-af20-4e86a0873a3b",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fanaticscollectibles/summer-2027-internship-athlete-partnerships-planner-intern-fanatics-collectibles-638351?utm_source=reddit",
       "postedAt": "2026-11-15T12:58:30.000Z",
       "notable": 5
-    },
-    {
-      "id": "dafc0be4-5f9a-4426-b00d-0fa9d3018d5d",
-      "title": "Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern",
-      "company": "Fanatics Collectibles",
-      "place": "New York, United States",
-      "category": "Sales",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$27/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fanaticscollectibles/summer-2027-internship-athlete-partnerships-contract-administration-and-po-opera-77b00b?utm_source=reddit",
-      "postedAt": "2026-11-15T12:58:07.000Z",
-      "notable": 5
-    },
-    {
-      "id": "8d6fee1c-bc3c-48dc-a46b-5a5a9781f401",
-      "title": "Account Manager Regions Milano Italy",
-      "company": "Delivery Hero",
-      "place": "Milano, Italy",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000161677479",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/account-manager-regions-milano-italy-delivery-hero-6a98fd?utm_source=reddit",
-      "postedAt": "2026-11-15T12:26:48.449Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
