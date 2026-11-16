@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:44:03.164Z",
+  "generatedAt": "2026-11-16T06:57:08.295Z",
   "jobs": [
     {
       "id": "40d09eb2-423d-4b6e-8c85-2d1d8fff5972",
@@ -1216,6 +1216,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trellixorwd1orenterprisecareers/associate-security-researcher-trellix-090e39?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "1ffd7a0c-bb09-408d-82e4-ee26a97ef49d",
+      "title": "Digital Infrastructure Executive",
+      "company": "Osp",
+      "place": "Thailand",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://osp.wd102.myworkdayjobs.com/OsotspaCareers/job/Ayutthaya/Digital-Infrastructure-Executive_R2897",
+      "firstJobbyUrl": "https://firstjobby.com/companies/osporwd102orosotspacareers/digital-infrastructure-executive-osp-5efd4b?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "1ec52360-9745-443a-b48d-e59bfd6bd34f",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/humaninterest/jobs/8382242",
       "firstJobbyUrl": "https://firstjobby.com/companies/humaninterest/account-executive-central-time-human-interest-0cf39e?utm_source=reddit",
       "postedAt": "2026-11-13T19:07:46.000Z",
-      "notable": 5
-    },
-    {
-      "id": "32e1ffa1-5a06-4f0a-974c-bbb715691f68",
-      "title": "Patient Care Coordinator",
-      "company": "Axle",
-      "place": "Bethesda, United States",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$114.0K-$118.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/axle/jobs/5294741007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/axle/patient-care-coordinator-axle-6793a9?utm_source=reddit",
-      "postedAt": "2026-11-13T19:06:04.000Z",
       "notable": 5
     }
   ],
