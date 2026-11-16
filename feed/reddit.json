@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:07:59.864Z",
+  "generatedAt": "2026-11-16T08:12:13.702Z",
   "jobs": [
     {
       "id": "5c33a745-94a8-413e-bc74-b2580f236c8b",
@@ -971,6 +971,25 @@
       "notable": 2
     },
     {
+      "id": "89559e0c-a559-4823-a2c0-78995861f807",
+      "title": "L2 Support Specialist",
+      "company": "NCR Voyix",
+      "place": "Cebu City, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CEBU-CITY-PHL/L2-Support-Specialist_R0159137",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ncrorwd1orextapac/l2-support-specialist-ncr-voyix-4aaf79?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "88bce059-a95f-446f-92f2-93a141ff72f8",
       "title": "Intern - HIG HBM Product System Engineering, Media Health Reliability",
       "company": "Micron Technology",
@@ -1290,6 +1309,25 @@
       "season": null,
       "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/Manufacturing-Engineer-II_J2472422",
       "firstJobbyUrl": "https://firstjobby.com/companies/jabilorwd5orjabilcareers/manufacturing-engineer-ii-jabil-a88fe5?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "63e93d5a-ea2f-4253-9b16-2cc3727c176f",
+      "title": "Client Success Manager, Associate",
+      "company": "Morgan Stanley",
+      "place": "Sandy, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://ms.wd5.myworkdayjobs.com/External/job/Sandy-Utah-United-States-of-America/Client-Success-Manager--Associate_PT-JR046356-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/msorwd5orexternal/client-success-manager-associate-morgan-stanley-7d05f1?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/powerx/project-coordinator-powerx-1bb2f4?utm_source=reddit",
       "postedAt": "2026-11-13T19:43:06.000Z",
       "notable": 1
-    },
-    {
-      "id": "42d90a64-ed36-4969-a775-8275b18aa67c",
-      "title": "Associate Site Reliability Engineer (f/m/d)",
-      "company": "IONOS EN",
-      "place": "Karlsruhe, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/ionos2/jobs/5036214101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ionos2/associate-site-reliability-engineer-fmd-ionos-en-da6d65?utm_source=reddit",
-      "postedAt": "2026-11-13T19:41:15.000Z",
-      "notable": 3
-    },
-    {
-      "id": "13330bb6-f1df-44db-b247-16f5552f5082",
-      "title": "Robotics Application Engineer",
-      "company": "Stäubli",
-      "place": "Duncan, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_citizen",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000161565409",
-      "firstJobbyUrl": "https://firstjobby.com/companies/staubligroup/robotics-application-engineer-staubli-241d2c?utm_source=reddit",
-      "postedAt": "2026-11-13T19:41:05.185Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
