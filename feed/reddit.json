@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:18:31.795Z",
+  "generatedAt": "2026-11-16T01:22:53.506Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -170,6 +170,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/stratolaunch/jobs/5482835008",
       "firstJobbyUrl": "https://firstjobby.com/companies/stratolaunch/manufacturing-engineer-cnc-programmer-stratolaunch-dc3241?utm_source=reddit",
       "postedAt": "2026-11-15T23:58:03.000Z",
+      "notable": 3
+    },
+    {
+      "id": "fce4ed90-81b7-4ef3-8a0c-3e4a45297db3",
+      "title": "Home Improvement Sales Representative",
+      "company": "Renuity",
+      "place": "Phoenix, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/renuity/71588243-5854-4f45-a08b-9d8237a41c79",
+      "firstJobbyUrl": "https://firstjobby.com/companies/renuity/home-improvement-sales-representative-renuity-f6922c?utm_source=reddit",
+      "postedAt": "2026-11-15T23:48:00.030Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/creditunionofcolorado/member-solutions-support-associate-credit-union-of-colorado-36dc63?utm_source=reddit",
       "postedAt": "2026-11-13T17:38:40.000Z",
       "notable": 3
-    },
-    {
-      "id": "18eae5a1-68cb-48c3-92f0-1350b9193e5c",
-      "title": "Part Time Care Coordinator - Boston - Seaport",
-      "company": "Bond Vet",
-      "place": "Boston, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$17-$22/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/bondvet/jobs/6260733004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bondvet/part-time-care-coordinator-boston-seaport-bond-vet-ccf96a?utm_source=reddit",
-      "postedAt": "2026-11-13T17:38:14.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
