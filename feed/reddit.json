@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:52:55.750Z",
+  "generatedAt": "2026-11-16T05:58:53.162Z",
   "jobs": [
     {
       "id": "f0bc085f-75f8-40d8-8924-dd7191d8bc10",
@@ -189,6 +189,44 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000161717973-data-operations-analyst-korean-speaker-",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-operations-analyst-korean-speaker-nielseniq-3c7fc4?utm_source=reddit",
       "postedAt": "2026-11-16T01:35:29.748Z",
+      "notable": 3
+    },
+    {
+      "id": "aadf264d-1ef1-4e4d-9219-16e68eb70d9e",
+      "title": "Business Analyst",
+      "company": "Contact Energy",
+      "place": "Wellington, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/ContactEnergy/744000161707769-business-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/contactenergy/business-analyst-contact-energy-d19548?utm_source=reddit",
+      "postedAt": "2026-11-16T01:24:05.007Z",
+      "notable": 3
+    },
+    {
+      "id": "2ecb658a-2709-439a-865d-b984b5e998f0",
+      "title": "Business Analyst",
+      "company": "Contact Energy",
+      "place": "Auckland, New Zealand",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/ContactEnergy/744000161701335-business-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/contactenergy/business-analyst-contact-energy-48743d?utm_source=reddit",
+      "postedAt": "2026-11-16T01:15:25.107Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/1800contacts/crm-marketing-specialist-1-800-contacts-a7d31c?utm_source=reddit",
       "postedAt": "2026-11-13T19:01:56.000Z",
       "notable": 1
-    },
-    {
-      "id": "b37bc280-6a1e-485f-8768-a63bdeb4f541",
-      "title": "Intern, ML Compiler (Kernel Auto-Tuning)",
-      "company": "Samsung Semiconductor",
-      "place": "San Jose, United States",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$28-$68/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/samsungsemiconductor/intern-ml-compiler-kernel-auto-tuning-samsung-semiconductor-9153ce?utm_source=reddit",
-      "postedAt": "2026-11-13T19:00:42.000Z",
-      "notable": 5
-    },
-    {
-      "id": "5e2be2d6-87af-4a36-b5d4-1bc5650ef0b1",
-      "title": "Intern, AI Systems Performance Engineer",
-      "company": "Samsung Semiconductor",
-      "place": "San Jose, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$28-$68/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/samsungsemiconductor/intern-ai-systems-performance-engineer-samsung-semiconductor-ee2a74?utm_source=reddit",
-      "postedAt": "2026-11-13T19:00:34.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
