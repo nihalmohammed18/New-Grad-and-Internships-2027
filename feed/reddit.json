@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:58:53.162Z",
+  "generatedAt": "2026-11-16T06:19:10.060Z",
   "jobs": [
     {
       "id": "f0bc085f-75f8-40d8-8924-dd7191d8bc10",
@@ -454,6 +454,25 @@
       "season": null,
       "applyUrl": "https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Selangor/Analyst--Accounts-Payable-Invoice--US-_R53009",
       "firstJobbyUrl": "https://firstjobby.com/companies/evonikorwd3orexternalcareers/analyst-accounts-payable-invoice-us-evonik-6cb353?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "cebbb494-dc90-482f-a725-527a94848324",
+      "title": "Technical Designer",
+      "company": "YETI",
+      "place": "Ho Chi Minh City, Vietnam",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://yeticoolers.wd5.myworkdayjobs.com/YETI/job/Ho-Chi-Minh-City-Vietnam/Technical-Designer_JR102459",
+      "firstJobbyUrl": "https://firstjobby.com/companies/yeticoolersorwd5oryeti/technical-designer-yeti-764ad9?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/olsson/assistant-scientist-transmission-construction-monitoring-olsson-ae714d?utm_source=reddit",
       "postedAt": "2026-11-13T19:03:21.000Z",
       "notable": 3
-    },
-    {
-      "id": "59b2407e-105f-49f0-a471-6d08cd2023d2",
-      "title": "CRM Marketing Specialist",
-      "company": "1-800 Contacts",
-      "place": "Draper, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/1800contacts/jobs/8386219",
-      "firstJobbyUrl": "https://firstjobby.com/companies/1800contacts/crm-marketing-specialist-1-800-contacts-a7d31c?utm_source=reddit",
-      "postedAt": "2026-11-13T19:01:56.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
