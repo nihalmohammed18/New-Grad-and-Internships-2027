@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:47:40.408Z",
+  "generatedAt": "2026-11-16T04:52:38.803Z",
   "jobs": [
     {
       "id": "ba5a253f-bba8-4452-bfbd-7a79cd6ec66c",
@@ -245,6 +245,25 @@
       "season": null,
       "applyUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Key-Account-Executive---Biosimilar--HCM-_31167307",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbottorwd5orabbottcareers/key-account-executive-biosimilar-hcm-abbott-5a2928?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 3
+    },
+    {
+      "id": "e626654a-43b8-446d-9159-1dfda62ae37a",
+      "title": "DevOps Engineer",
+      "company": "LEAP Legal Software",
+      "place": "Sydney, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/426E9DDA17",
+      "firstJobbyUrl": "https://firstjobby.com/companies/leap-legal-software/devops-engineer-leap-legal-software-005227?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 3
     },
@@ -3401,6 +3420,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dxctechnologyorwd1ordxcjobs/it-intern-dxc-technology-b2a4a8?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "5cac36d0-799e-4575-89a2-89b6e335aaef",
+      "title": "Internal Sales Consultant",
+      "company": "Vulcan",
+      "place": "Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/2B5A15918B",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vulcan/internal-sales-consultant-vulcan-95e4bc?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "5c482d7b-843e-41fa-aacc-8c0afc3b36ed",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/reliable-robotics/flight-test-integration-engineer-intern-summer-2027-reliable-robotics-corporatio-8d0f57?utm_source=reddit",
       "postedAt": "2026-11-13T18:34:41.795Z",
       "notable": 5
-    },
-    {
-      "id": "9987dc2b-fe97-4aff-8ced-60182c632895",
-      "title": "Office Support Specialist (On Call)",
-      "company": "SPS North America",
-      "place": "Los Angeles, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$20-$22/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/spsnorthamerica/jobs/5471262008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/spsnorthamerica/office-support-specialist-on-call-sps-north-america-2da9fc?utm_source=reddit",
-      "postedAt": "2026-11-13T18:34:18.000Z",
-      "notable": 5
-    },
-    {
-      "id": "ed2735ca-f61a-4ec2-8bc1-8f12a17fa7ec",
-      "title": "Operations Specialist",
-      "company": "Fresh Prints",
-      "place": "Remote from Philippines",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/freshprints/jobs/6261241004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/freshprints/operations-specialist-fresh-prints-de90b9?utm_source=reddit",
-      "postedAt": "2026-11-13T18:34:07.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
