@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:31:59.748Z",
+  "generatedAt": "2026-11-16T05:37:38.574Z",
   "jobs": [
     {
       "id": "ba5a253f-bba8-4452-bfbd-7a79cd6ec66c",
@@ -2603,6 +2603,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/dowjonesorwd1ordowjonescareer/new-business-sales-executive-dow-jones-2f3a32?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "df990602-1278-4e75-82a4-292cc6e96f0d",
+      "title": "Field Service Engineer 1 (Field Based/Houston, TX / Shift: Saturday to Wednesday / 12pm to 9:00pm)",
+      "company": "BD",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Texas---Houston/Field-Service-Engineer-1--Field-Based-Houston--TX---Shift--Saturday-to-Wednesday---12pm-to-9-00pm-_R-558006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bdxorwd1orexternalcareersiteusa/field-service-engineer-1-field-basedhouston-tx-shift-saturday-to-wednesday-12pm--defe30?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "de4e0649-ac2c-4083-9de3-11669c0edc60",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/msxinternational/gestionnaire-administratifve-homologation-et-immatriculation-automobile-cdd-msx--88b774?utm_source=reddit",
       "postedAt": "2026-11-13T18:51:07.997Z",
       "notable": 3
-    },
-    {
-      "id": "436a2225-dd7f-498d-9b68-c27d8f54f3bf",
-      "title": "Associate Product Manager I",
-      "company": "Hunter Douglas",
-      "place": "United States",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$62.0K-$78.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/8203741003?gh_jid=8203741003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hunterdouglas/associate-product-manager-i-hunter-douglas-44c33a?utm_source=reddit",
-      "postedAt": "2026-11-13T18:44:21.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
