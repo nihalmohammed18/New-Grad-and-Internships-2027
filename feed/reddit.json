@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:52:38.803Z",
+  "generatedAt": "2026-11-16T05:21:52.714Z",
   "jobs": [
     {
       "id": "ba5a253f-bba8-4452-bfbd-7a79cd6ec66c",
@@ -401,6 +401,25 @@
       "notable": 2
     },
     {
+      "id": "cbca6b27-6a76-416e-a87f-ddc2f0b0bcc7",
+      "title": "Business Development Executive",
+      "company": "Fuku",
+      "place": "São Paulo, Brazil",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/DB36812D44",
+      "firstJobbyUrl": "https://firstjobby.com/companies/fuku/business-development-executive-fuku-40e717?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "c9ccfd8b-652f-4dd4-a3de-77dda90d5487",
       "title": "AC Engineering Intern-2",
       "company": "ABB",
@@ -705,6 +724,25 @@
       "notable": 2
     },
     {
+      "id": "683037ee-0352-42b6-baa5-9d490773e57a",
+      "title": "Strategy & Business Consultant (014-1484)",
+      "company": "Hunt St",
+      "place": "Remote",
+      "category": "Operations",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$1.5K-A$2.5K/mo",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/5A8325C3E0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hunt-st/strategy-and-business-consultant-014-1484-hunt-st-2ce2e5?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 5
+    },
+    {
       "id": "670589fb-8086-4b87-872d-4d3e93cad22f",
       "title": "Manufacturing Engineer II",
       "company": "Jabil",
@@ -836,6 +874,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/brunswickorwd1orsearch/customer-service-office-mercury-marine-1285b9?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "3e4963f3-3511-4d50-8a47-4cadd6f212fa",
+      "title": "AI Automation Specialist (027 - 1511)",
+      "company": "Hunt St",
+      "place": "Remote from Philippines",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "A$2.0K-A$3.0K/mo",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/2489A5D646",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hunt-st/ai-automation-specialist-027-1511-hunt-st-fed728?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "389a655e-11cd-40a9-972b-a0c0fcc555a7",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/feverup/customer-service-agent-korean-400-am-1200pm-feverup-ee4269?utm_source=reddit",
       "postedAt": "2026-11-13T18:38:53.000Z",
       "notable": 3
-    },
-    {
-      "id": "a55e82bd-83cc-459f-babd-0c465a4d47b2",
-      "title": "Customer Service Agent: Korean (20:00 pm- 4:00am)",
-      "company": "FeverUp",
-      "place": "Remote from Spain",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/feverup/jobs/5036184101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/feverup/customer-service-agent-korean-2000-pm-400am-feverup-a0a911?utm_source=reddit",
-      "postedAt": "2026-11-13T18:38:13.000Z",
-      "notable": 3
-    },
-    {
-      "id": "1e418d40-3273-4836-ace3-3cc04cb63d59",
-      "title": "Construction Engineer",
-      "company": "Egis Group",
-      "place": "Franklin, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000161554899",
-      "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/construction-engineer-egis-group-57fb24?utm_source=reddit",
-      "postedAt": "2026-11-13T18:34:44.189Z",
-      "notable": 3
-    },
-    {
-      "id": "e57a0806-cb5a-4d6e-90e4-1e2bedb1d344",
-      "title": "Flight Test Integration Engineer Intern (Summer 2027)",
-      "company": "Reliable Robotics Corporation",
-      "place": "Mountain View, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$105.0K/yr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96",
-      "firstJobbyUrl": "https://firstjobby.com/companies/reliable-robotics/flight-test-integration-engineer-intern-summer-2027-reliable-robotics-corporatio-8d0f57?utm_source=reddit",
-      "postedAt": "2026-11-13T18:34:41.795Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
