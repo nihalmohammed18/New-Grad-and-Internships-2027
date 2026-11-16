@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:26:50.066Z",
+  "generatedAt": "2026-11-16T01:38:10.207Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Colombo-Sri-Lanka/Graduate-Associate--DevOps-_R0125221",
       "firstJobbyUrl": "https://firstjobby.com/companies/lsegorwd3orgraduatecareers/graduate-associate-devops-lseg-15cb72?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c4b435cb-45e9-4814-b70d-4efbd8c34a1b",
+      "title": "Quality Assurance Technician",
+      "company": "Schreiber Foods",
+      "place": "Spain",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://schreiberfoods.wd115.myworkdayjobs.com/Schreiber_Careers/job/Noblejas-Spain/Quality-Assurance-Technician_R0038516",
+      "firstJobbyUrl": "https://firstjobby.com/companies/schreiberfoodsorwd115orschreibercareers/quality-assurance-technician-schreiber-foods-5f3aa1?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/greenhouse/software-engineer-greenhouse-589710?utm_source=reddit",
       "postedAt": "2026-11-13T17:46:17.000Z",
       "notable": 0
-    },
-    {
-      "id": "f3b082e6-7dad-4ac6-bf84-a9c531f78d52",
-      "title": "Renewable Compliance Analyst",
-      "company": "Customized Energy Solutions",
-      "place": "Philadelphia, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CustomizedEnergySolutions/744000161546979",
-      "firstJobbyUrl": "https://firstjobby.com/companies/customizedenergysolutions/renewable-compliance-analyst-customized-energy-solutions-fbd9db?utm_source=reddit",
-      "postedAt": "2026-11-13T17:39:35.043Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
