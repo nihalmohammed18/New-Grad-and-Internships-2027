@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:38:10.207Z",
+  "generatedAt": "2026-11-16T01:52:29.282Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -36,6 +36,25 @@
       "season": null,
       "applyUrl": "https://schreiberfoods.wd115.myworkdayjobs.com/Schreiber_Careers/job/Noblejas-Spain/Quality-Assurance-Technician_R0038516",
       "firstJobbyUrl": "https://firstjobby.com/companies/schreiberfoodsorwd115orschreibercareers/quality-assurance-technician-schreiber-foods-5f3aa1?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c17d158d-fffd-4081-92a5-6925f9d35da5",
+      "title": "Integrated Insights & Strategy Undergraduate",
+      "company": "Pfizer",
+      "place": "United Kingdom",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pfizerorwd1orpfizercareers/integrated-insights-and-strategy-undergraduate-pfizer-d2a839?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -1594,6 +1613,25 @@
       "season": null,
       "applyUrl": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Doha/Digital-Marketing-Coordinator_REQ10398074",
       "firstJobbyUrl": "https://firstjobby.com/companies/fourseasonsorwd3orsearch/digital-marketing-coordinator-four-seasons-08cd2d?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "afd72457-0327-4691-9423-1eaeaae318c1",
+      "title": "ANALYTICS & INSIGHTS INTERN - P&G Management Internship Program (Summer 2027)",
+      "company": "P&G",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/ANALYTICS---INSIGHTS-INTERN---P-G-Management-Internship-Program--Summer-2027-_R000155809",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pgorwd5or1000/analytics-and-insights-intern-pandg-management-internship-program-summer-2027-pa-2b17f2?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/serverobotics-ashby/operations-associate-part-time-washington-dc-serve-robotics-0c7ab7?utm_source=reddit",
       "postedAt": "2026-11-13T17:48:12.909Z",
       "notable": 3
-    },
-    {
-      "id": "aa067a3f-2bb4-43f2-b51f-cd4d94db77e5",
-      "title": "Customer Service Specialist I",
-      "company": "Avery Dennison",
-      "place": "Liverpool, United States",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$16-$22/hr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000161547345",
-      "firstJobbyUrl": "https://firstjobby.com/companies/averydennison/customer-service-specialist-i-avery-dennison-870025?utm_source=reddit",
-      "postedAt": "2026-11-13T17:47:15.728Z",
-      "notable": 5
-    },
-    {
-      "id": "dc1a2c02-e8fb-4faa-b493-246789a01162",
-      "title": "Software Engineer",
-      "company": "Greenhouse",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/greenhouse/jobs/8357016?gh_jid=8357016",
-      "firstJobbyUrl": "https://firstjobby.com/companies/greenhouse/software-engineer-greenhouse-589710?utm_source=reddit",
-      "postedAt": "2026-11-13T17:46:17.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
