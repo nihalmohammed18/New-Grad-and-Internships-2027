@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:20:24.206Z",
+  "generatedAt": "2026-11-16T10:23:27.331Z",
   "jobs": [
     {
       "id": "eb876c76-d149-43df-a5e5-283dbe245cc9",
@@ -1936,6 +1936,25 @@
       "season": null,
       "applyUrl": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524",
       "firstJobbyUrl": "https://firstjobby.com/companies/pfizerorwd1orpfizercareers/integrated-insights-and-strategy-undergraduate-pfizer-d2a839?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "bd001541-0f78-4b06-babf-43c952423069",
+      "title": "Specialist RSG Operations",
+      "company": "Empower",
+      "place": "Bangalore, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Specialist-RSG-Operations_R0062261-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/empowerorwd12orempower/specialist-rsg-operations-empower-e5b066?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161592679",
       "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/security-engineer-intern-servicenow-6ffc59?utm_source=reddit",
       "postedAt": "2026-11-13T23:18:20.763Z",
-      "notable": 5
-    },
-    {
-      "id": "58dbc246-ddfc-4999-9527-1568595797db",
-      "title": "Global Operations Specialist - C2BMC",
-      "company": "Trace3",
-      "place": "Colorado Springs, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$145.0K-$156.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/trace3/jobs/8386888",
-      "firstJobbyUrl": "https://firstjobby.com/companies/trace3/global-operations-specialist-c2bmc-trace3-2dc819?utm_source=reddit",
-      "postedAt": "2026-11-13T23:16:41.000Z",
       "notable": 5
     }
   ],
