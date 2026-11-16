@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:25:07.468Z",
+  "generatedAt": "2026-11-16T12:35:57.933Z",
   "jobs": [
     {
       "id": "399f3c64-035d-432c-9cdf-07239a46cfde",
@@ -1063,6 +1063,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161750229-intern-corporate-communications",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/intern-corporate-communications-bosch-group-18acdf?utm_source=reddit",
       "postedAt": "2026-11-16T08:47:37.469Z",
+      "notable": 3
+    },
+    {
+      "id": "1e1e8594-9cdc-4c2d-bffa-8c583dca6506",
+      "title": "Operations Representative Compliance",
+      "company": "Deliveroo ",
+      "place": "London, United Kingdom",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8383363",
+      "firstJobbyUrl": "https://firstjobby.com/companies/deliveroo/operations-representative-compliance-deliveroo-45da39?utm_source=reddit",
+      "postedAt": "2026-11-16T08:47:03.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Research-Assistant-II---Psychiatry_JR227146",
       "firstJobbyUrl": "https://firstjobby.com/companies/cincinnatichildrensorwd5orcareersatcincinnatichildrens/research-assistant-ii-psychiatry-cincinnati-childrens-59bdc0?utm_source=reddit",
-      "postedAt": "2026-11-15T00:00:00.000Z",
-      "notable": 4
-    },
-    {
-      "id": "831125bb-15f8-4ac6-8b86-ba5824793794",
-      "title": "Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027",
-      "company": "Philips",
-      "place": "Bedford, United States",
-      "category": "Product",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$33-$41/hr",
-      "minYears": 2,
-      "season": "Summer 2027",
-      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
-      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/intern-upstream-product-management-mba-phd-bedford-ma-summer-2027-philips-cb9f00?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 4
     }
