@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:06:16.112Z",
+  "generatedAt": "2026-11-16T07:12:07.020Z",
   "jobs": [
     {
       "id": "40d09eb2-423d-4b6e-8c85-2d1d8fff5972",
@@ -1043,6 +1043,25 @@
       "season": null,
       "applyUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Facilities-Engineer_JR121971",
       "firstJobbyUrl": "https://firstjobby.com/companies/dexcomorwd1ordexcom/facilities-engineer-dexcom-7939d4?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "6954baf9-94fa-424e-8184-925845415d56",
+      "title": "Associate MAKO Product Specialist",
+      "company": "Stryker",
+      "place": "Hong Kong",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Taikoo-Shing-12-Taikoo-Wan-Road/Associate-MAKO-Product-Specialist_R576001",
+      "firstJobbyUrl": "https://firstjobby.com/companies/strykerorwd1orstrykercareers/associate-mako-product-specialist-stryker-2ff522?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/airspace-intelligencecom/frontend-engineer-airspace-intelligence-com-249f1f?utm_source=reddit",
       "postedAt": "2026-11-13T19:13:43.270Z",
       "notable": 3
-    },
-    {
-      "id": "9928f77a-c673-4902-b2fb-12bf2b9ddbd9",
-      "title": "Territory Account Executive- Toronto",
-      "company": "Toast",
-      "place": "Toronto, Canada",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$131.0K-CA$210.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8385649",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toast/territory-account-executive-toronto-toast-8e1ab5?utm_source=reddit",
-      "postedAt": "2026-11-13T19:11:44.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
