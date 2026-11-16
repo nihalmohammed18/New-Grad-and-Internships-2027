@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:27:02.580Z",
+  "generatedAt": "2026-11-16T04:37:56.687Z",
   "jobs": [
     {
       "id": "ba5a253f-bba8-4452-bfbd-7a79cd6ec66c",
@@ -777,6 +777,25 @@
       "season": null,
       "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Taipei-City-Taipei-City-Chinese-Taiwan/Technical-Support-Engineer--HVAC_WD30285188",
       "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/technical-support-engineer-hvac-johnson-controls-efd33e?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0e7a1ca0-4f58-42ea-a611-1ab3d0505add",
+      "title": "Business Planning & Analytics Intern",
+      "company": "General Motors",
+      "place": "Australia",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Port-Melbourne-Victoria-Australia/Business-Planning---Analytics-Intern_JR-202624180",
+      "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/business-planning-and-analytics-intern-general-motors-06c00d?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -2736,6 +2755,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/product-relocation-engineer-fastswiftomdsfslsbbp-kla-3a6e18?utm_source=reddit",
       "postedAt": "2026-11-15T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "91983a06-4fe3-4328-8aa9-a7639b4a24c9",
+      "title": "RESS Plant Supplier Quality Engineer",
+      "company": "General Motors",
+      "place": "Detroit, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/RESS-Plant-Supplier-Quality-Engineer_JR-202623841-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/ress-plant-supplier-quality-engineer-general-motors-6e6042?utm_source=reddit",
+      "postedAt": "2026-11-15T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "90eee6e9-3adf-423e-9fb1-280ac5c0abe0",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/distro/inside-sales-service-representative-distro-759fd4?utm_source=reddit",
       "postedAt": "2026-11-13T18:30:05.721Z",
       "notable": 5
-    },
-    {
-      "id": "cdbcccbe-c81f-49a8-ba93-02f958cb9d50",
-      "title": "Technical Support Engineer - Boston",
-      "company": "CodeRabbit",
-      "place": "Boston, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$115.0K-$190.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/coderabbit/48bf8d90-a721-444c-b86a-849056eca22e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coderabbit/technical-support-engineer-boston-coderabbit-0c40e5?utm_source=reddit",
-      "postedAt": "2026-11-13T18:29:35.122Z",
-      "notable": 5
-    },
-    {
-      "id": "732f513b-8f54-4981-9af3-55211cf7e935",
-      "title": "Associate Engineer - Electrical - Citywide (5207) - (C00475)",
-      "company": "City and County of San Francisco",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016848786",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/associate-engineer-electrical-citywide-5207-c00475-city-and-county-of-san-franci-e2e19d?utm_source=reddit",
-      "postedAt": "2026-11-13T18:28:02.594Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
