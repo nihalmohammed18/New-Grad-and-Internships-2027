@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:05:07.946Z",
+  "generatedAt": "2026-11-16T03:10:59.983Z",
   "jobs": [
     {
       "id": "d9eb5832-dfd3-4187-8ea4-34518214959e",
@@ -589,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/northpointtechnology/controls-engineer-mes-plc-automation-usa-relocation-tn-visa-eligible-north-point-74d1d7?utm_source=reddit",
       "postedAt": "2026-11-15T21:34:27.000Z",
       "notable": 4
+    },
+    {
+      "id": "0034328b-0e25-4a47-a3c2-78be5a5756c8",
+      "title": "Candidate Experience Coordinator",
+      "company": "MongoDB",
+      "place": "Dublin, Ireland",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8385636",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mongodb/candidate-experience-coordinator-mongodb-e6e36e?utm_source=reddit",
+      "postedAt": "2026-11-15T21:20:31.000Z",
+      "notable": 3
     },
     {
       "id": "c40960d4-e201-410a-99f3-2d7b8b5f7766",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/merge-labs/lab-operations-associate-merge-labs-cdebeb?utm_source=reddit",
       "postedAt": "2026-11-13T17:59:52.312Z",
       "notable": 5
-    },
-    {
-      "id": "6fb37593-42d1-4e01-857a-a41c75c89aa6",
-      "title": "Materials Coordinator - Night Shift",
-      "company": "Industrial Electric Manufacturing",
-      "place": "Surrey, Canada",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$20-CA$28/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4506820009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/industrialelectricmanufacturing/materials-coordinator-night-shift-industrial-electric-manufacturing-ba3b1a?utm_source=reddit",
-      "postedAt": "2026-11-13T17:59:34.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
