@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:02:08.652Z",
+  "generatedAt": "2026-11-16T01:18:31.795Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -230,6 +230,25 @@
       "notable": 4
     },
     {
+      "id": "c40960d4-e201-410a-99f3-2d7b8b5f7766",
+      "title": "Account Executive ,UK",
+      "company": "Andercore",
+      "place": "Berlin, Germany",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/andercore/f1b9bd3f-3b1c-4fc9-8764-972ae9088a67",
+      "firstJobbyUrl": "https://firstjobby.com/companies/andercore/account-executive-uk-andercore-941d28?utm_source=reddit",
+      "postedAt": "2026-11-15T20:07:26.700Z",
+      "notable": 3
+    },
+    {
       "id": "4f1f819c-54a1-4f09-a38d-196e3817dca4",
       "title": "Associate Systems Engineer, Excellence Center, (Prague)",
       "company": "Everpure",
@@ -246,6 +265,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8383151",
       "firstJobbyUrl": "https://firstjobby.com/companies/purestorage/associate-systems-engineer-excellence-center-prague-everpure-f96703?utm_source=reddit",
       "postedAt": "2026-11-15T20:06:42.000Z",
+      "notable": 3
+    },
+    {
+      "id": "e8f891ba-52f3-4461-9b58-29b97ba8269f",
+      "title": "Software Engineer, Product",
+      "company": "Netic",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$145.0K-$330.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/netic/2ae2cae2-03cb-4bc7-986a-a93de10f46df",
+      "firstJobbyUrl": "https://firstjobby.com/companies/netic/software-engineer-product-netic-bdc9ae?utm_source=reddit",
+      "postedAt": "2026-11-15T19:42:27.438Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bondvet/part-time-care-coordinator-boston-seaport-bond-vet-ccf96a?utm_source=reddit",
       "postedAt": "2026-11-13T17:38:14.000Z",
       "notable": 4
-    },
-    {
-      "id": "d12c94ce-459c-4074-9d91-ea03a657c004",
-      "title": "Bilingual Strategic Cuisines Inside Account Executive (Mandarin)",
-      "company": "Toast",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$115.0K-$185.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8386060",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toast/bilingual-strategic-cuisines-inside-account-executive-mandarin-toast-8558ad?utm_source=reddit",
-      "postedAt": "2026-11-13T17:37:58.000Z",
-      "notable": 6
-    },
-    {
-      "id": "034a4eac-adba-4026-8e98-cc968eb678b3",
-      "title": "Bilingual Strategic Cuisines Inside Account Executive (Mandarin)",
-      "company": "Toast",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$115.0K-$185.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8386059",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toast/bilingual-strategic-cuisines-inside-account-executive-mandarin-toast-eba2fb?utm_source=reddit",
-      "postedAt": "2026-11-13T17:36:38.000Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
