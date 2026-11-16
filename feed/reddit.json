@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:59:58.385Z",
+  "generatedAt": "2026-11-16T00:03:34.034Z",
   "jobs": [
     {
       "id": "ccbe2e8d-5dee-436e-8e07-106e4ea9e9d8",
@@ -112,6 +112,25 @@
       "season": null,
       "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/Manufacturing-Engineer-II_J2472422",
       "firstJobbyUrl": "https://firstjobby.com/companies/jabilorwd5orjabilcareers/manufacturing-engineer-ii-jabil-a88fe5?utm_source=reddit",
+      "postedAt": "2026-11-16T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "434e24ba-12a9-4665-9b99-395dcd2f61fa",
+      "title": "CUSTOMER SERVICE OFFICE",
+      "company": "Mercury Marine",
+      "place": "Australia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://brunswick.wd1.myworkdayjobs.com/search/job/Murarrie-Australia/CUSTOMER-SERVICE-OFFICE_JR-052061",
+      "firstJobbyUrl": "https://firstjobby.com/companies/brunswickorwd1orsearch/customer-service-office-mercury-marine-1285b9?utm_source=reddit",
       "postedAt": "2026-11-16T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/contoro/remote-support-engineer-deployment-contoro-inc-af8d0c?utm_source=reddit",
       "postedAt": "2026-11-13T17:35:56.582Z",
       "notable": 1
-    },
-    {
-      "id": "bd595709-d3ef-4916-bd0c-2cba2e92322d",
-      "title": "Corporate Events Coordinator",
-      "company": "StarRez",
-      "place": "Remote from United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$55.0K-$70.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/starrez/jobs/5441129008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/starrez/corporate-events-coordinator-starrez-b1f20a?utm_source=reddit",
-      "postedAt": "2026-11-13T17:35:10.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
