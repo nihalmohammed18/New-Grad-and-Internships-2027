@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:32:02.513Z",
+  "generatedAt": "2026-11-16T10:36:43.689Z",
   "jobs": [
     {
       "id": "eb876c76-d149-43df-a5e5-283dbe245cc9",
@@ -37,6 +37,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161757289-stage-screening-non-cible-nts-developpement-methodes-de-preparation-et-d-acquisition-en-chromatographie-couplee-a-la-spectrometrie-de-masse-haute-resolution-hrms-h-f",
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/stage-screening-non-cible-nts-developpement-methodes-de-preparation-et-dacquisit-79552c?utm_source=reddit",
       "postedAt": "2026-11-16T09:22:41.273Z",
+      "notable": 3
+    },
+    {
+      "id": "1167cb80-8719-48ee-98f8-83383620178f",
+      "title": "Software Engineer",
+      "company": "NICE",
+      "place": "Raanana, Israel",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://boards.eu.greenhouse.io/nice/jobs/5036387101?gh_jid=5036387101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nice/software-engineer-nice-2d1b34?utm_source=reddit",
+      "postedAt": "2026-11-16T09:19:00.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.d2l.com/careers/jobs/?job_id=8386902&gh_jid=8386902",
       "firstJobbyUrl": "https://firstjobby.com/companies/d2l/technical-account-manager-d2l-97df81?utm_source=reddit",
       "postedAt": "2026-11-13T23:39:30.000Z",
-      "notable": 3
-    },
-    {
-      "id": "62274330-0e77-4cf6-bfc1-625cdd8251e6",
-      "title": "Payload Integration Engineer",
-      "company": "Icarus",
-      "place": "El Segundo, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$100.0K-$140.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/icarus/jobs/5482294008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/icarus/payload-integration-engineer-icarus-a1ea2b?utm_source=reddit",
-      "postedAt": "2026-11-13T23:34:59.000Z",
       "notable": 3
     }
   ],
