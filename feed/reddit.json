@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:40:20.481Z",
+  "generatedAt": "2026-11-17T13:43:39.036Z",
   "jobs": [
     {
       "id": "b9ec9158-3526-4cc4-95d2-f5468c8d3b99",
@@ -7184,6 +7184,25 @@
       "notable": 2
     },
     {
+      "id": "a55871b2-d570-4cf6-b3ac-e9de789f924e",
+      "title": "Azure Cloud Engineer I",
+      "company": "Rackspace",
+      "place": "Gurgaon, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://rackspace.wd1.myworkdayjobs.com/External/job/IND-Gurgaon/Azure-Cloud-Engineer-I_R-24154",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rackspaceorwd1orexternal/azure-cloud-engineer-i-rackspace-cadcd2?utm_source=reddit",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "a497fbff-36b2-4b8c-b1a1-f2f307c7b5d2",
       "title": "Academic Consultant sales",
       "company": "Weekday AI",
@@ -7904,6 +7923,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lillyorwd115orlly/associate-quality-assurance-lilly-8a5eaf?utm_source=reddit",
       "postedAt": "2026-11-17T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "8c73b4a8-058d-45cf-8b76-e82b7931da99",
+      "title": "E-commerce Data Analyst",
+      "company": "Basicfit",
+      "place": "Netherlands",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€3.5K-€4.8K/mo",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://basicfit.wd103.myworkdayjobs.com/BasicFit_Career_Site_NL/job/Hoofddorp/E-commerce-Data-Analyst_R57592",
+      "firstJobbyUrl": "https://firstjobby.com/companies/basicfitorwd103orbasicfitcareersitenl/e-commerce-data-analyst-basicfit-816413?utm_source=reddit",
+      "postedAt": "2026-11-17T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "8b967cef-256c-4435-94a9-002ab9548a31",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/I-P-GN---SC-E----Analyst---Process-Excellence-PE_R00359833",
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/iandp-gn-scande-analyst-process-excellence-pe-accenture-0f3037?utm_source=reddit",
-      "postedAt": "2026-11-17T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "595c6a22-75a2-4f25-a852-f1299e15547c",
-      "title": "Full Stack Developer",
-      "company": "Ocbc",
-      "place": "Shenzhen, China",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://ocbc.wd102.myworkdayjobs.com/External/job/OCBC-China-Shenzhen/Full-Stack-Developer_JR00012660",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ocbcorwd102orexternal/full-stack-developer-ocbc-b2087a?utm_source=reddit",
-      "postedAt": "2026-11-17T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "57d228f6-b041-4b9d-a791-5a0cf9dd313c",
-      "title": "I&P GN - SC&E –  Analyst - Process Excellence-PE",
-      "company": "Accenture",
-      "place": "Gurugram, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/I-P-GN---SC-E----Analyst---Process-Excellence-PE_R00359955",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/iandp-gn-scande-analyst-process-excellence-pe-accenture-23bf7c?utm_source=reddit",
       "postedAt": "2026-11-17T00:00:00.000Z",
       "notable": 2
     }
