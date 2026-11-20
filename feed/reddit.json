@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:25:10.582Z",
+  "generatedAt": "2026-11-20T05:49:47.152Z",
   "jobs": [
     {
       "id": "de0c7d73-88ae-4fd2-87ed-c97268ce6ec3",
@@ -971,6 +971,25 @@
       "notable": 3
     },
     {
+      "id": "f08aab44-22d9-4b71-8c1e-4996d1f243f3",
+      "title": "Graduate Engineer (Gordon Brothers)",
+      "company": "Johnson Controls",
+      "place": "Melbourne, Australia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Melbourne-Victoria-Australia/Graduate-Engineer--Gordon-Brothers-_WD30278023-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jciorwd5orjci/graduate-engineer-gordon-brothers-johnson-controls-336de8?utm_source=reddit",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "eab4aac7-e13b-4496-9f67-02aff1f26a9c",
       "title": "Software Support Specialist I",
       "company": "Cgm",
@@ -1043,6 +1062,25 @@
       "season": null,
       "applyUrl": "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Manila-Philippines/Client-Services-Specialist_JR-93479-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/livenationorwd503ortmexternalsite/client-services-specialist-ticketmaster-000368?utm_source=reddit",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c829bfce-4ed4-4100-aafc-b3594160a4cc",
+      "title": "AU Daily Business Analyst",
+      "company": "ING",
+      "place": "Manila, Philippines",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Manila-One-Ayala-Tower-2/AU-Daily-Business-Analyst_REQ-10124548",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ingorwd3oricsgblcor/au-daily-business-analyst-ing-245f21?utm_source=reddit",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "notable": 2
     },
@@ -1197,6 +1235,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cxg/airport-customer-experience-evaluator-english-speakers-haneda-and-narita-japan-c-067a23?utm_source=reddit",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "7b0840fe-9283-4877-840f-5125a23ac9f1",
+      "title": "Improvement Analyst",
+      "company": "Avangrid",
+      "place": "United Kingdom",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£40.4K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-Kingdom-Blantyre/Improvement-Analyst_R-34741-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/iberdrolaorwd3oriberdrola/improvement-analyst-avangrid-624333?utm_source=reddit",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "6835baed-3375-46e7-bbf2-6ddd08191394",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/electrical-and-instrumentation-designer-aecom-1ed79f?utm_source=reddit",
       "postedAt": "2026-11-19T14:37:30.348Z",
       "notable": 3
-    },
-    {
-      "id": "2fbdb9e6-1c91-4e0a-96bc-5a11b819f4ef",
-      "title": "Embedded Software Engineer - Entry Level",
-      "company": "Formlabs",
-      "place": "Somerville, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$110.0K-$140.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093",
-      "firstJobbyUrl": "https://firstjobby.com/companies/formlabs/embedded-software-engineer-entry-level-formlabs-f1836e?utm_source=reddit",
-      "postedAt": "2026-11-19T14:37:24.000Z",
-      "notable": 5
-    },
-    {
-      "id": "ee75e14b-812c-492c-bb47-80214c5c087e",
-      "title": "PRODUCT SUPPORT ANALYST I",
-      "company": "Hotmart",
-      "place": "Brazil",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/hotmartcareersbr/jobs/5037146101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hotmartcareersbr/product-support-analyst-i-hotmart-9efbcc?utm_source=reddit",
-      "postedAt": "2026-11-19T14:37:00.000Z",
-      "notable": 3
-    },
-    {
-      "id": "9127641c-0064-473a-a877-575b7f2194da",
-      "title": "Department Coordinator",
-      "company": "DH Pace",
-      "place": "Lubbock, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5487096008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/department-coordinator-dh-pace-43ea8b?utm_source=reddit",
-      "postedAt": "2026-11-19T14:36:12.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
@@ -9507,7 +9507,7 @@
     "company": "Humana",
     "place": "Louisville, United States",
     "minYears": 3,
-    "applyUrl": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Arlington-VA/Summer-2027-Graduate-Internship---Capital-Strategy---Planning_R-430498",
+    "applyUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Arlington-VA/Summer-2027-Graduate-Internship---Capital-Strategy---Planning_R-430498",
     "firstJobbyUrl": "https://firstjobby.com/companies/humanaorwd5orhumanaexternalcareersite/summer-2027-graduate-internship-capital-strategy-and-planning-humana-be277c?utm_source=reddit"
   }
 }
