@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:40:44.997Z",
+  "generatedAt": "2026-11-20T04:52:52.492Z",
   "jobs": [
     {
       "id": "de0c7d73-88ae-4fd2-87ed-c97268ce6ec3",
@@ -1083,6 +1083,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abbottorwd5orabbottcareers/business-development-representative-abbott-df5a25?utm_source=reddit",
       "postedAt": "2026-11-20T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "ae88c2b6-8a1f-485f-9795-e884961002b4",
+      "title": "Tester",
+      "company": "MKS Instruments",
+      "place": "Malaysia",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersAsia/job/Malaysia-Penang-Batu-Kawan/Tester_R22358",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mksinstorwd1ormkscareersasia/tester-mks-instruments-c9fa20?utm_source=reddit",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a1e6e744-5b07-46b0-97b5-a5bd6f669a94",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/twinhealth/qa-engineer-twin-health-4f883c?utm_source=reddit",
       "postedAt": "2026-11-19T14:20:47.000Z",
       "notable": 1
-    },
-    {
-      "id": "e11743fa-d7ae-4643-8de5-d81062ab3899",
-      "title": "Trainee Supply Chain Management (m/w/d)",
-      "company": "cbs Corporate Business Solutions GmbH",
-      "place": "Heidelberg, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://cbsconsulting.recruitee.com/o/trainee-supply-chain-management-mwd",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cbsconsulting/trainee-supply-chain-management-mwd-cbs-corporate-business-solutions-gmbh-064b37?utm_source=reddit",
-      "postedAt": "2026-11-19T14:20:23.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
