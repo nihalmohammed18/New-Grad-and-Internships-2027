@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:51:32.748Z",
+  "generatedAt": "2026-11-21T20:50:46.475Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -2181,7 +2181,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Java-Golang-Python-C-or-C-----2-to-4-years---Bangalore_2031708",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Java-Golang-Python-C-or-C-----2-to-4-years---Bangalore_2031708",
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-or-javagolangpythonc-or-c-or-2-to-4-years-or-bangalore-cisco-661282?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 2
@@ -2757,6 +2757,25 @@
       "notable": 2
     },
     {
+      "id": "4fa4c46e-94a8-4827-8534-cdc23aceb66e",
+      "title": "Inventory Coordinator",
+      "company": "Thermo Fisher Scientific",
+      "place": "Boulder, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Boulder-Colorado-USA/Inventory-Coordinator_R-01375959",
+      "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/inventory-coordinator-thermo-fisher-scientific-43eee2?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "4e76c4ae-56b9-4eb8-a666-1e586ae9d5d7",
       "title": "PAM Engineer - AVP",
       "company": "MUFG",
@@ -3150,7 +3169,7 @@
       "pay": "$128.6K-$184.9K/yr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2029632",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2029632",
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/site-reliability-engineer-cisco-a21e27?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 4
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/uberfreight/logistics-specialist-ii-loreal-uber-freight-fbfe40?utm_source=reddit",
       "postedAt": "2026-11-20T16:06:30.000Z",
       "notable": 3
-    },
-    {
-      "id": "6a593b15-34b5-4dcc-9dd4-255a71408488",
-      "title": "Territory Sales Representative",
-      "company": "Wheel Pros",
-      "place": "Elgin, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$100.0K-$110.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/wheelpros/jobs/4516885009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wheelpros/territory-sales-representative-wheel-pros-75cf8a?utm_source=reddit",
-      "postedAt": "2026-11-20T16:05:21.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
