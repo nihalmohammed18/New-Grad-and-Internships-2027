@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:50:39.386Z",
+  "generatedAt": "2026-11-21T14:25:06.926Z",
   "jobs": [
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -1406,6 +1406,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-engineer-product-engineering-mfg-analog-devices-f799d0?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "a2b38dd5-eb92-4114-be0d-e40ec3c8b2fa",
+      "title": "DRAM Design Tech Layout Engineer",
+      "company": "Micron Technology",
+      "place": "Boise, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Design-Tech-Layout-Engineer_JR117709",
+      "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/dram-design-tech-layout-engineer-micron-technology-b1c036?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "9dcf0da8-4754-490d-8578-c2536bd305ad",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/pennylane/e1a0543e-43f2-4e2c-8f36-171b32104d73",
       "firstJobbyUrl": "https://firstjobby.com/companies/pennylane-ashby/procurement-specialist-pennylane-sas-ed3798?utm_source=reddit",
       "postedAt": "2026-11-20T15:13:34.280Z",
-      "notable": 3
-    },
-    {
-      "id": "f8c20640-ff25-429e-9ce6-24456a480133",
-      "title": "HSE Coordinator - MICON Group, Inc.",
-      "company": "Michels Corporation",
-      "place": "United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5043655101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/michelscorporation/hse-coordinator-micon-group-inc-michels-corporation-e02833?utm_source=reddit",
-      "postedAt": "2026-11-20T15:13:18.000Z",
       "notable": 3
     }
   ],
