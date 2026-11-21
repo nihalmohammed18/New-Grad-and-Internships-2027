@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:50:12.111Z",
+  "generatedAt": "2026-11-21T13:01:33.273Z",
   "jobs": [
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -2166,6 +2166,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-cb6fc6?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "12742a4e-cdd1-4949-89ef-0175c75a503f",
+      "title": "Systems Engineer – Systems Security Engineer  (Level 2)",
+      "company": "Northrop Grumman",
+      "place": "El Segundo, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$103.5K-$155.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Systems-Engineer---Systems-Security-Engineer---Level-2-_R10260448",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/systems-engineer-systems-security-engineer-level-2-northrop-grumman-5d5bff?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "12367afc-c8bb-464d-96bd-9d96aef2c5c8",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/trustpilot/business-development-representative-mid-market-trustpilot-3243c7?utm_source=reddit",
       "postedAt": "2026-11-20T15:11:40.000Z",
       "notable": 3
-    },
-    {
-      "id": "2609ad7e-28cb-438b-b44c-83a73fa34ecb",
-      "title": "Structural Engineer Internship",
-      "company": "Morrison-Maierle",
-      "place": "Bozeman, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$25-$28/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/morrisonmaierle/jobs/4516754009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/morrisonmaierle/structural-engineer-internship-morrison-maierle-c5f4d6?utm_source=reddit",
-      "postedAt": "2026-11-20T15:11:34.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
