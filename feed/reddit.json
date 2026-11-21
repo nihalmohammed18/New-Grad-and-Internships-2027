@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:53:47.749Z",
+  "generatedAt": "2026-11-21T19:08:33.658Z",
   "jobs": [
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -2242,6 +2242,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-e7b7ce?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "8cdd4abf-160b-4af7-aeb9-d4cae59ee92e",
+      "title": "Hardware Systems Engineer  (Level 2 or Level 3)",
+      "company": "Northrop Grumman",
+      "place": "Cincinnati, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$85.5K-$128.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Hardware-Systems-Engineer---Level-2-or-Level-3-_R10261729",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ngcorwd1ornorthropgrummanexternalsite/hardware-systems-engineer-level-2-or-level-3-northrop-grumman-e88594?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "8a7a55ba-9ef3-4fde-8e24-ce6b9173f594",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/rental-coordinator-equipmentshare-10d12f?utm_source=reddit",
       "postedAt": "2026-11-20T15:57:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "a9a4041f-0e92-4024-ba48-60e0e672f684",
-      "title": "Research & Development Engineer",
-      "company": "Surmodics",
-      "place": "Horsham, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/surmodics/jobs/8034980003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/surmodics/research-and-development-engineer-surmodics-83749c?utm_source=reddit",
-      "postedAt": "2026-11-20T15:57:09.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
