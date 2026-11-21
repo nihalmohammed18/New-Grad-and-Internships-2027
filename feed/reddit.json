@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:20:44.664Z",
+  "generatedAt": "2026-11-21T23:26:25.213Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -171,6 +171,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/get-hired-in-one-day-account-manager-smb-poland-delivery-hero-26cc5e?utm_source=reddit",
       "postedAt": "2026-11-21T19:16:28.160Z",
       "notable": 3
+    },
+    {
+      "id": "69317201-acdc-4aa4-a225-9a6b3bfa207f",
+      "title": "Network Engineer/ Administrator",
+      "company": "Model N",
+      "place": "Hyderabad, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/modeln/423205e3-cafc-4223-b350-c46ca1868eb9",
+      "firstJobbyUrl": "https://firstjobby.com/companies/modeln/network-engineer-administrator-model-n-013d07?utm_source=reddit",
+      "postedAt": "2026-11-21T17:55:02.032Z",
+      "notable": 1
     },
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/salonkee/a13b3232-0825-47c2-bd2c-2f7662f7fff4",
       "firstJobbyUrl": "https://firstjobby.com/companies/salonkee/sales-representative-all-genders-stadt-salonkee-47362a?utm_source=reddit",
       "postedAt": "2026-11-20T16:23:55.997Z",
-      "notable": 3
-    },
-    {
-      "id": "c7a04081-2f31-4f61-8deb-d67f7a6e6a97",
-      "title": "Business Analyst Technico-fonctionnel",
-      "company": "Inetum",
-      "place": "Casablanca, Morocco",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/inetum2/744000162775829",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/business-analyst-technico-fonctionnel-inetum-057a42?utm_source=reddit",
-      "postedAt": "2026-11-20T16:23:27.502Z",
       "notable": 3
     }
   ],
