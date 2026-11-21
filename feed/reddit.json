@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:13:06.586Z",
+  "generatedAt": "2026-11-21T15:22:25.282Z",
   "jobs": [
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -1826,6 +1826,25 @@
       "notable": 2
     },
     {
+      "id": "737ad735-ebe5-4358-bcd7-bb30dd1e7043",
+      "title": "Associate Program Manager-Perinatal and Pediatric Behavioral Health Program",
+      "company": "Vanderbilt Health",
+      "place": "Nashville, United States",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Associate-Program-Manager-Perinatal-and-Pediatric-Behavioral-Health-Program_R-69914-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/associate-program-manager-perinatal-and-pediatric-behavioral-health-program-vand-355552?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "729a5975-8af0-431c-84a0-ccd84c3ace49",
       "title": "Research Associate I",
       "company": "Baxter",
@@ -2546,6 +2565,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-62550c?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "0f07dc92-a1b6-454c-9784-877a9364f0c6",
+      "title": "Research Assistant 1-Psychiatry",
+      "company": "Vanderbilt Health",
+      "place": "Nashville, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Research-Assistant-1-Psychiatry_R-72614-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/research-assistant-1-psychiatry-vanderbilt-health-fd6786?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "0dd2b6c7-c791-4a74-948c-9f19e2499548",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/systemstechnologyresearch/associate-signal-processing-engineer-str-428cf2?utm_source=reddit",
       "postedAt": "2026-11-20T15:24:09.000Z",
       "notable": 5
-    },
-    {
-      "id": "b37cc6bf-617b-4fea-b051-4c43e0c295a0",
-      "title": "Sales Advisor CDD de remplacement - Bruxelles Basilix",
-      "company": "H&M Group",
-      "place": "Ganshoren, Belgium",
-      "category": "Sales",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HMGroup/744000162760439",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hmgroup/sales-advisor-cdd-de-remplacement-bruxelles-basilix-handm-group-5fbc76?utm_source=reddit",
-      "postedAt": "2026-11-20T15:23:46.004Z",
-      "notable": 2
-    },
-    {
-      "id": "c8472367-147d-48d8-8c2b-0d1fae44a720",
-      "title": "Leasing & Sales Consultant - Boise, ID",
-      "company": "Cortland",
-      "place": "Boise, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cortland/jobs/4514305009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cortland/leasing-and-sales-consultant-boise-id-cortland-1e6f38?utm_source=reddit",
-      "postedAt": "2026-11-20T15:22:58.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
