@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:11:19.142Z",
+  "generatedAt": "2026-11-21T09:19:18.685Z",
   "jobs": [
     {
       "id": "1657a360-f1ff-4b7e-853d-5fcd68118419",
@@ -1710,6 +1710,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-dd0a53?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "2ee7d108-7be5-4db5-8574-d6cec79ebfe9",
+      "title": "Digital Marketing Support Specialist - Arabic Speakers",
+      "company": "Atlean World",
+      "place": "Lisbon, Portugal",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/EBBE191021",
+      "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/digital-marketing-support-specialist-arabic-speakers-atlean-world-f5f92e?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "2def487c-caa9-4183-b913-deaf15182e1d",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/industrious-ashby/community-manager-industrious-5fad4f?utm_source=reddit",
       "postedAt": "2026-11-20T14:57:50.592Z",
       "notable": 2
-    },
-    {
-      "id": "9a69ed6e-5a3e-4533-9f34-c989ce0e17f8",
-      "title": "Front Desk Coordinator",
-      "company": "Peachy",
-      "place": "New York, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$19/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/peachy/jobs/4731160006?gh_jid=4731160006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/peachy/front-desk-coordinator-peachy-38ca8e?utm_source=reddit",
-      "postedAt": "2026-11-20T14:57:44.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
