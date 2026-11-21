@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:41:06.735Z",
+  "generatedAt": "2026-11-21T12:39:46.744Z",
   "jobs": [
     {
       "id": "ace5c927-c8b8-430a-8732-2b79db77ef6f",
@@ -114,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/qualdoc/safety-coordinator-qualdoc-0603c7?utm_source=reddit",
       "postedAt": "2026-11-21T10:04:57.999Z",
       "notable": 3
+    },
+    {
+      "id": "2230fcff-f7a6-4f05-8a08-a6d54547ec35",
+      "title": "Research Associate",
+      "company": "Capable Labs",
+      "place": "San Francisco, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/Capable/bb0ff322-25b7-4f79-86ae-b2f4861b6281",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capable/research-associate-capable-labs-2537ed?utm_source=reddit",
+      "postedAt": "2026-11-21T06:51:12.214Z",
+      "notable": 2
     },
     {
       "id": "38932a2a-3145-4990-8c21-5882c2ade91d",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b",
       "firstJobbyUrl": "https://firstjobby.com/companies/arrivelogistics/logistics-internship-summer-2027-arrive-logistics-50a730?utm_source=reddit",
       "postedAt": "2026-11-20T15:01:01.617Z",
-      "notable": 3
-    },
-    {
-      "id": "ffc151f3-87d8-4744-8871-9ee25302d80a",
-      "title": "Embedded Intelligence Analyst (Europe-Eurasia)",
-      "company": "Sibylline Ltd",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/sibyllineltd/744000162755009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sibyllineltd/embedded-intelligence-analyst-europe-eurasia-sibylline-ltd-07e662?utm_source=reddit",
-      "postedAt": "2026-11-20T15:00:31.930Z",
       "notable": 3
     }
   ],
