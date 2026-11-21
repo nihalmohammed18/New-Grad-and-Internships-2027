@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:56:43.537Z",
+  "generatedAt": "2026-11-21T10:38:58.677Z",
   "jobs": [
     {
       "id": "1657a360-f1ff-4b7e-853d-5fcd68118419",
@@ -323,6 +323,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pivotal/internship-supply-chain-analyst-summer-2027-pivotal-4ef848?utm_source=reddit",
       "postedAt": "2026-11-21T00:55:41.825Z",
       "notable": 5
+    },
+    {
+      "id": "a9fae56d-b6b3-453b-b7b7-286bd94aa197",
+      "title": "IT Support Specialist",
+      "company": "Trust & Will",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/trustwill/jobs/4518005009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/trustwill/it-support-specialist-trust-and-will-dc6e75?utm_source=reddit",
+      "postedAt": "2026-11-21T00:54:46.000Z",
+      "notable": 0
     },
     {
       "id": "530e1165-bee6-46d7-9723-d5d29322e041",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/industrious-ashby/community-manager-industrious-5fad4f?utm_source=reddit",
       "postedAt": "2026-11-20T14:57:50.592Z",
       "notable": 2
-    },
-    {
-      "id": "9a69ed6e-5a3e-4533-9f34-c989ce0e17f8",
-      "title": "Front Desk Coordinator",
-      "company": "Peachy",
-      "place": "New York, United States",
-      "category": "Operations",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$19/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/peachy/jobs/4731160006?gh_jid=4731160006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/peachy/front-desk-coordinator-peachy-38ca8e?utm_source=reddit",
-      "postedAt": "2026-11-20T14:57:44.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
