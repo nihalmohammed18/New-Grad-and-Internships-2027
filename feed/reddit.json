@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:57:13.296Z",
+  "generatedAt": "2026-11-21T21:02:52.482Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -1649,7 +1649,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_Empl_Ref/job/USA-AZ-Fort-Huachuca/COMSEC-Tier-2-Technical-Support-Desk-Technician_RQ232646",
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_empl_ref/job/USA-AZ-Fort-Huachuca/COMSEC-Tier-2-Technical-Support-Desk-Technician_RQ232646",
       "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orgditemplref/comsec-tier-2-technical-support-desk-technician-gdit-4070cb?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 2
@@ -3150,7 +3150,7 @@
       "pay": "$85.1K-$115.0K/yr",
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_Empl_Ref/job/Any-Location--Remote/Project-Manager---Scrum-Master_RQ231799",
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_empl_ref/job/Any-Location--Remote/Project-Manager---Scrum-Master_RQ231799",
       "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orgditemplref/program-analyst-scrum-master-gdit-ceaab6?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 4
@@ -3287,6 +3287,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-cbabc7?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "11027ef7-30a9-4627-8713-f421a3269f44",
+      "title": "Motorsports Embedded Controls Hardware Design & Integration Engineer",
+      "company": "General Motors",
+      "place": "Concord, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Motorsports-Embedded-Controls-Hardware-Design---Integration-Engineer_JR-202624289",
+      "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/motorsports-embedded-controls-hardware-design-and-integration-engineer-general-m-5b8443?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "0ffaecf8-ff3b-4a07-b059-b36d5a75e50d",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000162772039",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/software-test-engineer-nielseniq-6b5c78?utm_source=reddit",
       "postedAt": "2026-11-20T16:07:58.178Z",
-      "notable": 3
-    },
-    {
-      "id": "9cd9d20e-efc7-4d01-84f1-b80d9e44592f",
-      "title": "Programme Coordinator, Salesforce & Events",
-      "company": "HelloKindred",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HelloKindred/3743990016998776",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hellokindred/programme-coordinator-salesforce-and-events-hellokindred-02cbc6?utm_source=reddit",
-      "postedAt": "2026-11-20T16:07:05.881Z",
       "notable": 3
     }
   ],
