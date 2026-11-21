@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:02:50.679Z",
+  "generatedAt": "2026-11-21T18:27:32.672Z",
   "jobs": [
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -1691,6 +1691,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-44d792?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "ab844a60-12b4-436f-a678-47359930d58e",
+      "title": "Global Graduate Trainee, Marketing",
+      "company": "SC Johnson",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Malaysia---Kuala-Lumpur/Global-Graduate-Trainee--Marketing_34441",
+      "firstJobbyUrl": "https://firstjobby.com/companies/scjorwd5orexternalcareersite/global-graduate-trainee-marketing-sc-johnson-827ffc?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "aacd9cac-49a1-4999-b3d9-628742522557",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/procaresolutions/associate-customer-success-manager-procare-solutions-af70bc?utm_source=reddit",
       "postedAt": "2026-11-20T15:45:35.000Z",
       "notable": 5
-    },
-    {
-      "id": "e80672a6-a99e-4c91-89fc-5f0083e6926c",
-      "title": "Export Control Classification Engineer (f/m/div.)",
-      "company": "Bosch Group",
-      "place": "Lisboa, Portugal",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000162766720",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/export-control-classification-engineer-fmdiv-bosch-group-387099?utm_source=reddit",
-      "postedAt": "2026-11-20T15:45:27.814Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
