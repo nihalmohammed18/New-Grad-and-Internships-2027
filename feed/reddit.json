@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:22:25.282Z",
+  "generatedAt": "2026-11-21T17:09:07.585Z",
   "jobs": [
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -1881,6 +1881,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-eaf132?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "6b1b4bc7-378f-42e9-96a8-4e6dacf7dc7a",
+      "title": "Associate Operations Processor",
+      "company": "Wells Fargo",
+      "place": "Hyderabad, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Associate-Operations-Processor_R-588273",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/associate-operations-processor-wells-fargo-5beca3?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "690e5978-2587-4680-92e9-f9af827029ac",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/guidepoint/grc-analyst-guidepoint-c54b35?utm_source=reddit",
       "postedAt": "2026-11-20T15:25:17.000Z",
       "notable": 2
-    },
-    {
-      "id": "ffdf2b92-1e22-446e-b55b-7b5ab53ca10d",
-      "title": "Associate Signal Processing Engineer",
-      "company": "STR",
-      "place": "Woburn, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$110.0K-$115.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703073006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/systemstechnologyresearch/associate-signal-processing-engineer-str-428cf2?utm_source=reddit",
-      "postedAt": "2026-11-20T15:24:09.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
