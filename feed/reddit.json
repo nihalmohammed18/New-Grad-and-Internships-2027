@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-21T19:27:49.174Z",
+  "generatedAt": "2026-11-21T19:51:32.748Z",
   "jobs": [
+    {
+      "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
+      "title": "[MedTech] [Heart Recovery] APAC Technical Service Operations Specialist",
+      "company": "Johnson & Johnson",
+      "place": "Tokyo, Japan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech---Heart-Recovery--APAC-Technical-Service-Operations-Specialist_R-112240",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/medtech-heart-recovery-apac-technical-service-operations-specialist-johnson-and--b7e510?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
       "title": "Electrical Systems Engineer (Special Programs)",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wheelpros/territory-sales-representative-wheel-pros-75cf8a?utm_source=reddit",
       "postedAt": "2026-11-20T16:05:21.000Z",
       "notable": 5
-    },
-    {
-      "id": "25ed4764-b246-447d-b9e6-148245c3b74b",
-      "title": "Entry level Project Manager",
-      "company": "DH Pace",
-      "place": "Olathe, United States",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5490676008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/entry-level-project-manager-dh-pace-8eb2d5?utm_source=reddit",
-      "postedAt": "2026-11-20T16:04:42.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
