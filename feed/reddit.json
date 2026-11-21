@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:49:05.022Z",
+  "generatedAt": "2026-11-21T07:12:21.072Z",
   "jobs": [
     {
       "id": "53c99cb3-18f9-4b51-abd1-5e35f1034d43",
@@ -18,6 +18,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/snapmobileinc/jobs/4731453006",
       "firstJobbyUrl": "https://firstjobby.com/companies/snapmobileinc/account-executive-snap-mobile-inc-020932?utm_source=reddit",
       "postedAt": "2026-11-21T05:10:20.000Z",
+      "notable": 5
+    },
+    {
+      "id": "186b04dc-8ef3-455d-8ac9-469eb2aa5b56",
+      "title": "Associate Electrical Hardware Engineer",
+      "company": "Rhoda AI",
+      "place": "Mountain View, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$120.0K-$150.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/rhoda-ai/70677a34-7232-45c1-bdcc-e12801ccfef3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rhoda-ai/associate-electrical-hardware-engineer-rhoda-ai-bcfd6d?utm_source=reddit",
+      "postedAt": "2026-11-21T04:06:26.768Z",
       "notable": 5
     },
     {
@@ -266,6 +285,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/servicenow/assoc-software-engineer-servicenow-e9e9aa?utm_source=reddit",
       "postedAt": "2026-11-21T00:39:18.291Z",
       "notable": 5
+    },
+    {
+      "id": "797dce96-24e4-4ba1-b988-a297d6f94afe",
+      "title": "Conference Coordinator Volunteer",
+      "company": "HRtechX",
+      "place": "Madrid, Spain",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "September 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8212915003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/conference-coordinator-volunteer-hrtechx-85ced9?utm_source=reddit",
+      "postedAt": "2026-11-21T00:32:04.000Z",
+      "notable": 3
     },
     {
       "id": "b4c79e58-e89a-4132-a416-5480526b444f",
@@ -758,6 +796,25 @@
       "season": null,
       "applyUrl": "https://apply.workable.com/j/D203DBAFBE",
       "firstJobbyUrl": "https://firstjobby.com/companies/fuku/data-analyst-fuku-537024?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "4e76c4ae-56b9-4eb8-a666-1e586ae9d5d7",
+      "title": "PAM Engineer - AVP",
+      "company": "MUFG",
+      "place": "Bengaluru, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/PAM-Engineer---AVP_10080568-WD",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mufguborwd3ormufg-careers/pam-engineer-avp-mufg-0d09ac?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 2
     },
@@ -2830,7 +2887,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/strategichr/jobs/8210973003",
       "firstJobbyUrl": "https://firstjobby.com/companies/strategichr/property-operations-coordinator-strategic-hr-client-job-openings-0a2cf4?utm_source=reddit",
       "postedAt": "2026-11-20T20:33:10.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "3cd7100d-23e9-4373-b3be-f76ad3573301",
@@ -9442,63 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/preply/7373ba04-c0fa-4ea2-8141-689511ac0a1c",
       "firstJobbyUrl": "https://firstjobby.com/companies/preply-ashby/quality-assurance-specialist-preply-cd6047?utm_source=reddit",
       "postedAt": "2026-11-20T14:01:48.482Z",
-      "notable": 3
-    },
-    {
-      "id": "796ed755-9238-46e5-824b-b62049928381",
-      "title": "Vehicle Integration Engineer",
-      "company": "Kodiak",
-      "place": "Mountain View, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$130.0K-$160.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4511823009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/kodiak/vehicle-integration-engineer-kodiak-7782d2?utm_source=reddit",
-      "postedAt": "2026-11-20T14:01:44.000Z",
-      "notable": 5
-    },
-    {
-      "id": "f3e66a92-d943-4081-962a-6ded77a72069",
-      "title": "Institutional Sales Associate, Crypto Ecosystem",
-      "company": "Blockchain.com",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/blockchain/jobs/8405788",
-      "firstJobbyUrl": "https://firstjobby.com/companies/blockchain/institutional-sales-associate-crypto-ecosystem-blockchaincom-a93cda?utm_source=reddit",
-      "postedAt": "2026-11-20T14:01:22.000Z",
-      "notable": 1
-    },
-    {
-      "id": "d8f735f0-aec5-496a-beae-f0de0cd60103",
-      "title": "Defence & Homeland Security – General Careers",
-      "company": "PA Consulting",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/PAConsulting/744000162739984",
-      "firstJobbyUrl": "https://firstjobby.com/companies/paconsulting/defence-and-homeland-security-general-careers-pa-consulting-dc5e3f?utm_source=reddit",
-      "postedAt": "2026-11-20T13:59:10.245Z",
       "notable": 3
     }
   ],
