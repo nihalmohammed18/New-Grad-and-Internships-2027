@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:19:18.685Z",
+  "generatedAt": "2026-11-21T09:56:43.537Z",
   "jobs": [
     {
       "id": "1657a360-f1ff-4b7e-853d-5fcd68118419",
@@ -2466,7 +2466,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162831059-field-sales-merchandiser-wonderful-pistachios-pom-wonderful-halos-citrus-",
+      "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000162831059",
       "firstJobbyUrl": "https://firstjobby.com/companies/thewonderfulcompany/field-sales-merchandiser-wonderful-pistachios-pom-wonderful-halos-citrus-the-won-0dbab5?utm_source=reddit",
       "postedAt": "2026-11-20T22:35:02.335Z",
       "notable": 3
@@ -2865,7 +2865,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017017776-associate-scientist-ii-histology",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017017776",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/associate-scientist-ii-histology-abbvie-822ddb?utm_source=reddit",
       "postedAt": "2026-11-20T21:54:57.594Z",
       "notable": 3
@@ -3055,7 +3055,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000162825989-electrical-engineer-fcs",
+      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000162825989",
       "firstJobbyUrl": "https://firstjobby.com/companies/staubligroup/electrical-engineer-fcs-staubli-59057c?utm_source=reddit",
       "postedAt": "2026-11-20T21:41:20.389Z",
       "notable": 3
@@ -3093,7 +3093,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000162825759-mechanical-design-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000162825759",
       "firstJobbyUrl": "https://firstjobby.com/companies/staubligroup/mechanical-design-engineer-staubli-3f7c95?utm_source=reddit",
       "postedAt": "2026-11-20T21:39:00.646Z",
       "notable": 3
@@ -3131,7 +3131,7 @@
       "pay": "€26.3K-€32.9K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162825301-b2b-sales-representative-milano-italy",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162825301",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/b2b-sales-representative-milano-italy-delivery-hero-80e6de?utm_source=reddit",
       "postedAt": "2026-11-20T21:35:14.688Z",
       "notable": 5
@@ -3150,7 +3150,7 @@
       "pay": "€26.3K-€32.9K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162823900-sales-executive-smb-italy-milano",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162823900",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-smb-italy-milano-delivery-hero-cae5ed?utm_source=reddit",
       "postedAt": "2026-11-20T21:34:53.645Z",
       "notable": 5
@@ -3492,7 +3492,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017016036-customer-service-representative",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017016036",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/customer-service-representative-abbvie-eda95b?utm_source=reddit",
       "postedAt": "2026-11-20T21:02:15.964Z",
       "notable": 3
@@ -3644,7 +3644,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017015906-site-reliability-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017015906",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/site-reliability-engineer-abbvie-061d13?utm_source=reddit",
       "postedAt": "2026-11-20T20:55:54.225Z",
       "notable": 3
@@ -5604,7 +5604,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SonicAutomotive/744000162801539",
       "firstJobbyUrl": "https://firstjobby.com/companies/sonicautomotive/bdc-associate-fixed-ops-lone-star-chevrolet-sonic-automotive-2a1ee6?utm_source=reddit",
       "postedAt": "2026-11-20T18:44:51.252Z",
-      "notable": 4
+      "notable": 2
     },
     {
       "id": "f447babc-44da-423a-8299-55a3a21f28c2",
@@ -9293,25 +9293,6 @@
       "notable": 3
     },
     {
-      "id": "af441b59-90ab-4689-97f5-861eda380094",
-      "title": "Mechanical Design Engineer",
-      "company": "Stäubli",
-      "place": "Duncan, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StaubliGroup/744000162754010-mechanical-design-engineer",
-      "firstJobbyUrl": "https://firstjobby.com/companies/staubligroup/mechanical-design-engineer-staubli-356886?utm_source=reddit",
-      "postedAt": "2026-11-20T15:04:16.872Z",
-      "notable": 3
-    },
-    {
       "id": "ec2dc273-1112-41e0-b491-0da201c8fff7",
       "title": "Partner Account Manager - Lexington",
       "company": "Human Interest",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/industrious-ashby/community-manager-industrious-5fad4f?utm_source=reddit",
       "postedAt": "2026-11-20T14:57:50.592Z",
       "notable": 2
+    },
+    {
+      "id": "9a69ed6e-5a3e-4533-9f34-c989ce0e17f8",
+      "title": "Front Desk Coordinator",
+      "company": "Peachy",
+      "place": "New York, United States",
+      "category": "Operations",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$19/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://boards.greenhouse.io/peachy/jobs/4731160006?gh_jid=4731160006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/peachy/front-desk-coordinator-peachy-38ca8e?utm_source=reddit",
+      "postedAt": "2026-11-20T14:57:44.000Z",
+      "notable": 3
     }
   ],
   "fakeEntryLevel": {
