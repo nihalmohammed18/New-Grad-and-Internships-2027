@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:11:53.202Z",
+  "generatedAt": "2026-11-21T23:20:44.664Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -17,6 +17,25 @@
       "season": null,
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech---Heart-Recovery--APAC-Technical-Service-Operations-Specialist_R-112240",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/medtech-heart-recovery-apac-technical-service-operations-specialist-johnson-and--b7e510?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "8d76b155-7de3-4bff-b51b-914e52848186",
+      "title": "Operations Associate",
+      "company": "Kensho",
+      "place": "Bengaluru, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Operations-Associate_332751-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/operations-associate-kensho-0319ba?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
     },
@@ -1786,6 +1805,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-632c48?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "e892cdd8-0cc4-4477-afcf-2938dea563fb",
+      "title": "Customer Experience Associate",
+      "company": "TD Bank",
+      "place": "Mississauga, Canada",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Customer-Experience-Associate_R_1522380-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-td-bank-98b3ca?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "e4815427-a4fa-45bd-bd92-2b653d23d136",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/inetum2/744000162775829",
       "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/business-analyst-technico-fonctionnel-inetum-057a42?utm_source=reddit",
       "postedAt": "2026-11-20T16:23:27.502Z",
-      "notable": 3
-    },
-    {
-      "id": "aaa7450d-c138-47c7-9278-00b77a730b9f",
-      "title": "Scrum Master - R01574069",
-      "company": "Brillio 2",
-      "place": "Mumbai, India",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/brillio-2/71c91631-2d49-4c6d-ac88-748a3499bd3c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/brillio-2/scrum-master-r01574069-brillio-2-7ee84c?utm_source=reddit",
-      "postedAt": "2026-11-20T16:23:06.885Z",
-      "notable": 3
-    },
-    {
-      "id": "0491f698-33d6-4540-9f2c-69fd95a83dcf",
-      "title": "Scrum Master - R01574070",
-      "company": "Brillio 2",
-      "place": "Bangalore, India",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/brillio-2/88b35de9-6bde-4865-91e8-f49684a3fc1a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/brillio-2/scrum-master-r01574070-brillio-2-410945?utm_source=reddit",
-      "postedAt": "2026-11-20T16:22:57.213Z",
       "notable": 3
     }
   ],
