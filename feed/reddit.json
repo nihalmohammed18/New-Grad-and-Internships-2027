@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:37:38.865Z",
+  "generatedAt": "2026-11-21T17:49:43.557Z",
   "jobs": [
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -6918,6 +6918,25 @@
       "notable": 4
     },
     {
+      "id": "7d7ffc1e-1620-40a3-b023-271d0f1b4ecf",
+      "title": "Outsourcing Customer Service Rep",
+      "company": "Vericast",
+      "place": "Jeffersonville, United States",
+      "category": "Customer Support",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$18-$20/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Vericast/744000162793289-outsourcing-customer-service-rep",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vericast/outsourcing-customer-service-rep-vericast-2b59ae?utm_source=reddit",
+      "postedAt": "2026-11-20T17:53:28.919Z",
+      "notable": 3
+    },
+    {
       "id": "29335a69-8bb9-40e9-9235-3f5d9190eb25",
       "title": "Integration Reliability Engineer, Payments",
       "company": "Stripe",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alten/ingenieur-logiciel-banc-de-test-specialiste-hf-alten-339a8a?utm_source=reddit",
       "postedAt": "2026-11-20T15:31:28.649Z",
       "notable": 3
-    },
-    {
-      "id": "30c589a5-e767-4c83-a8e2-782a490a4ed6",
-      "title": "Sales Representative - Czech & Slovak speaking",
-      "company": "Liberis",
-      "place": "Munich, Germany",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/liberis/jobs/8406134",
-      "firstJobbyUrl": "https://firstjobby.com/companies/liberis/sales-representative-czech-and-slovak-speaking-liberis-26917e?utm_source=reddit",
-      "postedAt": "2026-11-20T15:30:50.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
