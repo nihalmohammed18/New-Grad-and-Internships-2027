@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-21T11:12:27.866Z",
+  "generatedAt": "2026-11-21T11:34:28.586Z",
   "jobs": [
+    {
+      "id": "38932a2a-3145-4990-8c21-5882c2ade91d",
+      "title": "Software Engineer Frontend, India",
+      "company": "Doxel",
+      "place": "Bengaluru, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/doxel/c007d574-006b-475d-a9ee-7ddc07ad1fc7",
+      "firstJobbyUrl": "https://firstjobby.com/companies/doxel/software-engineer-frontend-india-doxel-1e43d6?utm_source=reddit",
+      "postedAt": "2026-11-21T06:20:10.344Z",
+      "notable": 1
+    },
     {
       "id": "1657a360-f1ff-4b7e-853d-5fcd68118419",
       "title": "Analyst - MDM",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ubisoft2/site-reliability-engineer-ai-applications-mwx-ubisoft-8ed896?utm_source=reddit",
       "postedAt": "2026-11-20T14:57:55.207Z",
       "notable": 3
-    },
-    {
-      "id": "14a528c3-cfd1-4726-bd4e-f39bd6647bb3",
-      "title": "Community Manager",
-      "company": "Industrious",
-      "place": "San Francisco, United States",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$80.0K-$95.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/industrious/4cd294b0-7728-4d3b-96f3-9451702ebab1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/industrious-ashby/community-manager-industrious-5fad4f?utm_source=reddit",
-      "postedAt": "2026-11-20T14:57:50.592Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
