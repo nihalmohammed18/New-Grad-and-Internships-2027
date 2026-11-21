@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:31:49.793Z",
+  "generatedAt": "2026-11-21T17:37:38.865Z",
   "jobs": [
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spacex/electrical-systems-engineer-falcon-and-dragon-spacex-b728a7?utm_source=reddit",
       "postedAt": "2026-11-21T17:23:25.000Z",
       "notable": 4
+    },
+    {
+      "id": "7dddb7cf-4612-4865-86b9-b6b0310c32e3",
+      "title": "Software Engineer, New Grad",
+      "company": "Secureframe",
+      "place": "New York, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$100.0K-$120.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb",
+      "firstJobbyUrl": "https://firstjobby.com/companies/secureframe-ashby/software-engineer-new-grad-secureframe-b89e6c?utm_source=reddit",
+      "postedAt": "2026-11-21T13:39:57.067Z",
+      "notable": 5
     },
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/liberis/sales-representative-czech-and-slovak-speaking-liberis-26917e?utm_source=reddit",
       "postedAt": "2026-11-20T15:30:50.000Z",
       "notable": 1
-    },
-    {
-      "id": "e8339b54-4845-4170-8ab9-af2ff6ef2e03",
-      "title": "Investment Banking Analyst - Tech-Enabled Services (Experienced/Lateral)",
-      "company": "William Blair",
-      "place": "Atlanta, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$115.0K-$125.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.williamblair.com/Careers/job-description?gh_jid=5302454007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/williamblair/investment-banking-analyst-tech-enabled-services-experiencedlateral-william-blai-b36f25?utm_source=reddit",
-      "postedAt": "2026-11-20T15:29:34.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
