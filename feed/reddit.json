@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:50:46.475Z",
+  "generatedAt": "2026-11-21T20:57:13.296Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -2660,6 +2660,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-f45e0a?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "616e5c41-6f9e-43a4-a907-6707653b9568",
+      "title": "Full Time - Sales Associate - Outside Lawn & Garden - Opening",
+      "company": "Lowe's",
+      "place": "Holland, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Holland-MI-0330/Full-Time---Sales-Associate---Outside-Lawn---Garden---Opening_JR-02710202",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-opening-lowes-f864f2?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "60dd36dd-c51b-4e02-aa70-42d4f1be5d6b",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/HelloKindred/3743990016998776",
       "firstJobbyUrl": "https://firstjobby.com/companies/hellokindred/programme-coordinator-salesforce-and-events-hellokindred-02cbc6?utm_source=reddit",
       "postedAt": "2026-11-20T16:07:05.881Z",
-      "notable": 3
-    },
-    {
-      "id": "078b3ea4-415f-475a-b644-64fa01e09510",
-      "title": "Logistics Specialist II (L'Oreal)",
-      "company": "Uber Freight",
-      "place": "Rogers, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/uberfreight/jobs/5454059008",
-      "firstJobbyUrl": "https://firstjobby.com/companies/uberfreight/logistics-specialist-ii-loreal-uber-freight-fbfe40?utm_source=reddit",
-      "postedAt": "2026-11-20T16:06:30.000Z",
       "notable": 3
     }
   ],
