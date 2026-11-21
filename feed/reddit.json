@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:15:49.907Z",
+  "generatedAt": "2026-11-21T19:27:49.174Z",
   "jobs": [
     {
       "id": "e8957b93-f85f-47d6-bc8c-c4c17a71d148",
@@ -2546,6 +2546,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-eaf132?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "6b93acab-e9d6-4476-bfca-9a2e21abcfea",
+      "title": "Ocean Customer Experience Specialist - Spanish",
+      "company": "Maersk",
+      "place": "Pasig, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Philippines-Pasig-1600/Ocean-Customer-Experience-Specialist---Spanish_R204270",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maerskorwd3ormaerskcareers/ocean-customer-experience-specialist-spanish-maersk-70dceb?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "6b1b4bc7-378f-42e9-96a8-4e6dacf7dc7a",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/dhpace/jobs/5490676008",
       "firstJobbyUrl": "https://firstjobby.com/companies/dhpace/entry-level-project-manager-dh-pace-8eb2d5?utm_source=reddit",
       "postedAt": "2026-11-20T16:04:42.000Z",
-      "notable": 3
-    },
-    {
-      "id": "22d24cbd-9d32-42cc-b606-c2d035f62569",
-      "title": "Compliance Analyst Intern (f/m/d)",
-      "company": "Upvest",
-      "place": "United Kingdom",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/upvest/b2698ee6-0ffa-46dd-8b61-207765c02160",
-      "firstJobbyUrl": "https://firstjobby.com/companies/upvest/compliance-analyst-intern-fmd-upvest-0d9429?utm_source=reddit",
-      "postedAt": "2026-11-20T16:04:27.220Z",
       "notable": 3
     }
   ],
