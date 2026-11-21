@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-21T02:59:42.733Z",
+  "generatedAt": "2026-11-21T05:00:30.702Z",
   "jobs": [
+    {
+      "id": "0e89876c-5b92-4ef2-a290-52b8c26e3b9c",
+      "title": "Intern, Exterior Design, Summer 2027",
+      "company": "Lucid Motors",
+      "place": "Newark, United States",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$35-$51/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/intern-exterior-design-summer-2027-lucid-motors-016a03?utm_source=reddit",
+      "postedAt": "2026-11-21T01:44:12.000Z",
+      "notable": 5
+    },
     {
       "id": "be22356c-0e29-4b0e-9020-959ebc844cab",
       "title": "Assistant Traffic Coordinator",
@@ -1896,7 +1915,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000162814949-office-engineer-field-operations-inspection-coordinator",
+      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000162814949",
       "firstJobbyUrl": "https://firstjobby.com/companies/socotec/office-engineer-field-operations-and-inspection-coordinator-socotec-6aa6e3?utm_source=reddit",
       "postedAt": "2026-11-20T20:26:35.997Z",
       "notable": 3
@@ -3511,7 +3530,7 @@
       "pay": "$15-$18/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SonicAutomotive/744000162801539-bdc-associate-fixed-ops-lone-star-chevrolet",
+      "applyUrl": "https://jobs.smartrecruiters.com/SonicAutomotive/744000162801539",
       "firstJobbyUrl": "https://firstjobby.com/companies/sonicautomotive/bdc-associate-fixed-ops-lone-star-chevrolet-sonic-automotive-2a1ee6?utm_source=reddit",
       "postedAt": "2026-11-20T18:44:51.252Z",
       "notable": 4
@@ -3815,7 +3834,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162798199-executive-sales-representative",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162798199",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/executive-sales-representative-delivery-hero-d4513c?utm_source=reddit",
       "postedAt": "2026-11-20T18:17:28.190Z",
       "notable": 3
@@ -4157,7 +4176,7 @@
       "pay": "$40-$60/hr",
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000162791204-project-service-coordinator-document-control-specialist-",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000162791204",
       "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/project-service-coordinator-or-document-control-specialist-egis-group-6913d9?utm_source=reddit",
       "postedAt": "2026-11-20T17:44:56.548Z",
       "notable": 5
@@ -5069,7 +5088,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000162781449-ssr-calypso-business-analyst",
+      "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000162781449",
       "firstJobbyUrl": "https://firstjobby.com/companies/talan/ssr-calypso-business-analyst-talan-3dca29?utm_source=reddit",
       "postedAt": "2026-11-20T16:46:31.557Z",
       "notable": 3
@@ -5601,7 +5620,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Devoteam/744000162776609-devoteam-cyber-trust-pentester-academic-scientific-publishing-sector",
+      "applyUrl": "https://jobs.smartrecruiters.com/Devoteam/744000162776609",
       "firstJobbyUrl": "https://firstjobby.com/companies/devoteam/devoteam-cyber-trust-or-pentester-or-academic-and-scientific-publishing-sector-d-661998?utm_source=reddit",
       "postedAt": "2026-11-20T16:26:04.846Z",
       "notable": 3
@@ -5677,7 +5696,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteAT/744000162775780-healthcare-analyst-all-genders-schwerpunkt-organisation-transformation",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteAT/744000162775780",
       "firstJobbyUrl": "https://firstjobby.com/companies/deloitteat/healthcare-analyst-all-genders-schwerpunkt-organisation-and-transformation-deloi-31933a?utm_source=reddit",
       "postedAt": "2026-11-20T16:24:36.636Z",
       "notable": 3
@@ -6589,7 +6608,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Statkraft1/744000162761900-expert-external-web-dxp-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Statkraft1/744000162761900",
       "firstJobbyUrl": "https://firstjobby.com/companies/statkraft1/expert-external-web-dxp-statkraft-6af298?utm_source=reddit",
       "postedAt": "2026-11-20T15:33:34.584Z",
       "notable": 3
@@ -7995,7 +8014,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000162748169-stagiaire-infrastructures-et-amenagement-urbain-technique-et-ecoconception-toulouse-h-f",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000162748169",
       "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/stagiaire-infrastructures-et-amenagement-urbain-technique-et-ecoconception-toulo-ea0a17?utm_source=reddit",
       "postedAt": "2026-11-20T14:27:40.665Z",
       "notable": 3
@@ -9404,25 +9423,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/09c0b2a4-2d81-4242-af52-4df95ad77e35",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/photoshop-graphic-design-and-photo-production-virtual-assistant-jobgether-86d1fc?utm_source=reddit",
       "postedAt": "2026-11-20T13:14:08.051Z",
-      "notable": 3
-    },
-    {
-      "id": "94d53a22-6273-4aa1-92a7-a4a728dbfdc6",
-      "title": "Executive Sales Representative",
-      "company": "Delivery Hero",
-      "place": "Quito, Ecuador",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000162731689-executive-sales-representative",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/executive-sales-representative-delivery-hero-4876d3?utm_source=reddit",
-      "postedAt": "2026-11-20T13:12:52.310Z",
       "notable": 3
     },
     {
