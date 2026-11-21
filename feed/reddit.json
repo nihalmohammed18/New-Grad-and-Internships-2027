@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:01:33.273Z",
+  "generatedAt": "2026-11-21T13:22:29.970Z",
   "jobs": [
     {
       "id": "27e408e2-bb77-478d-a4cc-9e3c7a42c4e7",
@@ -1026,6 +1026,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-6a9d7c?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "e099b0a7-bb80-4b04-b601-52c2cd0e4ac4",
+      "title": "Medical Laboratory Scientist I",
+      "company": "Mass General Brigham",
+      "place": "Newton, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$31/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Newton-MA/Medical-Laboratory-Scientist-I_RQ4087276",
+      "firstJobbyUrl": "https://firstjobby.com/companies/massgeneralbrighamorwd1ormgbexternal/medical-laboratory-scientist-i-mass-general-brigham-072b47?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "d4c90b5a-d0e2-46e3-b4e9-2f364eb26b45",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5043649101",
       "firstJobbyUrl": "https://firstjobby.com/companies/michelscorporation/hse-coordinator-micon-group-inc-michels-corporation-f44840?utm_source=reddit",
       "postedAt": "2026-11-20T15:11:45.000Z",
-      "notable": 3
-    },
-    {
-      "id": "8a7352af-af05-455a-9dcc-d4d87398bc35",
-      "title": "Business Development Representative, Mid-Market",
-      "company": "Trustpilot ",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://corporate.trustpilot.com/careers/job/8401941?gh_jid=8401941",
-      "firstJobbyUrl": "https://firstjobby.com/companies/trustpilot/business-development-representative-mid-market-trustpilot-3243c7?utm_source=reddit",
-      "postedAt": "2026-11-20T15:11:40.000Z",
       "notable": 3
     }
   ],
