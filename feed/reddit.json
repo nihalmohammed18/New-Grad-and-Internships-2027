@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:09:21.685Z",
+  "generatedAt": "2026-11-21T21:15:39.283Z",
   "jobs": [
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -1995,6 +1995,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-44d792?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "ac99351e-8541-429f-9770-6c9269bdb0cc",
+      "title": "Intelligence Analyst I",
+      "company": "AeroVironment",
+      "place": "Albuquerque, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$74.5K-$126.5K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Intelligence-Analyst-I_9454",
+      "firstJobbyUrl": "https://firstjobby.com/companies/avavorwd1oravav/intelligence-analyst-i-aerovironment-e551f7?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "ab844a60-12b4-436f-a678-47359930d58e",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alan-ashby/bilingual-customer-experience-specialist-canada-alan-5cf12c?utm_source=reddit",
       "postedAt": "2026-11-20T16:10:20.405Z",
       "notable": 5
-    },
-    {
-      "id": "5b3a66fa-48c4-4320-96ce-17a1575d2863",
-      "title": "Software Test Engineer",
-      "company": "NielsenIQ",
-      "place": "Chennai, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000162772039",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/software-test-engineer-nielseniq-6b5c78?utm_source=reddit",
-      "postedAt": "2026-11-20T16:07:58.178Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
