@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:33:12.336Z",
+  "generatedAt": "2026-11-22T08:42:13.672Z",
   "jobs": [
     {
       "id": "17bd5170-b574-4c41-ba88-b34480b45849",
@@ -3553,6 +3553,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-b0c6d0?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "659dd0ce-922a-4e5a-9133-5a07add58e81",
+      "title": "Epic Business Intelligence Developer",
+      "company": "Cookchildrens",
+      "place": "Fort Worth, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers/job/Fort-Worth-TX/Epic-Business-Intelligence-Developer_JR-118157",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cookchildrensorwd1orcookchildrenscareers/epic-business-intelligence-developer-cookchildrens-7c7cfb?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "651c4308-43a1-4a4b-9e2b-4480797620ab",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tenstorrent/it-governance-risk-and-compliance-grc-analyst-tenstorrent-74bdb8?utm_source=reddit",
       "postedAt": "2026-11-20T17:00:01.000Z",
       "notable": 5
-    },
-    {
-      "id": "e7bf5685-915d-413b-8f9f-fc7c06eca8e3",
-      "title": "Product Strategy Internship - CPO Office (m/f/x)",
-      "company": "Scalable GmbH",
-      "place": "Munich, Germany",
-      "category": "Operations",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000162782774",
-      "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/product-strategy-internship-cpo-office-mfx-scalable-gmbh-16f6dd?utm_source=reddit",
-      "postedAt": "2026-11-20T16:55:55.071Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
