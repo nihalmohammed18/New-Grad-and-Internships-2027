@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:13:31.996Z",
+  "generatedAt": "2026-11-22T01:56:56.833Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -53,7 +53,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech---Heart-Recovery--APAC-Technical-Service-Operations-Specialist_R-112240",
+      "applyUrl": "https://jj.wd5.myworkdayjobs.com/jj/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech---Heart-Recovery--APAC-Technical-Service-Operations-Specialist_R-112240",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/medtech-heart-recovery-apac-technical-service-operations-specialist-johnson-and--b7e510?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
@@ -2753,25 +2753,6 @@
       "season": null,
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Supply-chain-specialist_2641797",
       "firstJobbyUrl": "https://firstjobby.com/companies/klaorwd1orsearch/supply-chain-specialist-kla-15897e?utm_source=reddit",
-      "postedAt": "2026-11-21T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "8f0f4dbb-c806-4da9-adb5-1dfa6b3fe6aa",
-      "title": "Lead Associate Engineer - Mfg",
-      "company": "Jabil",
-      "place": "India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Lead-Associate-Engineer---Mfg_J2443036",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jabilorwd5orjabilcareers/lead-associate-engineer-mfg-jabil-688666?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 2
     },
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coram-ai/gtm-engineer-coram-ai-dee407?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:47.027Z",
       "notable": 3
+    },
+    {
+      "id": "6f680777-184a-47ba-a100-6a46a1d2b554",
+      "title": "Channel Account Manager I, Service Providers",
+      "company": "Huntress Labs",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$66.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/huntress/jobs/8210679003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/huntress/channel-account-manager-i-service-providers-huntress-labs-e3e551?utm_source=reddit",
+      "postedAt": "2026-11-20T16:29:13.000Z",
+      "notable": 5
     }
   ],
   "fakeEntryLevel": {
