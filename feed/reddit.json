@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:58:57.950Z",
+  "generatedAt": "2026-11-22T09:14:03.367Z",
   "jobs": [
     {
       "id": "17bd5170-b574-4c41-ba88-b34480b45849",
@@ -456,6 +456,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orjobsathpe/cloud-developer-hewlett-packard-enterprise-2fd8fe?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "52e2c743-d0b4-4227-8b6d-25a32b9bdb62",
+      "title": "ServiceNow Developer",
+      "company": "GDIT",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$97.8K-$132.3K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer_RQ232563-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orexternalcareersite/servicenow-developer-gdit-b6a4df?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "4122144b-4198-4edd-b2a7-7eeeccede431",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lucidmotors/intern-aiml-vehicle-infotainment-summer-2027-lucid-motors-a5c58f?utm_source=reddit",
       "postedAt": "2026-11-20T17:01:54.000Z",
       "notable": 5
-    },
-    {
-      "id": "8ffd5dde-b0a2-4639-83d6-1aeabfca2b8a",
-      "title": "Backend Engineer (all genders)",
-      "company": "JustPlay GmbH",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "sponsors",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/justplay-gmbh/1fa64b03-8768-4313-bc24-c765e83d0466",
-      "firstJobbyUrl": "https://firstjobby.com/companies/justplay-gmbh/backend-engineer-all-genders-justplay-gmbh-c8acde?utm_source=reddit",
-      "postedAt": "2026-11-20T17:01:39.025Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
