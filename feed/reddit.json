@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-22T08:18:10.773Z",
+  "generatedAt": "2026-11-22T08:33:12.336Z",
   "jobs": [
+    {
+      "id": "17bd5170-b574-4c41-ba88-b34480b45849",
+      "title": "Information & Technology (IT) Specialist",
+      "company": "AccorHotel",
+      "place": "Lusail, Qatar",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000163090199-information-technology-it-specialist",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/information-and-technology-it-specialist-accorhotel-73611b?utm_source=reddit",
+      "postedAt": "2026-11-22T07:34:02.691Z",
+      "notable": 3
+    },
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
       "title": "Client Support Representative - Remote Data Entry Clerk",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/product-strategy-internship-cpo-office-mfx-scalable-gmbh-16f6dd?utm_source=reddit",
       "postedAt": "2026-11-20T16:55:55.071Z",
       "notable": 3
-    },
-    {
-      "id": "dc6bc469-cd02-4a24-8673-f2271acc5f8e",
-      "title": "Product Owner",
-      "company": "AJ Bell",
-      "place": "Manchester, United Kingdom",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AJBell1/744000162782859",
-      "firstJobbyUrl": "https://firstjobby.com/companies/ajbell1/product-owner-aj-bell-23b78c?utm_source=reddit",
-      "postedAt": "2026-11-20T16:54:30.859Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
