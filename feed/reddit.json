@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:56:56.833Z",
+  "generatedAt": "2026-11-22T02:29:15.972Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -74,6 +74,25 @@
       "season": null,
       "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Operations-Associate_332751-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/operations-associate-kensho-0319ba?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "13f91a7d-dda1-43ac-9381-6fbaf72049aa",
+      "title": "Electronics Hardware Design Engineer",
+      "company": "Flowserve",
+      "place": "Singapore",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/12-Tuas-Loop/Electronics-Hardware-Design-Engineer_R-21861",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flowserveorwd1orapplied/electronics-hardware-design-engineer-flowserve-882e3e?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coram-ai/gtm-engineer-coram-ai-dee407?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:47.027Z",
       "notable": 3
-    },
-    {
-      "id": "6f680777-184a-47ba-a100-6a46a1d2b554",
-      "title": "Channel Account Manager I, Service Providers",
-      "company": "Huntress Labs",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$66.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/huntress/jobs/8210679003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/huntress/channel-account-manager-i-service-providers-huntress-labs-e3e551?utm_source=reddit",
-      "postedAt": "2026-11-20T16:29:13.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
