@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:49:43.065Z",
+  "generatedAt": "2026-11-22T06:43:55.582Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -95,6 +95,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/miramace/ops-engineer-mira-mace-46b863?utm_source=reddit",
       "postedAt": "2026-11-22T03:18:36.695Z",
       "notable": 1
+    },
+    {
+      "id": "d94ce77b-2a9c-4af0-9fbc-381ce388e0d4",
+      "title": "Integration Engineer",
+      "company": "Oddball",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$100.0K-$130.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/oddball/jobs/8213812003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/oddball/integration-engineer-oddball-c638ff?utm_source=reddit",
+      "postedAt": "2026-11-22T00:53:59.000Z",
+      "notable": 5
+    },
+    {
+      "id": "304c9abd-480a-4bec-89b4-1fbb4603b818",
+      "title": "Data Engineer",
+      "company": "Oddball",
+      "place": "Remote from United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$100.0K-$130.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/oddball/jobs/8213810003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/oddball/data-engineer-oddball-b5811c?utm_source=reddit",
+      "postedAt": "2026-11-22T00:45:23.000Z",
+      "notable": 5
     },
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -8321,7 +8359,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/oddball/jobs/8210802003",
       "firstJobbyUrl": "https://firstjobby.com/companies/oddball/devops-engineer-oddball-27ff15?utm_source=reddit",
       "postedAt": "2026-11-20T17:48:26.000Z",
-      "notable": 3
+      "notable": 5
     },
     {
       "id": "f589058e-63b4-4256-ba48-89dd4c6c66e6",
@@ -8568,7 +8606,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/oddball/jobs/8210795003",
       "firstJobbyUrl": "https://firstjobby.com/companies/oddball/site-reliability-engineer-oddball-3b3397?utm_source=reddit",
       "postedAt": "2026-11-20T17:36:45.000Z",
-      "notable": 3
+      "notable": 5
     },
     {
       "id": "235331b4-47ad-4834-88d2-57e637b1298c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/paratekpharmaceuticals/specialty-sales-representative-trenton-nj-paratek-pharmaceuticals-8e4693?utm_source=reddit",
       "postedAt": "2026-11-20T16:41:49.000Z",
       "notable": 3
-    },
-    {
-      "id": "48290058-f8e2-4487-99cf-ae6ac3fc585e",
-      "title": "Account Manager I",
-      "company": "Brex",
-      "place": "New York, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.brex.com/careers/8956699002?gh_jid=8956699002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/brex/account-manager-i-brex-f9316f?utm_source=reddit",
-      "postedAt": "2026-11-20T16:40:52.000Z",
-      "notable": 3
-    },
-    {
-      "id": "77739113-d486-4935-a0a3-ecbbc7c2bb9b",
-      "title": "Data Operator",
-      "company": "Philadelphia Phillies - Baseball Operations",
-      "place": "Clearwater, United States",
-      "category": "Data",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/8161594003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/philliesbaseballoperations/data-operator-philadelphia-phillies-baseball-operations-7caec7?utm_source=reddit",
-      "postedAt": "2026-11-20T16:40:18.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
