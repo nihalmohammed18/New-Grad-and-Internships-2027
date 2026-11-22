@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:54:46.149Z",
+  "generatedAt": "2026-11-22T01:07:34.577Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -3078,6 +3078,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-f45e0a?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "63d7b979-05f7-4776-acd7-d6287c0f4801",
+      "title": "Product Designer",
+      "company": "Borrowell",
+      "place": "Toronto, Canada",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$80.0K-CA$130.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/E5426E29A1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/borrowell/product-designer-borrowell-89f9b0?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "616e5c41-6f9e-43a4-a907-6707653b9568",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/huntress/channel-account-manager-i-service-providers-huntress-labs-e3e551?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:13.000Z",
       "notable": 5
-    },
-    {
-      "id": "7da40738-5e74-48e4-b1f1-cddb1662fb75",
-      "title": "Engineering - Pool Maintenance Technician",
-      "company": "AccorHotel",
-      "place": "Scottsdale, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000162777040",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/engineering-pool-maintenance-technician-accorhotel-f3adb8?utm_source=reddit",
-      "postedAt": "2026-11-20T16:29:12.142Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
