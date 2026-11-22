@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:48:46.917Z",
+  "generatedAt": "2026-11-22T11:30:05.337Z",
   "jobs": [
     {
       "id": "5774f9b9-51c0-43b7-8dff-61ce3d2c426a",
@@ -515,6 +515,25 @@
       "notable": 2
     },
     {
+      "id": "6216172a-60b0-400d-b87a-650f17912b46",
+      "title": "Mechanical Engineer I",
+      "company": "Sierra Space",
+      "place": "Louisville, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$77.2K-$106.2K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26521-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sierraspaceorwd1orsierraspaceexternalcareersite/mechanical-engineer-i-sierra-space-eed371?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "52e2c743-d0b4-4227-8b6d-25a32b9bdb62",
       "title": "ServiceNow Developer",
       "company": "GDIT",
@@ -587,6 +606,25 @@
       "season": null,
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Cloud-Developer_1218689",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5oracjobsite/cloud-developer-hewlett-packard-enterprise-7a5c58?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "1d1fad01-aeb2-400a-b2a9-b626b5b79f8a",
+      "title": "Mechanical Engineer I (Environmental/Propulsion)",
+      "company": "Sierra Space",
+      "place": "Middleton, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Middleton-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26418-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sierraspaceorwd1orsierraspaceexternalcareersite/mechanical-engineer-i-environmentalpropulsion-sierra-space-c540d1?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-mechanical-engineer-5203-moccasin-hetch-hetchy-water-and-power-sfpuc-e-f58113?utm_source=reddit",
       "postedAt": "2026-11-20T17:09:34.365Z",
       "notable": 3
-    },
-    {
-      "id": "7534e12b-7664-49c2-9a80-3b21317cce69",
-      "title": "Customer Growth Account Executive - Commercial",
-      "company": "Klaviyo",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£65.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://www.klaviyo.com/careers/jobs/8210757003?gh_jid=8210757003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/klaviyo/customer-growth-account-executive-commercial-klaviyo-cdb905?utm_source=reddit",
-      "postedAt": "2026-11-20T17:06:32.000Z",
-      "notable": 5
-    },
-    {
-      "id": "82f249d1-81f2-4eb6-bad6-2942f4250540",
-      "title": "Quality Engineer II",
-      "company": "CesiumAstro",
-      "place": "Westminster, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$94.0K-$112.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/1e8d8481-5e8e-4cd7-afce-6b6ebdd72fbb",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/quality-engineer-ii-cesiumastro-d866cf?utm_source=reddit",
-      "postedAt": "2026-11-20T17:05:16.065Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
