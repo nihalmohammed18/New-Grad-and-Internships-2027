@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:05:47.792Z",
+  "generatedAt": "2026-11-22T13:36:35.195Z",
   "jobs": [
     {
       "id": "e3c4a8a0-6980-43a4-ae3b-812c4d4262ab",
@@ -416,6 +416,25 @@
       "season": null,
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Cloud-Developer_1218649",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5oracjobsite/cloud-developer-hewlett-packard-enterprise-f16cec?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a655d738-f0f5-4e10-aad2-4791f8975cfa",
+      "title": "Associate Marketing Communications Student",
+      "company": "Atotech",
+      "place": "Jerusalem, Israel",
+      "category": "Marketing",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Associate-Marketing-Communications-Student_R20654",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mksinstorwd1ormkscareersemea/associate-marketing-communications-student-atotech-c61845?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://www.crunchtime.com/open-positions?gh_jid=6251685004",
       "firstJobbyUrl": "https://firstjobby.com/companies/zenput/fulfillment-operations-specialist-crunchtime-b8862f?utm_source=reddit",
       "postedAt": "2026-11-20T17:11:58.000Z",
-      "notable": 3
-    },
-    {
-      "id": "b075075b-e3e5-4b76-886c-51f04be5c1fe",
-      "title": "Robotics Data Researcher",
-      "company": "Clera",
-      "place": "Barcelona, Spain",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/ef637845-228b-47c7-8f4e-5eb054dd09b6",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/robotics-data-researcher-clera-659ec6?utm_source=reddit",
-      "postedAt": "2026-11-20T17:11:50.252Z",
       "notable": 3
     }
   ],
