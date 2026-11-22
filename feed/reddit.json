@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-22T12:40:59.122Z",
+  "generatedAt": "2026-11-22T12:45:25.325Z",
   "jobs": [
+    {
+      "id": "e3c4a8a0-6980-43a4-ae3b-812c4d4262ab",
+      "title": "Design Student Intern",
+      "company": "CannonDesign",
+      "place": "Chicago, United States",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$21-$26/hr",
+      "minYears": null,
+      "season": "January 2027",
+      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8957894002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cannondesign/design-student-intern-cannondesign-c42527?utm_source=reddit",
+      "postedAt": "2026-11-22T11:32:47.000Z",
+      "notable": 5
+    },
     {
       "id": "5774f9b9-51c0-43b7-8dff-61ce3d2c426a",
       "title": "Supplier Quality Engineer I",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cfsenergy/intern-molten-salt-blanket-engineer-summer-2027-cfsenergy-940526?utm_source=reddit",
       "postedAt": "2026-11-20T17:11:13.726Z",
       "notable": 5
-    },
-    {
-      "id": "5f107511-0196-4a76-9e8d-0187b7ca45ae",
-      "title": "LLM Data Researcher",
-      "company": "Clera",
-      "place": "Barcelona, Spain",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/1ce61050-20ee-45fd-9760-8bb245d05f2e",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/llm-data-researcher-clera-e49980?utm_source=reddit",
-      "postedAt": "2026-11-20T17:10:55.710Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
