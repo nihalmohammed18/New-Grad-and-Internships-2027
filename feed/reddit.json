@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:44:53.091Z",
+  "generatedAt": "2026-11-22T09:48:46.917Z",
   "jobs": [
     {
       "id": "5774f9b9-51c0-43b7-8dff-61ce3d2c426a",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/penumbrainc/supplier-quality-engineer-i-penumbrainc-2119e4?utm_source=reddit",
       "postedAt": "2026-11-22T09:26:31.765Z",
       "notable": 5
+    },
+    {
+      "id": "c58291ea-1a1b-4941-9298-a650252a9be3",
+      "title": "Sales Executive",
+      "company": "Delivery Hero",
+      "place": "Riyadh, Saudi Arabia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163090249-sales-executive",
+      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-delivery-hero-845a6f?utm_source=reddit",
+      "postedAt": "2026-11-22T07:38:07.306Z",
+      "notable": 3
     },
     {
       "id": "17bd5170-b574-4c41-ba88-b34480b45849",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cesiumastro/quality-engineer-ii-cesiumastro-d866cf?utm_source=reddit",
       "postedAt": "2026-11-20T17:05:16.065Z",
       "notable": 5
-    },
-    {
-      "id": "14df4899-34c0-4ec1-8b0e-8edf8e5769d0",
-      "title": "Mid-Level Product Engineer",
-      "company": "Clera",
-      "place": "San Francisco, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$150.0K-$300.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/b0732312-def9-4db7-8d79-d9d8aba37385",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-c481da?utm_source=reddit",
-      "postedAt": "2026-11-20T17:04:49.738Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
