@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:15:28.334Z",
+  "generatedAt": "2026-11-22T14:22:53.114Z",
   "jobs": [
     {
       "id": "9be22c23-31c3-4cdc-b782-ba311599572e",
@@ -306,6 +306,25 @@
       "notable": 6
     },
     {
+      "id": "f675a3e3-f715-4cf1-965c-459a68f422f2",
+      "title": "Customer Service Associate (Marken)",
+      "company": "UPS",
+      "place": "Singapore",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/SG---SINGAPOREUNITS-07-01-TO-07-06MARKEN-SGKKI/Customer-Service-Associate--Marken-_R26044001",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hcmportalorwd5orsearch/customer-service-associate-marken-ups-1c88b2?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "e898384e-4800-4f29-a611-930e189565ae",
       "title": "IT Technical Support Tech",
       "company": "Expedia",
@@ -357,7 +376,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218689-1",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218689-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orwfmathpe/cloud-developer-hpe-bd869e?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
@@ -452,7 +471,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218688-1",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218688-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orwfmathpe/cloud-developer-hpe-0bed20?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
@@ -547,7 +566,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218649-1",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Bengaluru-Karntaka-India/Cloud-Developer_1218649-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orwfmathpe/cloud-developer-hpe-9ee2c6?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/renesaselectronics/firmware-engineering-intern-renesas-electronics-7989ee?utm_source=reddit",
       "postedAt": "2026-11-20T17:23:45.120Z",
       "notable": 2
-    },
-    {
-      "id": "a8895b57-89c2-4757-b0d4-ac9098009650",
-      "title": "National Account Manager, QSR",
-      "company": "Deliveroo ",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8403460",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveroo/national-account-manager-qsr-deliveroo-920908?utm_source=reddit",
-      "postedAt": "2026-11-20T17:23:35.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
