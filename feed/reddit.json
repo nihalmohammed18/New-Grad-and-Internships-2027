@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:59:03.476Z",
+  "generatedAt": "2026-11-22T07:11:40.060Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -2983,6 +2983,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-1cf163?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "95f1586e-464b-450b-b112-1157a4c3c59b",
+      "title": "R&D Associate Researcher Intern (Diploma - Chemistry, Life Sciences or Engineering)",
+      "company": "P&G",
+      "place": "Singapore",
+      "category": "Research",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/Singapore/R-D-Associate-Researcher-Intern--Diploma---Chemistry--Life-Sciences-or-Engineering-_R000163403",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pgorwd5or1000/randd-associate-researcher-intern-diploma-chemistry-life-sciences-or-engineering-ff81cc?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "946082f1-631e-427d-aee4-afe125a3bb99",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/horizon3ai/deal-desk-coordinator-horizon3ai-536600?utm_source=reddit",
       "postedAt": "2026-11-20T16:42:12.355Z",
       "notable": 5
-    },
-    {
-      "id": "3a52f234-6dcd-4e03-85b5-0dfe2a639be5",
-      "title": "Robotics Systems Engineer",
-      "company": "Clera",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/b8448dfd-331b-48b0-a5c6-7c7e04044b1f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/robotics-systems-engineer-clera-171ddb?utm_source=reddit",
-      "postedAt": "2026-11-20T16:42:08.204Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
