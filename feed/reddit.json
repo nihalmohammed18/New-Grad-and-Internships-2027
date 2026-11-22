@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:42:13.672Z",
+  "generatedAt": "2026-11-22T08:58:57.950Z",
   "jobs": [
     {
       "id": "17bd5170-b574-4c41-ba88-b34480b45849",
@@ -209,6 +209,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-recommendation-systems-clera-778f19?utm_source=reddit",
       "postedAt": "2026-11-22T00:14:30.552Z",
       "notable": 6
+    },
+    {
+      "id": "e898384e-4800-4f29-a611-930e189565ae",
+      "title": "IT Technical Support Tech",
+      "company": "Expedia",
+      "place": "Montreal, Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$50.0K-$70.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/IT-Technical-Support-Tech_R-111217-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/expediaorwd108orsearch/it-technical-support-tech-expedia-bfa29e?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "d7fa49ef-4849-4191-85a3-63a9e01942ec",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/justplay-gmbh/backend-engineer-all-genders-justplay-gmbh-c8acde?utm_source=reddit",
       "postedAt": "2026-11-20T17:01:39.025Z",
       "notable": 2
-    },
-    {
-      "id": "1c491fab-5000-4cb1-a3c8-82fb5c5e8f3e",
-      "title": "IT Governance, Risk, and Compliance (GRC) Analyst",
-      "company": "Tenstorrent",
-      "place": "Remote from United States, Canada",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$100.0K-$500.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/tenstorrent/jobs/5301364007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/tenstorrent/it-governance-risk-and-compliance-grc-analyst-tenstorrent-74bdb8?utm_source=reddit",
-      "postedAt": "2026-11-20T17:00:01.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
