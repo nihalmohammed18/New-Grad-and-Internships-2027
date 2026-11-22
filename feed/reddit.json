@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:22:53.114Z",
+  "generatedAt": "2026-11-22T14:31:33.201Z",
   "jobs": [
     {
       "id": "9be22c23-31c3-4cdc-b782-ba311599572e",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cannondesign/design-student-intern-cannondesign-c42527?utm_source=reddit",
       "postedAt": "2026-11-22T11:32:47.000Z",
       "notable": 5
+    },
+    {
+      "id": "953fbeda-8bef-44b1-bf20-2a8bc6b30e1c",
+      "title": "Travel Coordinator (Student)",
+      "company": "Wix",
+      "place": "Tel Aviv, Israel",
+      "category": "Operations",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Wix2/744000163091929-travel-coordinator-student-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wix2/travel-coordinator-student-wix-f7678b?utm_source=reddit",
+      "postedAt": "2026-11-22T10:12:13.481Z",
+      "notable": 2
     },
     {
       "id": "5774f9b9-51c0-43b7-8dff-61ce3d2c426a",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/tekmetric/community-manager-tekmetric-c6cacb?utm_source=reddit",
       "postedAt": "2026-11-20T17:24:05.000Z",
       "notable": 1
-    },
-    {
-      "id": "5386b90b-7363-4abd-8ede-41282403f5f5",
-      "title": "Firmware Engineering Intern",
-      "company": "Renesas Electronics",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/renesaselectronics/744000162784555",
-      "firstJobbyUrl": "https://firstjobby.com/companies/renesaselectronics/firmware-engineering-intern-renesas-electronics-7989ee?utm_source=reddit",
-      "postedAt": "2026-11-20T17:23:45.120Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
