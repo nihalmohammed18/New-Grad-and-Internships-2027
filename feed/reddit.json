@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-22T13:36:35.195Z",
+  "generatedAt": "2026-11-22T13:51:37.751Z",
   "jobs": [
+    {
+      "id": "9be22c23-31c3-4cdc-b782-ba311599572e",
+      "title": "Integration & Validation Engineer",
+      "company": "Parallel Wireless",
+      "place": "Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/parallelwireless/73443969-f834-4d5f-bc2f-f85ac6af4dbe",
+      "firstJobbyUrl": "https://firstjobby.com/companies/parallelwireless/integration-and-validation-engineer-parallel-wireless-64680d?utm_source=reddit",
+      "postedAt": "2026-11-22T12:32:10.586Z",
+      "notable": 1
+    },
     {
       "id": "e3c4a8a0-6980-43a4-ae3b-812c4d4262ab",
       "title": "Design Student Intern",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/growth-and-marketing-intern-new-grad-clera-fc9400?utm_source=reddit",
       "postedAt": "2026-11-20T17:14:55.242Z",
       "notable": 4
-    },
-    {
-      "id": "a2d38b3d-1cd7-47f7-9ea6-3b497cb8e9d5",
-      "title": "Fulfillment Operations Specialist",
-      "company": "Crunchtime",
-      "place": "Nashua, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$43.5K-$45.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.crunchtime.com/open-positions?gh_jid=6251685004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/zenput/fulfillment-operations-specialist-crunchtime-b8862f?utm_source=reddit",
-      "postedAt": "2026-11-20T17:11:58.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
