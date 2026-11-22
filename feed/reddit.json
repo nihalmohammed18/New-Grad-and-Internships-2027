@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:07:34.577Z",
+  "generatedAt": "2026-11-22T01:13:31.996Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-recommendation-systems-clera-778f19?utm_source=reddit",
       "postedAt": "2026-11-22T00:14:30.552Z",
       "notable": 6
+    },
+    {
+      "id": "cd9104ba-b80f-441d-b210-3300730a9ad4",
+      "title": "Specialist, QMS Operations",
+      "company": "Modernatx",
+      "place": "Warsaw, Poland",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Specialist--QMS-Operations_R20233",
+      "firstJobbyUrl": "https://firstjobby.com/companies/modernatxorwd1ormtx/specialist-qms-operations-modernatx-090e45?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/coram-ai/gtm-engineer-coram-ai-dee407?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:47.027Z",
       "notable": 3
-    },
-    {
-      "id": "6f680777-184a-47ba-a100-6a46a1d2b554",
-      "title": "Channel Account Manager I, Service Providers",
-      "company": "Huntress Labs",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$66.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/huntress/jobs/8210679003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/huntress/channel-account-manager-i-service-providers-huntress-labs-e3e551?utm_source=reddit",
-      "postedAt": "2026-11-20T16:29:13.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
