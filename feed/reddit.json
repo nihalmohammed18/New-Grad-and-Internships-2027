@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:29:15.972Z",
+  "generatedAt": "2026-11-22T02:39:55.039Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -2052,6 +2052,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-632c48?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "ea9ae510-38b0-4954-82cc-caa4c5d3dacc",
+      "title": "Operations Admin",
+      "company": "Allianceground",
+      "place": "Santa Ana, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://allianceground.wd1.myworkdayjobs.com/AGI_Careers/job/Santa-Ana-CA/Operations-Admin_R-112639",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alliancegroundorwd1oragicareers/operations-admin-allianceground-5bfcbb?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "e892cdd8-0cc4-4477-afcf-2938dea563fb",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/salonkee/2b93be48-097e-441d-8295-9d21dd41278c",
       "firstJobbyUrl": "https://firstjobby.com/companies/salonkee/sales-representative-mwd-quereinstieg-thurgau-salonkee-d5315a?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:47.470Z",
-      "notable": 3
-    },
-    {
-      "id": "93baee0a-0a8f-4bb5-82bf-56876a885bab",
-      "title": "GTM Engineer",
-      "company": "Coram AI",
-      "place": "Sunnyvale, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/coram-ai/1f10faa4-cae1-4953-b7e0-531a6acb0ec1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coram-ai/gtm-engineer-coram-ai-dee407?utm_source=reddit",
-      "postedAt": "2026-11-20T16:29:47.027Z",
       "notable": 3
     }
   ],
