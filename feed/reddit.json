@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:43:55.582Z",
+  "generatedAt": "2026-11-22T06:49:02.482Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -95,6 +95,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/miramace/ops-engineer-mira-mace-46b863?utm_source=reddit",
       "postedAt": "2026-11-22T03:18:36.695Z",
       "notable": 1
+    },
+    {
+      "id": "80e88d34-ae2f-4502-82fa-f7ecd9051eb1",
+      "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+      "company": "Neros Technologies",
+      "place": "Torrance, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$55/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nerostechnologies/firmwareembedded-software-engineer-intern-summer-2027-neros-technologies-3679ea?utm_source=reddit",
+      "postedAt": "2026-11-22T01:46:05.000Z",
+      "notable": 5
+    },
+    {
+      "id": "078ec906-cdd5-4418-8f45-0d4e3b1968b0",
+      "title": "Account Coordinator, Paid Search",
+      "company": "DEPT®",
+      "place": "Remote from United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$47.9K-$60.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8408785",
+      "firstJobbyUrl": "https://firstjobby.com/companies/dept/account-coordinator-paid-search-deptr-8750cc?utm_source=reddit",
+      "postedAt": "2026-11-22T01:01:06.000Z",
+      "notable": 5
     },
     {
       "id": "d94ce77b-2a9c-4af0-9fbc-381ce388e0d4",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/horizon3ai/deal-desk-coordinator-horizon3ai-536600?utm_source=reddit",
       "postedAt": "2026-11-20T16:42:12.355Z",
       "notable": 5
-    },
-    {
-      "id": "3a52f234-6dcd-4e03-85b5-0dfe2a639be5",
-      "title": "Robotics Systems Engineer",
-      "company": "Clera",
-      "place": "Munich, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/b8448dfd-331b-48b0-a5c6-7c7e04044b1f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/robotics-systems-engineer-clera-171ddb?utm_source=reddit",
-      "postedAt": "2026-11-20T16:42:08.204Z",
-      "notable": 4
-    },
-    {
-      "id": "d16af980-63c4-4481-88b8-eb543ee545a9",
-      "title": "Specialty Sales Representative (Trenton, NJ)",
-      "company": "Paratek Pharmaceuticals",
-      "place": "Trenton, United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/paratekpharmaceuticals/jobs/8956690002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/paratekpharmaceuticals/specialty-sales-representative-trenton-nj-paratek-pharmaceuticals-8e4693?utm_source=reddit",
-      "postedAt": "2026-11-20T16:41:49.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
