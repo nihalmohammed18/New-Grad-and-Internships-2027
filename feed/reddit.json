@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T03:45:53.040Z",
+  "generatedAt": "2026-11-22T05:25:11.393Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -116,6 +116,25 @@
       "notable": 2
     },
     {
+      "id": "bf33e37e-4834-4cd6-a0d9-0a4fde611c77",
+      "title": "Claims Coordinator",
+      "company": "Toll Group",
+      "place": "Malaysia",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tollgroup.wd5.myworkdayjobs.com/TollGroup/job/Bayan-Lepas/Claims-Coordinator_R000077471",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tollgrouporwd5ortollgroup/claims-coordinator-toll-group-982eb6?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
       "title": "[MedTech] [Heart Recovery] APAC Technical Service Operations Specialist",
       "company": "Johnson & Johnson",
@@ -148,7 +167,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Operations-Associate_332751-1",
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/Bengaluru-Karnataka/Operations-Associate_332751-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/operations-associate-kensho-0319ba?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/mission-systems-engineer-early-career-anduril-industries-2858aa?utm_source=reddit",
       "postedAt": "2026-11-20T16:40:06.000Z",
       "notable": 5
-    },
-    {
-      "id": "5b81af35-3881-4343-81ac-23d1920c320e",
-      "title": "Tokenization Analyst",
-      "company": "Alpaca ",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/alpaca/jobs/6264807004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/alpaca/tokenization-analyst-alpaca-b8a3de?utm_source=reddit",
-      "postedAt": "2026-11-20T16:40:05.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
