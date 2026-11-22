@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:49:02.482Z",
+  "generatedAt": "2026-11-22T06:59:03.476Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -8989,25 +8989,6 @@
       "notable": 4
     },
     {
-      "id": "61ac3524-5545-4840-b485-ae58cf89715c",
-      "title": "Guest Operations Associate",
-      "company": "Clera",
-      "place": "Berlin, Germany",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "€40.0K-€45.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/cd551448-534a-43f0-b388-20d7990a9b90",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/guest-operations-associate-clera-ff76f3?utm_source=reddit",
-      "postedAt": "2026-11-20T17:14:11.599Z",
-      "notable": 6
-    },
-    {
       "id": "a2d38b3d-1cd7-47f7-9ea6-3b497cb8e9d5",
       "title": "Fulfillment Operations Specialist",
       "company": "Crunchtime",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/horizon3ai/deal-desk-coordinator-horizon3ai-536600?utm_source=reddit",
       "postedAt": "2026-11-20T16:42:12.355Z",
       "notable": 5
+    },
+    {
+      "id": "3a52f234-6dcd-4e03-85b5-0dfe2a639be5",
+      "title": "Robotics Systems Engineer",
+      "company": "Clera",
+      "place": "Munich, Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/Clera/b8448dfd-331b-48b0-a5c6-7c7e04044b1f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clera/robotics-systems-engineer-clera-171ddb?utm_source=reddit",
+      "postedAt": "2026-11-20T16:42:08.204Z",
+      "notable": 4
     }
   ],
   "fakeEntryLevel": {
