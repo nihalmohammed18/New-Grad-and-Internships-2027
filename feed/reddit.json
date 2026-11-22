@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:02:51.741Z",
+  "generatedAt": "2026-11-22T14:07:39.216Z",
   "jobs": [
     {
       "id": "9be22c23-31c3-4cdc-b782-ba311599572e",
@@ -644,6 +644,25 @@
       "season": null,
       "applyUrl": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26521-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/sierraspaceorwd1orsierraspaceexternalcareersite/mechanical-engineer-i-sierra-space-eed371?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 4
+    },
+    {
+      "id": "5f0474b9-a7b9-41c1-ac71-f632ae056cff",
+      "title": "AI/ML Computational Science Consultant",
+      "company": "Accenture",
+      "place": "Prague, Czech Republic",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CZK 990.0K-CZK 1.5M/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/AI-ML-Computational-Science-Consultant_R00373400",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/aiml-computational-science-consultant-accenture-4544fe?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 4
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/inshur/licensing-coordinator-inshur-3aa33a?utm_source=reddit",
       "postedAt": "2026-11-20T17:23:12.310Z",
       "notable": 3
-    },
-    {
-      "id": "a14681a5-c619-4107-b2b7-6ea985c07d89",
-      "title": "Presentation Design Associate",
-      "company": "RR Donnelley",
-      "place": "Wheeling, United States",
-      "category": "Design",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$21-$30/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000162785405",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rrdonnelley/presentation-design-associate-rr-donnelley-48584d?utm_source=reddit",
-      "postedAt": "2026-11-20T17:23:06.623Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
