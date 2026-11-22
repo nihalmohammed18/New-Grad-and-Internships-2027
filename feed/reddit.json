@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-22T09:31:36.874Z",
+  "generatedAt": "2026-11-22T09:44:53.091Z",
   "jobs": [
+    {
+      "id": "5774f9b9-51c0-43b7-8dff-61ce3d2c426a",
+      "title": "Supplier Quality Engineer I",
+      "company": "Penumbrainc",
+      "place": "Alameda, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$76.0K-$100.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/penumbrainc/7560d0e1-166e-4bdd-ad8e-f0b871b3f83d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/penumbrainc/supplier-quality-engineer-i-penumbrainc-2119e4?utm_source=reddit",
+      "postedAt": "2026-11-22T09:26:31.765Z",
+      "notable": 5
+    },
     {
       "id": "17bd5170-b574-4c41-ba88-b34480b45849",
       "title": "Information & Technology (IT) Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/mid-level-product-engineer-clera-c481da?utm_source=reddit",
       "postedAt": "2026-11-20T17:04:49.738Z",
       "notable": 6
-    },
-    {
-      "id": "426c3f34-a800-4f8d-85ed-0d249c4cd54d",
-      "title": "Associate Investment Strategy - 12 Month FTC",
-      "company": "Evelyn Partners",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EvelynPartners/744000162783362",
-      "firstJobbyUrl": "https://firstjobby.com/companies/evelynpartners/associate-investment-strategy-12-month-ftc-evelyn-partners-ea20d0?utm_source=reddit",
-      "postedAt": "2026-11-20T17:04:38.774Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
