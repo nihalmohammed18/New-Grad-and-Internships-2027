@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:25:11.393Z",
+  "generatedAt": "2026-11-22T05:49:43.065Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/usasurveyjob/client-support-representative-remote-data-entry-clerk-usasurveyjob-968ee0?utm_source=reddit",
       "postedAt": "2026-11-22T03:21:41.617Z",
       "notable": 3
+    },
+    {
+      "id": "48831e84-5aa7-4735-9159-87f5333c064c",
+      "title": "Ops Engineer",
+      "company": "Mira Mace",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/miramace/15a7b34e-3d3c-4f27-a84b-3bf67e12f37b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/miramace/ops-engineer-mira-mace-46b863?utm_source=reddit",
+      "postedAt": "2026-11-22T03:18:36.695Z",
+      "notable": 1
     },
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/philliesbaseballoperations/data-operator-philadelphia-phillies-baseball-operations-7caec7?utm_source=reddit",
       "postedAt": "2026-11-20T16:40:18.000Z",
       "notable": 0
-    },
-    {
-      "id": "777c415a-66e0-4890-a340-7c912013e7ec",
-      "title": "Mission Systems Engineer, Early Career",
-      "company": "Anduril Industries",
-      "place": "Costa Mesa, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$117.0K-$150.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/mission-systems-engineer-early-career-anduril-industries-2858aa?utm_source=reddit",
-      "postedAt": "2026-11-20T16:40:06.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
