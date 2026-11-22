@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:39:55.039Z",
+  "generatedAt": "2026-11-22T02:57:46.453Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -1978,6 +1978,25 @@
       "notable": 5
     },
     {
+      "id": "fd50de6f-c7a0-4bae-95b8-b400ba91097b",
+      "title": "Full Time - Sales Associate - Building Materials - Day",
+      "company": "Lowe's",
+      "place": "Albuquerque, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Albuquerque-NM-Central-Albuquerque-2539/Full-Time---Sales-Associate---Building-Materials---Day_JR-02710336",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-building-materials-day-lowes-e00c0a?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f843aec5-9541-43f5-b34d-204921ee99bd",
       "title": "Global Key Account Manager",
       "company": "Kensho",
@@ -2280,6 +2299,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-43c7ee?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "c43df917-c090-48d0-aa60-f91dc1b42229",
+      "title": "Full Time - Sales Associate - Outside Lawn & Garden - Opening",
+      "company": "Lowe's",
+      "place": "Wadsworth, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Wadsworth-OH-2213/Full-Time---Sales-Associate---Outside-Lawn---Garden---Opening_JR-02710337",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lowesorwd5orlwsexternalcs/full-time-sales-associate-outside-lawn-and-garden-opening-lowes-95f12f?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "c14e6d93-a094-46f1-b507-ef2f1d4b14d8",
@@ -3264,7 +3302,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Boulder-Colorado-USA/Inventory-Coordinator_R-01375959",
+      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Boulder-Colorado-USA/Inventory-Coordinator_R-01375959",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/inventory-coordinator-thermo-fisher-scientific-43eee2?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 2
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/flexport/jobs/8406328",
       "firstJobbyUrl": "https://firstjobby.com/companies/flexport/account-executive-smb-flexport-a08544?utm_source=reddit",
       "postedAt": "2026-11-20T16:36:15.000Z",
-      "notable": 3
-    },
-    {
-      "id": "a0681a4d-2861-4677-ab7f-c6706cb23428",
-      "title": "Project Analyst",
-      "company": "SMX",
-      "place": "Hollywood, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "us_citizen",
-      "pay": "$68.0K-$85.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://www.smxtech.com/careers/?gh_jid=8210522003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/smxtech/project-analyst-smx-e2e394?utm_source=reddit",
-      "postedAt": "2026-11-20T16:34:13.000Z",
-      "notable": 6
-    },
-    {
-      "id": "2b0574b2-e0dd-4832-9220-4974cb1195f7",
-      "title": "Sales Representative (m/w/d) Quereinstieg - Thurgau",
-      "company": "Salonkee",
-      "place": "Switzerland",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/salonkee/2b93be48-097e-441d-8295-9d21dd41278c",
-      "firstJobbyUrl": "https://firstjobby.com/companies/salonkee/sales-representative-mwd-quereinstieg-thurgau-salonkee-d5315a?utm_source=reddit",
-      "postedAt": "2026-11-20T16:29:47.470Z",
       "notable": 3
     }
   ],
