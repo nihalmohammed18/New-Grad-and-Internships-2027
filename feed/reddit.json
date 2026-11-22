@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:57:46.453Z",
+  "generatedAt": "2026-11-22T03:20:24.883Z",
   "jobs": [
     {
       "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
@@ -2945,6 +2945,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/earn-dollar70-recording-videos-at-home-for-ai-mindrift-5db753?utm_source=reddit",
       "postedAt": "2026-11-21T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "7be56d73-90aa-4f7c-82b2-215a2c241198",
+      "title": "2027 Engineering Technician I - Associate's Degree (Gloucester, MA)",
+      "company": "Applied Materials",
+      "place": "Gloucester, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Engineering-Technician-I---Associate-s-Degree--Gloucester--MA-_R2634171",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/2027-engineering-technician-i-associates-degree-gloucester-ma-applied-materials-c9dbe1?utm_source=reddit",
+      "postedAt": "2026-11-21T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "7acfac26-7477-4b2f-807c-4b9465bca44c",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/protege/business-development-representative-protege-b027f2?utm_source=reddit",
       "postedAt": "2026-11-20T16:36:28.569Z",
       "notable": 1
-    },
-    {
-      "id": "327a26cf-7c9b-4d5e-a91e-5b7f6ca65a45",
-      "title": "Account Executive, SMB",
-      "company": "Flexport",
-      "place": "Amsterdam, Netherlands",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/flexport/jobs/8406328",
-      "firstJobbyUrl": "https://firstjobby.com/companies/flexport/account-executive-smb-flexport-a08544?utm_source=reddit",
-      "postedAt": "2026-11-20T16:36:15.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
