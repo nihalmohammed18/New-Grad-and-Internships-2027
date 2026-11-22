@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:17:13.718Z",
+  "generatedAt": "2026-11-22T08:07:41.151Z",
   "jobs": [
     {
       "id": "a460f225-c59d-4506-a7fd-22549bc49e12",
@@ -245,6 +245,25 @@
       "season": null,
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/jj/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech---Heart-Recovery--APAC-Technical-Service-Operations-Specialist_R-112240",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/medtech-heart-recovery-apac-technical-service-operations-specialist-johnson-and--b7e510?utm_source=reddit",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "9b1e6fc3-0b1d-43c1-95b8-4f10462d7bcc",
+      "title": "Plant Cost Analyst",
+      "company": "IFF",
+      "place": "Kunshan, China",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Kunshan-China/Plant-Cost-Analyst_R23557",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ifforwd5oriffcareers/plant-cost-analyst-iff-577964?utm_source=reddit",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/rf-integration-systems-engineer-early-career-anduril-industries-49da80?utm_source=reddit",
       "postedAt": "2026-11-20T16:42:31.000Z",
-      "notable": 5
-    },
-    {
-      "id": "1d0d845b-71b3-47a9-b6be-23dad055cb51",
-      "title": "Deal Desk Coordinator",
-      "company": "Horizon3ai",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85.0K-$100.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/horizon3ai/3656e7e2-0a99-4242-be0e-7d0b4588727d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/horizon3ai/deal-desk-coordinator-horizon3ai-536600?utm_source=reddit",
-      "postedAt": "2026-11-20T16:42:12.355Z",
       "notable": 5
     }
   ],
