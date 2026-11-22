@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-22T00:44:17.540Z",
+  "generatedAt": "2026-11-22T00:54:46.149Z",
   "jobs": [
+    {
+      "id": "120af9fe-fd24-426e-b227-7c52442b3d7a",
+      "title": "Founding Engineer, Recommendation Systems",
+      "company": "Clera",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": "$130.0K-$170.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/Clera/38d5482b-c420-4804-b98a-6b28e2f76526",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-recommendation-systems-clera-778f19?utm_source=reddit",
+      "postedAt": "2026-11-22T00:14:30.552Z",
+      "notable": 6
+    },
     {
       "id": "a4699bc4-7878-4a8e-b311-af7495a7ab68",
       "title": "[MedTech] [Heart Recovery] APAC Technical Service Operations Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accorhotel/engineering-pool-maintenance-technician-accorhotel-f3adb8?utm_source=reddit",
       "postedAt": "2026-11-20T16:29:12.142Z",
       "notable": 3
-    },
-    {
-      "id": "299aa146-8386-4516-a106-7bd4d59ac3bb",
-      "title": "QA/QC",
-      "company": "Peterson",
-      "place": "Morecambe, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://peterson.recruitee.com/o/wnof3v5h8t",
-      "firstJobbyUrl": "https://firstjobby.com/companies/peterson-recruitee/qaqc-peterson-a30862?utm_source=reddit",
-      "postedAt": "2026-11-20T16:28:08.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
