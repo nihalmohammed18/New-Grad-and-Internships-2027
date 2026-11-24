@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:26:04.871Z",
+  "generatedAt": "2026-11-24T03:40:03.939Z",
   "jobs": [
     {
       "id": "d40c499c-8a8c-45f8-acb8-da43982872fb",
@@ -568,6 +568,25 @@
       "season": null,
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Notting-Hill-Victoria-Australia/Sales-and-Marketing-Coordinator_R-112329-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/sales-and-marketing-coordinator-johnson-and-johnson-a252d9?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0cfe2f1e-9175-44da-8c9b-6faff4c693c1",
+      "title": "Inbound Sales Consultant",
+      "company": "Bluehost",
+      "place": "Cebu, Philippines",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://web.wd1.myworkdayjobs.com/ExternalCareerSite/job/Cebu-Philippines/Inbound-Sales-Consultant_R15516",
+      "firstJobbyUrl": "https://firstjobby.com/companies/weborwd1orexternalcareersite/inbound-sales-consultant-bluehost-9bd693?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/alimentiv-2/regulatory-coordinator-alimentiv-2-08c06c?utm_source=reddit",
       "postedAt": "2026-11-23T14:12:12.338Z",
       "notable": 5
-    },
-    {
-      "id": "7cbedb99-4131-46ad-9ef5-884601550954",
-      "title": "Hardware Engineer",
-      "company": "General Dynamics Missions System International",
-      "place": "Hastings, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "clearance",
-      "pay": "£36.0K-£45.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000163233989",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gdmsi/hardware-engineer-general-dynamics-missions-system-international-507277?utm_source=reddit",
-      "postedAt": "2026-11-23T14:11:04.992Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
