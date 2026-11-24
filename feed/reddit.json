@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:25:46.793Z",
+  "generatedAt": "2026-11-24T07:31:39.323Z",
   "jobs": [
     {
       "id": "5bb29252-d00c-497b-8ae2-68b7d53276d9",
@@ -2525,6 +2525,25 @@
       "season": null,
       "applyUrl": "https://jj.wd5.myworkdayjobs.com/jj/job/Notting-Hill-Victoria-Australia/Sales-and-Marketing-Coordinator_R-112329-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/sales-and-marketing-coordinator-johnson-and-johnson-a252d9?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "12719543-2d8a-4f6b-acd2-286c113c6cfd",
+      "title": "Ops Processing Specialist",
+      "company": "Corebridgefinancial",
+      "place": "Wilmington, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/DE-Wilmington/Ops-Processing-Specialist_JR2601067",
+      "firstJobbyUrl": "https://firstjobby.com/companies/corebridgefinancialorwd1orcorebridgefinancial/ops-processing-specialist-corebridgefinancial-8b1579?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/checkoutcom/engineer-i-it-operations-checkoutcom-268aaa?utm_source=reddit",
       "postedAt": "2026-11-23T16:19:57.502Z",
       "notable": 3
-    },
-    {
-      "id": "75adc0fd-3366-46c2-8d6a-61c9b7fdd090",
-      "title": "Front Desk Coordinator",
-      "company": "Peachy",
-      "place": "Austin, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$18/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/peachy/jobs/4731636006?gh_jid=4731636006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/peachy/front-desk-coordinator-peachy-dce7eb?utm_source=reddit",
-      "postedAt": "2026-11-23T16:18:30.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
