@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:45:36.532Z",
+  "generatedAt": "2026-11-24T08:48:57.609Z",
   "jobs": [
     {
       "id": "dd92c78c-ba11-4e46-829c-ba92e91f99c7",
@@ -114,6 +114,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/data-validator-with-experience-in-hplcgcgc-ms-sgs-d6d842?utm_source=reddit",
       "postedAt": "2026-11-24T05:22:24.358Z",
       "notable": 3
+    },
+    {
+      "id": "59867a1f-7ae3-45fb-91a5-5a3cecd71dcc",
+      "title": "Hardware/Production Test Software Engineer",
+      "company": "Astranis",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$105.0K-$160.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/astranis/jobs/4731856006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/astranis/hardwareproduction-test-software-engineer-astranis-60995c?utm_source=reddit",
+      "postedAt": "2026-11-24T05:07:50.000Z",
+      "notable": 5
     },
     {
       "id": "b55ab491-ee44-4018-9e47-2422e3e9bd91",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/theeconomistgroup/revenue-and-systems-analyst-12-month-contract-the-economist-group-378549?utm_source=reddit",
       "postedAt": "2026-11-23T16:44:42.000Z",
       "notable": 3
-    },
-    {
-      "id": "4fef05d4-fdf2-4897-97ca-c1c2d5bf00a5",
-      "title": "Civil Engineer in Training (EIT)",
-      "company": "MacKay",
-      "place": "Federal Way, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$35-$50/hr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/mackaysposito/jobs/4517945009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/mackaysposito/civil-engineer-in-training-eit-mackay-d566a2?utm_source=reddit",
-      "postedAt": "2026-11-23T16:41:43.000Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
