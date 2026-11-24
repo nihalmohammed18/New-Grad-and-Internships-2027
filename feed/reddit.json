@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:10:11.656Z",
+  "generatedAt": "2026-11-24T06:27:44.424Z",
   "jobs": [
     {
       "id": "273250fa-0bb5-4f59-b70d-0f7d81a1e47c",
@@ -1368,6 +1368,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/westpacnzorwd105orprivatewnzl29062023/analyst-operations-and-strategy-westpacnz-f25cc8?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 0
+    },
+    {
+      "id": "963caa13-c7bb-42da-ba4b-dcebba9e0f77",
+      "title": "Procurement Specialist",
+      "company": "Flowserve",
+      "place": "Chiba, Japan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Chiba-JP/Procurement-Specialist_R-22135-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flowserveorwd1orapplied/procurement-specialist-flowserve-717ddf?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "9030793b-57d6-46e6-8ff3-cd9ccaae49e3",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://stripe.com/jobs/search?gh_jid=8328106",
       "firstJobbyUrl": "https://firstjobby.com/companies/stripe/account-executive-new-business-smb-french-stripe-1bb41d?utm_source=reddit",
       "postedAt": "2026-11-23T15:42:34.000Z",
-      "notable": 3
-    },
-    {
-      "id": "bd65e19c-1da3-412a-a364-b47ba5a06e9d",
-      "title": "Compliance Operations Assistant",
-      "company": "Convera",
-      "place": "Santa Ana, Costa Rica",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/convera/jobs/5043756101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/convera/compliance-operations-assistant-convera-763ce3?utm_source=reddit",
-      "postedAt": "2026-11-23T15:42:01.000Z",
       "notable": 3
     }
   ],
