@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:11:13.867Z",
+  "generatedAt": "2026-11-24T09:13:16.284Z",
   "jobs": [
     {
       "id": "dd92c78c-ba11-4e46-829c-ba92e91f99c7",
@@ -3059,6 +3059,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/incident-resolution-analyst-theapexgroup-78ee4d?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "4077c31d-88b0-4093-9623-d48b25d0c056",
+      "title": "Sales Support Specialist",
+      "company": "Omya",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://omya.wd3.myworkdayjobs.com/Omya/job/Kuala-Lumpur/Sales-Support-Specialist_JR019137",
+      "firstJobbyUrl": "https://firstjobby.com/companies/omyaorwd3oromya/sales-support-specialist-omya-ec4f84?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 0
     },
     {
       "id": "3ed6663a-ce54-4dc9-8c40-974d6aeb6d19",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/five9/associate-customer-success-manager-five9-aa84cd?utm_source=reddit",
       "postedAt": "2026-11-23T17:05:30.000Z",
       "notable": 2
-    },
-    {
-      "id": "6b0e496f-a8fd-4f39-8689-33892cd0539a",
-      "title": "Account Executive",
-      "company": "Clera",
-      "place": "Remote from United States",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$65.0K-$75.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/1aefed7c-356d-49c1-b413-843a30aba7b6",
-      "firstJobbyUrl": "https://firstjobby.com/companies/clera/account-executive-clera-9b1609?utm_source=reddit",
-      "postedAt": "2026-11-23T17:03:22.162Z",
-      "notable": 6
     }
   ],
   "fakeEntryLevel": {
