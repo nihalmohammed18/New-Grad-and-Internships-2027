@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:57:18.212Z",
+  "generatedAt": "2026-11-24T10:01:55.444Z",
   "jobs": [
     {
       "id": "dea0b07a-782c-464a-bd45-f69241eeece7",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/allica-bank/operational-excellence-and-procedures-analyst-allica-bank-ae9596?utm_source=reddit",
       "postedAt": "2026-11-24T09:36:09.255Z",
       "notable": 1
+    },
+    {
+      "id": "4ebdefa2-d477-4325-a932-1b3edd45e74c",
+      "title": "研究コーディネータ (Research Coordinator)",
+      "company": "Flatiron Health",
+      "place": "Japan",
+      "category": "Operations",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://flatiron.com/careers/open-positions/job?gh_jid=8405775",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flatironhealth/research-coordinator-flatiron-health-5987eb?utm_source=reddit",
+      "postedAt": "2026-11-24T08:44:27.000Z",
+      "notable": 0
     },
     {
       "id": "dd92c78c-ba11-4e46-829c-ba92e91f99c7",
@@ -3553,6 +3572,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/pe-analytics-micron-technology-b19e03?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "52fa4783-6a3b-4d94-aa03-4ef4d97cbe1c",
+      "title": "Customer Experience and Growth Intern",
+      "company": "Stranger Soccer",
+      "place": "Singapore",
+      "category": "Customer Support",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$800/mo",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/88A23C8962",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stranger-soccer-1/customer-experience-and-growth-intern-stranger-soccer-1f2e73?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "52e380f4-a2e7-42a6-a227-219398aab728",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/laboratory-technician-i-organic-prep-multiple-shifts-eurofins-environment-testin-7bbd08?utm_source=reddit",
       "postedAt": "2026-11-23T17:58:16.722Z",
       "notable": 6
-    },
-    {
-      "id": "571c78d1-7382-4637-a556-1dd080ce4c50",
-      "title": "Manufacturing Engineer, Customer Success",
-      "company": "Hadrian Automation",
-      "place": "Los Angeles, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$85.0K-$127.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/ba101435-b691-48ff-8234-2049684aa414",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hadrian-automation/manufacturing-engineer-customer-success-hadrian-automation-b89619?utm_source=reddit",
-      "postedAt": "2026-11-23T17:57:26.874Z",
-      "notable": 4
-    },
-    {
-      "id": "456c97d5-34ec-4ede-9de6-71a96a9caebd",
-      "title": "Data Center Technician - Muskogee, OK (Mid-day shift)",
-      "company": "CoreWeave",
-      "place": "Muskogee, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://coreweave.com/careers/job?4731092006&board=coreweave&gh_jid=4731092006",
-      "firstJobbyUrl": "https://firstjobby.com/companies/coreweave/data-center-technician-muskogee-ok-mid-day-shift-coreweave-c0e639?utm_source=reddit",
-      "postedAt": "2026-11-23T17:57:16.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
