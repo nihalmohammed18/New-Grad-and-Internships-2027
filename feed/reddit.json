@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:12:58.993Z",
+  "generatedAt": "2026-11-24T10:17:00.885Z",
   "jobs": [
     {
       "id": "dea0b07a-782c-464a-bd45-f69241eeece7",
@@ -1655,6 +1655,25 @@
       "notable": 2
     },
     {
+      "id": "ec98cb86-55fd-4b04-93f6-66d84b225caf",
+      "title": "Supplier Quality Engineer",
+      "company": "Rehlko",
+      "place": "United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/Nottingham/Supplier-Quality-Engineer_R05173",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rehlkoorwd12orreh/supplier-quality-engineer-rehlko-1a8c93?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "eb84c4bb-3b69-4be0-acbe-050e92ceae15",
       "title": "Inside Sales Specialist",
       "company": "Danaher",
@@ -1708,6 +1727,25 @@
       "season": null,
       "applyUrl": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Bangalore-India/Associate-Analyst-Application-support-MDM_R0498717-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/tysonfoodsorwd5ortsn/associate-analyst-application-support-mdm-tyson-foods-3ebbd0?utm_source=reddit",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "e5f424e5-8d0a-463d-a0fd-48ae5e993332",
+      "title": "Digital Solution Analyst",
+      "company": "Cc",
+      "place": "Taipei City, Taiwan",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Taipei-City/Digital-Solution-Analyst_JOBREQ00119254",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ccorwd3orchanelcareers/digital-solution-analyst-cc-4db7e4?utm_source=reddit",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163289802",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/industry-insights-analyst-nielseniq-6eaf6c?utm_source=reddit",
       "postedAt": "2026-11-23T18:04:21.428Z",
-      "notable": 3
-    },
-    {
-      "id": "c871587d-fc1c-4b22-9043-24d151702e86",
-      "title": "Care Coordinator - Chicago - Lakeview/Float",
-      "company": "Bond Vet",
-      "place": "Chicago, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$15-$20/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/bondvet/jobs/6265728004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bondvet/care-coordinator-chicago-lakeviewfloat-bond-vet-54ff02?utm_source=reddit",
-      "postedAt": "2026-11-23T18:03:27.000Z",
-      "notable": 6
-    },
-    {
-      "id": "0ead6b19-6d6a-49c4-a313-913d68528526",
-      "title": "IN_RBIN_Sr Engineer_Front Line Manager_Manufacturing_NaP/MFN2",
-      "company": "Bosch Group",
-      "place": "Nashik, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163292039",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/inrbinsr-engineerfront-line-managermanufacturingnapmfn2-bosch-group-2205c0?utm_source=reddit",
-      "postedAt": "2026-11-23T18:01:32.253Z",
       "notable": 3
     }
   ],
