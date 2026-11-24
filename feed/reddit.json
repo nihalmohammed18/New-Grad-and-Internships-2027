@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:56:42.063Z",
+  "generatedAt": "2026-11-24T11:04:38.581Z",
   "jobs": [
     {
       "id": "d1e7b7a7-5e95-421d-af98-38275844b197",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/account-manager-smb-bulgaria-delivery-hero-c33efc?utm_source=reddit",
       "postedAt": "2026-11-24T10:12:32.350Z",
       "notable": 3
+    },
+    {
+      "id": "a8fa203f-e9e3-4a98-8d6f-c74f467b38be",
+      "title": "Client Services Specialist",
+      "company": "Medica Group",
+      "place": "Remote",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£35.0K-£40.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://medica.recruitee.com/o/client-services-specialist-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/medica/client-services-specialist-medica-group-de4e5b?utm_source=reddit",
+      "postedAt": "2026-11-24T10:11:21.000Z",
+      "notable": 2
     },
     {
       "id": "bf1cbaaf-8f3f-443a-868a-ddc813e37742",
@@ -477,6 +496,25 @@
       "notable": 3
     },
     {
+      "id": "b12ffb27-f831-433a-973a-84577a2c91e1",
+      "title": "Prüfmonteur - Staplermonteur m/w/d - Raum Unterfranken",
+      "company": "BayWa AG",
+      "place": "Giebelstadt, Germany",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/BayWaAG/744000163395128-prufmonteur-staplermonteur-m-w-d-raum-unterfranken",
+      "firstJobbyUrl": "https://firstjobby.com/companies/baywaag/prufmonteur-staplermonteur-mwd-raum-unterfranken-baywa-ag-178558?utm_source=reddit",
+      "postedAt": "2026-11-24T07:36:13.286Z",
+      "notable": 0
+    },
+    {
       "id": "bb4b2170-c740-43ec-a46b-99f1a4498ad7",
       "title": "Stage -  Développeur(se) Front-end React.js - Cybersécurité - Toulouse",
       "company": "Sopra Steria",
@@ -646,6 +684,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/coordinator-sales-local-shops-uae-national-delivery-hero-9dfbd9?utm_source=reddit",
       "postedAt": "2026-11-24T06:25:08.514Z",
       "notable": 3
+    },
+    {
+      "id": "99196d6c-82f5-4e01-ab9d-aa5ee443946a",
+      "title": "Werkstudent IT-Projekt- und Innovationsmanagement (m/w/d)",
+      "company": "Contilia",
+      "place": "Essen, Germany",
+      "category": "Engineering",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Contilia1/744000163386311-werkstudent-it-projekt-und-innovationsmanagement-m-w-d-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/contilia1/werkstudent-it-projekt-und-innovationsmanagement-mwd-contilia-278b74?utm_source=reddit",
+      "postedAt": "2026-11-24T06:20:32.181Z",
+      "notable": 1
     },
     {
       "id": "a2962f3d-4fbc-4392-8cf0-0de4780768b0",
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sailorhealth/patient-support-coordinator-remote-sailor-health-8d6091?utm_source=reddit",
       "postedAt": "2026-11-23T19:00:11.052Z",
       "notable": 5
-    },
-    {
-      "id": "2579adf4-adc8-491d-99fd-c3feaf07a897",
-      "title": "Field Engineer",
-      "company": "CaptiveAire",
-      "place": "Raleigh, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": "$70.0K-$100.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://www.captiveaire.com/Careers/Opening.asp?id=8958926002&gh_jid=8958926002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/captiveaire/field-engineer-captiveaire-87d5f6?utm_source=reddit",
-      "postedAt": "2026-11-23T18:58:33.000Z",
-      "notable": 6
-    },
-    {
-      "id": "dfc1a368-7144-4722-b47f-3c1f884f9b53",
-      "title": "Full Stack Developer",
-      "company": "Moment Energy",
-      "place": "Surrey, Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/momentenergy/jobs/4519192009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/momentenergy/full-stack-developer-moment-energy-9ef586?utm_source=reddit",
-      "postedAt": "2026-11-23T18:57:03.000Z",
-      "notable": 3
-    },
-    {
-      "id": "386919b3-53a3-4ba3-9b5f-a02bb7975d76",
-      "title": "Account Manager - Construction Staffing",
-      "company": "Fabertechnologies",
-      "place": "Toronto, Canada",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$70.0K-CA$150.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/fabertechnologies/71a9bdcf-c8fd-4daa-8710-eb803f3d3b9a",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fabertechnologies/account-manager-construction-staffing-fabertechnologies-cdd51b?utm_source=reddit",
-      "postedAt": "2026-11-23T18:56:09.581Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
