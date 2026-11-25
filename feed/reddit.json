@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T11:36:27.725Z",
+  "generatedAt": "2026-11-25T12:06:45.870Z",
   "jobs": [
     {
       "id": "40c437dc-c0c9-46da-af0f-3c748b71be86",
@@ -2928,6 +2928,25 @@
       "notable": 3
     },
     {
+      "id": "f9c8d6f3-fafc-4e0b-b5b9-32e4221ffdb9",
+      "title": "Storage Points Engineer",
+      "company": "Anglian Water",
+      "place": "United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£44.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://awg.wd3.myworkdayjobs.com/AW/job/Lincolnshire/Storage-Points-Engineer_R40830-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/awgorwd3oraw/storage-points-engineer-anglian-water-5d37e0?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "f9b12d40-01e5-49ca-82fa-f3882c3aa1f9",
       "title": "Inside Sales Executive",
       "company": "UPS",
@@ -4275,6 +4294,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jjorwd5orjj/associate-product-specialist-wound-closure-sydney-johnson-and-johnson-62efd0?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "bdbc06ad-2100-4c0b-b302-9e76e17ed7e4",
+      "title": "Junior Systems Engineer",
+      "company": "Applied Materials",
+      "place": "Rehovot, Israel",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Junior-Systems-Engineer_R2633147",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/junior-systems-engineer-applied-materials-378c90?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "bb0f97e0-abac-4f1a-89e2-c51e43fd0d3c",
@@ -6614,6 +6652,25 @@
       "notable": 2
     },
     {
+      "id": "30387ed1-6fd0-41cf-a111-87ada195c18b",
+      "title": "Intern (m/w/d) in AI & Digital Transformation",
+      "company": "Clarios",
+      "place": "Hannover, Germany",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Germany-Hannover/Intern--m-w-d--in-AI---Digital-Transformation_WD51132",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clariosorwd5orclarioscareers/intern-mwd-in-ai-and-digital-transformation-clarios-1a3fac?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "3006537d-d771-4fa3-a49b-c2e4700e1cff",
       "title": "Product Install Engineer",
       "company": "KLA",
@@ -6741,7 +6798,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Support-Technician_R2634609",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Customer-Support-Technician_R2634609",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/customer-support-technician-applied-materials-5b2ced?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 3
@@ -7406,7 +7463,7 @@
       "pay": "¥4.2M-¥10.5M/yr",
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://axcelis.wd1.myworkdayjobs.com/Axcelis/job/Tokyo-Japan/Applications-Engineer_12155",
+      "applyUrl": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Tokyo-Japan/Applications-Engineer_12155",
       "firstJobbyUrl": "https://firstjobby.com/companies/axcelisorwd1oraxcelis/applications-engineer-axcelis-456117?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 4
@@ -7463,7 +7520,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Supplier-Engineer_R2634257",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/SingaporeSGP/Supplier-Engineer_R2634257",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/supplier-engineer-applied-materials-283ffb?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 3
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hearst/customer-support-representative-hearst-3c54f3?utm_source=reddit",
       "postedAt": "2026-11-24T20:53:41.000Z",
       "notable": 4
-    },
-    {
-      "id": "5c824b59-a3a4-4f36-af28-1061da053332",
-      "title": "Environmental Scientist",
-      "company": "AECOM",
-      "place": "Chicago, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_citizen",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000163545790",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/environmental-scientist-aecom-92b1b5?utm_source=reddit",
-      "postedAt": "2026-11-24T20:52:18.293Z",
-      "notable": 3
-    },
-    {
-      "id": "f7fc252b-f282-47c6-b1ec-7fadf038de05",
-      "title": "AI Builder - Data Scientist",
-      "company": "Artefact",
-      "place": "Utrecht, Netherlands",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/artefact/jobs/8960898002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/artefact/ai-builder-data-scientist-artefact-bad0cd?utm_source=reddit",
-      "postedAt": "2026-11-24T20:52:18.000Z",
-      "notable": 2
-    },
-    {
-      "id": "ed772508-dce1-483d-8934-7297722e0cde",
-      "title": "Software Engineer, Test Automation Internship (Summer 2027)",
-      "company": "Apex Technology, Inc.",
-      "place": "Los Angeles, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$45/hr",
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/apex-technology-inc/software-engineer-test-automation-internship-summer-2027-apex-technology-inc-20696d?utm_source=reddit",
-      "postedAt": "2026-11-24T20:50:47.060Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
