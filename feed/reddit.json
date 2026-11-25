@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:22:16.137Z",
+  "generatedAt": "2026-11-25T12:28:49.773Z",
   "jobs": [
     {
       "id": "ae646d13-346c-475c-a03c-e41f5ca5caee",
@@ -401,6 +401,25 @@
       "notable": 4
     },
     {
+      "id": "958512ff-6f48-4fad-bb48-998a695a91f9",
+      "title": "Data Engineer Intern",
+      "company": "Gravis Robotics",
+      "place": "Zurich, Switzerland",
+      "category": "Data",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/gravisrobotics/8a4a157c-7569-43e6-82b1-56e84033641d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gravisrobotics/data-engineer-intern-gravis-robotics-21b084?utm_source=reddit",
+      "postedAt": "2026-11-25T08:47:29.461Z",
+      "notable": 1
+    },
+    {
       "id": "e3e47a9d-912c-4a56-998d-916cd2b3a8c1",
       "title": "Sales Development Representative",
       "company": "Workato",
@@ -626,6 +645,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/inizio/jobs/8392189",
       "firstJobbyUrl": "https://firstjobby.com/companies/inizio/people-services-global-mobility-coordinator-inizio-e3a5c4?utm_source=reddit",
       "postedAt": "2026-11-25T07:38:51.000Z",
+      "notable": 1
+    },
+    {
+      "id": "2b915745-c94e-4041-8778-99774e55c4fa",
+      "title": "Sales Development Representative - US (m/f/x)",
+      "company": "Makersite GmbH",
+      "place": "Chicago, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://makersite.io/o/sales-development-representative-us-mfx",
+      "firstJobbyUrl": "https://firstjobby.com/companies/makersitegmbh/sales-development-representative-us-mfx-makersite-gmbh-d31cb6?utm_source=reddit",
+      "postedAt": "2026-11-25T07:33:51.000Z",
       "notable": 1
     },
     {
@@ -2010,7 +2048,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080516-assistant-engineer-civil-5203-citywide-eligible-list-id-c00501-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080516",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-civil-5203-citywide-eligible-list-id-c00501-city-and-county-o-76fa16?utm_source=reddit",
       "postedAt": "2026-11-25T03:05:01.641Z",
       "notable": 3
@@ -2029,7 +2067,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080476-assistant-engineer-electrical-5203-citywide-eligible-list-id-c00502-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080476",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-electrical-5203-citywide-eligible-list-id-c00502-city-and-cou-bc9d99?utm_source=reddit",
       "postedAt": "2026-11-25T03:03:45.403Z",
       "notable": 3
@@ -2048,7 +2086,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080436-assistant-engineer-environmental-5203-citywide-eligible-list-id-c00503-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080436",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-environmental-5203-citywide-eligible-list-id-c00503-city-and--b0d5d3?utm_source=reddit",
       "postedAt": "2026-11-25T03:02:29.219Z",
       "notable": 3
@@ -2067,7 +2105,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080396-assistant-engineer-mechanical-5203-citywide-eligible-list-id-c00504-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080396",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-mechanical-5203-citywide-eligible-list-id-c00504-city-and-cou-7c3dbc?utm_source=reddit",
       "postedAt": "2026-11-25T03:01:29.690Z",
       "notable": 3
@@ -2086,7 +2124,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080356-assistant-engineer-transportation-5203-citywide-eligible-list-id-c00505-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080356",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-transportation-5203-citywide-eligible-list-id-c00505-city-and-2d8238?utm_source=reddit",
       "postedAt": "2026-11-25T03:00:42.089Z",
       "notable": 3
@@ -2162,7 +2200,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080086-junior-engineer-transportation-5201-citywide-eligible-list-id-c00500-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080086",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-transportation-5201-citywide-eligible-list-id-c00500-city-and-co-cabeef?utm_source=reddit",
       "postedAt": "2026-11-25T02:30:23.493Z",
       "notable": 3
@@ -2181,7 +2219,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080046-junior-engineer-mechanical-5201-citywide-eligible-list-id-c00499-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080046",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-mechanical-5201-citywide-eligible-list-id-c00499-city-and-county-cf79c8?utm_source=reddit",
       "postedAt": "2026-11-25T02:29:32.808Z",
       "notable": 3
@@ -2200,7 +2238,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080006-junior-engineer-environmental-5201-citywide-eligible-list-id-c00498-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080006",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-environmental-5201-citywide-eligible-list-id-c00498-city-and-cou-e1f2f0?utm_source=reddit",
       "postedAt": "2026-11-25T02:28:03.731Z",
       "notable": 3
@@ -2219,7 +2257,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079956-junior-engineer-electrical-5201-citywide-eligible-list-id-c00497-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079956",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-electrical-5201-citywide-eligible-list-id-c00497-city-and-county-3b79ad?utm_source=reddit",
       "postedAt": "2026-11-25T02:25:33.623Z",
       "notable": 3
@@ -2238,7 +2276,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079856-junior-engineer-civil-5201-citywide-eligible-list-id-c00496-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017079856",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-civil-5201-citywide-eligible-list-id-c00496-city-and-county-of-s-4ac894?utm_source=reddit",
       "postedAt": "2026-11-25T02:21:55.507Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/relativity/new-grad-2027-certification-engineer-i-relativity-space-452a47?utm_source=reddit",
       "postedAt": "2026-11-24T21:38:11.000Z",
       "notable": 5
-    },
-    {
-      "id": "5069ee61-93d0-44bb-a418-b9b26a518ca6",
-      "title": "New Grad 2027 - NDE Engineer I",
-      "company": "Relativity Space",
-      "place": "Long Beach, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$90.0K-$136.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8960741002?gh_jid=8960741002",
-      "firstJobbyUrl": "https://firstjobby.com/companies/relativity/new-grad-2027-nde-engineer-i-relativity-space-bdaeca?utm_source=reddit",
-      "postedAt": "2026-11-24T21:38:02.000Z",
-      "notable": 5
-    },
-    {
-      "id": "9b244a06-6ec9-4477-8ded-88450abba674",
-      "title": "Healthcare Communications Intern",
-      "company": "The Lockwood Group, LLC",
-      "place": "Stamford, United States",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://job-boards.greenhouse.io/lockwood/jobs/5231381007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lockwood/healthcare-communications-intern-the-lockwood-group-llc-e15ef5?utm_source=reddit",
-      "postedAt": "2026-11-24T21:32:47.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
