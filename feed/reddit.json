@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:02:39.460Z",
+  "generatedAt": "2026-11-25T19:17:45.687Z",
   "jobs": [
     {
       "id": "f210b9c8-c0f3-41ca-a716-aa1117f13786",
@@ -2489,6 +2489,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/canva-smartrecruiters/associate-account-executive-higher-education-canva-ccbb0a?utm_source=reddit",
       "postedAt": "2026-11-25T14:26:07.766Z",
       "notable": 2
+    },
+    {
+      "id": "bb8a8661-8e6b-4d49-bc08-40f3f3162af4",
+      "title": "Revenue Operations Analyst",
+      "company": "Definitive Healthcare, US",
+      "place": "Framingham, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$74.0K-$112.0K/yr",
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/definitivehc/jobs/6270919004",
+      "firstJobbyUrl": "https://firstjobby.com/companies/definitivehc/revenue-operations-analyst-definitive-healthcare-us-c8a424?utm_source=reddit",
+      "postedAt": "2026-11-25T14:23:34.000Z",
+      "notable": 3
     },
     {
       "id": "68897925-2150-4740-8fdc-fe29225ba87b",
@@ -7279,25 +7298,6 @@
       "notable": 3
     },
     {
-      "id": "1b376cd2-fef8-473b-85d6-8a0b63254067",
-      "title": "Junior Analyst, Risk Management",
-      "company": "Razorpay Software Private Limited",
-      "place": "Bengaluru, India",
-      "category": "Data",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4758549005",
-      "firstJobbyUrl": "https://firstjobby.com/companies/razorpaysoftwareprivatelimited/junior-analyst-risk-management-razorpay-software-private-limited-e4e791?utm_source=reddit",
-      "postedAt": "2026-11-25T06:26:52.000Z",
-      "notable": 1
-    },
-    {
       "id": "b38bbf64-7c6f-45be-818a-f1cab3f125c7",
       "title": "Technician -Engineering",
       "company": "Western Digital",
@@ -9483,23 +9483,23 @@
       "notable": 3
     },
     {
-      "id": "fc72209b-51d3-40f2-8582-a66635af2f8a",
-      "title": "Accounting Engineer",
-      "company": "1GLOBAL",
-      "place": "Berlin, Germany",
-      "category": "Engineering",
+      "id": "fcbf31db-c4a4-45fe-8447-a64029eb148f",
+      "title": "Inside Sales Representative (m/w/d)",
+      "company": "VELUX",
+      "place": "Hamburg, Germany",
+      "category": "Sales",
       "jobType": "full-time",
       "type": "Entry",
       "region": "EU",
       "visa": null,
       "citizenship": "none",
       "pay": null,
-      "minYears": 1,
+      "minYears": null,
       "season": null,
-      "applyUrl": "https://apply.workable.com/j/82A5AEF275",
-      "firstJobbyUrl": "https://firstjobby.com/companies/1global/accounting-engineer-1global-d3a83c?utm_source=reddit",
+      "applyUrl": "https://wd3.myworkdaysite.com/recruiting/velux/Velux_Residential/job/Gazellenkamp-168-Hamburg-Residential/Inside-Sales-Representative--m-w-d-_R1071289",
+      "firstJobbyUrl": "https://firstjobby.com/companies/veluxorwd3orveluxresidential/inside-sales-representative-mwd-velux-9a18c9?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 3
+      "notable": 2
     }
   ],
   "fakeEntryLevel": {
