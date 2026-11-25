@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:49:32.480Z",
+  "generatedAt": "2026-11-25T12:51:52.683Z",
   "jobs": [
     {
       "id": "865c5a58-6e56-4c25-b30b-2d2f2e348820",
@@ -7545,6 +7545,25 @@
       "notable": 2
     },
     {
+      "id": "55c7c6d2-124d-45c8-9b1f-c5aa10409d7d",
+      "title": "FPGA Design Engineer Intern",
+      "company": "Cadence",
+      "place": "Rennes, France",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CESSON-SEVIGNE-01/FPGA-Design-Engineer-Intern_R57302",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cadenceorwd1orexternalcareers/fpga-design-engineer-intern-cadence-7a0f5c?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "552a3f13-ebd8-4377-824e-40d6de8ea617",
       "title": "Specialist - SCM - Logistics Support 4A",
       "company": "Genpact",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nscaleoperationsukltd/supply-chain-analyst-ai-sourcing-nscale-88ac0d?utm_source=reddit",
       "postedAt": "2026-11-24T23:24:19.000Z",
       "notable": 5
-    },
-    {
-      "id": "b12b8825-e452-4059-8523-e9e331c1b701",
-      "title": "Runtime Engineer Intern",
-      "company": "SambaNova",
-      "place": "Austin, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Summer 2027",
-      "applyUrl": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sambanovasystems/runtime-engineer-intern-sambanova-10277e?utm_source=reddit",
-      "postedAt": "2026-11-24T23:22:48.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
