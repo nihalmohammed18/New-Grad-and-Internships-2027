@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:32:48.228Z",
+  "generatedAt": "2026-11-25T22:48:55.358Z",
   "jobs": [
     {
       "id": "f210b9c8-c0f3-41ca-a716-aa1117f13786",
@@ -342,6 +342,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/facilities-engineer-micron-technology-1fbe35?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "c8d6af05-25e3-49ec-a032-7e115fd51b89",
+      "title": "Software Engineer",
+      "company": "Faropoint",
+      "place": "Hoboken, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$120.0K-$160.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/faropoint/jobs/5309821007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/faropoint/software-engineer-faropoint-f25ae5?utm_source=reddit",
+      "postedAt": "2026-11-25T22:00:26.000Z",
+      "notable": 3
     },
     {
       "id": "a245ef2f-4e8d-4f2f-8366-961a668974c1",
@@ -1349,6 +1368,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/zeit-ai/product-engineer-zeit-ai-yc-s24-1b7957?utm_source=reddit",
       "postedAt": "2026-11-25T17:59:35.606Z",
       "notable": 3
+    },
+    {
+      "id": "8e7357be-9db6-4272-a90e-f1fb8a8c3090",
+      "title": "Technical Sales Representative (Commercial Laundry)",
+      "company": "Kao Corporation",
+      "place": "Remote from United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://kao.voyse.io/gh-job/4732273006?gh_jid=4732273006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kao/technical-sales-representative-commercial-laundry-kao-corporation-be6018?utm_source=reddit",
+      "postedAt": "2026-11-25T17:56:35.000Z",
+      "notable": 1
     },
     {
       "id": "1207f2c6-a236-4b32-9a22-b6a4544ac8e6",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163639414",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-serbia-delivery-hero-4c87ea?utm_source=reddit",
       "postedAt": "2026-11-25T09:31:44.236Z",
-      "notable": 3
-    },
-    {
-      "id": "4f3a5be4-3352-4835-85f4-e948452bbaf6",
-      "title": "Technicien préleveur multisite (Lyon Gambetta/Oullins) - CDI - F/H",
-      "company": "Eurofins",
-      "place": "Lyon, France",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000163639959",
-      "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/technicien-preleveur-multisite-lyon-gambettaoullins-cdi-fh-eurofins-ccf0d6?utm_source=reddit",
-      "postedAt": "2026-11-25T09:31:04.891Z",
-      "notable": 3
-    },
-    {
-      "id": "e98cdb3c-ae71-4eab-a6ce-7c82db6740c8",
-      "title": "Graphic Design, Website & Social Media Virtual Assistant",
-      "company": "Jobgether",
-      "place": "Remote from Brazil",
-      "category": "Design",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/e7a9ede8-871a-4197-817a-3b63751a9ad7",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/graphic-design-website-and-social-media-virtual-assistant-jobgether-bd7fcc?utm_source=reddit",
-      "postedAt": "2026-11-25T09:31:00.426Z",
       "notable": 3
     }
   ],
