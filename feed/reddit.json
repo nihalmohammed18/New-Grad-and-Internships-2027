@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:27:50.077Z",
+  "generatedAt": "2026-11-25T04:37:28.640Z",
   "jobs": [
     {
       "id": "b6896194-edee-4503-9df0-02a6e8c154e8",
@@ -682,6 +682,25 @@
       "season": null,
       "applyUrl": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Analyst--Demand-Planning_34427",
       "firstJobbyUrl": "https://firstjobby.com/companies/scjorwd5orexternalcareersite/analyst-demand-planning-sc-johnson-657c34?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "4a627673-ff0d-4cc5-aa23-68608cf4aa90",
+      "title": "Account Manager (Shanghai)",
+      "company": "Expedia",
+      "place": "Shanghai, China",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/China---Shanghai/Account-Manager--Shanghai-_R-111573",
+      "firstJobbyUrl": "https://firstjobby.com/companies/expediaorwd108orsearch/account-manager-shanghai-expedia-ea1fea?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/isaraerospace/working-student-systems-engineering-mfd-isar-aerospace-se-bd2644?utm_source=reddit",
       "postedAt": "2026-11-24T13:51:16.000Z",
       "notable": 3
-    },
-    {
-      "id": "d166781f-5bc0-443c-8abf-faed2cece47f",
-      "title": "Operations Analyst - Singapore",
-      "company": "GSR",
-      "place": "Singapore",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/5040312101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gsrmarkets/operations-analyst-singapore-gsr-ac45d3?utm_source=reddit",
-      "postedAt": "2026-11-24T13:51:13.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
