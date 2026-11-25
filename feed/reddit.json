@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:39:55.280Z",
+  "generatedAt": "2026-11-25T09:47:43.077Z",
   "jobs": [
     {
       "id": "e3e47a9d-912c-4a56-998d-916cd2b3a8c1",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/workato/sales-development-representative-workato-0c603e?utm_source=reddit",
       "postedAt": "2026-11-25T08:42:31.000Z",
       "notable": 2
+    },
+    {
+      "id": "02b93821-8dc4-41e3-af5d-f4ae3a9ad27f",
+      "title": "Solutions Engineer",
+      "company": "Atlassian",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://www.atlassian.com/company/careers/details/24713",
+      "firstJobbyUrl": "https://firstjobby.com/companies/atlassian/solutions-engineer-atlassian-ce44a0?utm_source=reddit",
+      "postedAt": "2026-11-25T08:39:00.000Z",
+      "notable": 3
     },
     {
       "id": "8cd964b3-a106-41b2-bb92-f0dd5987a708",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/braintrust-ashby/grc-engineer-braintrust-03b726?utm_source=reddit",
       "postedAt": "2026-11-24T17:28:01.884Z",
       "notable": 1
-    },
-    {
-      "id": "c732bc6b-2ac1-47ee-962f-c2db4b837058",
-      "title": "Research Analyst (Large Molecule)",
-      "company": "SGS",
-      "place": "Hoffman Estates, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$47.0K-$60.0K/yr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000163518579",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/research-analyst-large-molecule-sgs-e37434?utm_source=reddit",
-      "postedAt": "2026-11-24T17:26:48.242Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
