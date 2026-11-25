@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:46:15.965Z",
+  "generatedAt": "2026-11-25T20:03:21.235Z",
   "jobs": [
     {
       "id": "f210b9c8-c0f3-41ca-a716-aa1117f13786",
@@ -36,6 +36,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/Facility-engineer_JR118014",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/facility-engineer-micron-technology-7356e0?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c2322b39-a645-4a45-8814-a659b48321e2",
+      "title": "Customer Operations -  Platform & Systems Specialist",
+      "company": "Kensho",
+      "place": "Islamabad, Pakistan",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Islamabad-PK/Customer-Operations----Platform---Systems-Specialist_332868-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spgiorwd5orspgicareers/customer-operations-platform-and-systems-specialist-kensho-32215b?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/junior-engineer-civil-5201-citywide-eligible-list-id-c00496-city-and-county-of-s-4ac894?utm_source=reddit",
       "postedAt": "2026-11-25T02:21:55.507Z",
       "notable": 3
-    },
-    {
-      "id": "0aae9661-8f35-4bdc-bc47-ba78b79e0b92",
-      "title": "Research Assistant I Lab",
-      "company": "Harvard University",
-      "place": "Boston, United States",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990017079836",
-      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/research-assistant-i-lab-harvard-university-a5480c?utm_source=reddit",
-      "postedAt": "2026-11-25T02:17:23.076Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
