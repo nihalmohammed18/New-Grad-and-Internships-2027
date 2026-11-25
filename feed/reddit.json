@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:32:42.368Z",
+  "generatedAt": "2026-11-25T09:39:55.280Z",
   "jobs": [
     {
       "id": "e3e47a9d-912c-4a56-998d-916cd2b3a8c1",
@@ -2411,6 +2411,25 @@
       "season": null,
       "applyUrl": "https://sunlife.wd3.myworkdayjobs.com/Experienced/job/Hunghom-Kowloon-Hong-Kong/Intern--CMI-Broker-Strategy---Growth_JR00130243-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/sunlifeorwd3orexperienced/intern-cmi-broker-strategy-and-growth-sun-life-776c93?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f3aab9bd-3b7c-4ade-b2c0-7fb3d3f0be5c",
+      "title": "Lab Operations Coordinator",
+      "company": "Sarepta",
+      "place": "Bedford, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$56.0K-$70.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sarepta.wd5.myworkdayjobs.com/sarepta_external/job/Bedford-MA/Lab-Operations-Coordinator_R-03349-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sareptaorwd5orsareptaexternal/lab-operations-coordinator-sarepta-bf3414?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/SGS/744000163518579",
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/research-analyst-large-molecule-sgs-e37434?utm_source=reddit",
       "postedAt": "2026-11-24T17:26:48.242Z",
-      "notable": 5
-    },
-    {
-      "id": "b2b6c7b7-f571-4acf-a750-3eae2e6be5f8",
-      "title": "Technical Operations Engineer - Barracuda",
-      "company": "Anduril Industries",
-      "place": "Costa Mesa, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$113.0K-$155.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5298680007?gh_jid=5298680007",
-      "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/technical-operations-engineer-barracuda-anduril-industries-d5b9af?utm_source=reddit",
-      "postedAt": "2026-11-24T17:26:09.000Z",
       "notable": 5
     }
   ],
