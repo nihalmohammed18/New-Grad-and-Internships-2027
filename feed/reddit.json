@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:07:11.949Z",
+  "generatedAt": "2026-11-25T15:10:12.256Z",
   "jobs": [
     {
       "id": "21ca26ab-c2a7-40c3-9469-7e0e7f1d93fe",
@@ -5721,6 +5721,25 @@
       "notable": 3
     },
     {
+      "id": "f77dfcc7-6104-46e4-8896-f7dd356aab7d",
+      "title": "Assistant études marketing (F/H) - STAGE",
+      "company": "Maisonsdumonde",
+      "place": "Paris, France",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://maisonsdumonde.wd3.myworkdayjobs.com/Site_carriere/job/Paris/Assistant-tudes-marketing--F-H----STAGE_R19607",
+      "firstJobbyUrl": "https://firstjobby.com/companies/maisonsdumondeorwd3orsitecarriere/assistant-etudes-marketing-fh-stage-maisonsdumonde-6ca93a?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 0
+    },
+    {
       "id": "f7452f69-41e0-4f88-883c-cd0a65c0e601",
       "title": "Field service engineer",
       "company": "ABB",
@@ -7199,6 +7218,25 @@
       "season": null,
       "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Madrid-Spain/Junior-IT-Service-Desk-Analyst---Cigna-Healthcare_26014510-3",
       "firstJobbyUrl": "https://firstjobby.com/companies/cignaorwd5orcignacareers/junior-it-service-desk-analyst-cigna-healthcare-cigna-1327d1?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c8e97cc5-0a62-48ca-b635-c6c0d1927246",
+      "title": "Options Coordinator",
+      "company": "Knoll",
+      "place": "Melksham, United Kingdom",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/UK---Melksham/Options-Coordinator_JR110008-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/millerknollorwd1ormillerknoll/options-coordinator-knoll-b75f6f?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/testing-operator-abb-828703?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "6ebb437a-2d3f-4bd4-980a-ff729eb351b1",
-      "title": "Software Engineer II",
-      "company": "Hpe",
-      "place": "Bengaluru, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Software-Engineer-II_1217744-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orwfmathpe/software-engineer-ii-hpe-3fa225?utm_source=reddit",
-      "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "6c1ece4f-d28e-4e1f-84a0-44a0717cf052",
-      "title": "Assistant QA Engineer",
-      "company": "Frencken Mechatronics Malaysia",
-      "place": "Malaysia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://frenckengroup.wd103.myworkdayjobs.com/External/job/SGP-1-Changi-North-Street-2/Assistant-QA-Engineer_JR102267",
-      "firstJobbyUrl": "https://firstjobby.com/companies/frenckengrouporwd103orexternal/assistant-qa-engineer-frencken-mechatronics-malaysia-c7b3a2?utm_source=reddit",
-      "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
