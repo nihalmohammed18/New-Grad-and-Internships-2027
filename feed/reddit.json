@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:33:28.711Z",
+  "generatedAt": "2026-11-25T08:35:37.522Z",
   "jobs": [
     {
       "id": "8cd964b3-a106-41b2-bb92-f0dd5987a708",
@@ -2297,6 +2297,25 @@
       "season": null,
       "applyUrl": "https://sunlife.wd3.myworkdayjobs.com/Experienced/job/Hunghom-Kowloon-Hong-Kong/Intern--CMI-Broker-Strategy---Growth_JR00130243-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/sunlifeorwd3orexperienced/intern-cmi-broker-strategy-and-growth-sun-life-776c93?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f287dec5-ac2a-406e-85e4-15498fbcc20c",
+      "title": "Medical Scientist liaison",
+      "company": "Organon",
+      "place": "Shanghai, China",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://organon.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai/Medical-Scientist-liaison_R543379",
+      "firstJobbyUrl": "https://firstjobby.com/companies/organonorwd5orsearchjobs/medical-scientist-liaison-organon-031c0f?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/blackduck/sales-development-representative-black-duck-software-inc-41fc0f?utm_source=reddit",
       "postedAt": "2026-11-24T16:45:56.000Z",
       "notable": 5
-    },
-    {
-      "id": "217416ce-1295-4d59-b5e0-65903b7a05be",
-      "title": "Business Analyst (Mexico Based) - Global Services Company",
-      "company": "Truelogic",
-      "place": "Remote from Mexico",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/truelogic/9bdd29c8-ccd6-4722-9bc7-9b4545a87e06",
-      "firstJobbyUrl": "https://firstjobby.com/companies/truelogic-ashby/business-analyst-mexico-based-global-services-company-truelogic-282be1?utm_source=reddit",
-      "postedAt": "2026-11-24T16:42:36.123Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
