@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:13:49.341Z",
+  "generatedAt": "2026-11-25T18:23:09.177Z",
   "jobs": [
     {
       "id": "f210b9c8-c0f3-41ca-a716-aa1117f13786",
@@ -7792,6 +7792,25 @@
       "notable": 2
     },
     {
+      "id": "f8b4dace-c3c9-4f12-b061-b9ede4575729",
+      "title": "Channel Marketing Specialist",
+      "company": "Hq",
+      "place": "Saint Paul, United States",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$48.2K-$91.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Channel-Marketing-Specialist_R-011058",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hqorwd12orsecurianexternal/channel-marketing-specialist-hq-568f24?utm_source=reddit",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f894facf-2718-4b4d-ba2f-c8e0d4435883",
       "title": "Assoc Eng Process Engineering (Implant)",
       "company": "GlobalFoundries",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Ankara-Trkiye/Associate-Mako-Product-Specialist_R576565",
       "firstJobbyUrl": "https://firstjobby.com/companies/strykerorwd1orstrykercareers/associate-mako-product-specialist-stryker-9086d6?utm_source=reddit",
-      "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "d732a354-1728-44bf-83fe-57c0191ba5ea",
-      "title": "Web Internship",
-      "company": "Synechron",
-      "place": "Serbia",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Novi-Sad/Web-Internship_JR1046418-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/synechronorwd1orsynechroncareers/web-internship-synechron-06e950?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     }
