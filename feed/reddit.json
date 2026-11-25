@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:05:14.369Z",
+  "generatedAt": "2026-11-25T13:12:58.380Z",
   "jobs": [
     {
       "id": "865c5a58-6e56-4c25-b30b-2d2f2e348820",
@@ -56,6 +56,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/IFS1/744000163669690-intern-data-engineering",
       "firstJobbyUrl": "https://firstjobby.com/companies/ifs1/intern-data-engineering-ifs-414897?utm_source=reddit",
       "postedAt": "2026-11-25T12:11:06.529Z",
+      "notable": 3
+    },
+    {
+      "id": "bce22467-3d6d-4837-bfbc-e74e909f01fd",
+      "title": "Patient Support Coordinator",
+      "company": "Montu UK",
+      "place": "London, United Kingdom",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£27.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/montu-uk/d613ee41-7e8e-4df6-8b50-ba48d22f5ae2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/montu-uk/patient-support-coordinator-montu-uk-c49453?utm_source=reddit",
+      "postedAt": "2026-11-25T12:07:18.604Z",
       "notable": 3
     },
     {
@@ -835,6 +854,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Aumovio/744000163640285-yeap-trainee-radar-algorithm-engineer-shanghai-",
       "firstJobbyUrl": "https://firstjobby.com/companies/aumovio/yeap-trainee-radar-algorithm-engineer-shanghai-aumovio-6c4521?utm_source=reddit",
       "postedAt": "2026-11-25T09:37:39.321Z",
+      "notable": 3
+    },
+    {
+      "id": "c66294a3-4f52-4155-a1eb-fb4ee3d6bd8c",
+      "title": "Launch Licensing Engineer (m/f/d)",
+      "company": "Rocket Factory Augsburg AG (EN)",
+      "place": "Augsburg, Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/5048033101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rocketfactoryaugsburgag/launch-licensing-engineer-mfd-rocket-factory-augsburg-ag-en-69727a?utm_source=reddit",
+      "postedAt": "2026-11-25T09:35:43.000Z",
       "notable": 3
     },
     {
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/JPN---TOKYO/XMLNAME--Insurance-ETL-Engineer--Informatica-PowerCenter-_51595225-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/dxctechnologyorwd1ordxcjobs/insuranceetl-engineer-informatica-powercenter-dxc-technology-3ade61?utm_source=reddit",
-      "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "0ae3b796-0657-4db8-9d8b-4d0c80ab691f",
-      "title": "Intern, CMI Broker Strategy & Growth",
-      "company": "Sun Life",
-      "place": "Hong Kong",
-      "category": "Marketing",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Intern--CMI-Broker-Strategy---Growth_JR00130243",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sunlifeorwd3orexperienced-jobs/intern-cmi-broker-strategy-and-growth-sun-life-1e2bdb?utm_source=reddit",
-      "postedAt": "2026-11-25T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "0a267d8f-6512-4880-bf31-f8c08f27d784",
-      "title": "Data Engineer",
-      "company": "Adobe",
-      "place": "Bangalore, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Engineer_R173786-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/adobeorwd5orexternalexperienced/data-engineer-adobe-444a78?utm_source=reddit",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "notable": 2
     }
