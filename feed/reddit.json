@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:54:17.517Z",
+  "generatedAt": "2026-11-25T10:56:48.309Z",
   "jobs": [
     {
       "id": "1b2443d3-62e3-48dc-8458-2a87b39820ad",
@@ -874,6 +874,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/applied-compute/inference-infrastructure-engineer-applied-compute-8dcd23?utm_source=reddit",
       "postedAt": "2026-11-25T05:15:44.476Z",
       "notable": 2
+    },
+    {
+      "id": "004383c2-4b5b-42fa-a939-61eff48e8e8d",
+      "title": "Business Development Representative, Australia",
+      "company": "GitLab",
+      "place": "Remote from Australia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gitlab/business-development-representative-australia-gitlab-618b35?utm_source=reddit",
+      "postedAt": "2026-11-25T05:15:42.000Z",
+      "notable": 3
     },
     {
       "id": "1f69b3d5-67e7-4df3-8eda-bbd50d3c3a3f",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/erg/electronics-and-instrumentation-engineertechnician-erg-2719a4?utm_source=reddit",
       "postedAt": "2026-11-24T19:09:50.319Z",
       "notable": 5
-    },
-    {
-      "id": "85210b3d-38c9-4778-a89a-4b15bd6b8fcd",
-      "title": "Business Systems Analyst",
-      "company": "Harvard University",
-      "place": "Cambridge, United States",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990017070546",
-      "firstJobbyUrl": "https://firstjobby.com/companies/harvarduniversity/business-systems-analyst-harvard-university-3d5c47?utm_source=reddit",
-      "postedAt": "2026-11-24T19:09:20.042Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
