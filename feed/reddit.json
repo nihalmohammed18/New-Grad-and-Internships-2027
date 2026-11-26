@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:30:54.802Z",
+  "generatedAt": "2026-11-26T00:38:23.789Z",
   "jobs": [
     {
       "id": "fb9cfe1b-ac51-4735-b21b-c29c8422faaf",
@@ -743,6 +743,25 @@
       "notable": 3
     },
     {
+      "id": "32b91a72-ea82-45e4-9056-2efd8e74f05e",
+      "title": "Early Career Software Engineer, Developer Experience",
+      "company": "Parallel Web Systems",
+      "place": "San Francisco, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "New Grad",
+      "region": "US",
+      "visa": "sponsors",
+      "citizenship": "none",
+      "pay": "$150.0K-$300.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/parallel-ashby/early-career-software-engineer-developer-experience-parallel-web-systems-545970?utm_source=reddit",
+      "postedAt": "2026-11-25T21:58:04.885Z",
+      "notable": 6
+    },
+    {
       "id": "81e4a623-ae94-48de-b092-f66fef1faf06",
       "title": "Sales Development Representative - Healthcare",
       "company": "ID.me",
@@ -950,6 +969,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/andurilindustries/systems-engineer-space-imaging-anduril-industries-150b54?utm_source=reddit",
       "postedAt": "2026-11-25T21:11:01.000Z",
       "notable": 5
+    },
+    {
+      "id": "661d546a-b77c-4664-83c1-5ed906b64760",
+      "title": "2027 Summer Internship - Frontline Marketing Intern",
+      "company": "Duetti",
+      "place": "New York, United States",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$48.0K-$57.6K/yr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8",
+      "firstJobbyUrl": "https://firstjobby.com/companies/duetti/2027-summer-internship-frontline-marketing-intern-duetti-80e835?utm_source=reddit",
+      "postedAt": "2026-11-25T20:56:59.442Z",
+      "notable": 3
     },
     {
       "id": "8557830c-784c-4ee0-a8ed-818e4f3e8cc2",
@@ -2295,7 +2333,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163741649-account-manager-top-accounts-ukraine-",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163741649",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/account-manager-top-accounts-ukraine-delivery-hero-72c6cd?utm_source=reddit",
       "postedAt": "2026-11-25T17:54:31.038Z",
       "notable": 3
@@ -2732,7 +2770,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017093136-assistant-engineer-mechanical-5203-citywide-eligible-list-id-c00504-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017093136",
       "firstJobbyUrl": "https://firstjobby.com/companies/cityandcountyofsanfrancisco1/assistant-engineer-mechanical-5203-citywide-eligible-list-id-c00504-city-and-cou-0b5a67?utm_source=reddit",
       "postedAt": "2026-11-25T17:25:28.175Z",
       "notable": 3
@@ -3872,7 +3910,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteAT/744000163730506--junior-consultant-all-genders-solution-developer",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeloitteAT/744000163730506",
       "firstJobbyUrl": "https://firstjobby.com/companies/deloitteat/junior-consultant-all-genders-solution-developer-deloitte-7da7da?utm_source=reddit",
       "postedAt": "2026-11-25T16:47:44.216Z",
       "notable": 3
@@ -3929,7 +3967,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163729815-growth-analyst-romania-",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163729815",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/growth-analyst-romania-delivery-hero-c49f94?utm_source=reddit",
       "postedAt": "2026-11-25T16:46:44.696Z",
       "notable": 3
@@ -6855,7 +6893,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163694904-fraud-aml-data-analyst",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163694904",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/fraud-and-aml-data-analyst-delivery-hero-b92a57?utm_source=reddit",
       "postedAt": "2026-11-25T14:14:35.066Z",
       "notable": 3
@@ -8052,7 +8090,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163681340-sales-executive-",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163681340",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/sales-executive-delivery-hero-90e76a?utm_source=reddit",
       "postedAt": "2026-11-25T13:04:35.791Z",
       "notable": 3
@@ -8185,7 +8223,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SanaCommerce/744000163677969-business-development-representative-uki-english-speaking-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SanaCommerce/744000163677969",
       "firstJobbyUrl": "https://firstjobby.com/companies/sanacommerce/business-development-representative-uki-english-speaking-sana-commerce-ee807e?utm_source=reddit",
       "postedAt": "2026-11-25T12:48:01.110Z",
       "notable": 3
@@ -8204,7 +8242,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163675835-incubation-onboarding-assistant-contrato-a-plazo-fijo-",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163675835",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/incubation-and-onboarding-assistant-contrato-a-plazo-fijo-delivery-hero-75e0a8?utm_source=reddit",
       "postedAt": "2026-11-25T12:46:24.446Z",
       "notable": 3
@@ -8394,7 +8432,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/VusionGroupSA/744000163676489-vendor-service-delivery-coordinator",
+      "applyUrl": "https://jobs.smartrecruiters.com/VusionGroupSA/744000163676489",
       "firstJobbyUrl": "https://firstjobby.com/companies/vusiongroupsa/vendor-and-service-delivery-coordinator-vusiongroup-sa-bd77fc?utm_source=reddit",
       "postedAt": "2026-11-25T12:40:08.639Z",
       "notable": 3
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/paytmpayments/key-account-manager-associate-mmb-core-k-v-rangareddy-paytm-payments-3407d0?utm_source=reddit",
       "postedAt": "2026-11-25T11:08:25.680Z",
       "notable": 2
-    },
-    {
-      "id": "f14c5105-f116-4790-b95d-484254169b4d",
-      "title": "Customer Support (part-time)",
-      "company": "Axle Careers",
-      "place": "London, United Kingdom",
-      "category": "Customer Support",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/axle-careers/177dcddb-7942-4388-8a38-424620ffa41d",
-      "firstJobbyUrl": "https://firstjobby.com/companies/axle-careers/customer-support-part-time-axle-careers-edddb7?utm_source=reddit",
-      "postedAt": "2026-11-25T11:05:39.838Z",
-      "notable": 3
-    },
-    {
-      "id": "b1e2b432-037d-4ea8-8bba-519101a3c9e1",
-      "title": "Mitarbeiter (m/w/d) Vertriebsunterstützung / Sales Support",
-      "company": "StepStone Group",
-      "place": "Dusseldorf, Germany",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/StepStoneGroup/744000163658140",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stepstonegroup/mitarbeiter-mwd-vertriebsunterstutzung-sales-support-stepstone-group-61fe67?utm_source=reddit",
-      "postedAt": "2026-11-25T11:04:48.072Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
