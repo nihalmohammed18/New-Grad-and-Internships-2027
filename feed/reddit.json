@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:31:19.790Z",
+  "generatedAt": "2026-11-26T22:38:47.178Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -401,6 +401,25 @@
       "notable": 3
     },
     {
+      "id": "1456eddb-f892-4023-b5db-19ebcd45372c",
+      "title": "Associate Key Account Manager, Germany (12-month contract)",
+      "company": "Alnylam Pharmaceuticals",
+      "place": "Germany",
+      "category": "Sales",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4486346009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alnylampharmaceuticals/associate-key-account-manager-germany-12-month-contract-alnylam-pharmaceuticals-866181?utm_source=reddit",
+      "postedAt": "2026-11-26T18:17:15.000Z",
+      "notable": 0
+    },
+    {
       "id": "5300d15d-ec92-406b-9192-45fe83d36356",
       "title": "Instructional Designer Colombia",
       "company": "Plata Card",
@@ -627,6 +646,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobsforhumanity/copy-of-copy-of-copy-of-customer-service-rep-jobs-for-humanity-1b065f?utm_source=reddit",
       "postedAt": "2026-11-26T17:39:22.784Z",
       "notable": 3
+    },
+    {
+      "id": "4d11eabe-a61f-4ba0-bd07-239fdfc9966d",
+      "title": "Customer Service Specialist - Fixed-term 12-months",
+      "company": "Scalapay",
+      "place": "Milan, Italy",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/5049746101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/scalapaysrl/customer-service-specialist-fixed-term-12-months-scalapay-9edbd2?utm_source=reddit",
+      "postedAt": "2026-11-26T17:37:45.000Z",
+      "notable": 1
     },
     {
       "id": "503cb8ac-fed2-4abd-9854-ceaf51dae29b",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-marketing-consultant-united-media-e0af37?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "42d404e0-b5c1-4ef8-a58a-f6ccdb47286f",
-      "title": "AI Value Creation Analyst",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217926003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-value-creation-analyst-united-media-287759?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "4182eeb0-b991-431a-b4ef-fbed98d7d220",
-      "title": "Marketing Automation Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217650003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/marketing-automation-associate-private-equity-insights-2c34fe?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
