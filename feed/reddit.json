@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:45:30.874Z",
+  "generatedAt": "2026-11-26T05:47:50.129Z",
   "jobs": [
     {
       "id": "53e03087-d766-49c4-bfdb-8efebedd21b8",
@@ -855,6 +855,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-d54cda?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "f31aa6e1-af7a-438b-83c4-5969208534fa",
+      "title": "Network Adminstrator",
+      "company": "GDIT",
+      "place": "Arlington, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$89.3K-$120.8K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Arlington/Network-Adminstrator_RQ232899-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orexternalcareersite/network-adminstrator-gdit-fa579d?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "f210b9c8-c0f3-41ca-a716-aa1117f13786",
@@ -2204,6 +2223,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/facilities-engineer-micron-technology-1fbe35?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "012082e1-1af0-4d1a-a5ce-4db5f6c5c887",
+      "title": "Network Adminstrator",
+      "company": "GDIT",
+      "place": "Arlington, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_citizen",
+      "pay": "$89.3K-$120.8K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_Empl_Ref/job/USA-VA-Arlington/Network-Adminstrator_RQ232899",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gditorwd5orgditemplref/network-adminstrator-gdit-122c87?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "de01b1eb-d5bf-4192-81aa-501dd416dca4",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/axle/sbc-biological-scientist-axle-ba5314?utm_source=reddit",
       "postedAt": "2026-11-25T14:48:40.000Z",
       "notable": 5
-    },
-    {
-      "id": "538bec24-ab7f-425c-b7fa-e0121bf12b6e",
-      "title": "Junior Forward Deployed Engineer",
-      "company": "Sia",
-      "place": "Brussels, Belgium",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699583",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-bf9efd?utm_source=reddit",
-      "postedAt": "2026-11-25T14:48:36.528Z",
-      "notable": 3
-    },
-    {
-      "id": "2bc58e0b-d933-410e-8c3b-43e1405c9e3d",
-      "title": "Energy Insights Analyst (Power and Energy Systems)",
-      "company": "SYSTEMIQ",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.eu.greenhouse.io/systemiq/jobs/5048566101",
-      "firstJobbyUrl": "https://firstjobby.com/companies/systemiq/energy-insights-analyst-power-and-energy-systems-systemiq-85c463?utm_source=reddit",
-      "postedAt": "2026-11-25T14:48:23.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
