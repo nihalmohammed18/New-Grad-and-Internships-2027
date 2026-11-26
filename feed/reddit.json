@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:23:43.853Z",
+  "generatedAt": "2026-11-26T22:31:19.790Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -74,6 +74,25 @@
       "season": null,
       "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/IT-Intern_R-01372821",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/it-intern-thermo-fisher-scientific-7ea952?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b382025f-ea44-46cf-a7c9-acc499cfa2e0",
+      "title": "Power Architecture Engineer",
+      "company": "NVIDIA",
+      "place": "Bengaluru, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Power-Architecture-Engineer_JR2030662",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/power-architecture-engineer-nvidia-59c717?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -266,6 +285,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sgs-smartrecruiters/biotech-analyst-level-2-bioseparations-sgs-92d8ae?utm_source=reddit",
       "postedAt": "2026-11-26T19:30:10.298Z",
       "notable": 5
+    },
+    {
+      "id": "0a98d40d-5782-4883-b936-b00acde46e7b",
+      "title": "Logistics Intern",
+      "company": "BEES",
+      "place": "São Paulo, Brazil",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/bees/jobs/8963693002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bees/logistics-intern-bees-ab4f1b?utm_source=reddit",
+      "postedAt": "2026-11-26T19:17:42.000Z",
+      "notable": 2
     },
     {
       "id": "76c1a219-1714-43d1-b0f3-e4f2cd09343e",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217650003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/marketing-automation-associate-private-equity-insights-2c34fe?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "40f42efa-e03b-4878-aa3a-15dbbfaed237",
-      "title": "AI Engineer",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217873003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-engineer-united-media-79e91c?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "402e05fc-3bd5-4828-9f88-e904caabfe37",
-      "title": "AI Operations Specialist",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217905003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-operations-specialist-cfo-insights-340d8b?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
