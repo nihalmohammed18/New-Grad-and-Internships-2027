@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:16:40.321Z",
+  "generatedAt": "2026-11-26T07:21:03.006Z",
   "jobs": [
     {
       "id": "8c762722-a9dd-43cd-a73a-a8c27fbf5145",
@@ -95,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/grab-smartrecruiters/intern-people-scientist-research-grab-b9e1ee?utm_source=reddit",
       "postedAt": "2026-11-26T06:08:16.882Z",
       "notable": 3
+    },
+    {
+      "id": "76d0fdbd-afdf-4825-9e2d-f90e87f1e9d5",
+      "title": "Associate, Business Operations",
+      "company": "Razorpay Software Private Limited",
+      "place": "Bengaluru, India",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4757678005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/razorpaysoftwareprivatelimited/associate-business-operations-razorpay-software-private-limited-bb4cda?utm_source=reddit",
+      "postedAt": "2026-11-26T06:04:36.000Z",
+      "notable": 1
     },
     {
       "id": "abb02e40-ebf9-4ab7-ab65-57383691ae11",
@@ -1860,6 +1879,25 @@
       "season": null,
       "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Bangalore-Karnataka-India/System-Administration---Platform-Operations_R-72359-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/system-administration-platform-operations-kyndryl-507c81?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "b82d0d82-d544-4632-9096-543eec82a9bd",
+      "title": "Customer Service Advisor",
+      "company": "WEX",
+      "place": "Melbourne, Australia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Melbourne-Australia/Customer-Service-Advisor_R23469",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wexincorwd5orwexinc/customer-service-advisor-wex-f0c2f5?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8402957",
       "firstJobbyUrl": "https://firstjobby.com/companies/toast/inside-account-executive-toast-e30c98?utm_source=reddit",
       "postedAt": "2026-11-25T15:58:03.000Z",
-      "notable": 3
-    },
-    {
-      "id": "2a8b1669-cf7c-4c81-b90f-22253c2f2096",
-      "title": "Consultant·e Artificial Intelligence - Strategy, Organization & Governance – Jeune diplômé·e (H/F)",
-      "company": "Wavestone",
-      "place": "Puteaux, France",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000163719909",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wavestone1/consultante-artificial-intelligence-strategy-organization-and-governance-jeune-d-d00ece?utm_source=reddit",
-      "postedAt": "2026-11-25T15:54:21.637Z",
-      "notable": 3
-    },
-    {
-      "id": "1fb560ad-446e-45b7-b630-bc6e12d562ce",
-      "title": "Client Support Representative - Remote Data Entry Clerk",
-      "company": "Usasurveyjob",
-      "place": "Remote",
-      "category": "Data",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/usasurveyjob/8b3efb57-c35d-4923-bdf9-e1225aabfe80",
-      "firstJobbyUrl": "https://firstjobby.com/companies/usasurveyjob/client-support-representative-remote-data-entry-clerk-usasurveyjob-e2a2e4?utm_source=reddit",
-      "postedAt": "2026-11-25T15:52:01.399Z",
       "notable": 3
     }
   ],
