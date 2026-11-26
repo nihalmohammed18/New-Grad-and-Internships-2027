@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:29:53.753Z",
+  "generatedAt": "2026-11-26T08:38:37.974Z",
   "jobs": [
     {
       "id": "94bbe198-3d3a-432d-b752-8465a8cef4e7",
@@ -2301,6 +2301,25 @@
       "notable": 2
     },
     {
+      "id": "ac28be5c-0a56-44ad-aab5-0bcbef3d580b",
+      "title": "Credit Collection Analyst",
+      "company": "Sanofi",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Kuala-Lumpur/Credit-Collection-Analyst_R2879490-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sanofiorwd3orsanoficareers/credit-collection-analyst-sanofi-e07047?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "aac76dd8-89c6-427c-a01f-45c81d14010f",
       "title": "Cloud & DevOps Infrastructure Engineer",
       "company": "Barclays",
@@ -3515,6 +3534,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/healthcareorwd1orsearch/customer-issue-resolution-cir-analyst-solventum-f98f29?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "11307e51-6e86-4b62-98f5-b5d0c8181dbb",
+      "title": "Product Support Analyst I",
+      "company": "Sabre",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Product-Support-Analyst-I_JR109037",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sabreorwd1orsabrejobs/product-support-analyst-i-sabre-ace918?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "10e47374-2adb-4d45-86a4-fe3ceab05ca7",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5477740008",
       "firstJobbyUrl": "https://firstjobby.com/companies/aevexaerospace/mechanical-engineer-i-aevex-f5c1ee?utm_source=reddit",
       "postedAt": "2026-11-25T16:26:19.000Z",
-      "notable": 3
-    },
-    {
-      "id": "dc15a550-e84b-40d6-a1d3-bd6c1d6ff2c2",
-      "title": "Social & Creative Intern - Paper.io 2",
-      "company": "Voodoo",
-      "place": "Paris, France",
-      "category": "Design",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "January-March 2027",
-      "applyUrl": "https://jobs.ashbyhq.com/voodoo/4ddbc278-8946-41f3-bf4e-da7b160e40d9",
-      "firstJobbyUrl": "https://firstjobby.com/companies/voodoo-ashby/social-and-creative-intern-paperio-2-voodoo-91b4c1?utm_source=reddit",
-      "postedAt": "2026-11-25T16:25:56.794Z",
-      "notable": 3
-    },
-    {
-      "id": "4ac0b0d2-290e-4a8e-933b-1fb60ded69df",
-      "title": "Field Sales Representative (München)",
-      "company": "Jack Link's Protein Snacks",
-      "place": "München, Germany",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000163725736",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jacklinksproteinsnacks/field-sales-representative-munchen-jack-links-protein-snacks-f7e8a2?utm_source=reddit",
-      "postedAt": "2026-11-25T16:21:37.497Z",
       "notable": 3
     }
   ],
