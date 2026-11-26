@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:46:09.563Z",
+  "generatedAt": "2026-11-26T03:01:23.891Z",
   "jobs": [
     {
       "id": "4959a0bd-cf1f-4ae0-a4ec-f6cccdc2bb4e",
@@ -1560,6 +1560,25 @@
       "notable": 3
     },
     {
+      "id": "6d4eb5f0-235e-4925-81ca-ee97d3f8017d",
+      "title": "Account Coordinator, DigiTech",
+      "company": "BerlinRosen",
+      "place": "New York, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$66.3K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/berlinrosen/jobs/8963142002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/berlinrosen/account-coordinator-digitech-berlinrosen-cc6dcd?utm_source=reddit",
+      "postedAt": "2026-11-25T22:52:09.000Z",
+      "notable": 3
+    },
+    {
       "id": "3d572d87-2826-4dd7-a6f5-e11a117ba945",
       "title": "Account Coordinator, DigiTech",
       "company": "Orchestra",
@@ -2090,6 +2109,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/veoliaenvironnementsa/account-representative-veolia-environnement-sa-e4e5f3?utm_source=reddit",
       "postedAt": "2026-11-25T21:33:35.030Z",
       "notable": 4
+    },
+    {
+      "id": "5e244164-57b0-4267-8de7-9c6a25a1d6ce",
+      "title": "Project Engineer (Mechanical",
+      "company": "Loenbro",
+      "place": "Dallas, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/loenbro/jobs/4514686009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/loenbro/project-engineer-mechanical-loenbro-aca27a?utm_source=reddit",
+      "postedAt": "2026-11-25T21:33:14.000Z",
+      "notable": 2
     },
     {
       "id": "ff42e24b-4dce-4067-b680-6c7eee6d29e2",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/inetum2/744000163690079",
       "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/administrateur-systemes-infrastructure-hf-inetum-91230f?utm_source=reddit",
       "postedAt": "2026-11-25T13:48:51.514Z",
-      "notable": 3
-    },
-    {
-      "id": "6df587d6-a45d-4c40-86c3-e55a920d13db",
-      "title": "Engineering Team Leader",
-      "company": "Culina Group",
-      "place": "Featherstone, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CulinaGroup1/744000163689392",
-      "firstJobbyUrl": "https://firstjobby.com/companies/culinagroup1/engineering-team-leader-culina-group-59dce6?utm_source=reddit",
-      "postedAt": "2026-11-25T13:45:38.615Z",
-      "notable": 3
-    },
-    {
-      "id": "4ac09420-8d26-4195-b0cc-61b77a475c0e",
-      "title": "Training Officer - Customer Services",
-      "company": "Frasers Group",
-      "place": "Shirebrook, United Kingdom",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/FrasersGroup/744000163688714",
-      "firstJobbyUrl": "https://firstjobby.com/companies/frasersgroup/training-officer-customer-services-frasers-group-3fed3d?utm_source=reddit",
-      "postedAt": "2026-11-25T13:44:13.715Z",
       "notable": 3
     }
   ],
