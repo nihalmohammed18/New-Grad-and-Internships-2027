@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:44:36.257Z",
+  "generatedAt": "2026-11-26T03:51:59.192Z",
   "jobs": [
     {
       "id": "53e03087-d766-49c4-bfdb-8efebedd21b8",
@@ -610,6 +610,25 @@
       "notable": 4
     },
     {
+      "id": "fc6ba2e7-12e6-4d0e-beca-8211b1e69ac0",
+      "title": "Customer Services Assistant",
+      "company": "JLL",
+      "place": "Hong Kong, Hong Kong",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Customer-Services-Assistant_REQ549623-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/customer-services-assistant-jll-f9c776?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "fb9cfe1b-ac51-4735-b21b-c29c8422faaf",
       "title": "IT Infrastructure Systems Administrator",
       "company": "Hitachi",
@@ -680,7 +699,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/System-Administration---Deployment-Automation_R-72361-1",
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Bangalore-Karnataka-India/System-Administration---Deployment-Automation_R-72361-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/system-administration-deployment-automation-kyndryl-aac881?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
@@ -718,7 +737,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/System-Administration---Deployment-Automation_R-72356",
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Bangalore-Karnataka-India/System-Administration---Deployment-Automation_R-72356",
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/system-administration-deployment-automation-kyndryl-6b5686?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
@@ -794,7 +813,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/System-Administration---Platform-Operations_R-72359-1",
+      "applyUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Bangalore-Karnataka-India/System-Administration---Platform-Operations_R-72359-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/kyndrylorwd5orkyndrylprofessionalcareers/system-administration-platform-operations-kyndryl-507c81?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
@@ -948,6 +967,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/MTB-Automation-OPS-Technician_JR118262",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/mtb-automation-ops-technician-micron-technology-6edef1?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "7fd3041f-aa04-47b7-9875-5cf85716ff8a",
+      "title": "Global Business Development Representative",
+      "company": "Kaleris",
+      "place": "Valencia, Spain",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Valencia/Global-Business-Development-Representative_R-100698",
+      "firstJobbyUrl": "https://firstjobby.com/companies/kalerisorwd501orkaleriscareers/global-business-development-representative-kaleris-8320e2?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000163694854",
       "firstJobbyUrl": "https://firstjobby.com/companies/linkedin3/software-engineer-applications-linkedin-0cc906?utm_source=reddit",
       "postedAt": "2026-11-25T14:16:44.744Z",
-      "notable": 3
-    },
-    {
-      "id": "0735a454-3251-40de-ba18-6fe95316593b",
-      "title": "Deal Operations",
-      "company": "Sierra",
-      "place": "San Francisco, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "SGD 195.0K-SGD 235.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/Sierra/d23ef00b-4089-4e11-90da-1214e6b363fa",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sierra/deal-operations-sierra-52f24b?utm_source=reddit",
-      "postedAt": "2026-11-25T14:15:55.208Z",
-      "notable": 5
-    },
-    {
-      "id": "0f31898d-39eb-4df1-864a-b5cd3ec9391a",
-      "title": "Fraud & AML Data Analyst",
-      "company": "Delivery Hero",
-      "place": "İstanbul, Turkey",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163694904",
-      "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/fraud-and-aml-data-analyst-delivery-hero-b92a57?utm_source=reddit",
-      "postedAt": "2026-11-25T14:14:35.066Z",
       "notable": 3
     }
   ],
