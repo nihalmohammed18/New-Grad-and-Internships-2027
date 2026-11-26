@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:01:23.891Z",
+  "generatedAt": "2026-11-26T03:09:27.957Z",
   "jobs": [
     {
       "id": "4959a0bd-cf1f-4ae0-a4ec-f6cccdc2bb4e",
@@ -1104,6 +1104,25 @@
       "notable": 2
     },
     {
+      "id": "1429c63c-6a4c-46fe-b3bf-533c87406724",
+      "title": "Regional Sales, South of China",
+      "company": "Nordson",
+      "place": "Guangzhou, China",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/China---Guangzhou/Regional-Sales--South-of-China_REQ53816",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nordsonhcmorwd501ornordsoncareers/regional-sales-south-of-china-nordson-8c7d05?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "05c8d422-68e4-4458-a3e0-ea5c03f39777",
       "title": "Account Executive (Dual French & German Speaking)",
       "company": "Gartner",
@@ -1406,6 +1425,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/sales-executive-account-manager-eurofins-built-environment-testing-dollar8k-sign-142cf4?utm_source=reddit",
       "postedAt": "2026-11-25T23:35:03.150Z",
       "notable": 4
+    },
+    {
+      "id": "db53173c-189e-47f3-8240-78356ce8a007",
+      "title": "Implementation Specialist",
+      "company": "Revin",
+      "place": "New York City, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$90.0K-$110.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/revin/5cc47fa4-e305-4ae6-8ff8-06b6b93e4fe3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/revin/implementation-specialist-revin-8a2634?utm_source=reddit",
+      "postedAt": "2026-11-25T23:31:33.502Z",
+      "notable": 3
     },
     {
       "id": "8133f62d-b3f3-4a72-91ea-831b2c623815",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/telefonicatech/on-site-support-engineer-telefonica-tech-1627b4?utm_source=reddit",
       "postedAt": "2026-11-25T13:49:54.610Z",
       "notable": 2
-    },
-    {
-      "id": "f6c314ae-f702-4615-8f73-adb47ec9c495",
-      "title": "Real Estate Analyst",
-      "company": "United Capital",
-      "place": "København, Denmark",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedcapital/jobs/8216903003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedcapital/real-estate-analyst-united-capital-c2b95f?utm_source=reddit",
-      "postedAt": "2026-11-25T13:49:48.000Z",
-      "notable": 1
-    },
-    {
-      "id": "4960d8a6-9617-41f6-9e70-897809f8a0ec",
-      "title": "Administrateur Systèmes / Infrastructure H/F",
-      "company": "Inetum",
-      "place": "Sophia Antipolis, France",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/inetum2/744000163690079",
-      "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/administrateur-systemes-infrastructure-hf-inetum-91230f?utm_source=reddit",
-      "postedAt": "2026-11-25T13:48:51.514Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
