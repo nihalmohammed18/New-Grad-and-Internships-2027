@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:52:19.247Z",
+  "generatedAt": "2026-11-26T10:57:03.170Z",
   "jobs": [
     {
       "id": "6c192c4b-17d0-451e-8ef1-752f21e1c0d5",
@@ -2314,7 +2314,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://cw.wd1.myworkdayjobs.com/External/job/Singapore/Assistant-Engineer_R331371",
+      "applyUrl": "https://cw.wd1.myworkdayjobs.com/external/job/Singapore/Assistant-Engineer_R331371",
       "firstJobbyUrl": "https://firstjobby.com/companies/cworwd1orexternal/assistant-engineer-cushman-and-wakefield-a59dc4?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
@@ -2620,6 +2620,25 @@
       "season": null,
       "applyUrl": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Indonesia---Sumatera-Utara/Strategic-Account-Manager-Oncology--Medan-_452290",
       "firstJobbyUrl": "https://firstjobby.com/companies/gskorwd5orgskcareers/strategic-account-manager-oncology-medan-gsk-e8bd28?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "e1b74426-be24-4220-982f-e9e761bab5de",
+      "title": "Rectifications Analyst",
+      "company": "Theapexgroup",
+      "place": "Melbourne, Australia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Melbourne/Rectifications-Analyst_JR-0026510-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/rectifications-analyst-theapexgroup-838b50?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -5014,6 +5033,25 @@
       "season": null,
       "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Capital-Coordinator_REQ550924",
       "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/capital-coordinator-jll-a19cd4?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "28236a28-35ce-4aa4-ad55-2cdf1dcbd134",
+      "title": "Analyst - Transfer Agency",
+      "company": "Theapexgroup",
+      "place": "Bangalore, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore---North/Analyst---Transfer-Agency_JR-0027945",
+      "firstJobbyUrl": "https://firstjobby.com/companies/theapexgrouporwd3orapexgroupcareers/analyst-transfer-agency-theapexgroup-e9361e?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/windownation/scheduling-coordinator-window-nation-f1608f?utm_source=reddit",
       "postedAt": "2026-11-25T17:41:34.111Z",
       "notable": 4
-    },
-    {
-      "id": "2c99eb16-16b3-49e4-9f49-54753e5d37a9",
-      "title": "Environments Project Coordinator",
-      "company": "Emota",
-      "place": "Manchester, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/emotainizioengage/jobs/8417607",
-      "firstJobbyUrl": "https://firstjobby.com/companies/emotainizioengage/environments-project-coordinator-emota-9f6034?utm_source=reddit",
-      "postedAt": "2026-11-25T17:40:33.000Z",
-      "notable": 1
-    },
-    {
-      "id": "a1e5da2a-3a63-49ed-8b5e-be72e58220f8",
-      "title": "Junior Structural Engineer – Existing Structures",
-      "company": "Walker Consultants",
-      "place": "Waltham, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$80.0K-$100.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/walkerconsultants/74de9a05-a447-40b0-9429-4ace417ba411",
-      "firstJobbyUrl": "https://firstjobby.com/companies/walkerconsultants/junior-structural-engineer-existing-structures-walker-consultants-db0161?utm_source=reddit",
-      "postedAt": "2026-11-25T17:40:32.381Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
