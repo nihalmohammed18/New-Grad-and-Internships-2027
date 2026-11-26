@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:18:56.438Z",
+  "generatedAt": "2026-11-26T08:29:53.753Z",
   "jobs": [
     {
       "id": "94bbe198-3d3a-432d-b752-8465a8cef4e7",
@@ -247,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/nium/data-engineer-ii-nium-8ee417?utm_source=reddit",
       "postedAt": "2026-11-26T05:45:09.453Z",
       "notable": 3
+    },
+    {
+      "id": "042dd6e1-613f-4f89-9e4f-701dea503acb",
+      "title": "Platform Solutions & Operations (PSO) Specialist",
+      "company": "Nagarro",
+      "place": "Remote from Philippines",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Nagarro1/744000163808509-platform-solutions-operations-pso-specialist-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nagarro1/platform-solutions-and-operations-pso-specialist-nagarro-40b03d?utm_source=reddit",
+      "postedAt": "2026-11-26T05:42:45.904Z",
+      "notable": 2
     },
     {
       "id": "77eb0d50-04bb-44af-900e-88f6780536e0",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000163725736",
       "firstJobbyUrl": "https://firstjobby.com/companies/jacklinksproteinsnacks/field-sales-representative-munchen-jack-links-protein-snacks-f7e8a2?utm_source=reddit",
       "postedAt": "2026-11-25T16:21:37.497Z",
-      "notable": 3
-    },
-    {
-      "id": "af85c325-ebe1-4dc4-97c2-db98fb97c96c",
-      "title": "Associate - Operations",
-      "company": "WNS Global Services",
-      "place": "San Jose, United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/WNSGlobalServices144/744000163725700",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wnsglobalservices144/associate-operations-wns-global-services-5287fb?utm_source=reddit",
-      "postedAt": "2026-11-25T16:20:05.039Z",
       "notable": 3
     }
   ],
