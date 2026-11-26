@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:00:16.655Z",
+  "generatedAt": "2026-11-26T04:07:56.909Z",
   "jobs": [
     {
       "id": "53e03087-d766-49c4-bfdb-8efebedd21b8",
@@ -1842,6 +1842,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/saronic/7d4461fa-0c32-45e5-8522-1e18ddd9135a",
       "firstJobbyUrl": "https://firstjobby.com/companies/saronic-ashby/mission-operations-engineer-product-saronic-technologies-f7f464?utm_source=reddit",
       "postedAt": "2026-11-25T23:34:42.005Z",
+      "notable": 3
+    },
+    {
+      "id": "7b8a5238-8fbe-4fe9-bfc2-a365002cf2d9",
+      "title": "Enterprise Marketing Operations Intern, 2027 Summer U.S.",
+      "company": "Atlassian",
+      "place": "Remote",
+      "category": "Marketing",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://www.atlassian.com/company/careers/details/27473",
+      "firstJobbyUrl": "https://firstjobby.com/companies/atlassian/enterprise-marketing-operations-intern-2027-summer-us-atlassian-7ecc7b?utm_source=reddit",
+      "postedAt": "2026-11-25T23:32:00.000Z",
       "notable": 3
     },
     {
@@ -4901,7 +4920,7 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/reachdesk/jobs/5048770101",
       "firstJobbyUrl": "https://firstjobby.com/companies/reachdesk/brand-account-manager-reachdesk-ltd-e1a68a?utm_source=reddit",
       "postedAt": "2026-11-25T18:04:42.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "80bc4681-1f6c-42a7-869b-e7915f69ec2e",
@@ -5281,7 +5300,7 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/reachdesk/jobs/5048757101",
       "firstJobbyUrl": "https://firstjobby.com/companies/reachdesk/business-development-representative-reachdesk-ltd-9e159d?utm_source=reddit",
       "postedAt": "2026-11-25T17:36:59.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "1032431c-e07c-46d9-9f51-f2d2e16daa9a",
@@ -5661,7 +5680,7 @@
       "applyUrl": "https://job-boards.eu.greenhouse.io/reachdesk/jobs/5048742101",
       "firstJobbyUrl": "https://firstjobby.com/companies/reachdesk/business-development-representative-reachdesk-ltd-9e22fe?utm_source=reddit",
       "postedAt": "2026-11-25T17:17:11.000Z",
-      "notable": 5
+      "notable": 3
     },
     {
       "id": "cfc2b5f0-9d4f-4b4a-b148-41995f43e5a8",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/airspace/commander-coordinator-central-time-airspace-50a0d6?utm_source=reddit",
       "postedAt": "2026-11-25T14:28:06.000Z",
       "notable": 2
-    },
-    {
-      "id": "5d9f270a-0dc0-4cd2-9c12-a41d5b0a1888",
-      "title": "Junior Customer Service Manager - Automation & AI (all genders)",
-      "company": "ABOUT YOU SE & Co. KG",
-      "place": "Hamburg, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000163698579",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aboutyougmbh/junior-customer-service-manager-automation-and-ai-all-genders-about-you-se-and-c-174b51?utm_source=reddit",
-      "postedAt": "2026-11-25T14:27:39.782Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
