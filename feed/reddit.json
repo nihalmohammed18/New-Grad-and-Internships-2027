@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:21:25.523Z",
+  "generatedAt": "2026-11-26T00:30:54.802Z",
   "jobs": [
     {
       "id": "fb9cfe1b-ac51-4735-b21b-c29c8422faaf",
@@ -397,6 +397,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Engineer--AUTOMATION---APC-PAE_JR118243",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/engineer-automation-and-apc-pae-micron-technology-25d94a?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "38ed972d-1b90-4bc3-833a-ab73112b01b2",
+      "title": "SEGUROS COL - INSURANCE SALES PROMOTER- BANCASEGUROS SEG VIDA - BBVA SEGUROS (CARTAGENA)",
+      "company": "BBVA",
+      "place": "Cartagena, Colombia",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/13001-Cartagena-De-Indias-Bolvar/SEGUROS-COL---INSURANCE-SALES-PROMOTER--BANCASEGUROS-SEG-VIDA---BBVA-SEGUROS--CARTAGENA-_JR00119869",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bbvaorwd3orbbva/seguros-col-insurance-sales-promoter-bancaseguros-seg-vida-bbva-seguros-cartagen-c7fe22?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -7849,6 +7868,25 @@
       "notable": 3
     },
     {
+      "id": "a1f094b9-8f09-4467-8fdd-e84016f5f5b2",
+      "title": "Business Development Associate",
+      "company": "Wolt - Hebrew",
+      "place": "Ramat Gan, Israel",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/woltisrael/jobs/8416827",
+      "firstJobbyUrl": "https://firstjobby.com/companies/woltisrael/business-development-associate-wolt-hebrew-281998?utm_source=reddit",
+      "postedAt": "2026-11-25T13:24:31.000Z",
+      "notable": 1
+    },
+    {
       "id": "db183d4a-2085-43c8-a69e-907536abfbef",
       "title": "Data Operations Analyst - Client Instruction",
       "company": "NielsenIQ",
@@ -9461,44 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/StepStoneGroup/744000163658140",
       "firstJobbyUrl": "https://firstjobby.com/companies/stepstonegroup/mitarbeiter-mwd-vertriebsunterstutzung-sales-support-stepstone-group-61fe67?utm_source=reddit",
       "postedAt": "2026-11-25T11:04:48.072Z",
-      "notable": 3
-    },
-    {
-      "id": "9720d33a-12e9-4ca8-8583-57774ed87e74",
-      "title": "City Research Scientist",
-      "company": "City of New York",
-      "place": "New York City, United States",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990017083496",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cityofnewyork/city-research-scientist-city-of-new-york-2ebfcf?utm_source=reddit",
-      "postedAt": "2026-11-25T11:03:26.001Z",
-      "notable": 3
-    },
-    {
-      "id": "f8c0fb6a-805b-4470-a502-6866d1cdacdd",
-      "title": "生产运营管培生Operation Engineer Trainee_EM",
-      "company": "Bosch Group",
-      "place": "Changsha, China",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163657390",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/operation-engineer-traineeem-bosch-group-43f8a2?utm_source=reddit",
-      "postedAt": "2026-11-25T11:02:45.527Z",
       "notable": 3
     }
   ],
