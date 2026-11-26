@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:29:18.099Z",
+  "generatedAt": "2026-11-26T06:40:14.238Z",
   "jobs": [
     {
       "id": "a1c41ed5-5de5-47c0-8967-d258a79f6746",
@@ -1370,6 +1370,25 @@
       "notable": 2
     },
     {
+      "id": "bd90957a-73b9-48f7-80a5-c500ebdf2862",
+      "title": "SMB Account Executive",
+      "company": "Zendesk",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-South-Korea/SMB-Account-Executive_R35991-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/zendeskorwd1orzendesk/smb-account-executive-zendesk-1c5cc7?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "bd0e4434-d46f-4ceb-b131-ec4004301c88",
       "title": "Strategic Account Manager Oncology (Bandung)",
       "company": "GSK",
@@ -2337,6 +2356,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/avisbudgetorwd1orabgcareers/customer-service-and-operations-representative-avis-budget-group-5126d8?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "308adc51-8840-4f5a-8174-55ecfaa55efe",
+      "title": "Africa Strategic Growth Partner (Commission-based)",
+      "company": "Matific",
+      "place": "Remote",
+      "category": "Marketing",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/88ED91795F",
+      "firstJobbyUrl": "https://firstjobby.com/companies/matific/africa-strategic-growth-partner-commission-based-matific-3321c8?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "2f95810c-e7a6-460f-9104-6737a9c698f4",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aristanetworks/full-stack-application-developer-arista-networks-cd1f1d?utm_source=reddit",
       "postedAt": "2026-11-25T15:27:28.875Z",
       "notable": 4
-    },
-    {
-      "id": "3bbec1f2-ec3a-4cd6-830e-a80edab81f2d",
-      "title": "Propulsion Engineer II",
-      "company": "Voyager Technologies, Inc.",
-      "place": "Mojave, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "us_person",
-      "pay": "$95.0K-$125.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4520802009",
-      "firstJobbyUrl": "https://firstjobby.com/companies/voyagertechnologiesinc/propulsion-engineer-ii-voyager-technologies-inc-7ea6b0?utm_source=reddit",
-      "postedAt": "2026-11-25T15:23:03.000Z",
-      "notable": 5
-    },
-    {
-      "id": "0eebfca2-01a5-4de8-948f-f37fba9f056e",
-      "title": "Werkstudent Digital & Performance Marketing - Google & Meta Ads (w/m/div.)",
-      "company": "Bosch Group",
-      "place": "Wernau, Germany",
-      "category": "Marketing",
-      "jobType": "part-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163712434",
-      "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/werkstudent-digital-and-performance-marketing-google-and-meta-ads-wmdiv-bosch-gr-b5af30?utm_source=reddit",
-      "postedAt": "2026-11-25T15:19:14.988Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
