@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:23:46.694Z",
+  "generatedAt": "2026-11-26T02:33:04.092Z",
   "jobs": [
     {
       "id": "0c064058-bc34-43ca-b74b-97e8ca4d116c",
@@ -739,6 +739,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Facility-Engineer_JR118001",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/facility-engineer-micron-technology-562e08?utm_source=reddit",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "528a3c18-80aa-4fac-8192-6b216893936e",
+      "title": "Field Application Engineer",
+      "company": "Revvity",
+      "place": "Taiwan",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://revvity.wd103.myworkdayjobs.com/External/job/Taiwan-Field---Euroimmun/Field-Application-Engineer_JR-046098",
+      "firstJobbyUrl": "https://firstjobby.com/companies/revvityorwd103orexternal/field-application-engineer-revvity-88058e?utm_source=reddit",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medialicious/motion-designer-medialicious-be2d67?utm_source=reddit",
       "postedAt": "2026-11-25T13:27:18.354Z",
       "notable": 1
-    },
-    {
-      "id": "7fd6da96-7b98-43ef-9dee-7ed8562c660a",
-      "title": "Account Manager",
-      "company": "Megaport",
-      "place": "São Paulo, Brazil",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/megaport/0c772a47-b1a0-413b-ac1b-4bb938eb88c0",
-      "firstJobbyUrl": "https://firstjobby.com/companies/megaport/account-manager-megaport-903d11?utm_source=reddit",
-      "postedAt": "2026-11-25T13:26:28.328Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
