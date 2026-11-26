@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:33:52.048Z",
+  "generatedAt": "2026-11-26T21:54:27.940Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -664,6 +664,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/lilt-production/4a8527ac-d140-4044-b0e7-37f0df30bfe8",
       "firstJobbyUrl": "https://firstjobby.com/companies/lilt-production/ai-training-contributor-welsh-remote-lilt-production-733b66?utm_source=reddit",
       "postedAt": "2026-11-26T17:01:23.014Z",
+      "notable": 3
+    },
+    {
+      "id": "849740f8-74e8-4952-a997-0e6e0ef9e2fa",
+      "title": "Business Development Representative",
+      "company": "Wellhub",
+      "place": "London, United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/gympass/jobs/8963417002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/gympass/business-development-representative-wellhub-f57a2d?utm_source=reddit",
+      "postedAt": "2026-11-26T16:57:54.000Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-growth-deployment-specialist-united-media-ee10cf?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "35b98d52-01f5-4d71-b116-a189ed21d4e4",
-      "title": "AI Consultant",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217869003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-consultant-cfo-insights-5bd033?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
