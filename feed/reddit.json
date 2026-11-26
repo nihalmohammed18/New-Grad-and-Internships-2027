@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:54:27.940Z",
+  "generatedAt": "2026-11-26T22:03:22.783Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -303,6 +303,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/Wise/744000163914889-customer-support-specialist-spanish-speaker-5-am-shift-",
       "firstJobbyUrl": "https://firstjobby.com/companies/wise-smartrecruiters/customer-support-specialist-spanish-speaker-5-am-shift-wise-e0779a?utm_source=reddit",
       "postedAt": "2026-11-26T18:19:59.095Z",
+      "notable": 3
+    },
+    {
+      "id": "5300d15d-ec92-406b-9192-45fe83d36356",
+      "title": "Instructional Designer Colombia",
+      "company": "Plata Card",
+      "place": "Bogotá, Colombia",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://plata.careers/vacancy/details?id=5494954008&gh_jid=5494954008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/platacard/instructional-designer-colombia-plata-card-33ea55?utm_source=reddit",
+      "postedAt": "2026-11-26T18:15:57.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217941003",
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-growth-transformation-analyst-united-media-1c186a?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "3687b979-44af-4bfd-ae99-f141efab528e",
-      "title": "AI Growth Deployment Specialist",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217958003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-growth-deployment-specialist-united-media-ee10cf?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
     }
