@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:31:35.715Z",
+  "generatedAt": "2026-11-26T03:39:51.721Z",
   "jobs": [
     {
       "id": "53e03087-d766-49c4-bfdb-8efebedd21b8",
@@ -2130,6 +2130,25 @@
       "notable": 6
     },
     {
+      "id": "c289373e-25be-4332-b52a-c250507e0c6c",
+      "title": "Executive & Office Coordinator | Coordonnateur·trice – Soutien à la direction et gestion de bureau",
+      "company": "Alveole",
+      "place": "Montreal, Canada",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$65.0K-CA$75.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/alveole/jobs/4524401009",
+      "firstJobbyUrl": "https://firstjobby.com/companies/alveole/executive-and-office-coordinator-or-coordonnateurtrice-soutien-a-la-direction-et-b3834c?utm_source=reddit",
+      "postedAt": "2026-11-25T22:09:56.000Z",
+      "notable": 4
+    },
+    {
       "id": "6f93afab-4a53-4bf9-a355-6448be7206c6",
       "title": "Territory Sales Representative / Restaurant Specialist - Brentwood, TN",
       "company": "SpotOn",
@@ -2147,6 +2166,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/spoton/territory-sales-representative-restaurant-specialist-brentwood-tn-spoton-88c5a1?utm_source=reddit",
       "postedAt": "2026-11-25T22:09:33.812Z",
       "notable": 6
+    },
+    {
+      "id": "b2979df6-051b-457a-bcdc-5d3db87b558e",
+      "title": "Engineer, Ethernet Enablement",
+      "company": "Tenstorrent",
+      "place": "Vancouver, Canada",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/tenstorrent/jobs/5309823007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tenstorrent/engineer-ethernet-enablement-tenstorrent-0b005c?utm_source=reddit",
+      "postedAt": "2026-11-25T22:07:45.000Z",
+      "notable": 3
     },
     {
       "id": "5f612b28-e91e-4ba8-9237-2f05ef2deb25",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/rocketfactoryaugsburgag/ground-systems-engineer-mfd-rocket-factory-augsburg-ag-en-23b4e3?utm_source=reddit",
       "postedAt": "2026-11-25T14:12:15.000Z",
       "notable": 3
-    },
-    {
-      "id": "488727d8-cc93-463b-b6f5-fd46b55e63d4",
-      "title": "Technical Support Agent",
-      "company": "Jobgether",
-      "place": "Remote from Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$20-CA$28/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/1e6142ba-6cd3-49b1-a001-a4d5ccbd7e93",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/technical-support-agent-jobgether-1eaa89?utm_source=reddit",
-      "postedAt": "2026-11-25T14:07:41.599Z",
-      "notable": 5
-    },
-    {
-      "id": "5c477568-248c-472d-b6bb-fd7d666259b1",
-      "title": "Technical Development Consultant (Software Developer)",
-      "company": "Jobgether",
-      "place": "Canada",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "CA",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "CA$72.5K-CA$108.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/61e88bb8-bd3a-4a23-b808-e8de39012432",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/technical-development-consultant-software-developer-jobgether-d1a04a?utm_source=reddit",
-      "postedAt": "2026-11-25T14:05:43.872Z",
-      "notable": 5
     }
   ],
   "fakeEntryLevel": {
