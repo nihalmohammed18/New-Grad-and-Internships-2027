@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:07:56.909Z",
+  "generatedAt": "2026-11-26T04:21:39.072Z",
   "jobs": [
     {
       "id": "53e03087-d766-49c4-bfdb-8efebedd21b8",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/deloittenz/2027-graduate-or-forensics-analytics-deloitte-nz-a03d1d?utm_source=reddit",
       "postedAt": "2026-11-26T01:41:01.812Z",
       "notable": 3
+    },
+    {
+      "id": "a2be646d-7dc8-45b7-b1a1-87c55b091656",
+      "title": "Sales Development Representative",
+      "company": "Schrödinger",
+      "place": "Portland, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$55.0K-$80.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/schrdinger/jobs/8215528003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/schrdinger/sales-development-representative-schrodinger-93d357?utm_source=reddit",
+      "postedAt": "2026-11-26T01:38:33.000Z",
+      "notable": 2
     },
     {
       "id": "0c064058-bc34-43ca-b74b-97e8ca4d116c",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/eightsleep-ashby/new-grad-engineering-full-time-eight-sleep-d75eb5?utm_source=reddit",
       "postedAt": "2026-11-25T14:28:54.332Z",
       "notable": 3
-    },
-    {
-      "id": "33bc32bd-4028-4b05-a7fe-6b1c62860b9b",
-      "title": "Commander Coordinator (Central Time)",
-      "company": "Airspace ",
-      "place": "Remote from United States",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$22-$26/hr",
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/airspace/jobs/6270964004",
-      "firstJobbyUrl": "https://firstjobby.com/companies/airspace/commander-coordinator-central-time-airspace-50a0d6?utm_source=reddit",
-      "postedAt": "2026-11-25T14:28:06.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
