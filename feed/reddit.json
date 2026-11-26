@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:47:47.747Z",
+  "generatedAt": "2026-11-26T00:50:41.240Z",
   "jobs": [
     {
       "id": "fb9cfe1b-ac51-4735-b21b-c29c8422faaf",
@@ -1427,6 +1427,44 @@
       "notable": 3
     },
     {
+      "id": "d40baa90-9154-4d49-85e4-afdd6b9f2432",
+      "title": "VDC Project Coordinator II",
+      "company": "CRB",
+      "place": "Raleigh, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/CRB/744000163755179-vdc-project-coordinator-ii",
+      "firstJobbyUrl": "https://firstjobby.com/companies/crb/vdc-project-coordinator-ii-crb-0c2188?utm_source=reddit",
+      "postedAt": "2026-11-25T19:34:44.777Z",
+      "notable": 3
+    },
+    {
+      "id": "ac481f7c-460f-4252-b209-a6fe840c56ec",
+      "title": "Sales Associate - Mercedes Benz of Midlothian",
+      "company": "Murgado Automotive Group",
+      "place": "Midlothian, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$80.0K-$120.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/murgadoautomotive/7efda083-b19f-4827-ad65-a40f5396d4d5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/murgadoautomotive/sales-associate-mercedes-benz-of-midlothian-murgado-automotive-group-8672af?utm_source=reddit",
+      "postedAt": "2026-11-25T19:34:28.469Z",
+      "notable": 5
+    },
+    {
       "id": "b4bec6de-16bb-4953-99a5-7e899f73e7de",
       "title": "Software Engineering (Engineering Productivity) Intern",
       "company": "Xona Space Systems",
@@ -1747,6 +1785,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a",
       "firstJobbyUrl": "https://firstjobby.com/companies/modal-ashby/customer-engineer-modal-a822c4?utm_source=reddit",
       "postedAt": "2026-11-25T18:58:26.261Z",
+      "notable": 5
+    },
+    {
+      "id": "df4c1713-9f58-42cc-a30a-2cea69ab609b",
+      "title": "Bilingual Technical Product Specialist TT - Technical Customer Service",
+      "company": "Continental",
+      "place": "Mississauga, Canada",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "CA$82.0K-CA$110.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000163749789--bilingual-technical-product-specialist-tt-technical-customer-service",
+      "firstJobbyUrl": "https://firstjobby.com/companies/continental/bilingual-technical-product-specialist-tt-technical-customer-service-continental-161be6?utm_source=reddit",
+      "postedAt": "2026-11-25T18:55:42.784Z",
       "notable": 5
     },
     {
@@ -5259,7 +5316,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163714885-consultant-marketing-strategy-digital-transformation",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163714885",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-marketing-strategy-and-digital-transformation-sia-a85739?utm_source=reddit",
       "postedAt": "2026-11-25T15:42:48.045Z",
       "notable": 4
@@ -5506,7 +5563,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163711896-rental-sales-agent-m-f-d-sant-cugat",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163711896",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-mfd-sant-cugat-sixt-2a7459?utm_source=reddit",
       "postedAt": "2026-11-25T15:35:12.795Z",
       "notable": 3
@@ -5525,7 +5582,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163716269-rental-sales-agent-m-f-d-sant-cugat",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163716269",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/rental-sales-agent-mfd-sant-cugat-sixt-30de18?utm_source=reddit",
       "postedAt": "2026-11-25T15:34:26.181Z",
       "notable": 3
@@ -6095,7 +6152,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163705439-consultant-in-data-science",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163705439",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-in-data-science-sia-46487f?utm_source=reddit",
       "postedAt": "2026-11-25T14:49:04.841Z",
       "notable": 4
@@ -6152,7 +6209,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699583-junior-forward-deployed-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699583",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-bf9efd?utm_source=reddit",
       "postedAt": "2026-11-25T14:48:36.528Z",
       "notable": 3
@@ -6190,7 +6247,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702987-junior-forward-deployed-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702987",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-bdef1f?utm_source=reddit",
       "postedAt": "2026-11-25T14:48:22.406Z",
       "notable": 4
@@ -6228,7 +6285,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163704419-machine-learning-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163704419",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/machine-learning-engineer-sia-82f3ad?utm_source=reddit",
       "postedAt": "2026-11-25T14:46:51.477Z",
       "notable": 3
@@ -6247,7 +6304,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163704059-data-science-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163704059",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-science-consultant-sia-153491?utm_source=reddit",
       "postedAt": "2026-11-25T14:46:10.497Z",
       "notable": 4
@@ -6304,7 +6361,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703759-junior-forward-deployed-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703759",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-4307f8?utm_source=reddit",
       "postedAt": "2026-11-25T14:45:05.479Z",
       "notable": 4
@@ -6361,7 +6418,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703549-data-analytics-consultant-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703549",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-analytics-consultant-sia-346f3d?utm_source=reddit",
       "postedAt": "2026-11-25T14:44:45.858Z",
       "notable": 4
@@ -6380,7 +6437,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163698922-junior-forward-deployed-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163698922",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-9f88aa?utm_source=reddit",
       "postedAt": "2026-11-25T14:44:29.622Z",
       "notable": 4
@@ -6418,7 +6475,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703124-consultant-data-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163703124",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-sia-6d228e?utm_source=reddit",
       "postedAt": "2026-11-25T14:44:04.906Z",
       "notable": 4
@@ -6437,7 +6494,7 @@
       "pay": "$19/hr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163700646-operations-support-associate-tucson-international-airport-",
+      "applyUrl": "https://jobs.smartrecruiters.com/SIXT/744000163700646",
       "firstJobbyUrl": "https://firstjobby.com/companies/sixt/operations-support-associate-tucson-international-airport-sixt-e44adf?utm_source=reddit",
       "postedAt": "2026-11-25T14:43:42.896Z",
       "notable": 5
@@ -6456,7 +6513,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702990-consultant-in-data-science",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702990",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-in-data-science-sia-95e07a?utm_source=reddit",
       "postedAt": "2026-11-25T14:43:20.806Z",
       "notable": 4
@@ -6475,7 +6532,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700930-data-analytics-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700930",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-and-analytics-consultant-sia-f3d7e4?utm_source=reddit",
       "postedAt": "2026-11-25T14:43:04.162Z",
       "notable": 3
@@ -6494,7 +6551,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701312-data-analytics-consultant-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701312",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-analytics-consultant-sia-505677?utm_source=reddit",
       "postedAt": "2026-11-25T14:41:51.228Z",
       "notable": 3
@@ -6532,7 +6589,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701111-machine-learning-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701111",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/machine-learning-engineer-sia-b81883?utm_source=reddit",
       "postedAt": "2026-11-25T14:41:26.667Z",
       "notable": 4
@@ -6551,7 +6608,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700653-data-science-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700653",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-science-consultant-sia-098bf8?utm_source=reddit",
       "postedAt": "2026-11-25T14:41:10.581Z",
       "notable": 4
@@ -6570,7 +6627,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702259-machine-learning-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163702259",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/machine-learning-engineer-sia-a7d9dd?utm_source=reddit",
       "postedAt": "2026-11-25T14:40:53.518Z",
       "notable": 4
@@ -6589,7 +6646,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701920-data-science-consultant",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701920",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-science-consultant-sia-f14355?utm_source=reddit",
       "postedAt": "2026-11-25T14:40:19.870Z",
       "notable": 4
@@ -6608,7 +6665,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701819-consultant-data-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163701819",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-sia-4f44ca?utm_source=reddit",
       "postedAt": "2026-11-25T14:39:44.531Z",
       "notable": 3
@@ -6646,7 +6703,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700826-data-engineer-consultant-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700826",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/data-engineer-consultant-sia-286d94?utm_source=reddit",
       "postedAt": "2026-11-25T14:38:52.503Z",
       "notable": 4
@@ -6684,7 +6741,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163696420-consultant-data-engineer-google-cloud-gcp-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163696420",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-google-cloud-gcp-sia-4b57a7?utm_source=reddit",
       "postedAt": "2026-11-25T14:38:21.351Z",
       "notable": 4
@@ -6703,7 +6760,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163697303-junior-forward-deployed-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163697303",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/junior-forward-deployed-engineer-sia-fb5cce?utm_source=reddit",
       "postedAt": "2026-11-25T14:37:21.660Z",
       "notable": 3
@@ -6722,7 +6779,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699663-consultant-data-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699663",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-sia-a01c30?utm_source=reddit",
       "postedAt": "2026-11-25T14:36:50.155Z",
       "notable": 4
@@ -6779,7 +6836,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700229-consultant-data-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163700229",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-sia-1d158f?utm_source=reddit",
       "postedAt": "2026-11-25T14:32:49.773Z",
       "notable": 4
@@ -6817,7 +6874,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163695810-machine-learning-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163695810",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/machine-learning-engineer-sia-e887ab?utm_source=reddit",
       "postedAt": "2026-11-25T14:31:50.784Z",
       "notable": 4
@@ -6836,7 +6893,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163698794-consultant-data-engineer-google-cloud-gcp-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163698794",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/consultant-data-engineer-google-cloud-gcp-sia-afca76?utm_source=reddit",
       "postedAt": "2026-11-25T14:31:31.010Z",
       "notable": 4
@@ -6912,7 +6969,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699069-machine-learning-engineer",
+      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000163699069",
       "firstJobbyUrl": "https://firstjobby.com/companies/sia/machine-learning-engineer-sia-bad1a5?utm_source=reddit",
       "postedAt": "2026-11-25T14:30:01.309Z",
       "notable": 4
@@ -7444,7 +7501,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000163690402-mandatory-internship-employer-branding-employee-engagement-m-f-d-ref100683s",
+      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000163690402",
       "firstJobbyUrl": "https://firstjobby.com/companies/continental/mandatory-internship-employer-branding-and-employee-engagement-mfd-ref100683s-co-2395ff?utm_source=reddit",
       "postedAt": "2026-11-25T13:55:37.406Z",
       "notable": 2
@@ -7539,7 +7596,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000163690659-pflichtpraktikum-employer-branding-employee-engagement-m-f-d-ref100683s",
+      "applyUrl": "https://jobs.smartrecruiters.com/Continental/744000163690659",
       "firstJobbyUrl": "https://firstjobby.com/companies/continental/pflichtpraktikum-employer-branding-and-employee-engagement-mfd-ref100683s-contin-099951?utm_source=reddit",
       "postedAt": "2026-11-25T13:50:55.233Z",
       "notable": 2
@@ -7634,7 +7691,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CulinaGroup1/744000163689392-engineering-team-leader-",
+      "applyUrl": "https://jobs.smartrecruiters.com/CulinaGroup1/744000163689392",
       "firstJobbyUrl": "https://firstjobby.com/companies/culinagroup1/engineering-team-leader-culina-group-59dce6?utm_source=reddit",
       "postedAt": "2026-11-25T13:45:38.615Z",
       "notable": 3
@@ -9442,63 +9499,6 @@
       "applyUrl": "https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003",
       "firstJobbyUrl": "https://firstjobby.com/companies/abnormalsecurity/software-engineer-i-backend-abnormal-7c78d8?utm_source=reddit",
       "postedAt": "2026-11-25T11:48:02.000Z",
-      "notable": 3
-    },
-    {
-      "id": "34da2731-967c-4c6f-ae98-2b3009bda30d",
-      "title": "Researcher, Poultry Welfare (one-year fixed-term contract)",
-      "company": "Welfare Footprint Institute",
-      "place": "Remote",
-      "category": "Research",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$85.0K-$95.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.ashbyhq.com/welfarefootprint/58084e3b-78eb-4439-88b5-de4842cd5936",
-      "firstJobbyUrl": "https://firstjobby.com/companies/welfarefootprint/researcher-poultry-welfare-one-year-fixed-term-contract-welfare-footprint-instit-fc6abf?utm_source=reddit",
-      "postedAt": "2026-11-25T11:39:19.933Z",
-      "notable": 3
-    },
-    {
-      "id": "88a10ea4-b88d-4a86-84cb-d8b26b983b37",
-      "title": "Concrete Enforcement Engineering Intern",
-      "company": "City of New York",
-      "place": "New York, United States",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084406",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cityofnewyork/concrete-enforcement-engineering-intern-city-of-new-york-bc93f9?utm_source=reddit",
-      "postedAt": "2026-11-25T11:35:59.574Z",
-      "notable": 3
-    },
-    {
-      "id": "003a9c7e-cc9a-421e-8f9c-9a5281decf81",
-      "title": "FIRE DEPARTMENT BHS EMBEDDED SUPPORT ENGINEER",
-      "company": "City of New York",
-      "place": "New York City, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084221",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cityofnewyork/fire-department-bhs-embedded-support-engineer-city-of-new-york-94f062?utm_source=reddit",
-      "postedAt": "2026-11-25T11:35:40.996Z",
       "notable": 3
     }
   ],
