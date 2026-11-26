@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:15:20.407Z",
+  "generatedAt": "2026-11-26T22:23:43.853Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -743,6 +743,25 @@
       "notable": 6
     },
     {
+      "id": "784eda35-2d5d-45e0-8ed9-8b76e3c26a9d",
+      "title": "Sales Development Representative (Swedish Fluency)",
+      "company": "Stripe",
+      "place": "Dublin, Ireland",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8419418",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stripe/sales-development-representative-swedish-fluency-stripe-a931b3?utm_source=reddit",
+      "postedAt": "2026-11-26T17:21:42.000Z",
+      "notable": 3
+    },
+    {
       "id": "cd41025a-0bab-45cd-a651-b437ccae7d1d",
       "title": "Talent AI Operator",
       "company": "Clera",
@@ -836,6 +855,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/clera/founding-engineer-full-stackai-clera-456f1a?utm_source=reddit",
       "postedAt": "2026-11-26T17:16:12.674Z",
       "notable": 6
+    },
+    {
+      "id": "fc78358b-593a-4666-bf9f-96b1c5b00c48",
+      "title": "Sales Development Representative (Dutch Fluency)",
+      "company": "Stripe",
+      "place": "Dublin, Ireland",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8414067",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stripe/sales-development-representative-dutch-fluency-stripe-4cb86e?utm_source=reddit",
+      "postedAt": "2026-11-26T17:15:27.000Z",
+      "notable": 3
     },
     {
       "id": "32208f1c-8c36-4b0e-a716-33e8314ee55c",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-operations-specialist-cfo-insights-340d8b?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
-    },
-    {
-      "id": "401fc4df-2ea7-499e-b7b2-5e0901b3e65d",
-      "title": "AI Value Creation Associate",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217931003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/ai-value-creation-associate-hrtechx-45f2b6?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "3fb96a1e-4e1d-4a68-8755-2e2024060855",
-      "title": "AI Engineer, Growth",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217838003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-engineer-growth-united-media-33ab29?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
