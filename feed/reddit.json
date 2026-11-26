@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:14:21.711Z",
+  "generatedAt": "2026-11-26T00:21:25.523Z",
   "jobs": [
     {
       "id": "fb9cfe1b-ac51-4735-b21b-c29c8422faaf",
@@ -7298,6 +7298,25 @@
       "notable": 2
     },
     {
+      "id": "f6c314ae-f702-4615-8f73-adb47ec9c495",
+      "title": "Real Estate Analyst",
+      "company": "United Capital",
+      "place": "København, Denmark",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/unitedcapital/jobs/8216903003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/unitedcapital/real-estate-analyst-united-capital-c2b95f?utm_source=reddit",
+      "postedAt": "2026-11-25T13:49:48.000Z",
+      "notable": 1
+    },
+    {
       "id": "4960d8a6-9617-41f6-9e70-897809f8a0ec",
       "title": "Administrateur Systèmes / Infrastructure H/F",
       "company": "Inetum",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/operation-engineer-traineeem-bosch-group-43f8a2?utm_source=reddit",
       "postedAt": "2026-11-25T11:02:45.527Z",
       "notable": 3
-    },
-    {
-      "id": "b2cba2ae-7ade-4df1-8706-08fd286b730c",
-      "title": "Data Analyst (m/w/d)",
-      "company": "SQLI",
-      "place": "Dortmund, Germany",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/sqli1/744000163657669",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sqli1/data-analyst-mwd-sqli-911c46?utm_source=reddit",
-      "postedAt": "2026-11-25T11:00:23.159Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
