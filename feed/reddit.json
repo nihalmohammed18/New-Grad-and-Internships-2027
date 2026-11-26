@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:48:10.629Z",
+  "generatedAt": "2026-11-26T21:01:15.274Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -1750,6 +1750,25 @@
       "notable": 3
     },
     {
+      "id": "48c3dcf0-4550-44f8-a8d5-0315866455f6",
+      "title": "FIU Analyst",
+      "company": "MoonPay",
+      "place": "Barcelona, Spain",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/moonpay/39572677-1dba-4b41-8c79-21ef6061eae3",
+      "firstJobbyUrl": "https://firstjobby.com/companies/moonpay-lever/fiu-analyst-moonpay-92f49c?utm_source=reddit",
+      "postedAt": "2026-11-26T14:34:17.654Z",
+      "notable": 1
+    },
+    {
       "id": "1f18bcc0-0a98-4355-931d-629008088798",
       "title": "Enterprise Account Executive (LATAM)",
       "company": "Exclaimer",
@@ -2048,7 +2067,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.deerns.com/o/marketing-communicatie-meewerkstagiair-1",
+      "applyUrl": "https://jobs.deerns.com/o/marketing-communicatie-meewerkstagiair-nl",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobsdeerns/marketing-and-communicatie-meewerkstagiair-deerns-groep-bv-4d65dc?utm_source=reddit",
       "postedAt": "2026-11-26T13:51:23.000Z",
       "notable": 1
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217617003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/growth-operations-analyst-hrtechx-cfea38?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "2dc8accd-d898-4c76-be63-654f3c04675e",
-      "title": "RevOps Engineer",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217687003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/revops-engineer-cfo-insights-8e1a35?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
