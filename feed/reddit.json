@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:10:59.452Z",
+  "generatedAt": "2026-11-27T04:16:42.323Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -151,6 +151,44 @@
       "applyUrl": "https://job-boards.greenhouse.io/easygo/jobs/5306432007",
       "firstJobbyUrl": "https://firstjobby.com/companies/easygo/marketing-coordinator-japanese-speaking-easygo-ffb876?utm_source=reddit",
       "postedAt": "2026-11-27T00:16:05.000Z",
+      "notable": 3
+    },
+    {
+      "id": "7faeb442-9200-473c-a378-07a192300e6a",
+      "title": "Sales Development Representative",
+      "company": "Snowflake",
+      "place": "Seoul, South Korea",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/02e9f023-ffc7-408e-b602-eb852a5a8e2e",
+      "firstJobbyUrl": "https://firstjobby.com/companies/snowflake-ashby/sales-development-representative-snowflake-ba131a?utm_source=reddit",
+      "postedAt": "2026-11-27T00:14:33.018Z",
+      "notable": 3
+    },
+    {
+      "id": "f5f86f00-652b-483e-b69e-a0aea86350f3",
+      "title": "Sales Development Representative (Permanent work from home)",
+      "company": "Lightspeedhq",
+      "place": "Remote",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/lightspeedhq/04b6eb83-e5e7-4604-9fa8-a574e1990e7d",
+      "firstJobbyUrl": "https://firstjobby.com/companies/lightspeedhq-ashby/sales-development-representative-permanent-work-from-home-lightspeedhq-8e55d1?utm_source=reddit",
+      "postedAt": "2026-11-27T00:05:46.152Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/growth-marketing-associate-private-equity-insights-fbf29b?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
-    },
-    {
-      "id": "6773652f-98a7-4dae-891c-b49b6161d5d6",
-      "title": "Growth Strategy Analyst",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217752003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/growth-strategy-analyst-private-equity-insights-7014e2?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "66e23525-bbec-4a43-a6ad-89ed78b564f4",
-      "title": "Growth Strategy Analyst",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217754003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-strategy-analyst-united-media-2a4f06?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
