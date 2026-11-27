@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:04:36.833Z",
+  "generatedAt": "2026-11-27T10:10:28.041Z",
   "jobs": [
     {
       "id": "db05074e-c327-43d8-96b8-4d392d68cb6f",
@@ -455,6 +455,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/WNSGlobalServices144/744000163963432-assistant-manager-data-science",
       "firstJobbyUrl": "https://firstjobby.com/companies/wnsglobalservices144/assistant-manager-data-science-wns-global-services-ba8d02?utm_source=reddit",
       "postedAt": "2026-11-27T05:33:05.884Z",
+      "notable": 3
+    },
+    {
+      "id": "416a3f03-22d6-465a-80b2-69f3a5593927",
+      "title": "Junior Revenue & Pricing Manager (m/f/d)",
+      "company": "Flix",
+      "place": "Gurugram, India",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://flix.careers/job/8949660002?gh_jid=8949660002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flix/junior-revenue-and-pricing-manager-mfd-flix-e50dd5?utm_source=reddit",
+      "postedAt": "2026-11-27T05:32:15.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217855003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/agentic-marketing-engineer-hrtechx-9a2e90?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "ec5e9014-aa9b-45b8-80ab-5815631b3397",
-      "title": "GTM Engineer",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217638003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/gtm-engineer-private-equity-insights-3124b3?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
