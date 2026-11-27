@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:34:54.406Z",
+  "generatedAt": "2026-11-27T10:39:00.942Z",
   "jobs": [
     {
       "id": "9baef03c-393d-4cb0-87d1-275b53197d60",
@@ -3061,6 +3061,25 @@
       "notable": 2
     },
     {
+      "id": "617e8c27-53bf-44fb-9008-8b808ea89ce4",
+      "title": "Software Engineer Java",
+      "company": "Murex",
+      "place": "Paris, France",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://murex.wd3.myworkdayjobs.com/MurexCareerPage1/job/Paris/Software-Engineer-Java_JR103447",
+      "firstJobbyUrl": "https://firstjobby.com/companies/murexorwd3ormurexcareerpage1/software-engineer-java-murex-d7d926?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "60ec3749-67b0-4dd3-b6e4-7d5537a6a97d",
       "title": "LM162: Security Operations Agent",
       "company": "Fedex",
@@ -3285,6 +3304,25 @@
       "season": null,
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/R-D-Technician---Design-Verification-Testing_1214648-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orjobsathpe/randd-technician-design-verification-testing-hewlett-packard-enterprise-2d853d?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "4d2daacf-16a0-4ccb-8462-6c52b8c7bf4a",
+      "title": "Analyst",
+      "company": "NAB",
+      "place": "Gurugram, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://nab.wd3.myworkdayjobs.com/nab_careers/job/Gurugram-India/Analyst_JR122686",
+      "firstJobbyUrl": "https://firstjobby.com/companies/naborwd3ornabcareers/analyst-nab-98778a?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217875003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-engineer-private-equity-insights-0bd502?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "f852dec6-dffc-4e23-bcee-eb76e781c7e4",
-      "title": "AI Growth Deployment Associate",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217955003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/ai-growth-deployment-associate-hrtechx-e3f7dd?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "f7b63924-6cc0-4933-8fa1-a7af9b740a95",
-      "title": "AI Implementation",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217891003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/ai-implementation-hrtechx-f1a4fe?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
