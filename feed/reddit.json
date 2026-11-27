@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:44:13.571Z",
+  "generatedAt": "2026-11-27T08:49:43.485Z",
   "jobs": [
     {
       "id": "da6707fb-a21c-41b3-b835-eadf47c2c1c3",
@@ -379,6 +379,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163957035--bosch-hcp-internship-production-process-engineering-intern",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/bosch-hcp-internship-production-process-engineering-intern-bosch-group-747868?utm_source=reddit",
       "postedAt": "2026-11-27T03:02:49.100Z",
+      "notable": 3
+    },
+    {
+      "id": "af20d094-aaf1-4182-9153-cfe19d06fe81",
+      "title": "[Summer Internship 2027] Marketing Intern, Creative Design",
+      "company": "Agoda",
+      "place": "Bangkok, Thailand",
+      "category": "Design",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/agoda/jobs/8419880",
+      "firstJobbyUrl": "https://firstjobby.com/companies/agoda/summer-internship-2027-marketing-intern-creative-design-agoda-f381b1?utm_source=reddit",
+      "postedAt": "2026-11-27T02:59:51.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217889003",
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-implementation-cfo-insights-ab0653?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "c84f9991-b2b7-4a14-bd8b-267da817e9bd",
-      "title": "Revenue Operations Analyst",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217677003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/revenue-operations-analyst-hrtechx-5684ab?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
