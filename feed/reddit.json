@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:49:43.485Z",
+  "generatedAt": "2026-11-27T08:59:56.601Z",
   "jobs": [
     {
       "id": "da6707fb-a21c-41b3-b835-eadf47c2c1c3",
@@ -56,6 +56,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/the-global-talent-co/074ef1f5-b283-4890-b1ec-8f435330051f",
       "firstJobbyUrl": "https://firstjobby.com/companies/the-global-talent-co/junior-german-speaking-influencer-marketing-specialist-the-global-talent-co-6bd52a?utm_source=reddit",
       "postedAt": "2026-11-27T07:17:02.514Z",
+      "notable": 3
+    },
+    {
+      "id": "641af569-fd41-45ae-ab91-64975f59d12b",
+      "title": "Intern, Customer Success, SFA",
+      "company": "NielsenIQ",
+      "place": "Kuala Lumpur, Malaysia",
+      "category": "Customer Support",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163970055-intern-customer-success-sfa",
+      "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/intern-customer-success-sfa-nielseniq-eefa9d?utm_source=reddit",
+      "postedAt": "2026-11-27T07:06:38.990Z",
       "notable": 3
     },
     {
@@ -509,7 +528,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163956259-data-operation-analyst-intern",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163956259",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/data-operation-analyst-intern-nielseniq-77a9c7?utm_source=reddit",
       "postedAt": "2026-11-27T02:45:30.787Z",
       "notable": 3
@@ -3283,7 +3302,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163928175-intern-operations",
+      "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163928175",
       "firstJobbyUrl": "https://firstjobby.com/companies/nielseniq/intern-operations-nielseniq-1aadbc?utm_source=reddit",
       "postedAt": "2026-11-26T21:50:23.235Z",
       "notable": 3
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217767003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/marketing-operations-associate-hrtechx-40f599?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "c9e44abb-7d50-4f0e-8f80-4a82858d0ac6",
-      "title": "AI Implementation",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217889003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-implementation-cfo-insights-ab0653?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
