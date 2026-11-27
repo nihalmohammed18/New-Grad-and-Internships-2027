@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:48:02.914Z",
+  "generatedAt": "2026-11-27T20:51:12.466Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/canadianhelicopters/technical-services-coordinator-canadian-helicopters-96868a?utm_source=reddit",
       "postedAt": "2026-11-27T19:52:02.112Z",
       "notable": 1
+    },
+    {
+      "id": "c6842216-ec4c-4e88-9bf6-3debe5aecea2",
+      "title": "Talent Coordinator",
+      "company": "OLIX",
+      "place": "London, United Kingdom",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$50.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/olix/ed1c6149-63c9-49a1-ad64-3d4093dc482f",
+      "firstJobbyUrl": "https://firstjobby.com/companies/olix/talent-coordinator-olix-c09828?utm_source=reddit",
+      "postedAt": "2026-11-27T19:04:53.662Z",
+      "notable": 3
     },
     {
       "id": "6e12cc55-3aa1-46db-a411-8169295a6122",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/edftradingorwd1oredftrading/short-term-analyst-intern-edftrading-b18fb3?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "c659da98-70dc-4a52-8b8a-e3672b1d153a",
-      "title": "Performance Marketing Executive - Content (Kannada) | AstroLokal (M)",
-      "company": "Lokal App",
-      "place": "Bengaluru, India",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/1467D35A8B",
-      "firstJobbyUrl": "https://firstjobby.com/companies/lokal-app/performance-marketing-executive-content-kannada-or-astrolokal-m-lokal-app-aeb716?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
