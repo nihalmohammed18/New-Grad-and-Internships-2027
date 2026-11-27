@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:54:55.102Z",
+  "generatedAt": "2026-11-27T04:10:59.452Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -344,6 +344,25 @@
       "notable": 2
     },
     {
+      "id": "b203ff96-6d47-4417-a85c-c1a3f03ccece",
+      "title": "produce sales",
+      "company": "Philips",
+      "place": "China",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Wuhan/produce-sales_594554",
+      "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/produce-sales-philips-17024d?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "9a4ea083-edf6-425f-a584-7b30cf20b8f3",
       "title": "ENGINEER, TSE PROBE INTEGRATION",
       "company": "Micron Technology",
@@ -625,6 +644,25 @@
       "season": null,
       "applyUrl": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Singapore-Singapore/SMB---Account-Executive----Greater-China-Region-_R35921",
       "firstJobbyUrl": "https://firstjobby.com/companies/zendeskorwd1orzendesk/smb-account-executive-greater-china-region-zendesk-45fd1a?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "1f7b2f94-5c03-4c4f-996d-3db68d5ba7fb",
+      "title": "Account Manager South Asia",
+      "company": "PIMCO",
+      "place": "Singapore",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Singapore/Account-Manager-South-Asia_R107136-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/pimcoorwd1orpimco-careers/account-manager-south-asia-pimco-210d53?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-strategy-analyst-united-media-2a4f06?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "66824b2b-9da7-4638-81b5-fe724ba41dd3",
-      "title": "Growth Marketing Specialist",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217611003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/growth-marketing-specialist-cfo-insights-22786b?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "660d9e31-978d-40d3-926e-6afb8f22121b",
-      "title": "Commercial Operations Associate",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217705003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/commercial-operations-associate-hrtechx-6641ff?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
