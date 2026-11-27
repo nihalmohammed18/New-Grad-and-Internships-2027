@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:41:04.749Z",
+  "generatedAt": "2026-11-27T02:49:26.071Z",
   "jobs": [
     {
       "id": "827fe0ab-32ab-476b-bbb3-b26b73d1e141",
@@ -629,6 +629,25 @@
       "notable": 3
     },
     {
+      "id": "0b90808a-b34a-4715-ad3d-eca2410c238f",
+      "title": "Customer Success Associate - Bogotá  (Hybrid)",
+      "company": "Clara ",
+      "place": "Bogotá, Colombia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/clara/jobs/5310632007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clara/customer-success-associate-bogota-hybrid-clara-e32322?utm_source=reddit",
+      "postedAt": "2026-11-26T21:05:13.000Z",
+      "notable": 3
+    },
+    {
       "id": "f9847181-4520-4f7e-ac0e-8414632dd36d",
       "title": "Sales Executive - Swedish speaking",
       "company": "Perk",
@@ -645,6 +664,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/Perk/a52d9416-f21d-40ed-b4d3-deebda5bd320",
       "firstJobbyUrl": "https://firstjobby.com/companies/perk/sales-executive-swedish-speaking-perk-ffed69?utm_source=reddit",
       "postedAt": "2026-11-26T20:53:32.059Z",
+      "notable": 3
+    },
+    {
+      "id": "8d22096a-519f-4d76-b1f3-859823ae0ec5",
+      "title": "Customer Success Associate - Mexico City (Hybrid)",
+      "company": "Clara ",
+      "place": "Mexico City, Mexico",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/clara/jobs/5310625007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clara/customer-success-associate-mexico-city-hybrid-clara-fccd28?utm_source=reddit",
+      "postedAt": "2026-11-26T20:52:52.000Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/revenue-strategy-analyst-private-equity-insights-46ac58?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
-    },
-    {
-      "id": "5e4e74f9-31c6-4bf9-a87a-9306c307e714",
-      "title": "Growth Marketing",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217537003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/growth-marketing-hrtechx-79228f?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "5d885273-d69c-4475-894d-1f30dba78a89",
-      "title": "Marketing Analyst",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217644003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/marketing-analyst-united-media-6a8abe?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
