@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:22:48.277Z",
+  "generatedAt": "2026-11-27T22:28:03.502Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -418,6 +418,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/inetum2/junior-banking-operations-inetum-edb537?utm_source=reddit",
       "postedAt": "2026-11-27T17:53:11.412Z",
       "notable": 3
+    },
+    {
+      "id": "8632e9d8-61ef-4136-bc59-12d4e79afbed",
+      "title": "Founders Associate (m/w/d) - AI Roll-up",
+      "company": "Taxforce",
+      "place": "Berlin, Germany",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/taxforce/960d8c8d-da04-4db0-a063-e60dc633bd00",
+      "firstJobbyUrl": "https://firstjobby.com/companies/taxforce/founders-associate-mwd-ai-roll-up-taxforce-b72dad?utm_source=reddit",
+      "postedAt": "2026-11-27T17:46:47.410Z",
+      "notable": 1
     },
     {
       "id": "c460e848-d731-44fb-bcc3-22e4571d30fe",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/implant-customer-engineer-i-applied-materials-dc4d3e?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "d815689c-d0b5-44a3-a2db-6b8a168b8440",
-      "title": "Graduate Engineer Trainee",
-      "company": "GE HealthCare",
-      "place": "Bengaluru, India",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4049974-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gehcorwd5orgehcexternalsite/graduate-engineer-trainee-ge-healthcare-d8dc63?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
