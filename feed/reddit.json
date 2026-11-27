@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:23:32.651Z",
+  "generatedAt": "2026-11-27T21:44:26.176Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -6684,7 +6684,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/South-Korea-Seoul-AIA-Tower/Product-Specialist_20191676-1",
+      "applyUrl": "https://cardinalhealth.wd1.myworkdayjobs.com/ext/job/South-Korea-Seoul-AIA-Tower/Product-Specialist_20191676-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/cardinalhealthorwd1orext/product-specialist-cardinal-health-2242e8?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
@@ -7942,6 +7942,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/sailpointorwd1orsailpoint/customer-support-associate-sailpoint-ab8c87?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 0
+    },
+    {
+      "id": "e9ce29e8-e20b-4f9e-8620-53fb094ac6e6",
+      "title": "System Engineer II",
+      "company": "University of Wisconsin-Madison",
+      "place": "Madison, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "us_person",
+      "pay": "$75.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/System-Engineer-II_JR10016011",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wisconsinorwd1oruwmadison/system-engineer-ii-university-of-wisconsin-madison-a84568?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 5
     },
     {
       "id": "e9278c0c-6d47-4b15-a224-9b8859226720",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/mtborwd5ormtb/strategic-sourcing-and-procurement-specialist-mandt-bank-703bb4?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "ce80995e-b514-4112-973d-6eddc401242f",
-      "title": "Securities Research Associate",
-      "company": "Wells Fargo",
-      "place": "Bengaluru, India",
-      "category": "Research",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Securities-Research-Associate_R-587482-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/securities-research-associate-wells-fargo-75d383?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
