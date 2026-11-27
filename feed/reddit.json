@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:16:42.323Z",
+  "generatedAt": "2026-11-27T04:30:24.142Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -230,6 +230,25 @@
       "notable": 2
     },
     {
+      "id": "f5986e49-0747-42a6-aef8-eacb852ec76e",
+      "title": "Customer Service Engineer (m/f/d)",
+      "company": "Takraf",
+      "place": "Lauchhammer, Germany",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://takraf.wd103.myworkdayjobs.com/TAKRAF_external_careers/job/Germany---Lauchhammer/Customer-Service-Engineer--m-f-d-_JR105603",
+      "firstJobbyUrl": "https://firstjobby.com/companies/takraforwd103ortakrafexternalcareers/customer-service-engineer-mfd-takraf-f055c1?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 0
+    },
+    {
       "id": "f3678e18-a067-4240-9751-e8de14d0f5d6",
       "title": "Communications Specialist (2+ years in Writing & Editing)",
       "company": "Gartner",
@@ -376,7 +395,7 @@
       "pay": null,
       "minYears": 1,
       "season": null,
-      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Power-Architecture-Engineer_JR2030662",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/India-Bengaluru/Power-Architecture-Engineer_JR2030662",
       "firstJobbyUrl": "https://firstjobby.com/companies/nvidiaorwd5ornvidiaexternalcareersite/power-architecture-engineer-nvidia-59c717?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217595003",
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/growth-engineer-cfo-insights-d78c16?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "67ed2f25-2a1d-4803-a24f-698868279022",
-      "title": "Growth Marketing Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217598003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/growth-marketing-associate-private-equity-insights-fbf29b?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
