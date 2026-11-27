@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:43:13.340Z",
+  "generatedAt": "2026-11-27T06:53:34.914Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -648,6 +648,25 @@
       "notable": 2
     },
     {
+      "id": "9a8bb1cc-a5ab-47de-853a-4219c6085453",
+      "title": "Inventory Analyst, Full Price",
+      "company": "Capri",
+      "place": "New York, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70.0K-$73.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://capri.wd1.myworkdayjobs.com/Michael_Kors/job/NY-Metro-Area/Inventory-Analyst--Full-Price_R_788006",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capriorwd1ormichaelkors/inventory-analyst-full-price-capri-6ca90c?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "9a4ea083-edf6-425f-a584-7b30cf20b8f3",
       "title": "ENGINEER, TSE PROBE INTEGRATION",
       "company": "Micron Technology",
@@ -988,6 +1007,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/pi-engineer-micron-technology-b3d50e?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "2d0a0269-3a7d-4848-9ecd-42a3bba65775",
+      "title": "E-Commerce Coordinator",
+      "company": "Capri",
+      "place": "United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70.0K-$73.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://capri.wd1.myworkdayjobs.com/Michael_Kors/job/NY-Metro-Area/E-Commerce-Coordinator_R_788003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/capriorwd1ormichaelkors/e-commerce-coordinator-capri-955c03?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "2ce6920d-c6e3-4764-bf5a-9d17be13a57f",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217972003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-commercial-strategy-associate-private-equity-insights-d10fb9?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "7d03d0f0-d11e-4701-ba41-ef210a726d1e",
-      "title": "AI Operations Associate",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217902003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-operations-associate-united-media-9682b1?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "7ca67d53-e262-4738-8648-9cb4502afa2a",
-      "title": "AI Growth Enablement Specialist",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217960003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-growth-enablement-specialist-private-equity-insights-412762?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
