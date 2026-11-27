@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:09:41.379Z",
+  "generatedAt": "2026-11-27T23:19:58.502Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -532,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/quantity-surveyor-energy-infrastructure-turner-and-townsend-ad0b9e?utm_source=reddit",
       "postedAt": "2026-11-27T18:39:08.413Z",
       "notable": 3
+    },
+    {
+      "id": "d7a439af-3d67-46ef-8738-f8bb5e923286",
+      "title": "Customer Support Technical Representative",
+      "company": "1Password",
+      "place": "Toronto, Canada",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/1password/6834777e-7707-4376-960f-c47db08eea8b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/1password-ashby/customer-support-technical-representative-1password-c6022d?utm_source=reddit",
+      "postedAt": "2026-11-27T18:16:07.155Z",
+      "notable": 1
     },
     {
       "id": "28b42625-0d37-4264-ba32-7a4ad37711b2",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/India-Bangalore---Office/Associate-Analyst---Insights_R-0160601",
       "firstJobbyUrl": "https://firstjobby.com/companies/levistraussandcoorwd5orexternal/associate-analyst-insights-levi-strauss-and-co-68dea8?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "e011e785-26f3-4f46-b182-29a0ee39ac2b",
-      "title": "Engineer in Training",
-      "company": "Rockwell Automation",
-      "place": "Pune, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Engineer-in-Training_R26-8761",
-      "firstJobbyUrl": "https://firstjobby.com/companies/rockwellautomationorwd1orexternalrockwellautomation/engineer-in-training-rockwell-automation-e108ea?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     }
