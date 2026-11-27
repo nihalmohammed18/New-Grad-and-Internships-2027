@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-27T12:14:36.003Z",
+  "generatedAt": "2026-11-27T12:19:06.323Z",
   "jobs": [
+    {
+      "id": "322f965a-4a9c-45fd-950e-7b07fde4f772",
+      "title": "Marketing Manager:in DACH Campus (Arzt/Ärztin in Vollzeit)",
+      "company": "AMBOSS",
+      "place": "Berlin, Germany",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/amboss/c31f10fd-bacf-4f63-ba44-2af45d5f79ba",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amboss/marketing-managerin-dach-campus-arztarztin-in-vollzeit-amboss-f9807e?utm_source=reddit",
+      "postedAt": "2026-11-27T10:23:26.281Z",
+      "notable": 1
+    },
     {
       "id": "f8a9805e-d017-4529-9f7a-81588f135729",
       "title": "Associate, Media Operations, Lebanon",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ubisoft2/stage-6-mois-level-designer-fhnb-aaa-project-janvier-2027-ubisoft-2ae82b?utm_source=reddit",
       "postedAt": "2026-11-26T11:23:02.265Z",
       "notable": 3
-    },
-    {
-      "id": "f7735d0e-a49d-4517-aefa-ef5028486e82",
-      "title": "Campaign Operations Associate",
-      "company": "Broadsign Careers",
-      "place": "Remote",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/broadsign/jobs/8217789003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/broadsign/campaign-operations-associate-broadsign-careers-8d9b3a?utm_source=reddit",
-      "postedAt": "2026-11-26T11:22:04.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
