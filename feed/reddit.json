@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T23:20:30.820Z",
+  "generatedAt": "2026-11-27T00:32:00.410Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/pi-engineer-micron-technology-b3d50e?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "c2d7a8d5-53ff-4cf9-a6d5-e298ad0f38a9",
+      "title": "Strategic Account Executive",
+      "company": "Datadog",
+      "place": "Tokyo, Japan",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://careers.datadoghq.com/detail/8413335/?gh_jid=8413335",
+      "firstJobbyUrl": "https://firstjobby.com/companies/datadog/strategic-account-executive-datadog-e23e4a?utm_source=reddit",
+      "postedAt": "2026-11-26T23:15:30.000Z",
+      "notable": 3
     },
     {
       "id": "0fe31123-8887-445a-bc07-1d83d43c14d5",
@@ -418,6 +437,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/mitratech/roc-analyst-mitratech-0108c5?utm_source=reddit",
       "postedAt": "2026-11-26T19:15:44.000Z",
       "notable": 3
+    },
+    {
+      "id": "e4473b87-3770-460c-8683-bdd77f6ad05f",
+      "title": "Software Engineering Intern - 2027 Summer Term",
+      "company": "ATOMS Careers page",
+      "place": "New York, United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$70/hr",
+      "minYears": null,
+      "season": "Summer 2027",
+      "applyUrl": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cssmerge/software-engineering-intern-2027-summer-term-atoms-careers-page-5b0cf4?utm_source=reddit",
+      "postedAt": "2026-11-26T19:11:25.000Z",
+      "notable": 5
     },
     {
       "id": "cb7dae39-8adc-438e-a0ea-b5606ec7e897",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217901003",
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-operations-associate-cfo-insights-528ecc?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "4bae09c0-7ec3-4abc-92e7-012af106bb91",
-      "title": "Revenue Operations Specialist",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217684003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/revenue-operations-specialist-united-media-21f863?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "4b3c33ce-4d32-4a12-9975-04fe9d9c29cd",
-      "title": "AI Commercial Strategy Associate",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217973003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-commercial-strategy-associate-cfo-insights-a6849a?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
