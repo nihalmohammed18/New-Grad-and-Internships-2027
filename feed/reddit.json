@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:45:31.412Z",
+  "generatedAt": "2026-11-27T07:52:58.674Z",
   "jobs": [
     {
       "id": "ea93c79c-a02d-4edd-8133-d9d6096a9cc5",
@@ -56,6 +56,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000163968400-account-manager",
       "firstJobbyUrl": "https://firstjobby.com/companies/deliveryhero/account-manager-delivery-hero-b3b2e5?utm_source=reddit",
       "postedAt": "2026-11-27T06:38:39.965Z",
+      "notable": 3
+    },
+    {
+      "id": "7d499689-fa6a-404b-8f7a-aef085de0fe5",
+      "title": "Supply Chain Data Analyst",
+      "company": "XP Power",
+      "place": "Singapore",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/XPPower2/744000163965829-supply-chain-data-analyst",
+      "firstJobbyUrl": "https://firstjobby.com/companies/xppower2/supply-chain-data-analyst-xp-power-a0fdb0?utm_source=reddit",
+      "postedAt": "2026-11-27T06:12:43.696Z",
       "notable": 3
     },
     {
@@ -154,6 +173,25 @@
       "notable": 3
     },
     {
+      "id": "ac6916d3-a2f1-439a-a9f6-a286c3da5b55",
+      "title": "Customer Service Executive - 12 Month Contract",
+      "company": "Informa Group Plc.",
+      "place": "Sydney, Australia",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000163956939-customer-service-executive-12-month-contract",
+      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/customer-service-executive-12-month-contract-informa-group-plc-85e32b?utm_source=reddit",
+      "postedAt": "2026-11-27T02:57:15.557Z",
+      "notable": 3
+    },
+    {
       "id": "e7e99531-8af7-4a80-907f-60c2d6c3aa08",
       "title": "Assistant Engineer, Structural / Civil, Building Engineering",
       "company": "AECOM",
@@ -208,6 +246,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/neweratech/jobs/8945883002",
       "firstJobbyUrl": "https://firstjobby.com/companies/neweratech/entry-level-support-engineer-new-era-technology-82a2a1?utm_source=reddit",
       "postedAt": "2026-11-27T02:55:06.000Z",
+      "notable": 3
+    },
+    {
+      "id": "1a74605c-b7fd-4aa7-93cc-8260699e847e",
+      "title": "Customer Service Executive",
+      "company": "Informa Group Plc.",
+      "place": "Sydney, Australia",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000163956527-customer-service-executive",
+      "firstJobbyUrl": "https://firstjobby.com/companies/informagroupplc/customer-service-executive-informa-group-plc-1f3e50?utm_source=reddit",
+      "postedAt": "2026-11-27T02:50:32.155Z",
       "notable": 3
     },
     {
@@ -9443,63 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/go-to-market-analyst-private-equity-insights-483fe6?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
-    },
-    {
-      "id": "9f42a9c4-c363-4061-b5e8-1268d51e05f7",
-      "title": "Agentic Marketing Engineer",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217853003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/agentic-marketing-engineer-cfo-insights-7aaac8?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "9e88db64-9b15-40d5-aa48-38c736a920a6",
-      "title": "Go-To-Market Engineer",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217580003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/go-to-market-engineer-united-media-0fae71?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "9b512d53-20d5-4e8a-a9b0-55df3e4966e6",
-      "title": "Growth Associate",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217592003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-associate-united-media-85c3a7?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
