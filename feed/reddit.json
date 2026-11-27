@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:01:01.655Z",
+  "generatedAt": "2026-11-27T03:05:57.422Z",
   "jobs": [
     {
       "id": "98dfa58a-20b6-47cf-aac4-0ac379635f86",
@@ -76,6 +76,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/software-asset-management-analyst-jobgether-93b8fe?utm_source=reddit",
       "postedAt": "2026-11-27T00:45:56.794Z",
       "notable": 5
+    },
+    {
+      "id": "b8f66bea-2e43-4927-8d97-c93e62115660",
+      "title": "Marketing Coordinator (Japanese Speaking)",
+      "company": "Easygo",
+      "place": "Melbourne, Australia",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/easygo/jobs/5306432007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/easygo/marketing-coordinator-japanese-speaking-easygo-ffb876?utm_source=reddit",
+      "postedAt": "2026-11-27T00:16:05.000Z",
+      "notable": 3
     },
     {
       "id": "fd3c084e-bf35-4960-97df-7880e522c7d9",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217748003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/growth-strategy-associate-private-equity-insights-bbdfbf?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "611f2a18-5121-4fc4-9266-0002c0d9e07d",
-      "title": "AI Growth Deployment Associate",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217953003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-growth-deployment-associate-cfo-insights-af8c67?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
