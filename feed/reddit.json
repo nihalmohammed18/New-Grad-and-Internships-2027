@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:35:53.264Z",
+  "generatedAt": "2026-11-27T05:03:40.930Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -1120,6 +1120,25 @@
       "applyUrl": "https://job-boards.greenhouse.io/ebanx/jobs/8218085003",
       "firstJobbyUrl": "https://firstjobby.com/companies/ebanx/workplace-mid-analyst-mexico-ebanx-c5dbac?utm_source=reddit",
       "postedAt": "2026-11-26T19:57:05.000Z",
+      "notable": 1
+    },
+    {
+      "id": "4e9a20b4-0539-4aca-b884-53e8e8307bc2",
+      "title": "Gerente de Contas - Inside Sales (SMB) | RD Station",
+      "company": "RD Station",
+      "place": "Florianópolis, Brazil",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/rdstation/jobs/8924109002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/rdstation/gerente-de-contas-inside-sales-smb-or-rd-station-rd-station-99005f?utm_source=reddit",
+      "postedAt": "2026-11-26T19:56:58.000Z",
       "notable": 1
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/growth-strategy-analyst-cfo-insights-c87b26?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
-    },
-    {
-      "id": "6a1ea92d-9ec6-45d0-8cf0-a2e1272a7189",
-      "title": "Business Operations Associate",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217718003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/business-operations-associate-united-media-97f1f3?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
