@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:30:24.142Z",
+  "generatedAt": "2026-11-27T04:35:53.264Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -416,6 +416,25 @@
       "season": null,
       "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Wuhan/produce-sales_594554",
       "firstJobbyUrl": "https://firstjobby.com/companies/philipsorwd3orjobs-and-careers/produce-sales-philips-17024d?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "a070b39d-c913-4e44-af59-62212cbab134",
+      "title": "Analyst, Sector Coverage APAC",
+      "company": "MUFG",
+      "place": "Singapore, Singapore",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore-Office-Marina-One/Analyst--Sector-Coverage-APAC_10080973-WD",
+      "firstJobbyUrl": "https://firstjobby.com/companies/mufguborwd3ormufg-careers/analyst-sector-coverage-apac-mufg-dcf0e6?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/business-operations-associate-united-media-97f1f3?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "685ad9ed-3642-4790-9700-057d3c56bd74",
-      "title": "Growth Engineer",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217595003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/growth-engineer-cfo-insights-d78c16?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
