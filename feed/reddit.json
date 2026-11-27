@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:24:50.941Z",
+  "generatedAt": "2026-11-27T06:31:45.614Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -283,6 +283,25 @@
       "season": null,
       "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Gurgaon/Communications-Specialist--2--years-in-Writing---Editing-_116151",
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/communications-specialist-2-years-in-writing-and-editing-gartner-35b496?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "f08d796c-3e16-4ccd-a1dd-3a5377d015ef",
+      "title": "Operations Systems Analyst",
+      "company": "Hub24management",
+      "place": "Australia",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://hub24management.wd105.myworkdayjobs.com/HUB24_Careers/job/Operations-Systems-Analyst_JR101209-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hub24managementorwd105orhub24careers/operations-systems-analyst-hub24management-2b80cc?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -931,6 +950,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hcforwd105orhcfexternalcareersite/telephone-sales-representative-hcf-bed1ea?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 0
+    },
+    {
+      "id": "275f17a0-193a-4b38-879d-015ff0c550ed",
+      "title": "R&D Technician - Design Verification Testing",
+      "company": "Hpe",
+      "place": "Singapore",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Singapore-Central-Singapore-Singapore/R-D-Technician---Design-Verification-Testing_1214648-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hpeorwd5orwfmathpe/randd-technician-design-verification-testing-hpe-dfc0a4?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "24d97ae4-ad83-49ed-bc57-34b3f31d63cc",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217681003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/revenue-operations-associate-hrtechx-e1a511?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "78ece608-d2f1-4b41-9bee-64ff4b27bbeb",
-      "title": "AI Growth Solutions Associate",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217946003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-growth-solutions-associate-united-media-c1c83f?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "77360740-0235-465f-808f-2741a42a02c7",
-      "title": "Marketing Automation Specialist",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217665003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/marketing-automation-specialist-hrtechx-0afad4?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
