@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:41:38.580Z",
+  "generatedAt": "2026-11-27T18:16:34.192Z",
   "jobs": [
     {
       "id": "b3f1b3a7-a1d0-4f21-8967-763d56cbae34",
@@ -7165,6 +7165,25 @@
       "notable": 3
     },
     {
+      "id": "d1d549eb-08b1-418f-aa44-13e932a5d842",
+      "title": "Operating Engineer",
+      "company": "JLL",
+      "place": "El Paso, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/El-Paso-TX/Operating-Engineer_REQ551344",
+      "firstJobbyUrl": "https://firstjobby.com/companies/jllorwd1orjllcareers/operating-engineer-jll-0fc9bb?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "d08de36d-660e-408f-9282-b3132b5ff0a3",
       "title": "Product Liaison Engineer",
       "company": "Tempurpedic",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/propeller/tech-support-specialist-propeller-11e553?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "9b0fc670-58f9-4ea0-bc28-d695bb5a210b",
-      "title": "Analyst, AskIT Support Engineer",
-      "company": "MUFG",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/London/Analyst--AskIT-Support-Engineer_10079836-WD",
-      "firstJobbyUrl": "https://firstjobby.com/companies/mufguborwd3ormufg-careers/analyst-askit-support-engineer-mufg-cae56a?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
