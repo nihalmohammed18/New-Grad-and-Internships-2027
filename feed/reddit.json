@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:05:57.422Z",
+  "generatedAt": "2026-11-27T03:11:50.529Z",
   "jobs": [
     {
       "id": "98dfa58a-20b6-47cf-aac4-0ac379635f86",
@@ -207,6 +207,25 @@
       "season": null,
       "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Bangalore-India/IT-Intern_R-01372821",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/it-intern-thermo-fisher-scientific-7ea952?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "c20d942a-ed65-4ae2-95f9-8055d02cc1f9",
+      "title": "Engineering Intern",
+      "company": "Shell",
+      "place": "Malaysia",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Bintulu/Engineering-Intern_R215773",
+      "firstJobbyUrl": "https://firstjobby.com/companies/shellorwd3orshellcareers/engineering-intern-shell-c632d3?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-analyst-united-media-7affc2?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "6278bc1d-a3b2-41ac-86ae-517acf78712b",
-      "title": "Growth Strategy Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217748003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/growth-strategy-associate-private-equity-insights-bbdfbf?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
