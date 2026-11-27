@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:10:21.905Z",
+  "generatedAt": "2026-11-27T02:28:33.259Z",
   "jobs": [
     {
       "id": "827fe0ab-32ab-476b-bbb3-b26b73d1e141",
@@ -416,6 +416,25 @@
       "season": null,
       "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/PI-Engineer_JR118322",
       "firstJobbyUrl": "https://firstjobby.com/companies/micronorwd1orexternal/pi-engineer-micron-technology-b3d50e?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "24d97ae4-ad83-49ed-bc57-34b3f31d63cc",
+      "title": "Associate Product Manager, Front Line Care",
+      "company": "Baxter",
+      "place": "Australia",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Old-Toongabbie-New-South-Wales/Associate-Product-Manager--Front-Line-Care_JR-214062",
+      "firstJobbyUrl": "https://firstjobby.com/companies/baxterorwd1orbaxter/associate-product-manager-front-line-care-baxter-568062?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/go-to-market-strategy-associate-united-media-4c121f?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "5c7bd9c7-b934-4a80-b786-97ab95997ee9",
-      "title": "AI Engineer",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217872003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/ai-engineer-cfo-insights-ff1a5b?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
