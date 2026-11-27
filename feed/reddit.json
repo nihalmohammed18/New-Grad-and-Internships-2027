@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:51:12.466Z",
+  "generatedAt": "2026-11-27T21:04:24.770Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -6975,6 +6975,25 @@
       "notable": 2
     },
     {
+      "id": "f4610cfb-cb84-4246-860b-d38f5424e930",
+      "title": "Medical Lab Scientist Generalist Float",
+      "company": "AdventHealth",
+      "place": "Ocala, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$29-$54/hr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://adventhealth.wd12.myworkdayjobs.com/AH_External_Career_Site/job/ADVENTHEALTH-OCALA/Medical-Lab-Scientist-Generalist-Float_R-0415828",
+      "firstJobbyUrl": "https://firstjobby.com/companies/adventhealthorwd12orahexternalcareersite/medical-lab-scientist-generalist-float-adventhealth-afcc01?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "f4395bbe-a86e-4f3e-bf6f-de46879c0b7a",
       "title": "Customer Service Representative | Hospital Patient Accounts",
       "company": "Guidehouse",
@@ -7007,7 +7026,7 @@
       "pay": "€33.1K-€47.9K/yr",
       "minYears": null,
       "season": null,
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Engineer--Design-Verification-Engineering_R267400",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/Italy-Milan-Assago/Engineer--Design-Verification-Engineering_R267400",
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/engineer-design-verification-engineering-analog-devices-c0ef97?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 5
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abbottorwd5orabbottcareers/werkstudent-mwd-marketing-laao-abbott-7e92f3?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "c6cffa1a-12a4-426c-a16d-0394c26890c6",
-      "title": "Short-Term Analyst Intern",
-      "company": "Edftrading",
-      "place": "Paris, France",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Short-Term-Analyst-Intern_JR1001545",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edftradingorwd1oredftrading/short-term-analyst-intern-edftrading-b18fb3?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
