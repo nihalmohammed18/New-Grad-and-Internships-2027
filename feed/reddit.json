@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:26:28.333Z",
+  "generatedAt": "2026-11-27T18:32:26.646Z",
   "jobs": [
     {
       "id": "b3f1b3a7-a1d0-4f21-8967-763d56cbae34",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/luminovo/solutions-engineer-erp-integrations-expert-dfm-luminovo-1cab28?utm_source=reddit",
       "postedAt": "2026-11-27T16:35:27.630Z",
       "notable": 3
+    },
+    {
+      "id": "c3c822a5-c64a-4526-9bb8-7a63032c9cee",
+      "title": "Marketing and Events Associate",
+      "company": "Stacks",
+      "place": "London, United Kingdom",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/stacks/b2be7136-65da-4094-b778-f5ab77065ac2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stacks/marketing-and-events-associate-stacks-da8974?utm_source=reddit",
+      "postedAt": "2026-11-27T16:27:21.079Z",
+      "notable": 1
     },
     {
       "id": "94a332d3-bc9a-4d33-a411-f7690ec6a523",
@@ -8096,6 +8115,25 @@
       "notable": 2
     },
     {
+      "id": "bef3cad0-165d-4cb1-a6f0-e512fb0ca7a5",
+      "title": "Machine Learning Engineer",
+      "company": "HP",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Machine-Learning-Engineer_3171594-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/hporwd5orexternalcareersite/machine-learning-engineer-hp-1554ea?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "bd932740-1f78-4dcf-8175-0d8be413e764",
       "title": "Account Executive",
       "company": "dentsu",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/epi-customer-support-technician-i-applied-materials-fa9c6a?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "9de0e9a5-93c1-4e2f-934c-fe135433b59d",
-      "title": "Community Associate, Brisbane",
-      "company": "WeWork",
-      "place": "Brisbane, Australia",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://wework.wd1.myworkdayjobs.com/WeWork/job/Brisbane-Australia/Community-Associate--Brisbane_JR-0064415",
-      "firstJobbyUrl": "https://firstjobby.com/companies/weworkorwd1orwework/community-associate-brisbane-wework-0f0765?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "9dd3c02a-f9e3-4b5c-bbbe-ced5ffd8a110",
-      "title": "Quality Engineer",
-      "company": "Magna",
-      "place": "Ceske Velenice, Czech Republic",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://magna.wd3.myworkdayjobs.com/Magna/job/Ceske-Velenice-CZ/Quality-Engineer_R00269257",
-      "firstJobbyUrl": "https://firstjobby.com/companies/magnaorwd3ormagna/quality-engineer-magna-a03abe?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
