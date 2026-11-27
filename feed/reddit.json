@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-27T11:19:55.244Z",
+  "generatedAt": "2026-11-27T11:30:13.504Z",
   "jobs": [
+    {
+      "id": "f8a9805e-d017-4529-9f7a-81588f135729",
+      "title": "Associate, Media Operations, Lebanon",
+      "company": "WPP Media",
+      "place": "Beirut, Lebanon",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/wppmedia/jobs/5495384008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wppmedia/associate-media-operations-lebanon-wpp-media-fda6ae?utm_source=reddit",
+      "postedAt": "2026-11-27T09:34:32.000Z",
+      "notable": 3
+    },
     {
       "id": "9baef03c-393d-4cb0-87d1-275b53197d60",
       "title": "Account Executive - Canada 🇨🇦",
@@ -151,6 +170,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/blp-digital/e07eacdb-8dfd-4c54-bee1-85180cf53a33",
       "firstJobbyUrl": "https://firstjobby.com/companies/blp-digital/junior-project-manager-erp-automation-blp-digital-ag-53f68b?utm_source=reddit",
       "postedAt": "2026-11-27T08:27:30.115Z",
+      "notable": 3
+    },
+    {
+      "id": "8f138a7d-408c-4e97-ba1a-a55eea255f54",
+      "title": "Personalized Support Engineer 2",
+      "company": "Twilio",
+      "place": "Remote from India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/twilio/jobs/8406761",
+      "firstJobbyUrl": "https://firstjobby.com/companies/twilio/personalized-support-engineer-2-twilio-3cf8a6?utm_source=reddit",
+      "postedAt": "2026-11-27T08:26:30.000Z",
       "notable": 3
     },
     {
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-value-creation-associate-united-media-6bad22?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "fe5ed776-6aac-4eaf-8cdb-4750e09c967d",
-      "title": "AI Growth Solutions Consultant",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217950003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/ai-growth-solutions-consultant-united-media-cc5b7c?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "fd88b8a6-7092-4d8c-9f2a-34c5ba79fb74",
-      "title": "Commercial Strategy Associate",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217707003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/commercial-strategy-associate-cfo-insights-1fc97a?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
