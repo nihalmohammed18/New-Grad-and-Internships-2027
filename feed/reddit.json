@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:17:03.857Z",
+  "generatedAt": "2026-11-27T09:23:17.519Z",
   "jobs": [
     {
       "id": "0341ee21-c63e-4cdf-9da8-42399d09f3e9",
@@ -2354,6 +2354,25 @@
       "season": null,
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/HiroshimaJPN/Implant-Customer-Engineer-I_R2634665",
       "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/implant-customer-engineer-i-applied-materials-39e61e?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 3
+    },
+    {
+      "id": "6ecac8ad-340b-42dd-aeef-054af587a459",
+      "title": "Generative AI Engineer - Freshers 2026/27 (Computer Science or AI Only)",
+      "company": "Digitals AI Inc",
+      "place": "Hyderabad, India",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/DFC5FDEFE5",
+      "firstJobbyUrl": "https://firstjobby.com/companies/digitals/generative-ai-engineer-freshers-202627-computer-science-or-ai-only-digitals-ai-i-5d94d4?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
     },
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217651003",
       "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/marketing-automation-associate-cfo-insights-95185a?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "d7980526-7406-45d1-88f1-63e1b3f0c8a1",
-      "title": "AI Strategist Associate",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217916003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-strategist-associate-private-equity-insights-a02df4?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
