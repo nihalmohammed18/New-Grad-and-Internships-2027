@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:28:33.259Z",
+  "generatedAt": "2026-11-27T02:41:04.749Z",
   "jobs": [
     {
       "id": "827fe0ab-32ab-476b-bbb3-b26b73d1e141",
@@ -435,6 +435,25 @@
       "season": null,
       "applyUrl": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Old-Toongabbie-New-South-Wales/Associate-Product-Manager--Front-Line-Care_JR-214062",
       "firstJobbyUrl": "https://firstjobby.com/companies/baxterorwd1orbaxter/associate-product-manager-front-line-care-baxter-568062?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "1fb75148-c06e-4717-86c4-1b17926ed920",
+      "title": "SMB - Account Executive - (Greater China Region)",
+      "company": "Zendesk",
+      "place": "Singapore, Singapore",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Singapore-Singapore/SMB---Account-Executive----Greater-China-Region-_R35921",
+      "firstJobbyUrl": "https://firstjobby.com/companies/zendeskorwd1orzendesk/smb-account-executive-greater-china-region-zendesk-45fd1a?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217644003",
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/marketing-analyst-united-media-6a8abe?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 3
-    },
-    {
-      "id": "5d728f27-251c-4c65-b6c6-c5259413cbb9",
-      "title": "Go-To-Market Strategy Associate",
-      "company": "United Media",
-      "place": "London, United Kingdom",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/unitedmedia/jobs/8217726003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/go-to-market-strategy-associate-united-media-4c121f?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
     }
