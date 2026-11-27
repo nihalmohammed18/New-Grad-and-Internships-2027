@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:32:26.646Z",
+  "generatedAt": "2026-11-27T18:39:01.962Z",
   "jobs": [
     {
       "id": "b3f1b3a7-a1d0-4f21-8967-763d56cbae34",
@@ -5550,6 +5550,25 @@
       "notable": 2
     },
     {
+      "id": "f4395bbe-a86e-4f3e-bf6f-de46879c0b7a",
+      "title": "Customer Service Representative | Hospital Patient Accounts",
+      "company": "Guidehouse",
+      "place": "Birmingham, United States",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 0,
+      "season": null,
+      "applyUrl": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Customer-Service-Representative---Hospital-Patient-Accounts_47031-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/guidehouseorwd1orexternal/customer-service-representative-or-hospital-patient-accounts-guidehouse-d1f6d4?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f431a86a-bbbf-456d-b2a6-1986b01578ca",
       "title": "Engineer, Design Verification Engineering",
       "company": "Analog Devices",
@@ -9369,6 +9388,25 @@
       "notable": 3
     },
     {
+      "id": "a10f96af-5900-45bb-a593-0ff419dc878a",
+      "title": "Account Executive",
+      "company": "Harris Computer",
+      "place": "Remote from United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Account-Executive_R0475322",
+      "firstJobbyUrl": "https://firstjobby.com/companies/harriscomputerorwd3or1/account-executive-harris-computer-8ba5c3?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "a070b39d-c913-4e44-af59-62212cbab134",
       "title": "Analyst, Sector Coverage APAC",
       "company": "MUFG",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/luminegrporwd3ortomia/software-engineer-luminegrp-0acdfd?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 0
-    },
-    {
-      "id": "9eb1cff6-c80a-48cd-8514-a78b2fd11254",
-      "title": "Decoration Engineer - Decoration Solutions",
-      "company": "LEGO",
-      "place": "Denmark",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Decoration-Engineer---Decoration-Solutions_0000040346",
-      "firstJobbyUrl": "https://firstjobby.com/companies/legoorwd103orlegoexternal/decoration-engineer-decoration-solutions-lego-498a78?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "9ea9900b-3e14-4e14-a9e8-1a03ab78384b",
-      "title": "EPI Customer Support Technician I",
-      "company": "Applied Materials",
-      "place": "Hiroshima, Japan",
-      "category": "Customer Support",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/external/job/HiroshimaJPN/EPI-Customer-Support-Technician-I_R2634662",
-      "firstJobbyUrl": "https://firstjobby.com/companies/amatorwd1orexternal/epi-customer-support-technician-i-applied-materials-fa9c6a?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
