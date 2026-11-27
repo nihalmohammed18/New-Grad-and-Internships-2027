@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:16:03.141Z",
+  "generatedAt": "2026-11-27T10:21:48.125Z",
   "jobs": [
     {
       "id": "9baef03c-393d-4cb0-87d1-275b53197d60",
@@ -151,6 +151,25 @@
       "applyUrl": "https://jobs.ashbyhq.com/blp-digital/e07eacdb-8dfd-4c54-bee1-85180cf53a33",
       "firstJobbyUrl": "https://firstjobby.com/companies/blp-digital/junior-project-manager-erp-automation-blp-digital-ag-53f68b?utm_source=reddit",
       "postedAt": "2026-11-27T08:27:30.115Z",
+      "notable": 3
+    },
+    {
+      "id": "29293d23-18cb-4081-b583-e12961f822dc",
+      "title": "Sales Administrator",
+      "company": "Sourceability",
+      "place": "Shanghai, China",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://sourceability.com/careers?gh_jid=5282830007",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sourceability/sales-administrator-sourceability-6b51b6?utm_source=reddit",
+      "postedAt": "2026-11-27T08:12:10.000Z",
       "notable": 3
     },
     {
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217944003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-growth-solutions-associate-private-equity-insights-a990a9?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "f5cd7c55-3e70-431f-9a35-9ac2c549eb37",
-      "title": "AI Analyst",
-      "company": "Private Equity Insights",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217856003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/ai-analyst-private-equity-insights-5c8e20?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
