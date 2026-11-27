@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:16:27.171Z",
+  "generatedAt": "2026-11-27T05:23:22.027Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/assistant-engineer-structural-civil-building-engineering-aecom-02e10f?utm_source=reddit",
       "postedAt": "2026-11-27T02:56:08.751Z",
       "notable": 3
+    },
+    {
+      "id": "9547d5d8-0663-4385-b2d4-24cf05aa466a",
+      "title": "Entry Level Support Engineer",
+      "company": "New Era Technology NZ",
+      "place": "Napier, New Zealand",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/neweratechnz/jobs/8963794002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/neweratechnz/entry-level-support-engineer-new-era-technology-nz-6a070f?utm_source=reddit",
+      "postedAt": "2026-11-27T02:55:09.000Z",
+      "notable": 1
     },
     {
       "id": "98dfa58a-20b6-47cf-aac4-0ac379635f86",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217731003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/gtm-operations-associate-hrtechx-f7a6f3?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "6a68bd0f-0088-4e3d-82e9-9d7cccb1ff99",
-      "title": "Growth Operations Specialist",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217625003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/growth-operations-specialist-hrtechx-53a073?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
