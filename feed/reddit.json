@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:39:01.962Z",
+  "generatedAt": "2026-11-27T18:44:20.043Z",
   "jobs": [
     {
       "id": "b3f1b3a7-a1d0-4f21-8967-763d56cbae34",
@@ -513,6 +513,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bondvet/part-time-care-coordinator-long-island-merrick-bond-vet-3a3665?utm_source=reddit",
       "postedAt": "2026-11-27T15:10:08.000Z",
       "notable": 6
+    },
+    {
+      "id": "d961f505-d782-445a-a6ae-8b3a3c834c8a",
+      "title": "Optical Sales - Paid Training",
+      "company": "Clarkson Eyecare",
+      "place": "Shepherdsville, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://www.clarksoneyecare.com/careers/?gh_jid=8964054002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/clarksoneyecare/optical-sales-paid-training-clarkson-eyecare-ba45b8?utm_source=reddit",
+      "postedAt": "2026-11-27T15:09:22.000Z",
+      "notable": 3
     },
     {
       "id": "b4dd817a-4a35-4b51-af28-a7e399ca3146",
@@ -6288,7 +6307,7 @@
       "applyUrl": "https://apply.workable.com/j/90C704FED2",
       "firstJobbyUrl": "https://firstjobby.com/companies/stranger-soccer-1/customer-experience-and-growth-intern-stranger-soccer-847e15?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
+      "notable": 1
     },
     {
       "id": "e60d86f1-2aaa-4f24-b9e3-7057519292dc",
@@ -8305,6 +8324,25 @@
       "notable": 4
     },
     {
+      "id": "bacd4ec6-3d56-4b21-84ff-d4b4f30691e3",
+      "title": "Field Application Scientist",
+      "company": "SPT Labtech",
+      "place": "Faridabad, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/68A782156E",
+      "firstJobbyUrl": "https://firstjobby.com/companies/spt-labtech/field-application-scientist-spt-labtech-03d9e3?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 1
+    },
+    {
       "id": "bab4121f-1352-43a1-a096-886638a017ef",
       "title": "AI Research Internship – Retrospective Safety Prediction and Evidence-Based Validation (for 6 months in Basel)",
       "company": "Roche",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/covestroorwd3orcovexternal/fullstack-developer-python-angular-mfd-with-salary-details-covestro-87068a?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "9f12d1ca-7812-4381-b798-eb5781c13ea7",
-      "title": "Intraday Trading Intern, AI Integration",
-      "company": "Edftrading",
-      "place": "Paris, France",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://edftrading.wd1.myworkdayjobs.com/EDFTrading/job/Paris/Intraday-Trading-Intern--AI-Integration_JR1001547",
-      "firstJobbyUrl": "https://firstjobby.com/companies/edftradingorwd1oredftrading/intraday-trading-intern-ai-integration-edftrading-169f89?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "9f07f2e4-faaf-49e1-b97b-2955a4ab4c39",
-      "title": "Software Engineer",
-      "company": "Luminegrp",
-      "place": "Remote",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://luminegrp.wd3.myworkdayjobs.com/TOMIA/job/Remote-Bengaluru-India/Software-Engineer_JR108299",
-      "firstJobbyUrl": "https://firstjobby.com/companies/luminegrporwd3ortomia/software-engineer-luminegrp-0acdfd?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
