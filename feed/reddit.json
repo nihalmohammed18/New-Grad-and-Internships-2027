@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:30:42.432Z",
+  "generatedAt": "2026-11-27T03:54:55.102Z",
   "jobs": [
     {
       "id": "9654bd00-feac-4f49-abad-c882a9e3f825",
@@ -644,6 +644,25 @@
       "season": null,
       "applyUrl": "https://europcar.wd103.myworkdayjobs.com/EuropcarCareerPage/job/Coffs-Harbour/Rental-Sales-Agent_JR116399-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/europcarorwd103oreuropcarcareerpage/rental-sales-agent-europcar-955961?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
+      "id": "0403f63e-0682-4930-98d0-4f9912dba5d3",
+      "title": "Associate,Marketing Commercialization",
+      "company": "SC Johnson",
+      "place": "Shanghai, China",
+      "category": "Marketing",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/China---Shanghai/Associate-Marketing-Commercialization_34682",
+      "firstJobbyUrl": "https://firstjobby.com/companies/scjorwd5orexternalcareersite/associatemarketing-commercialization-sc-johnson-e7945f?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     },
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217705003",
       "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/commercial-operations-associate-hrtechx-6641ff?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "6416fd60-d48f-47f2-9411-09e93f53238e",
-      "title": "Revenue Operations Specialist",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217683003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/revenue-operations-specialist-cfo-insights-cdaafb?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
