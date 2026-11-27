@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:37:05.062Z",
+  "generatedAt": "2026-11-27T07:45:31.412Z",
   "jobs": [
     {
       "id": "ea93c79c-a02d-4edd-8133-d9d6096a9cc5",
@@ -1254,6 +1254,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gcaaorwd3orgcaacareers/civil-engineer-gcaa-171afe?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "94a57e44-4de2-4a8f-beee-4b0ee7150000",
+      "title": "Ticket Sales Representative I",
+      "company": "Uofl",
+      "place": "Louisville, United States",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Ticket-Sales-Representative-I_R109792",
+      "firstJobbyUrl": "https://firstjobby.com/companies/uoflorwd1oruoflcareersite/ticket-sales-representative-i-uofl-3ff6f0?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 0
+    },
+    {
+      "id": "9481dad1-9d00-4fe7-b870-5c16f458bec7",
+      "title": "Junior Product Developer - Aman Interiors",
+      "company": "Aman",
+      "place": "London, United Kingdom",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://aman.wd103.myworkdayjobs.com/AmanGroupExternal/job/Aman-Interiors--London-United-Kingdom/Junior-Product-Developer---Aman-Interiors_JR105931",
+      "firstJobbyUrl": "https://firstjobby.com/companies/amanorwd103oramangroupexternal/junior-product-developer-aman-interiors-aman-2c0e02?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 1
     },
     {
       "id": "8dd03d55-54e9-4f37-8d0e-0cdd9e5098ab",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/unitedmedia/growth-associate-united-media-85c3a7?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 3
-    },
-    {
-      "id": "9ac0befd-50ba-4a33-8b7c-03c4e6ae337c",
-      "title": "Demand Generation Engineer",
-      "company": "CFO Insights",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/cfoinsights/jobs/8217559003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/cfoinsights/demand-generation-engineer-cfo-insights-cdf67b?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "9ab0d4c7-0d21-46e6-8173-ba3e2a88e8d9",
-      "title": "Growth Strategy Associate",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217751003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/growth-strategy-associate-hrtechx-74f54a?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
