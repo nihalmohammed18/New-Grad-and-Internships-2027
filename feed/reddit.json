@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T00:53:36.608Z",
+  "generatedAt": "2026-11-27T01:04:02.598Z",
   "jobs": [
     {
       "id": "f9340347-2746-4950-8264-98f8c657afb8",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/marketing-associate-gartner-d2b389?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "84be173a-867a-4a1f-a48d-57041aef5c7b",
+      "title": "Project Coordinator Intern",
+      "company": "Control Risks",
+      "place": "São Paulo, Brazil",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/9CED184793",
+      "firstJobbyUrl": "https://firstjobby.com/companies/control-risks-6/project-coordinator-intern-control-risks-a42722?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "3fab6760-ea34-4870-a1de-4d4acc5489db",
@@ -380,6 +399,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/perk/sales-executive-swedish-speaking-perk-ffed69?utm_source=reddit",
       "postedAt": "2026-11-26T20:53:32.059Z",
       "notable": 3
+    },
+    {
+      "id": "8801f6fa-f2c8-469d-8a4f-07f3fa5d1ca4",
+      "title": "Bilingual French Support Representative - Streaming Services",
+      "company": "Sutherland",
+      "place": "Remote",
+      "category": "Customer Support",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/Sutherland/744000163925199-bilingual-french-support-representative-streaming-services",
+      "firstJobbyUrl": "https://firstjobby.com/companies/sutherland/bilingual-french-support-representative-streaming-services-sutherland-49031f?utm_source=reddit",
+      "postedAt": "2026-11-26T20:39:45.579Z",
+      "notable": 2
     },
     {
       "id": "3504a777-5065-4ecf-b415-1af436fc699d",
@@ -1801,7 +1839,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000163904569-application-support-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/Talan/744000163904569",
       "firstJobbyUrl": "https://firstjobby.com/companies/talan/application-support-specialist-talan-1c8837?utm_source=reddit",
       "postedAt": "2026-11-26T16:21:56.227Z",
       "notable": 4
@@ -1858,7 +1896,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017107966-fp-a-analyst",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017107966",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/fpanda-analyst-abbvie-705115?utm_source=reddit",
       "postedAt": "2026-11-26T16:15:06.372Z",
       "notable": 3
@@ -2542,7 +2580,7 @@
       "pay": null,
       "minYears": null,
       "season": "January 2027",
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000163888299-stage-compensation-benefits-analyst-f-m",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000163888299",
       "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/stage-compensation-and-benefits-analyst-fm-egis-group-3c3e23?utm_source=reddit",
       "postedAt": "2026-11-26T14:53:11.162Z",
       "notable": 3
@@ -3188,7 +3226,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Devoteam/744000163878568-cloud-data-engineer-azure-or-aws-or-gcp-databricks-upskilling-track",
+      "applyUrl": "https://jobs.smartrecruiters.com/Devoteam/744000163878568",
       "firstJobbyUrl": "https://firstjobby.com/companies/devoteam/cloud-data-engineer-azure-or-aws-or-gcp-databricks-upskilling-track-devoteam-ad78ca?utm_source=reddit",
       "postedAt": "2026-11-26T13:58:34.438Z",
       "notable": 3
@@ -3302,7 +3340,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017105466-stagiaire-en-it-r-d-h-f-",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017105466",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/stagiaire-en-it-randd-hf-abbvie-5924f4?utm_source=reddit",
       "postedAt": "2026-11-26T13:48:12.046Z",
       "notable": 3
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://job-boards.greenhouse.io/privateequityinsights/jobs/8217732003",
       "firstJobbyUrl": "https://firstjobby.com/companies/privateequityinsights/go-to-market-operations-associate-private-equity-insights-908763?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "53d50940-de02-4220-9a34-7c7f2c7f62f3",
-      "title": "AI Operations Specialist",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217907003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/ai-operations-specialist-hrtechx-ba06f9?utm_source=reddit",
-      "postedAt": "2026-11-26T09:50:18.000Z",
-      "notable": 4
-    },
-    {
-      "id": "53609d0f-7e79-4dfb-a4fe-a039b5bf358e",
-      "title": "Agentic Marketing Associate",
-      "company": "HRtechX",
-      "place": "London, United Kingdom",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": "wont_sponsor",
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://job-boards.greenhouse.io/hrtechx/jobs/8217851003",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hrtechx/agentic-marketing-associate-hrtechx-a08b10?utm_source=reddit",
       "postedAt": "2026-11-26T09:50:18.000Z",
       "notable": 4
     }
