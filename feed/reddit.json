@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:27:53.326Z",
+  "generatedAt": "2026-11-27T20:36:24.968Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -8299,7 +8299,7 @@
       "pay": null,
       "minYears": 0,
       "season": null,
-      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Testing-Specialist_R5059183-2",
+      "applyUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Chennai/Testing-Specialist_R5059183-2",
       "firstJobbyUrl": "https://firstjobby.com/companies/gevernovaorwd5orvernovaexternalsite/testing-specialist-ge-vernova-0ae5bc?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
@@ -8666,6 +8666,25 @@
       "notable": 3
     },
     {
+      "id": "d1961802-f340-49a0-b58a-2b7f71af39f6",
+      "title": "Gears Execution Engineer (N6)",
+      "company": "General Motors",
+      "place": "San Luis Potosi, Mexico",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/San-Luis-Potosi-Mexico/Gears-Execution-Engineer--N6-_JR-202624148",
+      "firstJobbyUrl": "https://firstjobby.com/companies/generalmotorsorwd5orcareersgm/gears-execution-engineer-n6-general-motors-5885f2?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "d08de36d-660e-408f-9282-b3132b5ff0a3",
       "title": "Product Liaison Engineer",
       "company": "Tempurpedic",
@@ -8873,6 +8892,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/supportyourapp/fluent-english-customer-support-consultant-fintech-remotely-supportyourapp-81b062?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "cd26e520-5771-4ef4-9e94-cc9f50e973e0",
+      "title": "Markets Support Analyst",
+      "company": "Bank of America",
+      "place": "Charlotte, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Markets-Support-Analyst_26042526",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ghrorwd1orlateral-us/markets-support-analyst-bank-of-america-030d71?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "ccfa7f0a-9f10-4bbf-9ce9-5b9d668c792a",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://adient.wd3.myworkdayjobs.com/External/job/RomaniaJimbolia/Spare-Parts---Inventory-Engineer_R-29960",
       "firstJobbyUrl": "https://firstjobby.com/companies/adientorwd3orexternal/spare-parts-and-inventory-engineer-adient-793eaa?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "c26e0e14-61c5-4b08-b35c-8a49db208af4",
-      "title": "Scientist, Functional Genomics",
-      "company": "Sdguthrie",
-      "place": "Malaysia",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://sdguthrie.wd3.myworkdayjobs.com/SDGUTHRIEMINAMAS/job/Serdang-Selangor-Malaysia/Scientist--Functional-Genomics_JR3265",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sdguthrieorwd3orsdguthrieminamas/scientist-functional-genomics-sdguthrie-6fcdac?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 0
-    },
-    {
-      "id": "c20d942a-ed65-4ae2-95f9-8055d02cc1f9",
-      "title": "Engineering Intern",
-      "company": "Shell",
-      "place": "Malaysia",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Bintulu/Engineering-Intern_R215773",
-      "firstJobbyUrl": "https://firstjobby.com/companies/shellorwd3orshellcareers/engineering-intern-shell-c632d3?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     }
