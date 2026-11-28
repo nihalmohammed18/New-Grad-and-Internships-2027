@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:21:28.458Z",
+  "generatedAt": "2026-11-28T10:30:10.867Z",
   "jobs": [
     {
       "id": "cf93b152-6673-47d4-8f2a-b1037ad2225d",
@@ -38,6 +38,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wix2/social-media-specialist-ai-tech-and-brand-student-wix-cd691b?utm_source=reddit",
       "postedAt": "2026-11-28T08:12:04.720Z",
       "notable": 2
+    },
+    {
+      "id": "6a54f1bf-c3cd-439d-9b5b-335387b6c806",
+      "title": "Chemist - Data Management",
+      "company": "AECOM",
+      "place": "Bengaluru, India",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000164123089-chemist-data-management",
+      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/chemist-data-management-aecom-9f09d8?utm_source=reddit",
+      "postedAt": "2026-11-28T06:18:57.538Z",
+      "notable": 3
     },
     {
       "id": "5d1162d2-85db-4d63-b7d2-8d8da61b7924",
@@ -509,7 +528,7 @@
       "pay": null,
       "minYears": 2,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000164096618-analyst-i-microbiology-eurofins-experchem-laboratories-inc-",
+      "applyUrl": "https://jobs.smartrecruiters.com/Eurofins/744000164096618",
       "firstJobbyUrl": "https://firstjobby.com/companies/eurofins/analyst-i-microbiology-eurofins-experchem-laboratories-inc-eurofins-78f0aa?utm_source=reddit",
       "postedAt": "2026-11-27T22:42:51.250Z",
       "notable": 3
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/pepperlfuchsorwd103orpepperlfuchs/summer-intern-bb-testing-and-quality-assurance-of-electronic-devices-pepperlfuch-fca7b9?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "ede8ec34-2005-4d82-baf2-8832284d801d",
-      "title": "LM162: Security Operations Agent",
-      "company": "Fedex",
-      "place": "Apodaca, Mexico",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://fedex.wd1.myworkdayjobs.com/FXE-LAC_External_Career_Site/job/FXE-LACMXMTYRMTYR-Apodaca/LM162--Security-Operations-Agent_RC789705-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fedexorwd1orfxe-lacexternalcareersite/lm162-security-operations-agent-fedex-10a9c6?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
