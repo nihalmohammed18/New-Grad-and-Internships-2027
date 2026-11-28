@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:12:19.144Z",
+  "generatedAt": "2026-11-28T09:51:19.660Z",
   "jobs": [
     {
       "id": "5d1162d2-85db-4d63-b7d2-8d8da61b7924",
@@ -344,6 +344,25 @@
       "notable": 2
     },
     {
+      "id": "516202ac-21f8-4315-a40c-ffa1b531c967",
+      "title": "Data Quality Engineer",
+      "company": "Vanderbilt Health",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Data-Quality-Engineer_R-73203-2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/data-quality-engineer-vanderbilt-health-8b89c6?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "48b7de78-d310-45ba-91c7-659e2a960488",
       "title": "Intern - Stack Mechanical Design",
       "company": "Ohmium",
@@ -361,6 +380,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ohmiumorwd12orohmiumcareers/intern-stack-mechanical-design-ohmium-99438f?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 0
+    },
+    {
+      "id": "0c0c53b4-683e-47cd-bac0-44ab23d8af48",
+      "title": "Associate Program Manager – Onsite Nashville TN",
+      "company": "Vanderbilt Health",
+      "place": "Nashville, United States",
+      "category": "Product",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://vumc.wd1.myworkdayjobs.com/vumccareers/job/Nashville-TN/Associate-Program-Manager---Onsite-Nashville-TN_R-70190-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/vumcorwd1orvumccareers/associate-program-manager-onsite-nashville-tn-vanderbilt-health-8d5a81?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "4e3d81e1-d90c-41f2-b739-7fd4f498bf14",
@@ -9460,44 +9498,6 @@
       "season": null,
       "applyUrl": "https://fedex.wd1.myworkdayjobs.com/FXE-LAC_External_Career_Site/job/FXE-LACMXTIJRTIJR-Rampa/LM162--Security-Operations-Agent_RC789707-1",
       "firstJobbyUrl": "https://firstjobby.com/companies/fedexorwd1orfxe-lacexternalcareersite/lm162-security-operations-agent-fedex-303d00?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "ecee8736-3d31-4491-8b8b-efb04b43341d",
-      "title": "Associate Remote Sales Representative",
-      "company": "Medtronic",
-      "place": "Remote",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Seoul-Seoul-Korea/Associate-Remote-Sales-Representative_R82269-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1ormedtroniccareers/associate-remote-sales-representative-medtronic-0eeefe?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "ecc4ea43-4010-4071-acaf-9a340e1e1599",
-      "title": "Advanced Manufacturing Engineering Intern (Mar-Aug 2027)",
-      "company": "GlobalFoundries",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": "Mar-Aug 2027",
-      "applyUrl": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Mar-Aug-2027-_JR-2603763-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/globalfoundriesorwd1orexternal/advanced-manufacturing-engineering-intern-mar-aug-2027-globalfoundries-1bfcc6?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     }
