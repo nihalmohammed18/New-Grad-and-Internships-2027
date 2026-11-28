@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:27:20.166Z",
+  "generatedAt": "2026-11-28T11:35:28.348Z",
   "jobs": [
     {
       "id": "6ad4f52c-2930-4715-ac5d-298acc2c12fc",
@@ -344,6 +344,25 @@
       "notable": 3
     },
     {
+      "id": "a1a1fa78-20f7-47b6-a964-81c1398476f2",
+      "title": "Fracture Control Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$64.6K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Fracture-Control-Engineer_R0174099-11",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/fracture-control-engineer-amentum-bf2fb8?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "9fa6efb1-6dca-4727-99e7-4050adbc8ce8",
       "title": "Intern - Stack Testing",
       "company": "Ohmium",
@@ -399,6 +418,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geeks-on-site/it-field-technician-on-call-peoria-county-il-geeks-on-site-3765e3?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "76943c3e-0f87-4505-b36a-79efa4b84117",
+      "title": "Structural Dynamics Engineer",
+      "company": "Amentum",
+      "place": "Houston, United States",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": "$64.6K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Structural-Dynamics-Engineer_R0174105-11",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paeorwd1oramentumcareers/structural-dynamics-engineer-amentum-ec31db?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "756364c2-cb9f-47bb-891a-14d96074c805",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/custom-software-engineer-accenture-123ab1?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "efb9eba6-d0ae-42da-a017-c89895825176",
-      "title": "Intermediate App Developer - Java",
-      "company": "UPS",
-      "place": "India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---TDC-1-IN110/Intermediate-App-Developer---Java_R26027078",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hcmportalorwd5orsearch/intermediate-app-developer-java-ups-2cbad6?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "ef7d047b-65ab-441e-b1ff-fa2ce05b5f67",
-      "title": "Software/Firmware Engineer - Early Career",
-      "company": "Marvell",
-      "place": "Santa Clara, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "New Grad",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$94.2K-$141.0K/yr",
-      "minYears": 0,
-      "season": null,
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933",
-      "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/softwarefirmware-engineer-early-career-marvell-6078f0?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
