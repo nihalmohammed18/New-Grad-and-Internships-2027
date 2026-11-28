@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:42:30.130Z",
+  "generatedAt": "2026-11-28T17:55:13.042Z",
   "jobs": [
     {
       "id": "2df3442d-60c4-469e-b008-440793c5af12",
@@ -6538,6 +6538,25 @@
       "notable": 3
     },
     {
+      "id": "8d5e2865-5bfd-48aa-a346-a67e2cf98df9",
+      "title": "Biostatisticien (H/F)",
+      "company": "Agence de la biomédecine",
+      "place": "Saint-Denis, France",
+      "category": "Data",
+      "jobType": "contract",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/AgenceDeLaBiomedecine1/744000164023899-biostatisticien-h-f-",
+      "firstJobbyUrl": "https://firstjobby.com/companies/agencedelabiomedecine1/biostatisticien-hf-agence-de-la-biomedecine-58ebf1?utm_source=reddit",
+      "postedAt": "2026-11-27T12:30:51.072Z",
+      "notable": 1
+    },
+    {
       "id": "4bc5a7bb-f162-440d-85a9-c30abc158df2",
       "title": "Picture Researcher, Wellness (12 Month FTC)",
       "company": "Hearst",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163957729",
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/test-engineer-bosch-group-eef276?utm_source=reddit",
       "postedAt": "2026-11-27T03:14:27.882Z",
-      "notable": 3
-    },
-    {
-      "id": "8b3da6d2-0a3a-4a81-9385-c55c00f9361d",
-      "title": "Snowflake Cortex AI Engineer",
-      "company": "Jobgether",
-      "place": "Remote from Germany",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.lever.co/jobgether/edbb77d8-3725-4b27-8032-21d993a70d85",
-      "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/snowflake-cortex-ai-engineer-jobgether-62e68c?utm_source=reddit",
-      "postedAt": "2026-11-27T03:13:23.195Z",
       "notable": 3
     }
   ],
