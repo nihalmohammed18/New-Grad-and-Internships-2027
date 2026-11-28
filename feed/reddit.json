@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:04:28.277Z",
+  "generatedAt": "2026-11-28T03:08:47.346Z",
   "jobs": [
     {
       "id": "0d9d6f36-7a14-48c5-b135-99694b3161ff",
@@ -19,6 +19,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/boschgroup/cleanroom-support-specialist-bosch-group-d2f4b1?utm_source=reddit",
       "postedAt": "2026-11-28T00:11:37.357Z",
       "notable": 6
+    },
+    {
+      "id": "fb319fad-b98d-4d68-9792-b5c670329957",
+      "title": "Associate Engineer, Product Engineering (Mfg.)",
+      "company": "Analog Devices",
+      "place": "Philippines",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "us_person",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Product-Engineering--Mfg-_R266846",
+      "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-engineer-product-engineering-mfg-analog-devices-43533f?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -76,6 +95,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/geeks-on-site/it-field-technician-on-call-peoria-county-il-geeks-on-site-3765e3?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "756364c2-cb9f-47bb-891a-14d96074c805",
+      "title": "Associate Engineer, Equipment Engineering",
+      "company": "Analog Devices",
+      "place": "Philippines",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Equipment-Engineering_R268610",
+      "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-engineer-equipment-engineering-analog-devices-5a2189?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "4e3d81e1-d90c-41f2-b739-7fd4f498bf14",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/exclusivenetworksorwd103orbroadbeanexternal/account-manager-cybersecurity-exclusivenetworks-4b772b?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "e6d830c2-59ac-476a-8bc0-606f2fbef817",
-      "title": "Packaged/SaaS Application Engineer",
-      "company": "Accenture",
-      "place": "Braga, Portugal",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Braga-Polo-de-Negocios-de-Braga/Packaged-SaaS-Application-Engineer_14952957",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/packagedsaas-application-engineer-accenture-78e8b7?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "e62b6121-42a2-40a7-a6d9-81e1fa02e293",
-      "title": "Customer Experience and Growth Intern",
-      "company": "Stranger Soccer",
-      "place": "Sydney, Australia",
-      "category": "Customer Support",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/90C704FED2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/stranger-soccer-1/customer-experience-and-growth-intern-stranger-soccer-847e15?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 1
     }
   ],
   "fakeEntryLevel": {
