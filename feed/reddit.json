@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:43:50.205Z",
+  "generatedAt": "2026-11-28T01:06:24.985Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -8533,6 +8533,25 @@
       "notable": 2
     },
     {
+      "id": "f10be7cf-10f3-458d-ad24-a33fafb3398c",
+      "title": "IT Service Desk Analyst",
+      "company": "Erickson Senior Living",
+      "place": "Baltimore, United States",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$27-$29/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/IT-Service-Desk-Analyst_R0107448",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ericksonorwd108orexternal/it-service-desk-analyst-erickson-senior-living-c1a4ad?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
+    },
+    {
       "id": "f08d796c-3e16-4ccd-a1dd-3a5377d015ef",
       "title": "Operations Systems Analyst",
       "company": "Hub24management",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/field-service-engineer-fmd-abb-a4db32?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e1727019-f1b6-485b-a0c9-0f505776e7ca",
-      "title": "Logistics Specialist - Transportation & Documentation",
-      "company": "C.H. Robinson",
-      "place": "Wrocław, Poland",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "PLN 63.7K-PLN 127.5K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Wrocaw-Centrum-Poudnie/Logistics-Specialist---Transportation---Documentation_R50349",
-      "firstJobbyUrl": "https://firstjobby.com/companies/chrobinsonorwd5orchrobinson/logistics-specialist-transportation-and-documentation-ch-robinson-01f52b?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
