@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:56:23.587Z",
+  "generatedAt": "2026-11-28T13:03:53.753Z",
   "jobs": [
     {
       "id": "6ad4f52c-2930-4715-ac5d-298acc2c12fc",
@@ -551,6 +551,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/adult-with-own-lab-test-results-freelance-ai-data-contributor-mindrift-28c2f4?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "c14fcf11-e467-4f3a-8197-4753d1559d17",
+      "title": "Customer Service Associate (Intermediate Level)",
+      "company": "Enovis",
+      "place": "Tijuana, Mexico",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://enovis.wd5.myworkdayjobs.com/enovis/job/Tijuana-Baja-California-Mexico/Customer-Service-Associate--Intermediate-Level-_R0034890-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/enovisorwd5orenovis/customer-service-associate-intermediate-level-enovis-9dde47?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "bbfe9a47-da2b-4453-83be-7f6d0ceee8f2",
@@ -9479,25 +9498,6 @@
       "season": null,
       "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Gangnam-gu-Korea-Republic-of/Product-Specialist--MIcroarray-_R-01377014",
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/product-specialist-microarray-thermo-fisher-scientific-4cebef?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "fb759053-32b8-4314-8d14-b0b949860f62",
-      "title": "LM162: Security Operations Agent",
-      "company": "Fedex",
-      "place": "Cuautitlan Izcalli, Mexico",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://fedex.wd1.myworkdayjobs.com/FXE-LAC_External_Career_Site/job/FXE-LACMXMUGAMUGA-Station/LM162--Security-Operations-Agent_RC789289",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fedexorwd1orfxe-lacexternalcareersite/lm162-security-operations-agent-fedex-be4a10?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
     }
