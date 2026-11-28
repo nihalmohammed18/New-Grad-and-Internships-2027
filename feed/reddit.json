@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:43:12.975Z",
+  "generatedAt": "2026-11-28T13:45:26.953Z",
   "jobs": [
     {
       "id": "6ad4f52c-2930-4715-ac5d-298acc2c12fc",
@@ -1199,6 +1199,25 @@
       "notable": 2
     },
     {
+      "id": "2fdb87e6-1576-4cf4-8862-e679b4039e6c",
+      "title": "Customer Success Partner with Slovenian",
+      "company": "Atlean World",
+      "place": "Sofia, Bulgaria",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/50BF67E483",
+      "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/customer-success-partner-with-slovenian-atlean-world-6dc989?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 3
+    },
+    {
       "id": "2a27b13f-edb9-4d29-8ffc-b4605e5e2b70",
       "title": "Medical Lab Report Holder - Freelance AI Data Contributor",
       "company": "Mindrift",
@@ -1387,6 +1406,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/adult-with-own-lab-test-results-freelance-ai-data-contributor-mindrift-9b6b35?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "1297bd3b-c446-4f69-821d-8e060d15d24d",
+      "title": "Trust & Safety Content Analyst with Dutch",
+      "company": "Atlean World",
+      "place": "Thessaloniki, Greece",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/C8461A81E4",
+      "firstJobbyUrl": "https://firstjobby.com/companies/atleanworld/trust-and-safety-content-analyst-with-dutch-atlean-world-b4697f?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "0faa6102-0d65-4c1e-9dd4-ed8fb714a516",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/account-manager-thermo-fisher-scientific-5e913c?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "fc92c58f-59b9-4703-900b-eb5779400a1f",
-      "title": "Health Insurance Card Images - Freelance AI Data Contributor",
-      "company": "Mindrift",
-      "place": "Remote from United States",
-      "category": "Data",
-      "jobType": "freelance",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$5-$20/hr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://apply.workable.com/j/B455B0726B",
-      "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/health-insurance-card-images-freelance-ai-data-contributor-mindrift-905bf5?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 5
-    },
-    {
-      "id": "fc762f62-b046-4e73-9463-0f0d7219c099",
-      "title": "Customer Care Operations Expert with English language",
-      "company": "Medtronic",
-      "place": "Heerlen, Netherlands",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "€40.0K-€60.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Heerlen-Limburg-Netherlands/Customer-Care-Operations-Expert-with-English-language_R82867-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/customer-care-operations-expert-with-english-language-medtronic-851bd2?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
