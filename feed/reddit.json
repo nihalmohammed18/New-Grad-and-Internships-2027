@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:06:24.985Z",
+  "generatedAt": "2026-11-28T01:19:32.389Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -513,6 +513,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/laclippers/2027-business-operations-intern-sustainability-la-clippers-02903b?utm_source=reddit",
       "postedAt": "2026-11-27T19:30:58.000Z",
       "notable": 5
+    },
+    {
+      "id": "d3333be9-b5a2-4b82-a708-291fffcae6ed",
+      "title": "Implementation Specialist",
+      "company": "Paystand",
+      "place": "Guadalajara, Mexico",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://paystand.com/job-listing/?gh_jid=8218477003",
+      "firstJobbyUrl": "https://firstjobby.com/companies/paystand/implementation-specialist-paystand-dce577?utm_source=reddit",
+      "postedAt": "2026-11-27T19:18:52.000Z",
+      "notable": 2
     },
     {
       "id": "6ca33ee9-8d6b-4eae-b6cc-0ad1ea7b0224",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/genpactorwd108orexternalcareers/specialist-domain-analytics-fcrm-4b-genpact-179513?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "e2364afe-d1cf-43d2-9684-d11c31918df1",
-      "title": "Field Service Engineer (f/m/d)",
-      "company": "ABB",
-      "place": "Sasbach, Germany",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Sasbach-Baden-Wurttemberg-Germany/Field-Service-Engineer--f-m-d-_JR00053297",
-      "firstJobbyUrl": "https://firstjobby.com/companies/abborwd3orexternalcareerpage/field-service-engineer-fmd-abb-a4db32?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
