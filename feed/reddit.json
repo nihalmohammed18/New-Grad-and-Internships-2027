@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:03:53.753Z",
+  "generatedAt": "2026-11-28T13:43:12.975Z",
   "jobs": [
     {
       "id": "6ad4f52c-2930-4715-ac5d-298acc2c12fc",
@@ -243,7 +243,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164120479-planner-data-centre-batam-",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164120479",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/planner-data-centre-batam-turner-and-townsend-401f21?utm_source=reddit",
       "postedAt": "2026-11-28T04:04:59.227Z",
       "notable": 3
@@ -1235,6 +1235,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/health-insurance-card-holder-freelance-ai-data-contributor-mindrift-60c11c?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "285d2f73-c3e4-4a8b-b1f3-e71296bb3fe5",
+      "title": "Sales Associate",
+      "company": "Coach",
+      "place": "United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£26.3K-£28.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/Essex-GBR-Ks-Braintree-Outlet---Kate-Spade/Sales-Associate_JR23500",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tapestryorwd108ortapestrycareers/sales-associate-coach-19dd41?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 4
     },
     {
       "id": "250f97ed-cf9a-45f6-a757-eba6bc7c575c",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/medtronicorwd1orredeploymentmedtroniccareers/customer-care-operations-expert-with-english-language-medtronic-851bd2?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "fbbc0863-1c6d-4c47-b800-c1ebd29008df",
-      "title": "Product Specialist (MIcroarray)",
-      "company": "Thermo Fisher Scientific",
-      "place": "South Korea",
-      "category": "Product",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Gangnam-gu-Korea-Republic-of/Product-Specialist--MIcroarray-_R-01377014",
-      "firstJobbyUrl": "https://firstjobby.com/companies/thermofisherorwd5orthermofishercareers/product-specialist-microarray-thermo-fisher-scientific-4cebef?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
