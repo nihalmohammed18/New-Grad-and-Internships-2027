@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:35:26.121Z",
+  "generatedAt": "2026-11-28T07:51:32.602Z",
   "jobs": [
     {
       "id": "4838f2b1-3c1b-4c0d-baac-e2cdb79e0650",
@@ -912,6 +912,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/magnetforensics/technical-support-engineer-magnet-forensics-94794e?utm_source=reddit",
       "postedAt": "2026-11-27T19:44:34.738Z",
       "notable": 3
+    },
+    {
+      "id": "e7015399-234a-4332-9977-0ab515afeb78",
+      "title": "Technicien.ne aux opérations de service/Service Operations Technician",
+      "company": "Terrestar - Strigo",
+      "place": "Montréal, Canada",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/strigofr/jobs/5495562008",
+      "firstJobbyUrl": "https://firstjobby.com/companies/strigofr/technicienne-aux-operations-de-serviceservice-operations-technician-terrestar-st-06c930?utm_source=reddit",
+      "postedAt": "2026-11-27T19:42:00.000Z",
+      "notable": 1
     },
     {
       "id": "50d4c4d5-dd59-441c-9d0b-d33a11a497b0",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/wisconsinorwd1oruwmadison/system-engineer-ii-university-of-wisconsin-madison-a84568?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 5
-    },
-    {
-      "id": "e9278c0c-6d47-4b15-a224-9b8859226720",
-      "title": "Validation Engineer I",
-      "company": "Silicon Labs",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://silabs.wd1.myworkdayjobs.com/ExperiencedJobs/job/Singapore/Validation-Engineer-I_21183",
-      "firstJobbyUrl": "https://firstjobby.com/companies/silabsorwd1orexperiencedjobs/validation-engineer-i-silicon-labs-5f2dc6?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 0
     }
   ],
   "fakeEntryLevel": {
