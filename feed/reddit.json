@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:37:11.729Z",
+  "generatedAt": "2026-11-28T02:46:55.387Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -2409,7 +2409,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000164063968--junior-performance-marketing-manager-ppc-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000164063968",
       "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/junior-performance-marketing-manager-ppc-mwd-scalable-gmbh-ecbb52?utm_source=reddit",
       "postedAt": "2026-11-27T15:38:42.904Z",
       "notable": 3
@@ -2542,7 +2542,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000164057896--junior-performance-marketing-manager-ppc-m-w-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/ScalableGmbH/744000164057896",
       "firstJobbyUrl": "https://firstjobby.com/companies/scalablegmbh/junior-performance-marketing-manager-ppc-mwd-scalable-gmbh-94c1ed?utm_source=reddit",
       "postedAt": "2026-11-27T15:32:30.374Z",
       "notable": 3
@@ -8552,25 +8552,6 @@
       "notable": 2
     },
     {
-      "id": "f3678e18-a067-4240-9751-e8de14d0f5d6",
-      "title": "Communications Specialist (2+ years in Writing & Editing)",
-      "company": "Gartner",
-      "place": "Gurgaon, India",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://gartner.wd5.myworkdayjobs.com/ext/job/Gurgaon/Communications-Specialist--2--years-in-Writing---Editing-_116151",
-      "firstJobbyUrl": "https://firstjobby.com/companies/gartnerorwd5orext/communications-specialist-2-years-in-writing-and-editing-gartner-35b496?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "f2e84dba-fa0b-42dd-bd1c-f8ea92fbd8a4",
       "title": "Airworthiness Engineer",
       "company": "Airbus",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hirehawk/aba-intake-and-scheduling-coordinator-remote-or-latam-hirehawk-2db76b?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "e473ed88-880b-4b50-898f-003e4ff02e31",
+      "title": "Aftermarket Sales Executive, Luton",
+      "company": "Electrolux",
+      "place": "United Kingdom",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "£25.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Luton/Aftermarket-Sales-Executive--Luton_JR82416",
+      "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/aftermarket-sales-executive-luton-electrolux-5d96b8?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 4
     }
   ],
   "fakeEntryLevel": {
