@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:35:23.918Z",
+  "generatedAt": "2026-11-28T16:42:30.130Z",
   "jobs": [
     {
       "id": "2df3442d-60c4-469e-b008-440793c5af12",
@@ -18,6 +18,25 @@
       "applyUrl": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000164129989-supply-chain-spec-i-logistics-linen-operations-full-time-days",
       "firstJobbyUrl": "https://firstjobby.com/companies/northwesternmedicine/supply-chain-spec-i-logistics-linen-operations-full-time-days-northwestern-memor-c8b91d?utm_source=reddit",
       "postedAt": "2026-11-28T14:55:39.482Z",
+      "notable": 3
+    },
+    {
+      "id": "e44a5404-c0b7-4731-bf97-e4ea7a0388f0",
+      "title": "Interior Designer - Entry Level",
+      "company": "CannonDesign",
+      "place": "Dallas, United States",
+      "category": "Design",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8962298002",
+      "firstJobbyUrl": "https://firstjobby.com/companies/cannondesign/interior-designer-entry-level-cannondesign-eba2d6?utm_source=reddit",
+      "postedAt": "2026-11-28T12:59:20.000Z",
       "notable": 3
     },
     {
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/edbb77d8-3725-4b27-8032-21d993a70d85",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/snowflake-cortex-ai-engineer-jobgether-62e68c?utm_source=reddit",
       "postedAt": "2026-11-27T03:13:23.195Z",
-      "notable": 3
-    },
-    {
-      "id": "cc6a65fa-6228-4849-a661-a67bc59647f9",
-      "title": "Mechanical Engineers | Mining, Resources & Industry",
-      "company": "AECOM",
-      "place": "Brisbane, Australia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000163957589",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/mechanical-engineers-or-mining-resources-and-industry-aecom-4d5c98?utm_source=reddit",
-      "postedAt": "2026-11-27T03:11:35.836Z",
       "notable": 3
     }
   ],
