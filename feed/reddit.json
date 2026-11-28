@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T18:05:27.032Z",
+  "generatedAt": "2026-11-28T18:15:49.086Z",
   "jobs": [
     {
       "id": "2df3442d-60c4-469e-b008-440793c5af12",
@@ -5550,6 +5550,25 @@
       "notable": 3
     },
     {
+      "id": "0b568f18-0234-4a8a-a725-f8274e565ef3",
+      "title": "Intern, Diesel & Grid Operations",
+      "company": "IHS Towers",
+      "place": "Douala, Cameroon",
+      "category": "Operations",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.smartrecruiters.com/IHSTowers/744000164046865-intern-diesel-grid-operations",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ihstowers/intern-diesel-and-grid-operations-ihs-towers-f464a1?utm_source=reddit",
+      "postedAt": "2026-11-27T14:41:37.243Z",
+      "notable": 1
+    },
+    {
       "id": "9c0a1df1-a743-4a2b-b31b-18f741467a20",
       "title": "Junior Sales Manager (w/m/div.) (befristet für 24 Monate)",
       "company": "Bosch Group",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000163970259",
       "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/electrical-engineers-or-mining-resources-and-industry-aecom-dbc96e?utm_source=reddit",
       "postedAt": "2026-11-27T06:57:12.101Z",
-      "notable": 3
-    },
-    {
-      "id": "08abd4a1-8d33-4c40-90f9-aa70505f1890",
-      "title": "Electrical Engineer | Resources & Industry",
-      "company": "AECOM",
-      "place": "Adelaide, Australia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000163970209",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/electrical-engineer-or-resources-and-industry-aecom-dbf55a?utm_source=reddit",
-      "postedAt": "2026-11-27T06:56:59.997Z",
       "notable": 3
     }
   ],
