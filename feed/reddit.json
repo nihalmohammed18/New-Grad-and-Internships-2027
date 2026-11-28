@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-28T11:15:53.680Z",
+  "generatedAt": "2026-11-28T11:27:20.166Z",
   "jobs": [
+    {
+      "id": "6ad4f52c-2930-4715-ac5d-298acc2c12fc",
+      "title": "Founder's Associate (Engineering, Product & Operations) - Internship",
+      "company": "Bitstack",
+      "place": "Paris, France",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": "Early 2027",
+      "applyUrl": "https://jobs.ashbyhq.com/bitstack/232b0ef4-83b7-44ca-80d8-09eef2a9ff0c",
+      "firstJobbyUrl": "https://firstjobby.com/companies/bitstack/founders-associate-engineering-product-and-operations-internship-bitstack-8558d0?utm_source=reddit",
+      "postedAt": "2026-11-28T09:00:04.465Z",
+      "notable": 1
+    },
     {
       "id": "cf93b152-6673-47d4-8f2a-b1037ad2225d",
       "title": "Cutover Coordinator",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/marvellorwd1ormarvellcareers/softwarefirmware-engineer-early-career-marvell-6078f0?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "ef7cb2c9-e439-4d8c-a362-7fdc1d9a8e80",
-      "title": "Junior Field Engineer - Centrifugal Compressor (Omani National)",
-      "company": "Baker Hughes",
-      "place": "Muscat, Oman",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/OM-MUSCAT-OMAN-AIRPORTS-MANAGEMENT-COMPANY/Junior-Field-Engineer---Centrifugal-Compressor--Omani-National-_R171831",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bakerhughesorwd5orbakerhughes/junior-field-engineer-centrifugal-compressor-omani-national-baker-hughes-89aad3?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
