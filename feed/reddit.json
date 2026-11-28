@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T18:15:49.086Z",
+  "generatedAt": "2026-11-28T19:09:09.393Z",
   "jobs": [
     {
       "id": "2df3442d-60c4-469e-b008-440793c5af12",
@@ -1330,6 +1330,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/toloka-ai/us-adult-with-health-insurance-freelance-ai-data-contributor-mindrift-bbc47c?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 5
+    },
+    {
+      "id": "7ab45707-7c6f-46f7-9c0f-e65fbac5f186",
+      "title": "Application Engineer Spare Parts",
+      "company": "Flowserve",
+      "place": "Guyancourt, France",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Guyancourt-France/Application-Engineer-Spare-Parts_R-22139",
+      "firstJobbyUrl": "https://firstjobby.com/companies/flowserveorwd1orapplied/application-engineer-spare-parts-flowserve-2775ca?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "79929ff3-75d2-46ce-8490-7b5e0f6f4186",
@@ -9480,25 +9499,6 @@
       "applyUrl": "https://jobs.lever.co/jobgether/d38bbf6e-7315-4682-bbe9-ab1ae7f3becd",
       "firstJobbyUrl": "https://firstjobby.com/companies/jobgether/villa-operations-supervisor-jobgether-92395b?utm_source=reddit",
       "postedAt": "2026-11-27T06:57:36.541Z",
-      "notable": 3
-    },
-    {
-      "id": "93a38675-ae64-4b2e-abe7-021d85189bf1",
-      "title": "Electrical Engineers | Mining, Resources & Industry",
-      "company": "AECOM",
-      "place": "Brisbane, Australia",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000163970259",
-      "firstJobbyUrl": "https://firstjobby.com/companies/aecom2/electrical-engineers-or-mining-resources-and-industry-aecom-dbc96e?utm_source=reddit",
-      "postedAt": "2026-11-27T06:57:12.101Z",
       "notable": 3
     }
   ],
