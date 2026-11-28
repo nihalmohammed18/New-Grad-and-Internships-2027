@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:28:15.630Z",
+  "generatedAt": "2026-11-28T03:35:27.029Z",
   "jobs": [
     {
       "id": "0d9d6f36-7a14-48c5-b135-99694b3161ff",
@@ -57,6 +57,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/ciscoorwd5orciscocareers/software-engineer-cisco-33011a?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "ac1182b1-f839-453c-8354-da158e8571bf",
+      "title": "Sales Representative",
+      "company": "Brenntag",
+      "place": "Binh Thanh, Vietnam",
+      "category": "Sales",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/Binh-ThanhVietnam/Sales-Representative_JR112575",
+      "firstJobbyUrl": "https://firstjobby.com/companies/brenntagorwd3orbrenntagjobs/sales-representative-brenntag-dbc3dc?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 3
     },
     {
       "id": "9bfe2966-dd2d-4557-80d7-79a82683367b",
@@ -8683,25 +8702,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/freseniusmedicalcareorwd3orfme/field-service-engineer-azura-abeae4?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "f3f3fc66-f0bb-4c7f-b492-ce8b0e37124f",
-      "title": "System Engineer",
-      "company": "BorgWarner",
-      "place": "Manesar, India",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Manesar---India/System-Engineer_R2026-4608",
-      "firstJobbyUrl": "https://firstjobby.com/companies/borgwarnerorwd5orborgwarnercareers/system-engineer-borgwarner-a6d476?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     },
     {
       "id": "f3f24b22-b443-4532-8c0f-f1227141580a",
