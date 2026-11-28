@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-28T03:49:14.995Z",
+  "generatedAt": "2026-11-28T03:57:37.119Z",
   "jobs": [
+    {
+      "id": "f7e8c6e2-bba2-492c-9382-fe3d49033428",
+      "title": "Deployment Engineer",
+      "company": "Megaport",
+      "place": "Remote",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/megaport/26ff63f3-c1a0-4820-bd2a-344f93cf0cf0",
+      "firstJobbyUrl": "https://firstjobby.com/companies/megaport/deployment-engineer-megaport-e637d6?utm_source=reddit",
+      "postedAt": "2026-11-28T03:07:56.713Z",
+      "notable": 3
+    },
     {
       "id": "0d9d6f36-7a14-48c5-b135-99694b3161ff",
       "title": "Cleanroom Support Specialist",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bahorwd1orbahjobs/f-35-sustainment-engineering-analyst-booz-allen-346033?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "e78dc2b3-8efa-477c-a7dd-6fd4bea40791",
-      "title": "Airbus UpNext  -  Physical AI & Robotics Algorithm Engineer - Robotic System Stack (m/f)",
-      "company": "Airbus",
-      "place": "Toulouse, France",
-      "category": "Engineering",
-      "jobType": "contract",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse---Marius-Terc-18/Airbus-UpNext-----Physical-AI---Robotics-Algorithm-Engineer---Robotic-System-Stack--m-f-_JR10462047",
-      "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/airbus-upnext-physical-ai-and-robotics-algorithm-engineer-robotic-system-stack-m-843fd3?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
     }
   ],
   "fakeEntryLevel": {
