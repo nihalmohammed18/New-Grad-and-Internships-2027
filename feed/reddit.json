@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:25:50.622Z",
+  "generatedAt": "2026-11-28T00:31:09.693Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -589,6 +589,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/quantity-surveyor-energy-infrastructure-turner-and-townsend-ad0b9e?utm_source=reddit",
       "postedAt": "2026-11-27T18:39:08.413Z",
       "notable": 3
+    },
+    {
+      "id": "3bc3a6df-c17a-49fc-a42b-655ea3da297b",
+      "title": "Data Scientist",
+      "company": "Faculty",
+      "place": "London, United Kingdom",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "EU",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/faculty/3b2ac25e-8607-40bc-aae3-8705cd826831",
+      "firstJobbyUrl": "https://firstjobby.com/companies/faculty/data-scientist-faculty-1f4f1a?utm_source=reddit",
+      "postedAt": "2026-11-27T18:32:58.613Z",
+      "notable": 1
     },
     {
       "id": "d7a439af-3d67-46ef-8738-f8bb5e923286",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/chrobinsonorwd5orchrobinson/logistics-specialist-transportation-and-documentation-ch-robinson-01f52b?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "e10d511e-ee45-49f0-b6d0-15c6b4cecec2",
-      "title": "Estudiante en prácticas",
-      "company": "Nutreco",
-      "place": "El Viso de San Juan, Spain",
-      "category": "Marketing",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://nutreco.wd3.myworkdayjobs.com/Nutreco_External/job/El-Viso-de-San-Juan-Castile-La-Mancha/Estudiante-en-prcticas_VAC31000",
-      "firstJobbyUrl": "https://firstjobby.com/companies/nutrecoorwd3ornutrecoexternal/estudiante-en-practicas-nutreco-d29982?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
