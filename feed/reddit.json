@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-28T04:36:34.212Z",
+  "generatedAt": "2026-11-28T04:55:58.701Z",
   "jobs": [
+    {
+      "id": "4838f2b1-3c1b-4c0d-baac-e2cdb79e0650",
+      "title": "Software Engineers: Interview on AI Coding Tools",
+      "company": "Terac",
+      "place": "Remote from United States",
+      "category": "Engineering",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$16/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/terac/9b04262b-2b03-4705-97af-d5bd6e84ac20",
+      "firstJobbyUrl": "https://firstjobby.com/companies/terac/software-engineers-interview-on-ai-coding-tools-terac-5699b9?utm_source=reddit",
+      "postedAt": "2026-11-28T04:47:54.206Z",
+      "notable": 5
+    },
     {
       "id": "f7e8c6e2-bba2-492c-9382-fe3d49033428",
       "title": "Deployment Engineer",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/fedexorwd1orfxe-lacexternalcareersite/lm162-security-operations-agent-fedex-d4ed02?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
-    },
-    {
-      "id": "e89e8f5c-3b07-45e1-909b-dae4df609643",
-      "title": "Limited Cyberspace Operator",
-      "company": "Booz Allen",
-      "place": "Annapolis Junction, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$69.4K-$158.0K/yr",
-      "minYears": 2,
-      "season": null,
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Limited-Cyberspace-Operator_R0254343",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bahorwd1orbahjobs/limited-cyberspace-operator-booz-allen-a0feba?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
