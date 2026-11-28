@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:19:32.389Z",
+  "generatedAt": "2026-11-28T01:24:53.545Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -439,6 +439,25 @@
       "notable": 5
     },
     {
+      "id": "91501c57-3324-4d94-b15b-627c4a8dafcb",
+      "title": "QA Analyst",
+      "company": "PolicyMe",
+      "place": "Remote from Canada",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$66.0K-CA$88.0K/yr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/policyme/e7b671c5-24b3-4a8b-8798-b4203e413b85",
+      "firstJobbyUrl": "https://firstjobby.com/companies/policyme/qa-analyst-policyme-833fd4?utm_source=reddit",
+      "postedAt": "2026-11-27T19:44:39.582Z",
+      "notable": 3
+    },
+    {
       "id": "4608dae3-3fee-4161-aff6-443f8e924930",
       "title": "Software Engineer, Reporting Platform",
       "company": "Stripe",
@@ -513,6 +532,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/laclippers/2027-business-operations-intern-sustainability-la-clippers-02903b?utm_source=reddit",
       "postedAt": "2026-11-27T19:30:58.000Z",
       "notable": 5
+    },
+    {
+      "id": "58683efb-ba8e-4502-8368-31b72bd9d515",
+      "title": "Work From Home Customer Service Representative",
+      "company": "Usasurveyjob",
+      "place": "Remote",
+      "category": "Customer Support",
+      "jobType": "part-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.lever.co/usasurveyjob/2e761bd7-2bcd-43b6-94b9-6d7acdb3e12b",
+      "firstJobbyUrl": "https://firstjobby.com/companies/usasurveyjob/work-from-home-customer-service-representative-usasurveyjob-4d19c9?utm_source=reddit",
+      "postedAt": "2026-11-27T19:24:19.992Z",
+      "notable": 3
     },
     {
       "id": "d3333be9-b5a2-4b82-a708-291fffcae6ed",
@@ -604,7 +642,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164084669-quantity-surveyor-energy-infrastructure",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164084669",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/quantity-surveyor-energy-infrastructure-turner-and-townsend-ad0b9e?utm_source=reddit",
       "postedAt": "2026-11-27T18:39:08.413Z",
       "notable": 3
@@ -1136,7 +1174,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000164076539-system-engineer-m-f-d-",
+      "applyUrl": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000164076539",
       "firstJobbyUrl": "https://firstjobby.com/companies/t-systemsiberia/system-engineer-mfd-t-systems-iberia-a90cb3?utm_source=reddit",
       "postedAt": "2026-11-27T17:03:51.444Z",
       "notable": 3
@@ -1231,7 +1269,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000164075150-internship-ai-automation-engineer-innovation",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000164075150",
       "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/internship-ai-and-automation-engineer-innovation-egis-group-dbfc25?utm_source=reddit",
       "postedAt": "2026-11-27T16:50:59.933Z",
       "notable": 3
@@ -2618,7 +2656,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017113727-medical-operations-research-specialist",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990017113727",
       "firstJobbyUrl": "https://firstjobby.com/companies/abbvie/medical-operations-research-specialist-abbvie-3c8f4a?utm_source=reddit",
       "postedAt": "2026-11-27T15:10:21.359Z",
       "notable": 3
@@ -3150,7 +3188,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164044500-project-controls-engineer-rail",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164044500",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/project-controls-engineer-rail-turner-and-townsend-ceb8ad?utm_source=reddit",
       "postedAt": "2026-11-27T14:21:31.183Z",
       "notable": 3
@@ -3207,7 +3245,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164044119-project-controls-engineer-water-utilities",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164044119",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/project-controls-engineer-waterutilities-turner-and-townsend-441368?utm_source=reddit",
       "postedAt": "2026-11-27T14:18:55.561Z",
       "notable": 3
@@ -3397,7 +3435,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000164043019-quality-assurance-engineer-panels-all-genders-",
+      "applyUrl": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000164043019",
       "firstJobbyUrl": "https://firstjobby.com/companies/aboutyougmbh/quality-assurance-engineer-panels-all-genders-about-you-se-and-co-kg-01ef8a?utm_source=reddit",
       "postedAt": "2026-11-27T14:08:27.032Z",
       "notable": 3
@@ -3435,7 +3473,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164042382-project-controls-engineer-aviation",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164042382",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/project-controls-engineer-aviation-turner-and-townsend-45c114?utm_source=reddit",
       "postedAt": "2026-11-27T14:08:07.977Z",
       "notable": 3
@@ -3530,7 +3568,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164042424-project-controls-engineer-infrastructure",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164042424",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/project-controls-engineer-infrastructure-turner-and-townsend-c62a4c?utm_source=reddit",
       "postedAt": "2026-11-27T14:07:00.170Z",
       "notable": 3
@@ -3549,7 +3587,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000164042609-quality-assurance-engineer-panels-all-genders-",
+      "applyUrl": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000164042609",
       "firstJobbyUrl": "https://firstjobby.com/companies/aboutyougmbh/quality-assurance-engineer-panels-all-genders-about-you-se-and-co-kg-7f577c?utm_source=reddit",
       "postedAt": "2026-11-27T14:06:12.003Z",
       "notable": 3
@@ -3682,7 +3720,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164039072-associate-project-manager-infrastructure",
+      "applyUrl": "https://jobs.smartrecruiters.com/TurnerTownsend/744000164039072",
       "firstJobbyUrl": "https://firstjobby.com/companies/turnertownsend/associate-project-manager-infrastructure-turner-and-townsend-e02de3?utm_source=reddit",
       "postedAt": "2026-11-27T13:57:41.293Z",
       "notable": 3
@@ -4005,7 +4043,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Endava/744000164032759-java-developer-prime-brokerage",
+      "applyUrl": "https://jobs.smartrecruiters.com/endava/744000164032759",
       "firstJobbyUrl": "https://firstjobby.com/companies/endava/java-developer-or-prime-brokerage-endava-8f8dd1?utm_source=reddit",
       "postedAt": "2026-11-27T13:27:12.677Z",
       "notable": 3
@@ -4024,7 +4062,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/Endava/744000164030080-java-developer-prime-brokerage",
+      "applyUrl": "https://jobs.smartrecruiters.com/endava/744000164030080",
       "firstJobbyUrl": "https://firstjobby.com/companies/endava/java-developer-or-prime-brokerage-endava-cb0829?utm_source=reddit",
       "postedAt": "2026-11-27T13:26:23.590Z",
       "notable": 3
@@ -4176,7 +4214,7 @@
       "pay": null,
       "minYears": null,
       "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000164029219-v-i-e-strategy-operations-analyst-o-m-ppp-m-f",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000164029219",
       "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/vie-strategy-and-operations-analyst-oandm-and-ppp-mf-egis-group-d9cea3?utm_source=reddit",
       "postedAt": "2026-11-27T13:08:58.829Z",
       "notable": 3
@@ -4218,25 +4256,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/lincolninternational/analyst-capital-advisory-restructuring-lincoln-international-a083aa?utm_source=reddit",
       "postedAt": "2026-11-27T13:07:00.000Z",
       "notable": 6
-    },
-    {
-      "id": "da15417b-f2c5-4fc7-a958-f0c8053579c7",
-      "title": "V.I.E. – Strategy & Operations Analyst - O&M & PPP M/F",
-      "company": "Egis Group",
-      "place": "Brisbane, Australia",
-      "category": "Data",
-      "jobType": "internship",
-      "type": "Intern",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000164027969-v-i-e-strategy-operations-analyst-o-m-ppp-m-f",
-      "firstJobbyUrl": "https://firstjobby.com/companies/egisgroup/vie-strategy-and-operations-analyst-oandm-and-ppp-mf-egis-group-fc5433?utm_source=reddit",
-      "postedAt": "2026-11-27T13:03:16.284Z",
-      "notable": 3
     },
     {
       "id": "99faa392-877f-459a-82cd-3dbc2a29e0a3",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/supportyourapp/fluent-english-and-french-social-media-video-editor-remote-supportyourapp-74197c?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e275e916-28cc-43c9-a207-841bcf5325e0",
-      "title": "Specialist, Domain Analytics, FCRM 4B",
-      "company": "Genpact",
-      "place": "Gurgaon, India",
-      "category": "Data",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-INFOSPACE-IT-PARK-TOWER--4-JHARSA-Gurgaon/Specialist--Domain-Analytics--FCRM-4B_JR10037491",
-      "firstJobbyUrl": "https://firstjobby.com/companies/genpactorwd108orexternalcareers/specialist-domain-analytics-fcrm-4b-genpact-179513?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
