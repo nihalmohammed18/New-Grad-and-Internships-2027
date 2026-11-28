@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T04:25:44.582Z",
+  "generatedAt": "2026-11-28T04:36:34.212Z",
   "jobs": [
     {
       "id": "f7e8c6e2-bba2-492c-9382-fe3d49033428",
@@ -8324,6 +8324,25 @@
       "notable": 0
     },
     {
+      "id": "f9702d88-dc78-4277-acee-31fe57afe32c",
+      "title": "Customer Experience Associate",
+      "company": "TD Bank",
+      "place": "Duncan, Canada",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "CA",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "CA$22-CA$27/hr",
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Duncan-British-Columbia/Customer-Experience-Associate_R_1524690-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tdorwd3ortdbankcareers/customer-experience-associate-td-bank-67adef?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 4
+    },
+    {
       "id": "f95377d7-1d25-42cb-80f3-86e27fcdec47",
       "title": "Content Reviewer with Finnish",
       "company": "Atlean World",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bahorwd1orbahjobs/limited-cyberspace-operator-booz-allen-a0feba?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "e85a4bd6-5df5-4d32-a165-768433920075",
-      "title": "[LTA-RSE] EXECUTIVE/ ENGINEER (ELETRICAL/MECHANICAL) ROLLING STOCK & DEPOT",
-      "company": "Singapore Public Service",
-      "place": "Singapore",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/XMLNAME--LTA-RSE--EXECUTIVE--ENGINEER--ELETRICAL-MECHANICAL--ROLLING-STOCK---DEPOT_JR-10000057956",
-      "firstJobbyUrl": "https://firstjobby.com/companies/sggovterporwd102orpublicservicecareers/lta-rse-executive-engineer-eletricalmechanical-rolling-stock-and-depot-singapore-2d69cb?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
