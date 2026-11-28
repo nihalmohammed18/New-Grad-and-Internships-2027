@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T04:15:48.358Z",
+  "generatedAt": "2026-11-28T04:22:11.238Z",
   "jobs": [
     {
       "id": "f7e8c6e2-bba2-492c-9382-fe3d49033428",
@@ -152,6 +152,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/analogdevicesorwd1orexternal/associate-engineer-equipment-engineering-analog-devices-5a2189?utm_source=reddit",
       "postedAt": "2026-11-28T00:00:00.000Z",
       "notable": 3
+    },
+    {
+      "id": "7458539a-1d8a-4289-a246-2ebc7c7a6eac",
+      "title": "Customer Service Representative - Wire Payments",
+      "company": "Wells Fargo",
+      "place": "Taguig City, Philippines",
+      "category": "Customer Support",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": 1,
+      "season": null,
+      "applyUrl": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/TAGUIG-CITY-00/Customer-Service-Representative---Wire-Payments_R-589694-1",
+      "firstJobbyUrl": "https://firstjobby.com/companies/wforwd1orwellsfargojobs/customer-service-representative-wire-payments-wells-fargo-4385c7?utm_source=reddit",
+      "postedAt": "2026-11-28T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "4e3d81e1-d90c-41f2-b739-7fd4f498bf14",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/technicien-validation-systeme-et-cybersecurite-fh-airbus-91ec91?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e7e24cca-abb8-48f9-9054-a230b5bc9280",
-      "title": "F-35 Sustainment Engineering Analyst",
-      "company": "Booz Allen",
-      "place": "Fort Worth, United States",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "US",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "$86.8K-$198.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Worth-TX/F-35-Sustainment-Engineering-Analyst_R0254348",
-      "firstJobbyUrl": "https://firstjobby.com/companies/bahorwd1orbahjobs/f-35-sustainment-engineering-analyst-booz-allen-346033?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
