@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:27:43.716Z",
+  "generatedAt": "2026-11-28T07:35:26.121Z",
   "jobs": [
     {
       "id": "4838f2b1-3c1b-4c0d-baac-e2cdb79e0650",
@@ -8609,25 +8609,6 @@
       "notable": 2
     },
     {
-      "id": "f7c6bb24-4793-4336-9d5d-e844151e96c7",
-      "title": "Order to Cash Operations Associate",
-      "company": "Accenture",
-      "place": "Jaipur, India",
-      "category": "Operations",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Jaipur/Order-to-Cash-Operations-Associate_AIOC-S01642169-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/order-to-cash-operations-associate-accenture-36c174?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
       "id": "f7bf4035-e493-45cc-b84d-549d65d34ac8",
       "title": "Customer Experience Associate- Mandarin and/or Korean language Skills Considered An Asset",
       "company": "TD Bank",
@@ -8740,6 +8721,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/bahorwd1orbahjobs/billing-analyst-junior-booz-allen-1692a7?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
+    },
+    {
+      "id": "f54ac7fe-35fe-438b-b3be-bb54d3ea1b88",
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "place": "Santiago, Chile",
+      "category": "Engineering",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/DevOps-Engineer-Associate-Manager_14962237",
+      "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/devops-engineer-accenture-fb46f7?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 2
     },
     {
       "id": "f4aa030d-079a-4037-8c64-e5c4f0bb74dc",
