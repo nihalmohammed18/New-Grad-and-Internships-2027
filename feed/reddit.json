@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:59:21.201Z",
+  "generatedAt": "2026-11-28T03:04:28.277Z",
   "jobs": [
     {
       "id": "0d9d6f36-7a14-48c5-b135-99694b3161ff",
@@ -8685,25 +8685,6 @@
       "notable": 2
     },
     {
-      "id": "f2e84dba-fa0b-42dd-bd1c-f8ea92fbd8a4",
-      "title": "Airworthiness Engineer",
-      "company": "Airbus",
-      "place": "United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Oxford/Airworthiness-Engineer_JR10462059",
-      "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/airworthiness-engineer-airbus-2afb89?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 3
-    },
-    {
       "id": "f28b0ffc-c9a4-4ad1-b562-98678e6a9452",
       "title": "Compliance Specialist (AML Coordinator)",
       "company": "Manulife John Hancock",
@@ -9500,6 +9481,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/accentureorwd103oraccenturecareers/packagedsaas-application-engineer-accenture-78e8b7?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 2
+    },
+    {
+      "id": "e62b6121-42a2-40a7-a6d9-81e1fa02e293",
+      "title": "Customer Experience and Growth Intern",
+      "company": "Stranger Soccer",
+      "place": "Sydney, Australia",
+      "category": "Customer Support",
+      "jobType": "internship",
+      "type": "Intern",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": null,
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://apply.workable.com/j/90C704FED2",
+      "firstJobbyUrl": "https://firstjobby.com/companies/stranger-soccer-1/customer-experience-and-growth-intern-stranger-soccer-847e15?utm_source=reddit",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "notable": 1
     }
   ],
   "fakeEntryLevel": {
