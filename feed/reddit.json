@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:08:53.715Z",
+  "generatedAt": "2026-11-28T02:17:09.315Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -1595,6 +1595,25 @@
       "applyUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8420998",
       "firstJobbyUrl": "https://firstjobby.com/companies/equipmentsharecom/rental-coordinator-equipmentshare-2979bb?utm_source=reddit",
       "postedAt": "2026-11-27T16:32:03.000Z",
+      "notable": 3
+    },
+    {
+      "id": "29fa6a93-36e7-4847-8a55-116fcdd4f36f",
+      "title": "Junior Data Scientist",
+      "company": "TensorOps",
+      "place": "Remote",
+      "category": "Data",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "Other",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "€30.0K/yr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://job-boards.eu.greenhouse.io/tensorops/jobs/5053913101",
+      "firstJobbyUrl": "https://firstjobby.com/companies/tensorops/junior-data-scientist-tensorops-789f48?utm_source=reddit",
+      "postedAt": "2026-11-27T16:31:21.000Z",
       "notable": 3
     },
     {
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/aftermarket-sales-executive-luton-electrolux-5d96b8?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 4
-    },
-    {
-      "id": "e3fab740-1564-44df-a418-32b4453db37b",
-      "title": "LM162: Security Operations Agent",
-      "company": "Fedex",
-      "place": "Pachuca, Mexico",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "Other",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": 1,
-      "season": null,
-      "applyUrl": "https://fedex.wd1.myworkdayjobs.com/FXE-LAC_External_Career_Site/job/FXE-LACMXPCAAPCAA-Pachuca/LM162--Security-Operations-Agent_RC789464-1",
-      "firstJobbyUrl": "https://firstjobby.com/companies/fedexorwd1orfxe-lacexternalcareersite/lm162-security-operations-agent-fedex-d0bb24?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
