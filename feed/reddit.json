@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:15:22.248Z",
+  "generatedAt": "2026-11-28T03:19:46.592Z",
   "jobs": [
     {
       "id": "0d9d6f36-7a14-48c5-b135-99694b3161ff",
@@ -342,6 +342,44 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/terac/game-developers-paid-interview-on-cross-platform-porting-workflows-terac-c814ee?utm_source=reddit",
       "postedAt": "2026-11-27T21:43:05.299Z",
       "notable": 5
+    },
+    {
+      "id": "79640569-5a05-4206-a7c4-48f3116ac6eb",
+      "title": "Seed Production Research Scientist (Conditioning & Seed Enhancement)",
+      "company": "Ohalo",
+      "place": "Watsonville, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$90.0K-$115.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/ohalogenetics/jobs/4758947005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ohalogenetics/seed-production-research-scientist-conditioning-and-seed-enhancement-ohalo-793e70?utm_source=reddit",
+      "postedAt": "2026-11-27T21:37:03.000Z",
+      "notable": 4
+    },
+    {
+      "id": "349e3efe-5b63-4737-9476-67f100904084",
+      "title": "Seed Production Research Scientist (Production Instruction & Pollen Management)",
+      "company": "Ohalo",
+      "place": "Watsonville, United States",
+      "category": "Research",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": "wont_sponsor",
+      "citizenship": "none",
+      "pay": "$90.0K-$115.0K/yr",
+      "minYears": 2,
+      "season": null,
+      "applyUrl": "https://job-boards.greenhouse.io/ohalogenetics/jobs/4758949005",
+      "firstJobbyUrl": "https://firstjobby.com/companies/ohalogenetics/seed-production-research-scientist-production-instruction-and-pollen-management--4d7ff2?utm_source=reddit",
+      "postedAt": "2026-11-27T21:36:26.000Z",
+      "notable": 4
     },
     {
       "id": "ef3716b3-2eb4-43e5-85e1-1039a7394fe5",
@@ -9462,44 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/agorwd3orairbus/airbus-upnext-physical-ai-and-robotics-algorithm-engineer-robotic-system-stack-m-843fd3?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e773d0f2-4b49-483b-8547-77ca7cdebe20",
-      "title": "Global Component Standardisation and R&D Engineer",
-      "company": "Hitachi",
-      "place": "London, United Kingdom",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Global-Component-Standardisation-and-R-D-Engineer_R0117249",
-      "firstJobbyUrl": "https://firstjobby.com/companies/hitachiorwd1orhitachi/global-component-standardisation-and-randd-engineer-hitachi-48005e?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
-    },
-    {
-      "id": "e76298f9-9e3a-4573-b2b8-618467d6d15b",
-      "title": "Account Manager – Cybersecurity",
-      "company": "Exclusivenetworks",
-      "place": "Madrid, Spain",
-      "category": "Engineering",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": null,
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://exclusivenetworks.wd103.myworkdayjobs.com/broadbean_external/job/Madrid/Account-Manager---Cybersecurity_JR2810-2",
-      "firstJobbyUrl": "https://firstjobby.com/companies/exclusivenetworksorwd103orbroadbeanexternal/account-manager-cybersecurity-exclusivenetworks-4b772b?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 2
     }
   ],
   "fakeEntryLevel": {
