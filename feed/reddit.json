@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:17:09.315Z",
+  "generatedAt": "2026-11-28T02:23:54.226Z",
   "jobs": [
     {
       "id": "db75ea72-7cf3-42cf-a04f-a258b53ff875",
@@ -247,6 +247,25 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/standardbankgroup/fund-analyst-stanbic-ibtc-asset-management-standard-bank-group-fdf548?utm_source=reddit",
       "postedAt": "2026-11-27T21:10:30.700Z",
       "notable": 3
+    },
+    {
+      "id": "d545bed8-5bce-4588-82e5-58649e59e204",
+      "title": "Workplace Operations Associate",
+      "company": "EliseAI",
+      "place": "San Francisco, United States",
+      "category": "Operations",
+      "jobType": "full-time",
+      "type": "Entry",
+      "region": "US",
+      "visa": null,
+      "citizenship": "none",
+      "pay": "$20-$30/hr",
+      "minYears": null,
+      "season": null,
+      "applyUrl": "https://jobs.ashbyhq.com/EliseAI/3afcb4d9-0adf-4b7f-973b-4c6f474f2bdf",
+      "firstJobbyUrl": "https://firstjobby.com/companies/eliseai/workplace-operations-associate-eliseai-756890?utm_source=reddit",
+      "postedAt": "2026-11-27T21:01:01.964Z",
+      "notable": 5
     },
     {
       "id": "2d5708d9-b23f-424c-a5f3-cbe889ad5c9e",
@@ -9481,25 +9500,6 @@
       "firstJobbyUrl": "https://firstjobby.com/companies/hirehawk/aba-intake-and-scheduling-coordinator-remote-or-latam-hirehawk-2db76b?utm_source=reddit",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "notable": 3
-    },
-    {
-      "id": "e473ed88-880b-4b50-898f-003e4ff02e31",
-      "title": "Aftermarket Sales Executive, Luton",
-      "company": "Electrolux",
-      "place": "United Kingdom",
-      "category": "Sales",
-      "jobType": "full-time",
-      "type": "Entry",
-      "region": "EU",
-      "visa": null,
-      "citizenship": "none",
-      "pay": "£25.0K/yr",
-      "minYears": null,
-      "season": null,
-      "applyUrl": "https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Luton/Aftermarket-Sales-Executive--Luton_JR82416",
-      "firstJobbyUrl": "https://firstjobby.com/companies/electroluxorwd3orelectroluxcareersite/aftermarket-sales-executive-luton-electrolux-5d96b8?utm_source=reddit",
-      "postedAt": "2026-11-27T00:00:00.000Z",
-      "notable": 4
     }
   ],
   "fakeEntryLevel": {
